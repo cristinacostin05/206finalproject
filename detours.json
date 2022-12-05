@@ -1,0 +1,1316 @@
+[
+    {
+        "route_id": "2",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Illegally Park Auto",
+                "start_location": "16th &  CB Moore",
+                "end_location": "16th & Norris",
+                "start_date_time": "12/3/2022  11:57 PM",
+                "end_date_time": "12/5/2022   4:30 AM",
+                "current_message": "NB via 16thL-CB MooreR-21stR-DiamondL-16thReg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Sink Hole",
+                "start_location": "Ridge & Francis",
+                "end_location": "",
+                "start_date_time": "12/2/2022   7:18 AM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "12/31/22  24/7SB via Ridge aveR- BroadR- Spring Garden L- 17th Reg rt"
+            }
+        ]
+    },
+    {
+        "route_id": "4",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Broad & Arch",
+                "end_location": "",
+                "start_date_time": "7/10/2022   8:34 AM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "NB the stop located at Broad & Arch is discontinued until further notice due to construction"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Broad & Glenwood",
+                "end_location": "",
+                "start_date_time": "11/2/2022  11:13 AM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "NB the stop located at Broad & Glenwood  is discontinued until further notice due to construction"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Broad & Carpenter Sts",
+                "end_location": "Broad & Carpenter Sts",
+                "start_date_time": "2/2/2022   4:07 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "NB Transit Stop at Broad & Carpenter is Discontinued until December 31, 2022 due to construction. Please board all buses at Broad & Christian Streets"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Eagles Game",
+                "start_location": "Broad & Geary",
+                "end_location": "",
+                "start_date_time": "12/4/2022   9:55 AM",
+                "end_date_time": "12/4/2022   9:00 PM",
+                "current_message": "10am - 9pm on 12-4-22SB via Broad StL - Geary StLayover on Broad at Bigler"
+            }
+        ]
+    },
+    {
+        "route_id": "7",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Constuction",
+                "start_location": "Oregon & Waccacoe",
+                "end_location": "",
+                "start_date_time": "11/28/2022   3:56 PM",
+                "end_date_time": "12/6/2022   4:30 AM",
+                "current_message": "Until 12/6/22 24/7SB via Oregon aveL- Swanson R- WolfL- WaccacoeReg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Waccacoe & Snyder",
+                "end_location": "",
+                "start_date_time": "11/28/2022   3:57 PM",
+                "end_date_time": "12/6/2022   4:30 AM",
+                "current_message": "Until 12/6/22 24/7NB via Snyder aveR- ColumbusR- Oregon Reg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction/Water Main Break",
+                "start_location": "29th Street & Glennwood Avenue",
+                "end_location": "29th/Girard snd 30th/OxFord",
+                "start_date_time": "12/2/2022   5:00 PM",
+                "end_date_time": "12/15/2022   4:30 AM",
+                "current_message": "Until 430am on 12-15-22  SB via 29th StreetR - Glennwood AvenueR - Oxford StreetL  - 33rd StreetL  - Poplar StreetR  - 29th StreetReg RT"
+            }
+        ]
+    },
+    {
+        "route_id": "12",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Crane placement",
+                "start_location": "Locust St & 15th St",
+                "end_location": "8th Btwn Spruce St & Locust  St",
+                "start_date_time": "12/4/2022  12:00 PM",
+                "end_date_time": "12/5/2022   5:00 AM",
+                "current_message": "Until 5am on 12-5-22EB via Locust St R - 15th St L  - Pine St Reg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "14",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:13 PM",
+                "end_date_time": "9/13/2025   4:30 AM",
+                "current_message": "NB via Middletown BlvdR- Access Rd (Behind the Firestone)L- Access Rd (JC Penney)L- 1st Access RdTake recovery near JC Penney"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:14 PM",
+                "end_date_time": "9/13/2025   4:30 AM",
+                "current_message": "SB via Access RdL- Middletown BlvdReg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:21 PM",
+                "end_date_time": "9/13/2025   4:30 AM",
+                "current_message": "Sesame Place Trips!NB via Middletown BlvdR- Access Rd (Behind the Firestone)L- Access Rd (JC Penney)L- 1st Access RdR- Middletown BlvdReg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:23 PM",
+                "end_date_time": "9/13/2025   4:30 AM",
+                "current_message": "Sesame Place Trips!SB via Middletown BlvdR- Access Rd (Behind Firestone)L- Access Rd (JC Penney)L- 1st Access RdL- Middletown BlvdReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "16",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Broad & Glenwood",
+                "end_location": "",
+                "start_date_time": "11/2/2022  11:13 AM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "NB the stop located at Broad & Glenwood  is discontinued until further notice due to construction"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Broad & Arch",
+                "end_location": "",
+                "start_date_time": "7/10/2022   8:34 AM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "NB the stop located at Broad & Arch is discontinued until further notice due to construction"
+            }
+        ]
+    },
+    {
+        "route_id": "17",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "PECO",
+                "start_location": "19th & Market",
+                "end_location": "",
+                "start_date_time": "11/28/2022   6:45 PM",
+                "end_date_time": "12/23/2022   4:30 AM",
+                "current_message": "Until 12/23/22 Monday thur Thursday 7:00pm until 4:00amSB via 19th StreetL- MarketR- 17thR- Walnut Reg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Street Construction",
+                "start_location": "11th & Normandy",
+                "end_location": "Broad &  League Island Blvd",
+                "start_date_time": "12/4/2022   6:39 AM",
+                "end_date_time": "7/30/2023  11:59 PM",
+                "current_message": "Until 11:59pm on 07-30-23 Naval Yard Trips NB via 11th R - Normandy L - Rouse Blvd R - Crescent Dr L - League Island R - Broad Reg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Street Construction",
+                "start_location": "Broad &  League Island Blvd",
+                "end_location": "Broad &  League Island Blvd",
+                "start_date_time": "12/5/2022   6:35 AM",
+                "end_date_time": "7/30/2023  11:59 PM",
+                "current_message": "Until 11:59pm on 07-30-23 Naval Yard Trips SB via Broad L - League Island Blvd R - Kittyhawk R - Broad R - Constitution Layover on 11th st"
+            }
+        ]
+    },
+    {
+        "route_id": "21",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "32nd & Walnut",
+                "end_location": "",
+                "start_date_time": "10/28/2022   8:35 AM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "The transit stop located at 32nd & Walnut is discontunued due to construction until 12-31-22"
+            }
+        ]
+    },
+    {
+        "route_id": "23",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "PGW Utility Work",
+                "start_location": "12th & Market",
+                "end_location": "12th & Sansom",
+                "start_date_time": "11/13/2022   8:51 PM",
+                "end_date_time": "12/17/2022   3:00 AM",
+                "current_message": "6:00PM to 3:00AM Monday thru Thursday until 12-17-2022SB via 12thL-MarketR-10thR-WalnutR-11th  Reg Rte"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Street Construction",
+                "start_location": "11th Girard",
+                "end_location": "11th Girard",
+                "start_date_time": "10/7/2022  12:28 PM",
+                "end_date_time": "11/4/2023   1:00 PM",
+                "current_message": "UNTIL JANUARY 2024NB Transit Stop at 11th and Girard will be a far side stop due to construction."
+            },
+            {
+                "route_direction": "SB",
+                "reason": "construction",
+                "start_location": "11th & Susqhuehanna",
+                "end_location": "11th & Susqhuehanna",
+                "start_date_time": "11/14/2022  11:03 AM",
+                "end_date_time": "11/14/2023   5:00 PM",
+                "current_message": "SB Transit stop at 11th & Susqhuehanna discontinued until further notice"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "12th & Vine",
+                "end_location": "12th & Vine",
+                "start_date_time": "10/17/2022   9:32 AM",
+                "end_date_time": "6/30/2025   4:30 AM",
+                "current_message": "until 4:30 on 6/30/25SB transit stop at 12th & Vine discontinued until further notice. Accomadate passengers at 12th & Race."
+            }
+        ]
+    },
+    {
+        "route_id": "25",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Sinkhole",
+                "start_location": "Aramingo & York",
+                "end_location": "Memphis & Susquehanna",
+                "start_date_time": "11/27/2022   9:00 PM",
+                "end_date_time": "12/30/2022   4:06 PM",
+                "current_message": "until 12-30-22SB via AramingoR - York StL  - FrankfordL  - Norris Reg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "Oregon & Swanson",
+                "end_location": "",
+                "start_date_time": "11/28/2022   4:05 PM",
+                "end_date_time": "12/6/2022   4:30 AM",
+                "current_message": "Until 12/6/22 24/7SB Via Oregon aveR- Swanson R- WolfL- WaccacoeLayoverReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "27",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Broad & Carpenter Sts",
+                "end_location": "Broad & Carpenter Sts",
+                "start_date_time": "2/2/2022   4:07 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "NB Transit Stop at Broad & Carpenter is Discontinued until December 31, 2022 due to construction. Please board all buses at Broad & Christian Streets"
+            }
+        ]
+    },
+    {
+        "route_id": "29",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Street Construction",
+                "start_location": "Tasker & Point Breeze",
+                "end_location": "Tasker & Point Breeze",
+                "start_date_time": "11/5/2022   8:30 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "until 11:59 pm on 12-31-2022 WB via Tasker StL  - Point Breeze Ave R - MooreR - Vare AveR - 33rd StReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "30",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Street Construction",
+                "start_location": "41th & Market",
+                "end_location": "41th & Powleton",
+                "start_date_time": "12/2/2022  10:18 AM",
+                "end_date_time": "12/31/2022   6:00 PM",
+                "current_message": "Monday to Saturday       7am to 4pm until 12-31-2022 WB via Market R- 42nd L- Haverford Ave Reg Rt"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Safety Issue",
+                "start_location": "Convention Ave & Health Science Dr",
+                "end_location": "Convention Ave Btwn Health Science Dr  &",
+                "start_date_time": "5/10/2022   9:10 AM",
+                "end_date_time": "12/30/2022   4:30 AM",
+                "current_message": "EB Discontinued transit stopon Convention Ave Btwn Health Science Dr  & 34th"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Contruction",
+                "start_location": "Convention &  Currie",
+                "end_location": "",
+                "start_date_time": "12/2/2022  10:30 AM",
+                "end_date_time": "8/31/2023   4:30 AM",
+                "current_message": "Discontinued Stop at Convention ave and Currie until further notice"
+            }
+        ]
+    },
+    {
+        "route_id": "31",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Penn Dot",
+                "start_location": "21st & Market",
+                "end_location": "23rd & Market",
+                "start_date_time": "11/23/2022   8:29 AM",
+                "end_date_time": "12/31/2025  11:59 PM",
+                "current_message": "The transit stops located at 21st & Market and 23rd & Market are discontinued until further notice due to construction"
+            }
+        ]
+    },
+    {
+        "route_id": "32",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Broad & Carpenter Sts",
+                "end_location": "Broad & Carpenter Sts",
+                "start_date_time": "2/2/2022   4:07 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "NB Transit Stop at Broad & Carpenter is Discontinued until December 31, 2022 due to construction. Please board all buses at Broad & Christian Streets"
+            }
+        ]
+    },
+    {
+        "route_id": "39",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Contractors",
+                "start_location": "Dauphin & Front Sts",
+                "end_location": "Jasper Sts btw Front & York Sts",
+                "start_date_time": "9/27/2022   9:00 AM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "Monday thu Friday 7:30 AM to 6:00 PM EB via Dauphin StreetL - Front R - Kensington R - Cumberland Reg Rt"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "construction",
+                "start_location": "11th & Susqhuehanna",
+                "end_location": "11th & Susqhuehanna",
+                "start_date_time": "11/14/2022  11:06 AM",
+                "end_date_time": "11/14/2023   5:00 PM",
+                "current_message": "WB Transit stop at 11th & Susqhuehanna discontinued until further notice"
+            }
+        ]
+    },
+    {
+        "route_id": "40",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "41st & Ogden",
+                "end_location": "41st & Westminster",
+                "start_date_time": "11/9/2022   1:25 PM",
+                "end_date_time": "2/9/2023  11:59 PM",
+                "current_message": "until 11:59pm on 02-09-23 WB via 41stR - OgdenL - 40th L - PoplarR - 41st Reg Rt"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Close Clearance",
+                "start_location": "52nd & Parkside",
+                "end_location": "",
+                "start_date_time": "10/20/2022   7:59 AM",
+                "end_date_time": "10/21/2023   4:30 AM",
+                "current_message": "WB via ParksideL - 53rdR - JeffersonReg rte"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Street Construction",
+                "start_location": "41th & Market",
+                "end_location": "41th & Powleton",
+                "start_date_time": "12/2/2022  10:17 AM",
+                "end_date_time": "12/31/2022   6:00 PM",
+                "current_message": "Monday to Saturday       7am to 4pm until 12-31-2022WB via Market R- 42nd R- Haverford Ave L- 41th Reg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "42",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "32nd & Walnut",
+                "end_location": "",
+                "start_date_time": "10/28/2022   8:35 AM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "The transit stop located at 32nd & Walnut is discontunued due to construction until 12-31-22"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Safety Issue",
+                "start_location": "Convention Ave & Health Science Dr",
+                "end_location": "Convention Ave Btwn Health Science Dr  &",
+                "start_date_time": "5/10/2022   9:10 AM",
+                "end_date_time": "12/30/2022   4:30 AM",
+                "current_message": "EB Discontinued transit stopon Convention Ave Btwn Health Science Dr  & 34th"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Contruction",
+                "start_location": "Convention &  Currie",
+                "end_location": "",
+                "start_date_time": "12/2/2022  10:30 AM",
+                "end_date_time": "8/31/2023   4:30 AM",
+                "current_message": "Discontinued Stop at Convention ave and Currie until further notice"
+            }
+        ]
+    },
+    {
+        "route_id": "43",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Construction",
+                "start_location": "Delaware Ave & Lehigh",
+                "end_location": "Richmond & Cumberland",
+                "start_date_time": "4/22/2022   9:40 AM",
+                "end_date_time": "2/4/2023   4:30 PM",
+                "current_message": "until 430pm 2-4-2023 EB via Delaware AveL  - Lehigh Aveto Layover"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "Lehigh Ave & Aramingo Ave",
+                "end_location": "Richmond & Cumberland",
+                "start_date_time": "4/22/2022   9:40 AM",
+                "end_date_time": "2/4/2023   4:30 PM",
+                "current_message": "until 430pm 2-4-2023 WB via Lehigh AveL  - Aramingo AveL  - Delaware AveReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "44",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Penn Dot",
+                "start_location": "21st & Market",
+                "end_location": "23rd & Market",
+                "start_date_time": "11/23/2022   8:29 AM",
+                "end_date_time": "12/31/2025  11:59 PM",
+                "current_message": "The transit stops located at 21st & Market and 23rd & Market are discontinued until further notice due to construction"
+            }
+        ]
+    },
+    {
+        "route_id": "45",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "12th & Vine",
+                "end_location": "12th & Vine",
+                "start_date_time": "10/17/2022   9:33 AM",
+                "end_date_time": "6/30/2025   4:30 AM",
+                "current_message": "until 4:30 on 6/30/25SB near side transit stop discontinued at 12th & Vine.  Board passengers SB far side stop 12th & Vine at the layover until further notice."
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "11th & Callowhill Street",
+                "end_location": "Noble Sts btwn 11th & 12th Street",
+                "start_date_time": "10/16/2021   3:00 AM",
+                "end_date_time": "6/30/2025  11:59 PM",
+                "current_message": "Until 1159pm on 06-30-2025NB via 11th StreetL - CallowhillL - 12thRecover on 12th in cutout btwn Vine St East and Vine St West for SB serviceReg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "construction",
+                "start_location": "12th & Locust",
+                "end_location": "",
+                "start_date_time": "11/28/2022   6:32 PM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "Until 12/31/22 Monday thur Thursday  6:00pm to 3;00SB via 12th StreetL- MarketR- 10thR- SpruceL- 12th Reg rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "12th & Market",
+                "end_location": "12th & Market",
+                "start_date_time": "11/10/2022   8:16 PM",
+                "end_date_time": "12/17/2022   4:00 AM",
+                "current_message": "Monday to Thursday6:00 pm to 5 am until 12-17-22SB via 12thL - MarketR - 10th R -SpruceL - 12th Reg rt"
+            }
+        ]
+    },
+    {
+        "route_id": "47",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Street Construction",
+                "start_location": "8th Street & Poplar Street",
+                "end_location": "8th Street & Greene Street",
+                "start_date_time": "10/10/2022  10:01 AM",
+                "end_date_time": "12/31/2022  12:00 AM",
+                "current_message": "Until 12-31-2022SB via 8th StreetL  - Poplar StreetR - 6th StreetR - Spring Garden StreetL  - 8th StreetReg RT"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Crane placement",
+                "start_location": "8th & Chestnut",
+                "end_location": "8th Btwn Spruce St & Locust  St",
+                "start_date_time": "12/4/2022  12:00 PM",
+                "end_date_time": "12/5/2022   5:00 AM",
+                "current_message": "Until 5am on 12-5-22SB via 8th St L  - Chestnut St R - 6th St R - Lombard St L  - 8th St Reg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Bridge Replacement",
+                "start_location": "5th & Hunting Park Ave",
+                "end_location": "5th Sts btwn Hunting Park & Bristol St",
+                "start_date_time": "10/21/2022   3:20 AM",
+                "end_date_time": "7/5/2023  11:59 PM",
+                "current_message": "Until 11:59 pm on 07-05-23 NB via 5th StreetR - Hunting Park AvenueL  - American StreetL  - Rising Sun AvenueL  - Wyoming AvenueR - 5th StreetReg RT"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Bridge Replacement",
+                "start_location": "5th & Wyoming St",
+                "end_location": "5th Sts btwn Hunting Park & Bristol St",
+                "start_date_time": "10/24/2022  10:12 AM",
+                "end_date_time": "7/5/2023  11:59 PM",
+                "current_message": "Until 11:59 on 07-05-23SB via 5th StreetL  - Wyoming AvenueR - Mascher StreetR - Hunting Park AvenueL  - 5th StreetReg RT"
+            }
+        ]
+    },
+    {
+        "route_id": "48",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Construction/Water Main Break",
+                "start_location": "29th Street & Glennwood Avenue",
+                "end_location": "29th/Girard snd 30th/OxFord",
+                "start_date_time": "12/2/2022   5:00 PM",
+                "end_date_time": "12/15/2022   4:30 AM",
+                "current_message": "Until 430am on 12-15-22  SB via 29th StreetR - Glennwood AvenueR - Oxford StreetL  - 33rd StreetL  - Poplar StreetR  - 29th StreetReg RT"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "construction",
+                "start_location": "27th & Cecil B Moore",
+                "end_location": "29th & Poplar",
+                "start_date_time": "12/1/2022   7:37 AM",
+                "end_date_time": "12/15/2022   5:00 PM",
+                "current_message": "until 5:00pm on 12/15/22NB via 27thL- RidgeR- 29thReg rte"
+            }
+        ]
+    },
+    {
+        "route_id": "49",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "29th & Poplar",
+                "end_location": "29th & Girard",
+                "start_date_time": "11/14/2022  10:58 AM",
+                "end_date_time": "12/15/2022   4:30 AM",
+                "current_message": "Until 12-15-22  430amNB via PennsylvaniaR - 27thL - MasterR - 29thReg RT"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction/Water Main Break",
+                "start_location": "29th Street & Glennwood Avenue",
+                "end_location": "29th/Girard snd 30th/OxFord",
+                "start_date_time": "12/2/2022   5:00 PM",
+                "end_date_time": "12/15/2022   4:30 AM",
+                "current_message": "Until 430am on 12-15-22  SB via 29th StreetR - Glennwood AvenueR - Oxford StreetL  - 33rd StreetL  - Poplar StreetR  - 29th StreetReg RT"
+            }
+        ]
+    },
+    {
+        "route_id": "57",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Water Main Break",
+                "start_location": "8th & Girard",
+                "end_location": "4th & Green",
+                "start_date_time": "11/30/2022   4:14 PM",
+                "end_date_time": "12/31/2022  12:01 AM",
+                "current_message": "until further noticeSB via GirardL - 8th L - PoplarR - 6thL - Spring Garden R - 4th Reg rt"
+            }
+        ]
+    },
+    {
+        "route_id": "60",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Construction",
+                "start_location": "Allegheny  & Richmond",
+                "end_location": "Richmond & Westmoreland",
+                "start_date_time": "1/24/2022   7:15 AM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "Until 0430am on 12-31-2022EB via Allegheny Ave L  - Richmond R - Westmoreland R - BathR - Allegheny Layover Allegheny & Bath"
+            }
+        ]
+    },
+    {
+        "route_id": "61",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Street Construction",
+                "start_location": "Ridge Ave btwn South Ferry & Allegheny",
+                "end_location": "Ridge Ave btwn South Ferry & Allegheny",
+                "start_date_time": "4/19/2022   8:13 AM",
+                "end_date_time": "4/20/2023   4:30 AM",
+                "current_message": "Discontinue Transit StopSB Ridge Ave btwnSouth FerryRd - Allegheny Ave"
+            }
+        ]
+    },
+    {
+        "route_id": "62",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Penn Dot",
+                "start_location": "21st & Market",
+                "end_location": "23rd & Market",
+                "start_date_time": "11/23/2022   8:29 AM",
+                "end_date_time": "12/31/2025  11:59 PM",
+                "current_message": "The transit stops located at 21st & Market and 23rd & Market are discontinued until further notice due to construction"
+            }
+        ]
+    },
+    {
+        "route_id": "64",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Street Construction",
+                "start_location": "24th & Washington Ave",
+                "end_location": "24th & Washington Ave",
+                "start_date_time": "11/30/2022   8:56 AM",
+                "end_date_time": "11/30/2023   7:00 PM",
+                "current_message": "Until 7pm on 11-30-2022Discontinue Transit Stop24th & Washington Ave eastbound"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Street Construction",
+                "start_location": "22nd & Washington Ave",
+                "end_location": "22nd & Washington Ave",
+                "start_date_time": "12/1/2022   9:10 AM",
+                "end_date_time": "11/30/2023  11:59 PM",
+                "current_message": "Until 12 pm 11-30-2023Discontinue Transit Stop22nd & Washington Ave westbound"
+            }
+        ]
+    },
+    {
+        "route_id": "65",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Police Activity",
+                "start_location": "66th & Malvern Ave",
+                "end_location": "on 66th between Lebanon & Malvern Ave",
+                "start_date_time": "12/4/2022   6:55 PM",
+                "end_date_time": "12/5/2022  12:30 AM",
+                "current_message": "Until 12:00AM on 12-5-2022SB via 66th StreetR - MalvernL  - 68thL  - LebanonR - 66thReg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Police Activity",
+                "start_location": "66th & Lebanon St",
+                "end_location": "on 66th between Lebanon & Malvern Ave",
+                "start_date_time": "12/4/2022   6:57 PM",
+                "end_date_time": "12/5/2022  12:30 AM",
+                "current_message": "Until 12:00AM on 12-5-2022NB via 66th StreetL  - LebanonR - 68thR - MalvernReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "73",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Under Construction",
+                "start_location": "Bath & Allegheny",
+                "end_location": "Richmond & Westmoreland Loop",
+                "start_date_time": "1/17/2022   4:57 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "Until 1159pm on 12-31-2022NB via BathR - Allegheny R - RichmondReg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Under Construction",
+                "start_location": "Richmond & Westmoreland",
+                "end_location": "Richmonnd & Westmoreland Loop",
+                "start_date_time": "1/17/2022   4:55 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "Until 1159pm on 12-31-2022SB via RichmondL-WestmorelandR-BathRecovery"
+            }
+        ]
+    },
+    {
+        "route_id": "77",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Constrction",
+                "start_location": "Glenside & Rices Mills",
+                "end_location": "Glenside btw Rices Mills & Greenwood",
+                "start_date_time": "12/5/2022   7:00 AM",
+                "end_date_time": "12/5/2022   5:00 PM",
+                "current_message": "7am to 5pm on 12-2-22EB via GlensideR- Rices Mills RdL-  ChurchL-  GreenwoodRge Rt"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "Greenwood & Church",
+                "end_location": "Glenside btw Greenwood & Rices Mills",
+                "start_date_time": "12/5/2022   6:45 AM",
+                "end_date_time": "12/5/2022   6:00 PM",
+                "current_message": "7am to 5pm on 12-2-22WB via GreenwoodR- ChurchR- Rices MillsL- GlensideReg RT"
+            }
+        ]
+    },
+    {
+        "route_id": "84",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "New State & Levick St",
+                "end_location": "New State Rd & Elbridge St",
+                "start_date_time": "11/30/2022   7:00 AM",
+                "end_date_time": "12/6/2022   5:00 PM",
+                "current_message": "7am - 5pm until 12-6-22SB via New State RdR - LevickL  - TorresdaleL  - VankirkR - TaconyReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "89",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Sinkhole & Building Demolition",
+                "start_location": "Aramingo Ave& York St",
+                "end_location": "Cedar & Norris",
+                "start_date_time": "9/16/2022   9:29 AM",
+                "end_date_time": "12/30/2022   4:00 PM",
+                "current_message": "until 12-30-22WB via Aramingo AveR - York StL  - Frankford Avebare right on TrentonR - SusquehannaReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "90",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Construction",
+                "start_location": "Norristown Trans Ctr & Lafayette St",
+                "end_location": "Markley & Main St",
+                "start_date_time": "12/2/2022   6:00 PM",
+                "end_date_time": "12/12/2022   6:00 AM",
+                "current_message": "Until 6am on 12/12/2022 24/7 EB via Norristown Transportation CenterR - LafayetteL  - DekalbL  - AiryR - HawsReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "93",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Construction",
+                "start_location": "Main & Haws Ave",
+                "end_location": "Markley & Main St",
+                "start_date_time": "12/2/2022   6:00 PM",
+                "end_date_time": "12/12/2022   6:00 AM",
+                "current_message": "Until 6am on 12/12/2022 24/7 EB via Main StreetL  - HawsR - MarshallR - SwedeInto Norristown Transportation Center"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "Norristown Trans Ctr & Layfayette St",
+                "end_location": "Markley & Main St",
+                "start_date_time": "12/2/2022   6:00 PM",
+                "end_date_time": "12/12/2022   6:00 AM",
+                "current_message": "Until 6am on 12/12/2022 24/7 WB via  Norristown Transportation CenterR - LafayetteL  - DekalbL  - AiryL  - AstorR - MainReg Rt"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Safety  Issue",
+                "start_location": "High &  Hanover",
+                "end_location": "Montgomery County Community College",
+                "start_date_time": "11/25/2022   9:30 PM",
+                "end_date_time": "6/15/2023  11:59 PM",
+                "current_message": "Mon thru Fri  930pm  -1159pm until  June 15th 2022EB via HighR-HanoverR-College Drvia Montgomery County Community CollegeReg Rt"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Safety Issue",
+                "start_location": "High &  Hanover",
+                "end_location": "Montgomery  County  Community College",
+                "start_date_time": "11/25/2022   9:30 PM",
+                "end_date_time": "6/15/2023  11:59 PM",
+                "current_message": "Mon thru Fri  930pm  -1159pm until  June 15th 2022WB via HighR-HanoverL-KingL-ManatawayL-HighLayover at Borough Hall"
+            }
+        ]
+    },
+    {
+        "route_id": "99",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Side Walk Construction",
+                "start_location": "First & American Ave`s",
+                "end_location": "First & American Ave`s",
+                "start_date_time": "10/24/2022   2:26 PM",
+                "end_date_time": "12/5/2022  11:59 PM",
+                "current_message": "Transit Stop Discontinued EB First & American Ave`s Until December 5, 2022Due to Side Walk Construction at"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Holiday Traffic Routing",
+                "start_location": "King of Prussia Transportation Center",
+                "end_location": "King of Prussia Transportation Center",
+                "start_date_time": "7/22/2022   5:27 PM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "11pm to 6am  (Daily)EB via King of Prussia  Transportation CenterL  - 3rd Stop SignL  - Dead EndR - 1st Stop SignReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "108",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "PWD",
+                "start_location": "77th &  Chelwynde",
+                "end_location": "78th & Buist",
+                "start_date_time": "11/29/2022   5:20 AM",
+                "end_date_time": "12/30/2022   4:30 AM",
+                "current_message": "until 12-30-2022  430amSB via 77thR-ChelwyndeL-78thReg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "PWD",
+                "start_location": "78th &  Chelwynde",
+                "end_location": "78th & Buist",
+                "start_date_time": "11/28/2022   1:05 PM",
+                "end_date_time": "12/30/2022   4:30 AM",
+                "current_message": "until 12-30-2022  430amNB via 78thR-ChelwyndeL-77thReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "113",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Mall  Renovations",
+                "start_location": "Ridge & Naamans",
+                "end_location": "Tri-State Mall",
+                "start_date_time": "11/29/2021   3:00 AM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "Until 0430am on 12-31-2022Tri-State Mall trips EB via Layover on Society DrL  - Naamans RdL  - Ridge Rd Reg Rt"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Mall  Renovations",
+                "start_location": "Ridge & Naamans",
+                "end_location": "Tri-State Mall",
+                "start_date_time": "11/29/2021   3:00 AM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "Until 0430am on 12-31-2022Tri-State Mall trips WB via Ridge Rd R - Naamans Rd, Naamans & Society Dr farside stop just past Wawa R -Society Dr at Whitney Apt signs bear left after the turn Layover at the 2nd bus shelter at Apartment"
+            }
+        ]
+    },
+    {
+        "route_id": "123",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Holiday Traffic Routing",
+                "start_location": "King of Prussia Transportation Center",
+                "end_location": "King of Prussia Transportation Center",
+                "start_date_time": "7/22/2022   5:27 PM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "11pm to 6am  (Daily)EB via King of Prussia  Transportation CenterL  - 3rd Stop SignL  - Dead EndR - 1st Stop SignReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "124",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "Holiday Traffic Routing",
+                "start_location": "King of Prussia Transportation Center",
+                "end_location": "King of Prussia Transportation Center",
+                "start_date_time": "7/22/2022   5:27 PM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "11pm to 6am  (Daily)EB via King of Prussia  Transportation CenterL  - 3rd Stop SignL  - Dead EndR - 1st Stop SignReg Rt"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Penn Dot",
+                "start_location": "21st & Market",
+                "end_location": "23rd & Market",
+                "start_date_time": "11/23/2022   8:31 AM",
+                "end_date_time": "12/31/2025  11:59 PM",
+                "current_message": "The transit stops located at 21st & Market and 23rd & Market are discontinued until further notice due to construction"
+            }
+        ]
+    },
+    {
+        "route_id": "125",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Penn Dot",
+                "start_location": "21st & Market",
+                "end_location": "23rd & Market",
+                "start_date_time": "11/23/2022   8:31 AM",
+                "end_date_time": "12/31/2025  11:59 PM",
+                "current_message": "The transit stops located at 21st & Market and 23rd & Market are discontinued until further notice due to construction"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Holiday Traffic Routing",
+                "start_location": "King of Prussia Transportation Center",
+                "end_location": "King of Prussia Transportation Center",
+                "start_date_time": "7/22/2022   5:27 PM",
+                "end_date_time": "12/31/2022   4:30 AM",
+                "current_message": "11pm to 6am  (Daily)EB via King of Prussia  Transportation CenterL  - 3rd Stop SignL  - Dead EndR - 1st Stop SignReg Rt"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Side Walk Construction",
+                "start_location": "First & American Ave`s",
+                "end_location": "First & American Ave`s",
+                "start_date_time": "10/24/2022   2:26 PM",
+                "end_date_time": "12/5/2022  11:59 PM",
+                "current_message": "Transit Stop Discontinued EB First & American Ave`s Until December 5, 2022Due to Side Walk Construction at"
+            }
+        ]
+    },
+    {
+        "route_id": "127",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:27 PM",
+                "end_date_time": "9/17/2025   4:30 AM",
+                "current_message": "WB via Middletown BlvdL- Access RD (Behind Firestone)L- Access RD (JC Penney)L- 1st Access RdTake Recovery near JC Penney"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:28 PM",
+                "end_date_time": "9/17/2025   4:30 AM",
+                "current_message": "EB via Access RdR- Middletown BlvdReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "128",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:42 PM",
+                "end_date_time": "9/17/2025   4:30 AM",
+                "current_message": "NB via Buck Town RdR- Middletown BlvdL- Access Rd (Behind Firestone)L- Access RD (JC Penney)Take recovery near JC Penney"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   3:43 PM",
+                "end_date_time": "9/17/2025   4:30 AM",
+                "current_message": "SB via Access RdL- Middletown RdReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "129",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   5:47 PM",
+                "end_date_time": "9/17/2025   4:30 AM",
+                "current_message": "NB via Buck Town RdR- Middletown BlvdL- Access Rd (Behind Firestone)L- Access RD (JC Penney)Take recovery near JC Penney"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "Oxford Valley Mall",
+                "end_location": "",
+                "start_date_time": "9/16/2022   5:48 PM",
+                "end_date_time": "9/17/2025   4:30 AM",
+                "current_message": "SB via Access RdL- Middletown RdReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "131",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "Norristown Trans Ctr & Lafayette St",
+                "end_location": "Markley & Main St",
+                "start_date_time": "12/2/2022   6:00 PM",
+                "end_date_time": "12/12/2022   6:00 AM",
+                "current_message": "Until 6am on 12/12/2022 24/7 WB via Norristown Transportation CenterR - LafayetteL  - DekalbL  - AiryR - HawsReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "415",
+        "route_info": [
+            {
+                "route_direction": "OUTBOUND",
+                "reason": "Construction",
+                "start_location": "46th & Chestnut",
+                "end_location": "",
+                "start_date_time": "9/13/2022  11:41 AM",
+                "end_date_time": "9/13/2023   4:30 AM",
+                "current_message": "Until June 2023 Via 49th R - BaltimoreL - 46th to layover between Ludlow & Market"
+            }
+        ]
+    },
+    {
+        "route_id": "47M",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Crane placement",
+                "start_location": "8th & Chestnut",
+                "end_location": "8th Btwn Spruce St & Locust  St",
+                "start_date_time": "12/4/2022   1:09 PM",
+                "end_date_time": "12/5/2022   5:00 AM",
+                "current_message": "Until 5am on 12-5-22SB via 8th St L  - Chestnut St R - 6th St R - Lombard St L  - 8th St Reg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "7th & Poplar",
+                "end_location": "8th & Wallace",
+                "start_date_time": "11/23/2022   2:53 PM",
+                "end_date_time": "12/31/2022  12:00 AM",
+                "current_message": "24 hours/ 7days until 12/31/22NB via 7th Layover on 7th before Poplar St"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "7th & Poplar",
+                "end_location": "8th & Wallace",
+                "start_date_time": "11/23/2022   2:55 PM",
+                "end_date_time": "12/31/2022  12:00 AM",
+                "current_message": "24 hours / 7days until 12/31/22SB via 7thR-PoplarR-6thR-Spring GardenL-8th Reg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Street Construction",
+                "start_location": "7th Street & Brown  Street",
+                "end_location": "7th Street & BrownStreet",
+                "start_date_time": "11/18/2022  12:55 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "Until 11:59 pm on 12-31-22NB via 7th StreetR- BrownR - 6th StreetR - Spring Garden StreetL  - 8th StreetReg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Side Walk Construction",
+                "start_location": "9th & Washington Ave",
+                "end_location": "9th & Washington Ave",
+                "start_date_time": "12/3/2022   7:14 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "Transit Stop Discontinued NB 9th & Washington Ave Until December 31, 2023Due to Side Walk Construction"
+            }
+        ]
+    },
+    {
+        "route_id": "BLVDDIR",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Road Closure",
+                "start_location": "Rockhill Rd & entrance to Rt 1 NB",
+                "end_location": "Route 1 NB & Neshaminy Exit",
+                "start_date_time": "9/13/2022   5:59 AM",
+                "end_date_time": "9/14/2024   4:30 AM",
+                "current_message": "until 9-13-24SB via Rockhill RdR - entrance to Rt 1 NBR - entrance to Pendel US 1 NorthL  - First Cutout & follow US 1 South detour signsL  - Old Lincoln HwyL  - exit to US 1 SouthReg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "G",
+        "route_info": [
+            {
+                "route_direction": "SB",
+                "reason": "Construction",
+                "start_location": "Oregon & Swanson",
+                "end_location": "Oregon &  Waccacoe",
+                "start_date_time": "11/28/2022   4:03 PM",
+                "end_date_time": "12/6/2032   4:30 AM",
+                "current_message": "Columbus Commons TripsUntil 12/6/22 24/7SB Via Oregon aveL- Swanson R- WolfL- WaccacoeLayoverReg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Sink Hole",
+                "start_location": "63rd & Eastwick",
+                "end_location": "62nd & Eastwick",
+                "start_date_time": "11/13/2022  12:12 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "until 11:59 pm on 12-31-22 NB via 63rd R - Eastwick L - 62nd Reg Rt"
+            },
+            {
+                "route_direction": "SB",
+                "reason": "Sink Hole",
+                "start_location": "62nd & Eastwick",
+                "end_location": "63rd & Eastwick",
+                "start_date_time": "11/13/2022  12:13 PM",
+                "end_date_time": "12/31/2022  11:59 PM",
+                "current_message": "until 11:59 pm on 12-31-22SB via 62nd R - Eastwick L - 63rd Reg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "K",
+        "route_info": [
+            {
+                "route_direction": "EB",
+                "reason": "PWD",
+                "start_location": "Midvale Ave& Henry Ave",
+                "end_location": "Henry Ave & Midvale Ave",
+                "start_date_time": "11/21/2022   8:34 AM",
+                "end_date_time": "12/23/2022   4:00 PM",
+                "current_message": "6am - 4pm until 12-23-22EB via Midvale AveR - Henry AveL  - Queen LaneReg Rt"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "PWD",
+                "start_location": "Queen Lane & Henry Ave",
+                "end_location": "Henry Ave & Midvale Ave",
+                "start_date_time": "11/21/2022   8:33 AM",
+                "end_date_time": "12/23/2022   4:00 PM",
+                "current_message": "6am - 4pm until 12-23-22WB via Queen LaneR - Henry AveL  - Coulter L - VauxR - Midvale Reg Rt"
+            }
+        ]
+    },
+    {
+        "route_id": "R",
+        "route_info": [
+            {
+                "route_direction": "WB",
+                "reason": "PWD",
+                "start_location": "Fox St & Coulter",
+                "end_location": "Henry & Roberts Aves",
+                "start_date_time": "11/21/2022   8:49 AM",
+                "end_date_time": "12/23/2022   4:00 PM",
+                "current_message": "Henry & Midvale trips only6am - 4pm until 12-23-22WB via Fox StL  - CoulterL-McMicheal Layover on McMicheal & Coulter"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "PWD",
+                "start_location": "Indian Queen Ln & McMicheal",
+                "end_location": "Henry & Roberts Aves",
+                "start_date_time": "11/21/2022   8:51 AM",
+                "end_date_time": "12/23/2022   4:00 PM",
+                "current_message": "Henry & Midvale trips only6am - 4pm until 12-23-22EB via McMichealR -Indian Queen Lane  L  - Henry AveReg Rt"
+            },
+            {
+                "route_direction": "EB",
+                "reason": "Construction",
+                "start_location": "Ridge Ave btwn South Ferry & Allegheny",
+                "end_location": "Ridge Ave btwn South Ferry & Allegheny",
+                "start_date_time": "4/19/2022   8:14 AM",
+                "end_date_time": "4/19/2023   3:00 PM",
+                "current_message": "EB transit stops on Ridge Ave South Ferry Rd to Allegheny Ave are discontinued until 4-19-2023 due to construction"
+            },
+            {
+                "route_direction": "WB",
+                "reason": "Construction",
+                "start_location": "Henry & Roberts Aves",
+                "end_location": "Henry & Roberts Aves",
+                "start_date_time": "6/7/2022   8:20 AM",
+                "end_date_time": "4/19/2023   3:00 PM",
+                "current_message": "WB transit stop at Henry & Roberts discontinued until further notice due to construction."
+            }
+        ]
+    },
+    {
+        "route_id": "LUCYGO",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "Civic Ctr Blvd & University",
+                "end_location": "W Service Dr btwn Osler & Curie",
+                "start_date_time": "4/18/2022   7:56 AM",
+                "end_date_time": "4/30/2026  11:59 PM",
+                "current_message": "until 4-30-26NB via Civic Ctr Blvd R - University Ave Reg Rt"
+            },
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "University Ave  & Curie Blvd",
+                "end_location": "",
+                "start_date_time": "12/5/2022  12:00 AM",
+                "end_date_time": "12/31/2022  12:00 AM",
+                "current_message": "Discontinued Transit stop at University Ave  & Curie Blvd . Transit stop will be moved to University Ave & Baltimore Ave Until Further Notice"
+            },
+            {
+                "route_direction": "LOOP",
+                "reason": "Construction",
+                "start_location": "University Ave  & Curie Blvd",
+                "end_location": "",
+                "start_date_time": "12/5/2022  12:00 AM",
+                "end_date_time": "12/31/2022  12:00 AM",
+                "current_message": "Discontinued Transit stop at University Ave  & Curie Blvd . Transit stop will be moved to University Ave & Baltimore Ave Until Further Notice"
+            }
+        ]
+    },
+    {
+        "route_id": "LUCYGR",
+        "route_info": [
+            {
+                "route_direction": "NB",
+                "reason": "Construction",
+                "start_location": "University Ave  & Curie Blvd",
+                "end_location": "",
+                "start_date_time": "12/5/2022  12:00 AM",
+                "end_date_time": "12/31/2022  12:00 AM",
+                "current_message": "Discontinued Transit stop at University Ave  & Curie Blvd . Transit stop will be moved to University Ave & Baltimore Ave Until Further Notice"
+            },
+            {
+                "route_direction": "LOOP",
+                "reason": "Construction",
+                "start_location": "University Ave  & Curie Blvd",
+                "end_location": "",
+                "start_date_time": "12/5/2022  12:00 AM",
+                "end_date_time": "12/31/2022  12:00 AM",
+                "current_message": "Discontinued Transit stop at University Ave  & Curie Blvd . Transit stop will be moved to University Ave & Baltimore Ave Until Further Notice"
+            },
+            {
+                "route_direction": "LOOP",
+                "reason": "Construction",
+                "start_location": "Civic Ctr Blvd & University",
+                "end_location": "W Service Dr btwn Osler & Curie",
+                "start_date_time": "4/18/2022   7:58 AM",
+                "end_date_time": "4/30/2026  11:59 PM",
+                "current_message": "until 4-30-263SB via University Ave L  - Civic Center Blvd R - Health Science DrReg Rt"
+            }
+        ]
+    }
+]
