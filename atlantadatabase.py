@@ -19,7 +19,8 @@ def open_database(db_name):
     return cur, conn
 
 
-def make_atlanta_table(data, cur, conn):
+def make_atlanta_table(data, cur, conn, index):
+
     x = dict(data)
     x = x['RailArrivals']
     l = []
@@ -27,25 +28,29 @@ def make_atlanta_table(data, cur, conn):
         l.append(i)
 
 
-    cur.execute('DROP TABLE IF EXISTS Atlanta')
-    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
-
-    for i in l:
-        current_destinations = list(i.values())[0]
-        current_directions = list(i.values())[1]
-        current_event_times = list(i.values())[2]
-        current_head_sign = list(i.values())[3]
-        current_line = list(i.values())[4]
-        current_next_arr = list(i.values())[5]
-        current_station = list(i.values())[6]
-        current_train_id= list(i.values())[7]
-        current_waiting_seconds = list(i.values())[8]
-        current_responsetimestamp = list(i.values())[9]
-        current_vehiclelongitude = list(i.values())[10]
-        current_vehiclelatitude = list(i.values())[11]
-        current_delay = list(i.values())[12]
+    
+    for i in range(index, index+25):
+        
+        current_destinations = list(l[i].values())[0]
+        current_directions = list(l[i].values())[1]
+        current_event_times = list(l[i].values())[2]
+        current_head_sign = list(l[i].values())[3]
+        current_line = list(l[i].values())[4]
+        current_next_arr = list(l[i].values())[5]
+        current_station = list(l[i].values())[6]
+        current_train_id= list(l[i].values())[7]
+        current_waiting_seconds = list(l[i].values())[8]
+        current_responsetimestamp = list(l[i].values())[9]
+        current_vehiclelongitude = list(l[i].values())[10]
+        current_vehiclelatitude = list(l[i].values())[11]
+        current_delay = list(l[i].values())[12]
+    
         cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
     
+
+   
+    
+
     conn.commit()
 
 
@@ -57,7 +62,29 @@ def make_atlanta_table(data, cur, conn):
 def main():
     json_data = read_data('atlanta.json')
     cur, conn = open_database('atlanta_db.db')
-    make_atlanta_table(json_data, cur, conn)
+    cur.execute("SELECT COUNT('destinations') FROM Atlanta ")
+    count = cur.fetchall()
+    count = (count[0])
+    count = count[0]
+    print(count)
+    if count <= 100:
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+        index = 0
+        if count== 25:
+            index= 25
+        elif count == 50:
+            index = 50
+        elif count == 75:
+            index = 75
+        else:
+            x = 0
+        make_atlanta_table(json_data, cur, conn, index)
+
+    if count >= 100:
+        cur.execute('DROP TABLE IF EXISTS Atlanta')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+        
+
     conn.close()
 
 
