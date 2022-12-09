@@ -46,7 +46,7 @@ def make_atlanta_table(data, cur, conn, index):
         current_delay = list(l[i].values())[12]
     
         cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
-    
+        cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations) VALUES (?, ?)', (current_train_id, current_destinations))
 
    
     
@@ -66,9 +66,10 @@ def main():
     count = cur.fetchall()
     count = (count[0])
     count = count[0]
-    print(count)
     if count <= 100:
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (train_id INTEGER, destinations TEXT)')
+
         index = 0
         if count== 25:
             index= 25
@@ -82,8 +83,9 @@ def main():
 
     if count >= 100:
         cur.execute('DROP TABLE IF EXISTS Atlanta')
+        cur.execute('DROP TABLE IF EXISTS Atlanta_Destinations')
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
-        
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (destinations TEXT, train_id INTEGER)')
 
     conn.close()
 
