@@ -105,6 +105,7 @@ def main():
     json_data = read_data('atlanta.json')
     json_data2 = read_data('septa.json')
 
+    
     cur, conn = open_database('allcities.db')
 
     # Atlanta Table
