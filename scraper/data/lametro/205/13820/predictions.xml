@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="205" routeTitle="205 Willowbrook Sta-San Pedro Via Wilmgt" stopTag="13820" stopTitle="1st / Grand">
-  <direction title="South to San Pedro -13th-Gaffey">
-   <prediction affectedByLayover="true" block="2050900" dirTag="205_85_1" epochTime="1670560000007" isDeparture="false" isScheduleBased="true" minutes="9" seconds="564" tripTag="54636702" vehicle="virtualVehicle_2050900"/>
-  </direction>
- </predictions>
-</body>

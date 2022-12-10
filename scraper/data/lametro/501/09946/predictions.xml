@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="501" routeTitle="501 Pasadena - N. Hollywood Sta Via 134" stopTag="9946" stopTitle="Raymond / Holly">
-  <direction title="East to Pasadena - Via 134 Fwy - Metro Gold Line">
-   <prediction affectedByLayover="true" block="5010100" dirTag="501_13_0" epochTime="1670564089492" isDeparture="false" minutes="80" seconds="4844" tripTag="54428821" vehicle="8251"/>
-  </direction>
- </predictions>
-</body>

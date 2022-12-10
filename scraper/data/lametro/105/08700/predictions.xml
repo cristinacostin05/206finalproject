@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="105" routeTitle="105 W Hollywood - Vernon Via La Cienega" stopTag="8700" stopTitle="Washington Fairfax Hub">
-  <direction title="South to Vernon-Santa Fe">
-   <prediction block="1054111" dirTag="105_259_1" epochTime="1670561237523" isDeparture="false" minutes="21" seconds="1313" tripTag="54534709" vehicle="4006"/>
-   <prediction block="1050800" dirTag="105_258_1" epochTime="1670561375778" isDeparture="false" minutes="24" seconds="1452" tripTag="54534801" vehicle="5790"/>
-  </direction>
- </predictions>
-</body>

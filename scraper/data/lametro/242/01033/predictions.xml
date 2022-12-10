@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="242" routeTitle="242 Northridge - Tarzana Via Tampa - Win" stopTag="1033" stopTitle="Devonshire / Oakdale">
-  <direction title="South to Tarzana">
-   <prediction affectedByLayover="true" block="2420200" dirTag="242_1_1" epochTime="1670559958401" isDeparture="true" minutes="22" seconds="1355" tripTag="54423950" vehicle="1577"/>
-  </direction>
- </predictions>
-</body>

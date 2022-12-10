@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="10108" stopTitle="Marianna / Worth">
-  <direction title="North to Memorial Park Station">
-   <prediction affectedByLayover="true" block="2560100" dirTag="256_105_0" epochTime="1670561666989" isDeparture="false" minutes="34" seconds="2048" tripTag="54664087" vehicle="3130"/>
-   <prediction affectedByLayover="true" block="2560300" dirTag="256_105_0" epochTime="1670564606989" isDeparture="false" minutes="83" seconds="4988" tripTag="54664090" vehicle="3136"/>
-  </direction>
- </predictions>
-</body>

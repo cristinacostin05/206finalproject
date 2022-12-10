@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="15656" stopTitle="3rd / Sweetzer">
-  <direction title="West to West Hollywood">
-   <prediction block="0165100" dirTag="16_412_1" epochTime="1670559493413" isDeparture="false" minutes="6" seconds="394" tripTag="54471156" vehicle="8432"/>
-   <prediction affectedByLayover="true" block="0169911" dirTag="16_412_1" epochTime="1670563794211" isDeparture="false" minutes="78" seconds="4695" tripTag="54471084" vehicle="8509"/>
-  </direction>
- </predictions>
-</body>

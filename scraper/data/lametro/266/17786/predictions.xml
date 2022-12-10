@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="17786" stopTitle="Lakewood / Hardwick">
-  <direction title="North to Sierra Madre Villa Station">
-   <prediction affectedByLayover="true" block="2661100" dirTag="266_27_0" epochTime="1670561880000" isDeparture="true" minutes="27" seconds="1644" tripTag="54432209" vehicle="5735"/>
-   <prediction affectedByLayover="true" block="2660400" dirTag="266_27_0" epochTime="1670564160000" isDeparture="true" minutes="65" seconds="3924" tripTag="54432208" vehicle="5757"/>
-  </direction>
- </predictions>
-</body>

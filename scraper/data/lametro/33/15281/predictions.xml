@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="15281" stopTitle="Venice / Hughes">
-  <direction title="West to Santa Monica">
-   <prediction block="0339911" dirTag="33_578_1" epochTime="1670561425451" isDeparture="false" minutes="17" seconds="1043" tripTag="54470785" vehicle="8633"/>
-   <prediction affectedByLayover="true" block="0330400" dirTag="33_580_1" epochTime="1670564677672" isDeparture="false" minutes="71" seconds="4295" tripTag="54470544" vehicle="8503"/>
-  </direction>
- </predictions>
-</body>

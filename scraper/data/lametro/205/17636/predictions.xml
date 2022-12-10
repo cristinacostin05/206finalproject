@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="205" routeTitle="205 Willowbrook Sta-San Pedro Via Wilmgt" stopTag="17636" stopTitle="Wilmington / 124th">
-  <direction title="South to P.C.H.-Vermont">
-   <prediction affectedByLayover="true" block="2050400" dirTag="205_86_1" epochTime="1670565033417" isDeparture="false" minutes="93" seconds="5584" tripTag="54636707" vehicle="1535"/>
-  </direction>
- </predictions>
-</body>

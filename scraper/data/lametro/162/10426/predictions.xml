@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="10426" stopTitle="Fallbrook / Victory">
-  <direction title="West to Woodland Hills">
-   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670564393545" isDeparture="false" minutes="93" seconds="5630" tripTag="54421612" vehicle="3973"/>
-  </direction>
- </predictions>
-</body>

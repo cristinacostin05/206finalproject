@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="6485" stopTitle="Telegraph / Ferris">
-  <direction title="South to Paramount">
-   <prediction block="2580200" dirTag="258_45_1" epochTime="1670562379712" isDeparture="false" minutes="35" seconds="2103" tripTag="54676276" vehicle="1640"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="96" routeTitle="96 Dtwn LA- Burbank Sta Via Griffith Pk" stopTag="4504" stopTitle="Riverside / Gilroy">
-  <direction title="North to Burbank Station">
-   <prediction block="0960200" dirTag="96_250_0" epochTime="1670560169984" isDeparture="false" minutes="2" seconds="169" tripTag="54394431" vehicle="3148"/>
-  </direction>
- </predictions>
-</body>

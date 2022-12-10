@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="37" routeTitle="37 Cedar Sinai-Dtwn LA-Wash/Fairfax Via" stopTag="15810" stopTitle="Adams / Crenshaw">
-  <direction title="South to Washington/Fairfax Transit Hub">
-   <prediction block="0149811" dirTag="37_501_1" epochTime="1670558617422" isDeparture="false" minutes="7" seconds="439" tripTag="54520473_37" vehicle="5816"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="11343" stopTitle="Las Tunas / Temple City">
-  <direction title="West to Downtown LA - Grand-Venice">
-   <prediction affectedByLayover="true" block="0781200" dirTag="78_421_1" epochTime="1670561569618" isDeparture="false" minutes="62" seconds="3771" tripTag="54636649" vehicle="5865"/>
-  </direction>
- </predictions>
-</body>

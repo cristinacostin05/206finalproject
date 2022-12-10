@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="3015" stopTitle="Halstead / Foothill">
-  <direction title="South to Csula Transit Center">
-   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670562832818" isDeparture="false" minutes="53" seconds="3205" tripTag="54664089" vehicle="3145"/>
-  </direction>
- </predictions>
-</body>

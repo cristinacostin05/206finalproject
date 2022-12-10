@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="108" routeTitle="108 Marina Del Rey - Pico Rivera Via Sla" stopTag="60" stopTitle="Admiralty / Bali">
-  <direction title="East to Slauson-Paramount">
-   <prediction affectedByLayover="true" block="1082702" dirTag="108_313_0" epochTime="1670562494398" isDeparture="false" isScheduleBased="true" minutes="40" seconds="2445" tripTag="54518273" vehicle="virtualVehicle_1082702"/>
-  </direction>
- </predictions>
-</body>

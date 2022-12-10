@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="611" routeTitle="611 Huntington Park Shuttle" stopTag="1410" stopTitle="Florence Station">
-  <direction title="Xcounter to Vernon-Huntington Park-Cudahy">
-   <prediction block="6110300" dirTag="611_27_1" epochTime="1670560902581" isDeparture="false" minutes="7" seconds="453" tripTag="54535744" vehicle="3878"/>
-   <prediction affectedByLayover="true" block="6110100" dirTag="611_27_1" epochTime="1670564436926" isDeparture="false" minutes="66" seconds="3988" tripTag="54535745" vehicle="5781"/>
-  </direction>
- </predictions>
-</body>

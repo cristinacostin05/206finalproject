@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="246" routeTitle="246 Harbor Gateway Trans Ctr - San Pedro" stopTag="3826" stopTitle="Pacific / Upland">
-  <direction title="North to Harbor Gateway Transit Ctr">
-   <prediction affectedByLayover="true" block="3440100" dirTag="246_78_0" epochTime="1670559654363" isDeparture="false" isScheduleBased="true" minutes="20" seconds="1257" tripTag="54544735" vehicle="6149"/>
-   <prediction affectedByLayover="true" block="2460300" dirTag="246_78_0" epochTime="1670562741172" isDeparture="false" isScheduleBased="true" minutes="72" seconds="4343" tripTag="54544736" vehicle="1789"/>
-  </direction>
- </predictions>
-</body>

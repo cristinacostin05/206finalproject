@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="150" routeTitle="150 Chatsworth Sta - Encino Via Topanga" stopTag="6575" stopTitle="Topanga Canyon / Erwin">
-  <direction title="West to Chatsworth Station">
-   <prediction affectedByLayover="true" block="1500200" dirTag="150_191_1" epochTime="1670563962089" isDeparture="false" minutes="68" seconds="4136" tripTag="54420242" vehicle="5900"/>
-   <prediction affectedByLayover="true" block="1500700" dirTag="150_191_1" epochTime="1670564371625" isDeparture="false" isScheduleBased="true" minutes="75" seconds="4545" tripTag="54420243" vehicle="virtualVehicle_1500700"/>
-  </direction>
- </predictions>
-</body>

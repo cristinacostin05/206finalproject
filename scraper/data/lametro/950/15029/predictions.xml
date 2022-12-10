@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="15029" stopTitle="USC Medical Ctr Busway Station">
-  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
-   <prediction block="9102602" dirTag="950_212_0" epochTime="1670559747353" isDeparture="false" minutes="28" seconds="1698" tripTag="54545475_950" vehicle="8388"/>
-  </direction>
- </predictions>
-</body>

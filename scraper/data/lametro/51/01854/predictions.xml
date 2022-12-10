@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="1854" stopTitle="Alvarado / Wilshire">
-  <direction title="North to Westlake/Macarthur Pk Station">
-   <prediction affectedByLayover="true" block="0513502" dirTag="51_325_0" epochTime="1670559413327" isDeparture="false" isScheduleBased="true" minutes="23" seconds="1433" tripTag="54614073" vehicle="virtualVehicle_0513502"/>
-   <prediction affectedByLayover="true" block="0513402" dirTag="51_325_0" epochTime="1670562871434" isDeparture="false" minutes="81" seconds="4891" tripTag="54614049" vehicle="4174"/>
-  </direction>
- </predictions>
-</body>

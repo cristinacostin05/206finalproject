@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="45" routeTitle="45 Lincoln Heights-Dtwn LA-Harbr Fwy St" stopTag="13234" stopTitle="Broadway / 36th">
-  <direction title="North to Lincoln Heights">
-   <prediction affectedByLayover="true" block="0455500" dirTag="45_600_0" epochTime="1670562736302" isDeparture="false" minutes="49" seconds="2984" tripTag="54679017" vehicle="6087"/>
-  </direction>
- </predictions>
-</body>

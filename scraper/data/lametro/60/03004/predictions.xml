@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="3004" stopTitle="Long Beach / Ardmore">
-  <direction title="North to Downtown LA - Sunset- Figueroa">
-   <prediction block="0604311" dirTag="60_161_0" epochTime="1670560742074" isDeparture="false" minutes="19" seconds="1182" tripTag="54597649" vehicle="5675"/>
-   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670561775359" isDeparture="false" isScheduleBased="true" minutes="36" seconds="2215" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
-  </direction>
- </predictions>
-</body>

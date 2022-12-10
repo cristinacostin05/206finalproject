@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="1840" stopTitle="Ventura / Goodland">
-  <direction title="West to Chatsworth Station">
-   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670560329237" isDeparture="true" minutes="4" seconds="296" tripTag="54429231" vehicle="4021"/>
-   <prediction affectedByLayover="true" block="1670200" dirTag="167_95_1" epochTime="1670563260000" isDeparture="true" minutes="53" seconds="3226" tripTag="54429232" vehicle="4023"/>
-  </direction>
- </predictions>
-</body>

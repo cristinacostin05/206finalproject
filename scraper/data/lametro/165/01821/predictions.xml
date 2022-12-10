@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="165" routeTitle="165 West Hills - Burbank Via Vanowen St" stopTag="1821" stopTitle="Empire / Ontario">
-  <direction title="West to West Hills">
-   <prediction block="1640600" dirTag="165_198_1" epochTime="1670559056460" isDeparture="false" minutes="12" seconds="765" tripTag="54422779" vehicle="1988"/>
-  </direction>
- </predictions>
-</body>

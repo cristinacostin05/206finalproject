@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="55" routeTitle="55 Downtown LA - Willowbrook Sta Via Co" stopTag="803" stopTitle="Compton / 51st">
-  <direction title="North to Downtown LA - Spring-7th">
-   <prediction block="0554211" dirTag="55_285_0" epochTime="1670560713547" isDeparture="false" minutes="14" seconds="850" tripTag="54597089" vehicle="4061"/>
-   <prediction affectedByLayover="true" block="0554111" dirTag="55_285_0" epochTime="1670564540142" isDeparture="false" minutes="77" seconds="4676" tripTag="54597092" vehicle="6075"/>
-  </direction>
- </predictions>
-</body>

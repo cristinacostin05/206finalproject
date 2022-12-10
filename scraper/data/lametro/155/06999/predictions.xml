@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="6999" stopTitle="Ventura / Sepulveda">
-  <direction title="South to Burbank Station">
-   <prediction affectedByLayover="true" block="0900800" dirTag="155_39_1" epochTime="1670561325735" isDeparture="false" minutes="26" seconds="1597" tripTag="54394958" vehicle="6079"/>
-   <prediction affectedByLayover="true" block="0901200" dirTag="155_39_1" epochTime="1670565225735" isDeparture="false" minutes="91" seconds="5497" tripTag="54394971" vehicle="4111"/>
-  </direction>
- </predictions>
-</body>

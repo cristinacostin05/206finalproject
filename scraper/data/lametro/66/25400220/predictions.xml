@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="66" routeTitle="66 Wilshire Ctr-Dtwn LA-Montebello Via" stopTag="25400220" stopTitle="8th / Mirasol">
-  <direction title="West to 8th-Western">
-   <prediction affectedByLayover="true" block="0661300" dirTag="66_413_1" epochTime="1670558870436" isDeparture="false" minutes="18" seconds="1130" tripTag="54630956" vehicle="6011"/>
-  </direction>
- </predictions>
-</body>

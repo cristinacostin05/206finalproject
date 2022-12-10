@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="55" routeTitle="55 Downtown LA - Willowbrook Sta Via Co" stopTag="13573" stopTitle="Grand / 23rd">
-  <direction title="South to Willowbrook / Rosa Parks Station">
-   <prediction affectedByLayover="true" block="0554211" dirTag="55_288_1" epochTime="1670563287923" isDeparture="false" minutes="56" seconds="3406" tripTag="54597099" vehicle="4061"/>
-  </direction>
- </predictions>
-</body>

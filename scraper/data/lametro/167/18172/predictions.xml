@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="18172" stopTitle="Plummer / Louise">
-  <direction title="West to Chatsworth Station">
-   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670563548525" isDeparture="false" minutes="58" seconds="3501" tripTag="54429231" vehicle="4021"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="8979" stopTitle="Bellflower / Jefferson">
-  <direction title="West to Harbor Fwy Station">
-   <prediction affectedByLayover="true" block="1270200" dirTag="127_35_1" epochTime="1670558480247" isDeparture="false" minutes="13" seconds="820" tripTag="54542726" vehicle="1682"/>
-  </direction>
- </predictions>
-</body>

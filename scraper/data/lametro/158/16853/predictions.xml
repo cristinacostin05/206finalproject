@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="158" routeTitle="158 Chatsworth Sta-Sherman Oaks Via Devo" stopTag="16853" stopTitle="Woodman / Stagg">
-  <direction title="West to Chatsworth Station">
-   <prediction block="1580402" dirTag="158_53_1" epochTime="1670560197190" isDeparture="false" minutes="14" seconds="854" tripTag="54452536" vehicle="2049"/>
-   <prediction affectedByLayover="true" block="1500100" dirTag="158_53_1" epochTime="1670563474124" isDeparture="false" minutes="68" seconds="4131" tripTag="54452537" vehicle="5833"/>
-  </direction>
- </predictions>
-</body>

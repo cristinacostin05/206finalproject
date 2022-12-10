@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="30" routeTitle="30 Pico Rimpau - Dtwn LA - Indiana Sta" stopTag="5112" stopTitle="Temple / Alameda">
-  <direction title="West to Pico-Rimpau">
-   <prediction block="0309811" dirTag="30_801_1" epochTime="1670559603974" isDeparture="false" minutes="10" seconds="612" tripTag="54511799" vehicle="3967"/>
-   <prediction affectedByLayover="true" block="0309911" dirTag="30_803_1" epochTime="1670563950956" isDeparture="false" minutes="82" seconds="4959" tripTag="54511802" vehicle="3983"/>
-  </direction>
- </predictions>
-</body>

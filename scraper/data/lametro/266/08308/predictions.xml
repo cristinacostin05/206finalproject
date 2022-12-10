@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="8308" stopTitle="Rosemead / Whittier">
-  <direction title="South to Lakewood Center">
-   <prediction block="2661200" dirTag="266_26_1" epochTime="1670560937021" isDeparture="false" minutes="11" seconds="692" tripTag="54432261" vehicle="5635"/>
-   <prediction affectedByLayover="true" block="2661000" dirTag="266_26_1" epochTime="1670563864700" isDeparture="false" minutes="60" seconds="3620" tripTag="54432206" vehicle="5884"/>
-  </direction>
- </predictions>
-</body>

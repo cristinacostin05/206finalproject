@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="602" routeTitle="602 Westwood - Pacific Palisades Via Sun" stopTag="14768" stopTitle="Sunset / Will Rogers State Park">
-  <direction title="West to Sunset-P.C.H.">
-   <prediction affectedByLayover="true" block="6021702" dirTag="602_11_1" epochTime="1670561945277" isDeparture="false" isScheduleBased="true" minutes="61" seconds="3717" tripTag="54528143" vehicle="virtualVehicle_6021702"/>
-  </direction>
- </predictions>
-</body>

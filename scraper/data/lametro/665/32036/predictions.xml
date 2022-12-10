@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="665" routeTitle="665 East LA-City Terrace-Cal State LA Tr" stopTag="32036" stopTitle="Indiana / Hubbard">
-  <direction title="North to Csula Transit Center">
-   <prediction affectedByLayover="true" block="6650100" dirTag="665_26_0" epochTime="1670560616608" isDeparture="false" minutes="17" seconds="1022" tripTag="54683557" vehicle="1955"/>
-  </direction>
- </predictions>
-</body>

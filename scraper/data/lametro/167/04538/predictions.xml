@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="4538" stopTitle="Roscoe / Coldwater Canyon">
-  <direction title="East to Coldwater Cyn-Ventura">
-   <prediction block="1670200" dirTag="167_99_0" epochTime="1670560883928" isDeparture="false" minutes="14" seconds="866" tripTag="54429238" vehicle="4023"/>
-   <prediction affectedByLayover="true" block="1670400" dirTag="167_99_0" epochTime="1670564287359" isDeparture="false" minutes="71" seconds="4270" tripTag="54429240" vehicle="4022"/>
-  </direction>
- </predictions>
-</body>

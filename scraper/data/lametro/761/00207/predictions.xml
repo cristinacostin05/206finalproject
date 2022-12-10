@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="207" stopTitle="Van Nuys / Keswick">
-  <direction title="South to Sepulveda E Line (expo) Station">
-   <prediction block="7611000" dirTag="761_72_1" epochTime="1670559150404" isDeparture="false" minutes="6" seconds="409" tripTag="54424840" vehicle="8760"/>
-  </direction>
- </predictions>
-</body>

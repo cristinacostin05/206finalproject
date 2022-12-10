@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="11001" stopTitle="Avenue 64 / Burleigh">
-  <direction title="South to Csula Transit Center">
-   <prediction block="2560300" dirTag="256_104_1" epochTime="1670561745035" isDeparture="false" minutes="35" seconds="2112" tripTag="54664107" vehicle="3136"/>
-   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670565081180" isDeparture="false" minutes="90" seconds="5448" tripTag="54664089" vehicle="3145"/>
-  </direction>
- </predictions>
-</body>

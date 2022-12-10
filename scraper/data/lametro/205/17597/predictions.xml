@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="205" routeTitle="205 Willowbrook Sta-San Pedro Via Wilmgt" stopTag="17597" stopTitle="Western / Leesdale">
-  <direction title="North to Willowbrook / Rosa Parks Station">
-   <prediction block="2050400" dirTag="205_87_0" epochTime="1670560117999" isDeparture="false" minutes="11" seconds="688" tripTag="54636694" vehicle="1535"/>
-  </direction>
- </predictions>
-</body>

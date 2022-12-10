@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="2377" stopTitle="Flower / Pico">
-  <direction title="South to Silver Line - San Pedro Via Downtown LA">
-   <prediction block="9105902" dirTag="950_209_1" epochTime="1670559875240" isDeparture="false" minutes="30" seconds="1823" tripTag="54545491_950" vehicle="5915"/>
-  </direction>
- </predictions>
-</body>

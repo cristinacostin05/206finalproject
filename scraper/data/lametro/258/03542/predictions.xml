@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="3542" stopTitle="Fremont / Alhambra">
-  <direction title="North to Figueroa-York">
-   <prediction block="2580500" dirTag="258_53_0" epochTime="1670562278931" isDeparture="false" minutes="33" seconds="2017" tripTag="54676262" vehicle="5961"/>
-   <prediction affectedByLayover="true" block="2580100" dirTag="258_51_0" epochTime="1670564425284" isDeparture="false" minutes="69" seconds="4163" tripTag="54676297" vehicle="5858"/>
-  </direction>
- </predictions>
-</body>

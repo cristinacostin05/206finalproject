@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="102" routeTitle="102 LAX Cty Bus Ctr - S Gate Via LA Tije" stopTag="2784" stopTitle="La Tijera / Thornburn">
-  <direction title="East to Huntington Park - Palm-Seville">
-   <prediction affectedByLayover="true" block="1020200" dirTag="102_68_0" epochTime="1670559696173" isDeparture="false" minutes="7" seconds="439" tripTag="54635525" vehicle="5751"/>
-   <prediction block="1020100" dirTag="102_67_0" epochTime="1670559781020" isDeparture="false" minutes="8" seconds="524" tripTag="54635523" vehicle="6001"/>
-  </direction>
- </predictions>
-</body>

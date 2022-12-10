@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="603" routeTitle="603 Glendale-Grand Sta Via San Fernando-" stopTag="4499" stopTitle="Riverside / Allesandro">
-  <direction title="South to Grand Sta/LA Trade Tech">
-   <prediction block="6030600" dirTag="603_27_1" epochTime="1670559529609" isDeparture="false" minutes="2" seconds="170" tripTag="54408663" vehicle="5628"/>
-   <prediction affectedByLayover="true" block="6031000" dirTag="603_27_1" epochTime="1670561702940" isDeparture="false" minutes="39" seconds="2343" tripTag="54408545" vehicle="3113"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="76" routeTitle="76 Downtown LA - El Monte Via Valley Bl" stopTag="1673" stopTitle="Valley / San Gabriel">
-  <direction title="East to El Monte Station">
-   <prediction block="0764211" dirTag="76_186_0" epochTime="1670562689677" isDeparture="false" minutes="41" seconds="2513" tripTag="54489138" vehicle="1817"/>
-   <prediction affectedByLayover="true" block="0764111" dirTag="76_190_0" epochTime="1670565388107" isDeparture="false" isScheduleBased="true" minutes="86" seconds="5212" tripTag="54489204" vehicle="virtualVehicle_0764111"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="287" stopTitle="Avalon / Rosecrans">
-  <direction title="South to CAL State Dominguez Hls">
-   <prediction block="0513302" dirTag="51_328_1" epochTime="1670559673469" isDeparture="false" minutes="27" seconds="1673" tripTag="54613978" vehicle="5834"/>
-   <prediction block="0512902" dirTag="51_328_1" epochTime="1670560025407" isDeparture="false" minutes="33" seconds="2025" tripTag="54614066" vehicle="3882"/>
-  </direction>
- </predictions>
-</body>

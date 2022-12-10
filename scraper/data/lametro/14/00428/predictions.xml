@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="14" routeTitle="14 Cedar Sinai-Dtwn LA-Wash/Fairfax Via" stopTag="428" stopTitle="Beverly / Union">
-  <direction title="North to Beverly Center">
-   <prediction affectedByLayover="true" block="0149811" dirTag="14_504_0" epochTime="1670563035631" isDeparture="false" minutes="50" seconds="3049" tripTag="54520474_14" vehicle="5816"/>
-  </direction>
- </predictions>
-</body>

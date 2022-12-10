@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="14073" stopTitle="Harbor Fwy / Carson">
-  <direction title="South to Silver Line - San Pedro Via Downtown LA">
-   <prediction block="9105702" dirTag="950_209_1" epochTime="1670559205740" isDeparture="false" minutes="19" seconds="1143" tripTag="54545489_950" vehicle="8371"/>
-   <prediction block="9105902" dirTag="950_209_1" epochTime="1670561652901" isDeparture="false" minutes="59" seconds="3590" tripTag="54545491_950" vehicle="5915"/>
-  </direction>
- </predictions>
-</body>

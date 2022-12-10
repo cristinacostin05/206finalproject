@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="92" routeTitle="92 Dwntwn LA- Sylmar Sta Via Glendale -" stopTag="2216" stopTitle="Glenoaks / Gain">
-  <direction title="North to Sylmar Station">
-   <prediction block="1645400" dirTag="92_275_0" epochTime="1670559789755" isDeparture="false" minutes="11" seconds="683" tripTag="54432474" vehicle="1662"/>
-   <prediction affectedByLayover="true" block="0921500" dirTag="92_275_0" epochTime="1670564667151" isDeparture="false" isScheduleBased="true" minutes="92" seconds="5560" tripTag="54432496" vehicle="virtualVehicle_0921500"/>
-  </direction>
- </predictions>
-</body>

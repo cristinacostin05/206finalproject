@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="117" routeTitle="117 LAX Cty Bus Ctr-Downey Via Century B" stopTag="32076" stopTitle="103rd / Wilmington">
-  <direction title="West to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="1179811" dirTag="117_72_1" epochTime="1670562202815" isDeparture="false" minutes="49" seconds="2997" tripTag="54541756" vehicle="1635"/>
-  </direction>
- </predictions>
-</body>

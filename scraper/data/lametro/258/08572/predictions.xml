@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="8572" stopTitle="York / Avenue 66">
-  <direction title="South to Csula Transit Center">
-   <prediction affectedByLayover="true" block="2580100" dirTag="258_42_1" epochTime="1670561617708" isDeparture="false" minutes="22" seconds="1340" tripTag="54676274" vehicle="5858"/>
-   <prediction affectedByLayover="true" block="2580500" dirTag="258_42_1" epochTime="1670564077708" isDeparture="false" minutes="63" seconds="3800" tripTag="54676295" vehicle="5961"/>
-  </direction>
- </predictions>
-</body>

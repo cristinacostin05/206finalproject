@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="15735" stopTitle="7th / Lucas">
-  <direction title="North to Westlake/Macarthur Pk Station">
-   <prediction affectedByLayover="true" block="0513502" dirTag="51_325_0" epochTime="1670559066552" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1073" tripTag="54614073" vehicle="virtualVehicle_0513502"/>
-   <prediction affectedByLayover="true" block="0513402" dirTag="51_325_0" epochTime="1670562555470" isDeparture="false" minutes="76" seconds="4562" tripTag="54614049" vehicle="4174"/>
-  </direction>
- </predictions>
-</body>

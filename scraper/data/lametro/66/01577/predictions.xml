@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="66" routeTitle="66 Wilshire Ctr-Dtwn LA-Montebello Via" stopTag="1577" stopTitle="Olympic / Southside">
-  <direction title="East to Montebello Station">
-   <prediction affectedByLayover="true" block="0662702" dirTag="66_394_0" epochTime="1670558448512" isDeparture="false" isScheduleBased="true" minutes="12" seconds="731" tripTag="54630955" vehicle="virtualVehicle_0662702"/>
-  </direction>
- </predictions>
-</body>

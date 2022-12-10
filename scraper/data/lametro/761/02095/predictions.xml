@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="2095" stopTitle="Sepulveda / Ventura">
-  <direction title="South to Sepulveda E Line (expo) Station">
-   <prediction block="7610900" dirTag="761_72_1" epochTime="1670558759563" isDeparture="false" minutes="0" seconds="17" tripTag="54424766" vehicle="8717"/>
-   <prediction block="7611000" dirTag="761_72_1" epochTime="1670560233936" isDeparture="false" minutes="24" seconds="1491" tripTag="54424840" vehicle="8760"/>
-  </direction>
- </predictions>
-</body>

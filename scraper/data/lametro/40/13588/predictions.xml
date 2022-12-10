@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="40" routeTitle="40 Downtown LA-Sbay Galleria Via King B" stopTag="13588" stopTitle="Hawthorne / Century">
-  <direction title="South to South Bay Galleria">
-   <prediction block="0402300" dirTag="40_916_1" epochTime="1670560161874" isDeparture="false" minutes="24" seconds="1449" tripTag="54535966" vehicle="8465"/>
-  </direction>
- </predictions>
-</body>

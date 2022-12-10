@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="158" routeTitle="158 Chatsworth Sta-Sherman Oaks Via Devo" stopTag="9574" stopTitle="Devonshire / Mason">
-  <direction title="West to Chatsworth Station">
-   <prediction block="1580402" dirTag="158_53_1" epochTime="1670562191295" isDeparture="false" minutes="47" seconds="2854" tripTag="54452536" vehicle="2049"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="690" routeTitle="690 Sylmar Sta -Olive View Hosp.-Sunland" stopTag="2049" stopTitle="Foothill / Polk">
-  <direction title="West to Sylmar Station">
-   <prediction affectedByLayover="true" block="6900200" dirTag="690_2_1" epochTime="1670562228410" isDeparture="false" minutes="30" seconds="1825" tripTag="54428449" vehicle="1780"/>
-   <prediction affectedByLayover="true" block="6900400" dirTag="690_2_1" epochTime="1670564879237" isDeparture="false" isScheduleBased="true" minutes="74" seconds="4476" tripTag="54428448" vehicle="virtualVehicle_6900400"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="3381" stopTitle="Anaheim / Avalon">
-  <direction title="South to Downtown Long Beach">
-   <prediction block="2320400" dirTag="232_84_1" epochTime="1670559528423" isDeparture="false" minutes="5" seconds="301" tripTag="54637086" vehicle="1546"/>
-  </direction>
- </predictions>
-</body>

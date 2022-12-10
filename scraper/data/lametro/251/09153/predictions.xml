@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="251" routeTitle="251 Eagle Rock-Long Bch Gl Sta Via Eagle" stopTag="9153" stopTitle="California / Tweedy">
-  <direction title="South to Long Beach Bl - Green Line Station">
-   <prediction block="2511100" dirTag="251_164_1" epochTime="1670558686188" isDeparture="false" minutes="1" seconds="115" tripTag="54644493" vehicle="8601"/>
-   <prediction affectedByLayover="true" block="2512802" dirTag="251_177_1" epochTime="1670559839562" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1268" tripTag="54644624" vehicle="virtualVehicle_2512802"/>
-  </direction>
- </predictions>
-</body>

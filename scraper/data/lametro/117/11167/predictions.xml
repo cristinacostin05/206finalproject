@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="117" routeTitle="117 LAX Cty Bus Ctr-Downey Via Century B" stopTag="11167" stopTitle="Imperial / Wright">
-  <direction title="West to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="1179811" dirTag="117_72_1" epochTime="1670561063532" isDeparture="false" minutes="31" seconds="1865" tripTag="54541756" vehicle="1635"/>
-   <prediction affectedByLayover="true" block="1179911" dirTag="117_72_1" epochTime="1670564723532" isDeparture="false" minutes="92" seconds="5525" tripTag="54541757" vehicle="5804"/>
-  </direction>
- </predictions>
-</body>

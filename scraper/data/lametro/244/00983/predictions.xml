@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="244" routeTitle="244 Chatsworth Sta-Woodland Hills Via De" stopTag="983" stopTitle="De Soto / Osborne">
-  <direction title="South to Woodland Hills">
-   <prediction block="1500400" dirTag="244_2_1" epochTime="1670560016728" isDeparture="false" minutes="1" seconds="75" tripTag="54398475" vehicle="6052"/>
-  </direction>
- </predictions>
-</body>

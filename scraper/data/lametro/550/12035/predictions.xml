@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="550" routeTitle="550 Jefferson Park - San Pedro Via Harbo" stopTag="12035" stopTitle="Gaffey / 1st">
-  <direction title="South to San Pedro - 7th-Patton">
-   <prediction block="5500200" dirTag="550_129_1" epochTime="1670560467346" isDeparture="false" minutes="30" seconds="1849" tripTag="54528689" vehicle="6128"/>
-   <prediction affectedByLayover="true" block="5500100" dirTag="550_124_1" epochTime="1670563754007" isDeparture="false" isScheduleBased="true" minutes="85" seconds="5135" tripTag="54528688" vehicle="1668"/>
-  </direction>
- </predictions>
-</body>

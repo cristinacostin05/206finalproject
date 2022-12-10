@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="236" routeTitle="236 Sylmar Sta-Encino Via Balboa Bl Rina" stopTag="6620" stopTitle="Truman / San Fernando Mission">
-  <direction title="North to Sylmar Station">
-   <prediction affectedByLayover="true" block="2360100" dirTag="236_133_0" epochTime="1670560820857" isDeparture="false" minutes="51" seconds="3119" tripTag="54420723" vehicle="4074"/>
-  </direction>
- </predictions>
-</body>

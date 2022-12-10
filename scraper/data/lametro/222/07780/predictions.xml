@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="222" routeTitle="222 Burbank Ritc- Hollywood Via Riversid" stopTag="7780" stopTitle="Hollywood Way / Chandler">
-  <direction title="North to Sun Valley">
-   <prediction affectedByLayover="true" block="2220300" dirTag="222_80_0" epochTime="1670565469620" isDeparture="false" minutes="87" seconds="5259" tripTag="54409611" vehicle="4013"/>
-  </direction>
- </predictions>
-</body>

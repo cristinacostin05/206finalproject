@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="206" routeTitle="206 Hollywood - Athens Via Normandie Av" stopTag="12548" stopTitle="Normandie / Monroe">
-  <direction title="South to Vermont/Athens Sta">
-   <prediction affectedByLayover="true" block="2065400" dirTag="206_178_1" epochTime="1670561252795" isDeparture="false" minutes="50" seconds="3054" tripTag="54595558" vehicle="5699"/>
-  </direction>
- </predictions>
-</body>

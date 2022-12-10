@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="8399" stopTitle="Wilshire / Lincoln">
-  <direction title="East to Downtown LA - 6th-Main">
-   <prediction affectedByLayover="true" block="0206302" dirTag="20_779_0" epochTime="1670561639538" isDeparture="false" isScheduleBased="true" minutes="54" seconds="3291" tripTag="54485031" vehicle="virtualVehicle_0206302"/>
-   <prediction affectedByLayover="true" block="0209511" dirTag="20_779_0" epochTime="1670563439538" isDeparture="false" isScheduleBased="true" minutes="84" seconds="5091" tripTag="54485125" vehicle="virtualVehicle_0209511"/>
-  </direction>
- </predictions>
-</body>

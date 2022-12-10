@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="10801" stopTitle="Zelzah / Devonshire">
-  <direction title="West to Encino">
-   <prediction affectedByLayover="true" block="2370400" dirTag="237_25_1" epochTime="1670562191669" isDeparture="false" minutes="55" seconds="3304" tripTag="54420305" vehicle="1580"/>
-  </direction>
- </predictions>
-</body>

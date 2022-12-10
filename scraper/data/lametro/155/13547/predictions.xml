@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="13547" stopTitle="Glenoaks / Tujunga">
-  <direction title="North to North Hollywood Station">
-   <prediction affectedByLayover="true" block="1550100" dirTag="155_38_0" epochTime="1670559910797" isDeparture="false" minutes="3" seconds="195" tripTag="54394961" vehicle="6046"/>
-   <prediction affectedByLayover="true" block="1550400" dirTag="155_38_0" epochTime="1670563378797" isDeparture="false" minutes="61" seconds="3663" tripTag="54394970" vehicle="3987"/>
-  </direction>
- </predictions>
-</body>

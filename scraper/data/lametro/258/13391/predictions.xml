@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="13391" stopTitle="Eastern / Bandini">
-  <direction title="South to Paramount">
-   <prediction block="2580200" dirTag="258_45_1" epochTime="1670562807207" isDeparture="false" minutes="42" seconds="2524" tripTag="54676276" vehicle="1640"/>
-  </direction>
- </predictions>
-</body>

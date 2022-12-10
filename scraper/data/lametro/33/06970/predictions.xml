@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="6970" stopTitle="Venice / Walgrove">
-  <direction title="East to Downtown LA - Union Sta">
-   <prediction affectedByLayover="true" block="0339811" dirTag="33_589_0" epochTime="1670564101683" isDeparture="false" minutes="62" seconds="3729" tripTag="54470676" vehicle="8641"/>
-  </direction>
- </predictions>
-</body>

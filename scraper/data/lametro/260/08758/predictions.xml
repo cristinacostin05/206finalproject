@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="8758" stopTitle="Atlantic / Martin Luther King Jr">
-  <direction title="South to Artesia Station">
-   <prediction block="2601300" dirTag="260_286_1" epochTime="1670562801549" isDeparture="false" minutes="56" seconds="3408" tripTag="54610121" vehicle="8319"/>
-   <prediction affectedByLayover="true" block="2601902" dirTag="260_286_1" epochTime="1670564798899" isDeparture="false" minutes="90" seconds="5405" tripTag="54610123" vehicle="1843"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="611" routeTitle="611 Huntington Park Shuttle" stopTag="168" stopTitle="Atlantic / Cecelia">
-  <direction title="Clockwis to Vernon Station">
-   <prediction affectedByLayover="true" block="6110300" dirTag="611_23_0" epochTime="1670563974837" isDeparture="false" minutes="59" seconds="3546" tripTag="54535761" vehicle="3878"/>
-  </direction>
- </predictions>
-</body>

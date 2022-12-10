@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="14568" stopTitle="Sherman Way / Radford">
-  <direction title="West to Woodland Hills">
-   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670561179111" isDeparture="false" minutes="40" seconds="2414" tripTag="54421612" vehicle="3973"/>
-   <prediction affectedByLayover="true" block="1620400" dirTag="162_1_1" epochTime="1670563639111" isDeparture="false" minutes="81" seconds="4874" tripTag="54421614" vehicle="4109"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="18205" stopTitle="Woodman / Parthenia">
-  <direction title="East to Coldwater Cyn-Ventura">
-   <prediction block="1670200" dirTag="167_99_0" epochTime="1670560255438" isDeparture="false" minutes="3" seconds="228" tripTag="54429238" vehicle="4023"/>
-   <prediction affectedByLayover="true" block="1670400" dirTag="167_99_0" epochTime="1670563665108" isDeparture="false" minutes="60" seconds="3637" tripTag="54429240" vehicle="4022"/>
-  </direction>
- </predictions>
-</body>

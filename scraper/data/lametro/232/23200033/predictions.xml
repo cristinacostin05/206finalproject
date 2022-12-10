@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="23200033" stopTitle="Pacific Coast / Anza">
-  <direction title="South to Downtown Long Beach">
-   <prediction affectedByLayover="true" block="2320500" dirTag="232_82_1" epochTime="1670563576310" isDeparture="false" minutes="72" seconds="4338" tripTag="54637092" vehicle="1544"/>
-  </direction>
- </predictions>
-</body>

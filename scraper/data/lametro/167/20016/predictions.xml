@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="20016" stopTitle="Zelzah / Plummer">
-  <direction title="East to Coldwater Cyn-Ventura">
-   <prediction affectedByLayover="true" block="1670400" dirTag="167_99_0" epochTime="1670562430083" isDeparture="false" minutes="39" seconds="2398" tripTag="54429240" vehicle="4022"/>
-  </direction>
- </predictions>
-</body>

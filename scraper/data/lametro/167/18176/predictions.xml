@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="18176" stopTitle="Plummer / Yolanda">
-  <direction title="West to Chatsworth Station">
-   <prediction block="1670300" dirTag="167_95_1" epochTime="1670560336421" isDeparture="false" minutes="4" seconds="288" tripTag="54429230" vehicle="4020"/>
-   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670564241040" isDeparture="false" minutes="69" seconds="4193" tripTag="54429231" vehicle="4021"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="10910" stopTitle="Hawthorne / 182nd">
-  <direction title="South to South Bay Galleria">
-   <prediction block="2102402" dirTag="210_303_1" epochTime="1670558802474" isDeparture="false" minutes="15" seconds="916" tripTag="54543156" vehicle="1952"/>
-   <prediction block="2100700" dirTag="210_303_1" epochTime="1670561810948" isDeparture="false" minutes="65" seconds="3924" tripTag="54543057" vehicle="2060"/>
-  </direction>
- </predictions>
-</body>

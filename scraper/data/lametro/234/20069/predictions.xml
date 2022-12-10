@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="234" routeTitle="234 Sylmar - Sherman Oaks Via Sepulveda" stopTag="20069" stopTitle="Sayre / Gladstone">
-  <direction title="North to Sylmar - Mission College">
-   <prediction affectedByLayover="true" block="2341400" dirTag="234_74_0" epochTime="1670559697779" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1031" tripTag="54395467" vehicle="virtualVehicle_2341400"/>
-  </direction>
- </predictions>
-</body>

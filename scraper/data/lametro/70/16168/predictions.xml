@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="16168" stopTitle="Olive / Olympic">
-  <direction title="East to El Monte Station">
-   <prediction affectedByLayover="true" block="0704111" dirTag="70_288_0" epochTime="1670562640506" isDeparture="false" minutes="55" seconds="3340" tripTag="54592910" vehicle="1996"/>
-   <prediction affectedByLayover="true" block="0701700" dirTag="70_292_0" epochTime="1670562883713" isDeparture="false" minutes="59" seconds="3584" tripTag="54592847" vehicle="1838"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="150" routeTitle="150 Chatsworth Sta - Encino Via Topanga" stopTag="15384" stopTitle="Ventura / Oakdale">
-  <direction title="West to Chatsworth Station">
-   <prediction affectedByLayover="true" block="1500200" dirTag="150_191_1" epochTime="1670563300783" isDeparture="false" minutes="57" seconds="3468" tripTag="54420242" vehicle="5900"/>
-   <prediction affectedByLayover="true" block="1500700" dirTag="150_191_1" epochTime="1670563698909" isDeparture="false" isScheduleBased="true" minutes="64" seconds="3866" tripTag="54420243" vehicle="virtualVehicle_1500700"/>
-  </direction>
- </predictions>
-</body>

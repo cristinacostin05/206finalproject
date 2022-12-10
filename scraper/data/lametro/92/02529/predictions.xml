@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="92" routeTitle="92 Dwntwn LA- Sylmar Sta Via Glendale -" stopTag="2529" stopTitle="Hubbard / Herrick">
-  <direction title="North to Sylmar Station">
-   <prediction block="1645400" dirTag="92_275_0" epochTime="1670560346836" isDeparture="false" minutes="20" seconds="1231" tripTag="54432474" vehicle="1662"/>
-  </direction>
- </predictions>
-</body>

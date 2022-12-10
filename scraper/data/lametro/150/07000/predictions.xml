@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="150" routeTitle="150 Chatsworth Sta - Encino Via Topanga" stopTag="7000" stopTitle="Ventura / Calatrana">
-  <direction title="East to Encino">
-   <prediction affectedByLayover="true" block="1500700" dirTag="150_180_0" epochTime="1670560555176" isDeparture="false" isScheduleBased="true" minutes="12" seconds="736" tripTag="54420234" vehicle="virtualVehicle_1500700"/>
-   <prediction block="1500200" dirTag="150_180_0" epochTime="1670561838232" isDeparture="false" minutes="33" seconds="2019" tripTag="54420233" vehicle="5900"/>
-  </direction>
- </predictions>
-</body>

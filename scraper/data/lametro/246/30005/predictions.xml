@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="246" routeTitle="246 Harbor Gateway Trans Ctr - San Pedro" stopTag="30005" stopTitle="Harbor Gateway Transit Center">
-  <direction title="South to San Pedro - Pacific-21st">
-   <prediction affectedByLayover="true" block="2460300" dirTag="246_71_1" epochTime="1670559464560" isDeparture="true" isScheduleBased="true" minutes="17" seconds="1054" tripTag="54544776" vehicle="1789"/>
-  </direction>
- </predictions>
-</body>

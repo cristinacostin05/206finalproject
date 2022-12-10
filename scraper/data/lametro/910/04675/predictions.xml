@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="4675" stopTitle="Flower / Olympic">
-  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
-   <prediction affectedByLayover="true" block="9101302" dirTag="910_210_1" epochTime="1670560448249" isDeparture="false" isScheduleBased="true" minutes="9" seconds="545" tripTag="54545504" vehicle="virtualVehicle_9101302"/>
-   <prediction block="9102602" dirTag="910_210_1" epochTime="1670561494077" isDeparture="false" minutes="26" seconds="1591" tripTag="54545613" vehicle="8388"/>
-  </direction>
- </predictions>
-</body>

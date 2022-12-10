@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="662" routeTitle="662 Altadena-Pasadena Via Lake - Los Rob" stopTag="12246" stopTitle="Los Robles / Claremont">
-  <direction title="North to Nb Lincoln - Sb Lake Via Del Mar Sta">
-   <prediction affectedByLayover="true" block="6620802" dirTag="662_7_0" epochTime="1670558947740" isDeparture="false" minutes="15" seconds="917" tripTag="54676451" vehicle="6045"/>
-   <prediction affectedByLayover="true" block="6620802" dirTag="662_7_0" epochTime="1670562151459" isDeparture="false" minutes="68" seconds="4121" tripTag="54676453" vehicle="6045"/>
-  </direction>
- </predictions>
-</body>

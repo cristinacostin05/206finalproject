@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="236" routeTitle="236 Sylmar Sta-Encino Via Balboa Bl Rina" stopTag="5815" stopTitle="San Fernando Mission / Kewen">
-  <direction title="North to Sylmar Station">
-   <prediction affectedByLayover="true" block="2360100" dirTag="236_133_0" epochTime="1670560711960" isDeparture="false" minutes="50" seconds="3007" tripTag="54420723" vehicle="4074"/>
-  </direction>
- </predictions>
-</body>

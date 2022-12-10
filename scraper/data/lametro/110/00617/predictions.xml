@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="617" stopTitle="Centinela / Edgewood">
-  <direction title="East to Bell Gardens">
-   <prediction affectedByLayover="true" block="1100700" dirTag="110_272_0" epochTime="1670562511969" isDeparture="false" minutes="78" seconds="4682" tripTag="54518509" vehicle="5769"/>
-  </direction>
- </predictions>
-</body>

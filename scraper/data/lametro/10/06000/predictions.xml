@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="10" routeTitle="10 W Hollywood-Dtwn LA -Avalon Sta Via" stopTag="6000" stopTitle="Santa Monica / Larrabee">
-  <direction title="East to Avalon Station">
-   <prediction affectedByLayover="true" block="0100600" dirTag="10_747_0" epochTime="1670559240000" isDeparture="true" isScheduleBased="true" minutes="18" seconds="1114" tripTag="54470078_10" vehicle="virtualVehicle_0100600"/>
-  </direction>
- </predictions>
-</body>

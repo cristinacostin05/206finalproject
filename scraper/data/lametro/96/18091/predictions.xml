@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="96" routeTitle="96 Dtwn LA- Burbank Sta Via Griffith Pk" stopTag="18091" stopTitle="Riverside / Eads">
-  <direction title="South to Cesar Chavez &amp; Main">
-   <prediction affectedByLayover="true" block="0960100" dirTag="96_251_1" epochTime="1670562425228" isDeparture="false" minutes="40" seconds="2412" tripTag="54394437" vehicle="3108"/>
-  </direction>
- </predictions>
-</body>

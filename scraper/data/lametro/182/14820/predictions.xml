@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="14820" stopTitle="Talmadge / Melbourne">
-  <direction title="West to Vermont/Sunset Sta">
-   <prediction block="1820300" dirTag="182_15_1" epochTime="1670562170275" isDeparture="false" minutes="30" seconds="1822" tripTag="54677213" vehicle="1912"/>
-   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670564803471" isDeparture="false" minutes="74" seconds="4455" tripTag="54677211" vehicle="1885"/>
-  </direction>
- </predictions>
-</body>

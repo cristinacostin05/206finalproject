@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="12026" stopTitle="Figueroa / Sycamore Grove Park">
-  <direction title="East to Huntington-Monterey">
-   <prediction block="1820200" dirTag="182_14_0" epochTime="1670560717995" isDeparture="false" minutes="6" seconds="385" tripTag="54677194" vehicle="1593"/>
-   <prediction affectedByLayover="true" block="1820600" dirTag="182_14_0" epochTime="1670563398052" isDeparture="false" isScheduleBased="true" minutes="51" seconds="3065" tripTag="54677255" vehicle="virtualVehicle_1820600"/>
-  </direction>
- </predictions>
-</body>

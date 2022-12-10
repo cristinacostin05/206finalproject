@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="662" routeTitle="662 Altadena-Pasadena Via Lake - Los Rob" stopTag="3764" stopTitle="Los Robles / Jackson">
-  <direction title="South to Nb Lake - Sb Lincoln Via Del Mar Sta">
-   <prediction block="6620702" dirTag="662_8_1" epochTime="1670558985406" isDeparture="false" minutes="15" seconds="947" tripTag="54676394" vehicle="1594"/>
-   <prediction affectedByLayover="true" block="6620702" dirTag="662_8_1" epochTime="1670562115280" isDeparture="false" minutes="67" seconds="4077" tripTag="54676391" vehicle="1594"/>
-  </direction>
- </predictions>
-</body>

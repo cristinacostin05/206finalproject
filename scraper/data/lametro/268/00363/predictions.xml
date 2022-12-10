@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="268" routeTitle="268 Sierra Madre Villa Sta - El Monte St" stopTag="363" stopTitle="Baldwin / Longden">
-  <direction title="South to El Monte Station">
-   <prediction affectedByLayover="true" block="2680402" dirTag="268_146_1" epochTime="1670561160950" isDeparture="false" isScheduleBased="true" minutes="39" seconds="2378" tripTag="54489391" vehicle="virtualVehicle_2680402"/>
-  </direction>
- </predictions>
-</body>

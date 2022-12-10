@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="611" routeTitle="611 Huntington Park Shuttle" stopTag="9357" stopTitle="Compton / 70th">
-  <direction title="Xcounter to Vernon-Huntington Park-Cudahy">
-   <prediction block="6110300" dirTag="611_27_1" epochTime="1670560746532" isDeparture="false" minutes="4" seconds="291" tripTag="54535744" vehicle="3878"/>
-   <prediction affectedByLayover="true" block="6110100" dirTag="611_27_1" epochTime="1670564280877" isDeparture="false" minutes="63" seconds="3825" tripTag="54535745" vehicle="5781"/>
-  </direction>
- </predictions>
-</body>

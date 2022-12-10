@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="13000145" stopTitle="Cahuenga / Yucca Layover">
-  <direction title="South to South Bay Galleria">
-   <prediction affectedByLayover="true" block="2101900" dirTag="210_303_1" epochTime="1670561100000" isDeparture="true" minutes="53" seconds="3207" tripTag="54543031" vehicle="1942"/>
-  </direction>
- </predictions>
-</body>

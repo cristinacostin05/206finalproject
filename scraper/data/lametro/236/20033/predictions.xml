@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="236" routeTitle="236 Sylmar Sta-Encino Via Balboa Bl Rina" stopTag="20033" stopTitle="San Fernando Mission / O Melveny">
-  <direction title="North to Sylmar Station">
-   <prediction affectedByLayover="true" block="2360100" dirTag="236_133_0" epochTime="1670560669940" isDeparture="false" minutes="49" seconds="2965" tripTag="54420723" vehicle="4074"/>
-  </direction>
- </predictions>
-</body>

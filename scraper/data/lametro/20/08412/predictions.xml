@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="8412" stopTitle="Wilshire / Catalina">
-  <direction title="East to Downtown LA - 6th-Main">
-   <prediction block="0209811" dirTag="20_783_0" epochTime="1670559980079" isDeparture="false" isScheduleBased="true" minutes="27" seconds="1634" tripTag="54485028" vehicle="4165"/>
-   <prediction affectedByLayover="true" block="0209711" dirTag="20_783_0" epochTime="1670563024615" isDeparture="false" isScheduleBased="true" minutes="77" seconds="4679" tripTag="54485030" vehicle="virtualVehicle_0209711"/>
-  </direction>
- </predictions>
-</body>

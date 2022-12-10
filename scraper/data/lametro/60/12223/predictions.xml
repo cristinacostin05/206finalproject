@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="12223" stopTitle="Long Beach / Pine">
-  <direction title="South to Artesia Station">
-   <prediction block="0604211" dirTag="60_163_1" epochTime="1670561752203" isDeparture="false" minutes="36" seconds="2167" tripTag="54597750" vehicle="6103"/>
-   <prediction affectedByLayover="true" block="0600900" dirTag="60_163_1" epochTime="1670563936369" isDeparture="false" minutes="72" seconds="4351" tripTag="54597795" vehicle="4083"/>
-  </direction>
- </predictions>
-</body>

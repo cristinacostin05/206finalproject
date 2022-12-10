@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="48" routeTitle="48 W Hollywood-Dtwn LA -Avalon Sta Via" stopTag="5257" stopTitle="Main / 43rd">
-  <direction title="West to West Hollywood">
-   <prediction affectedByLayover="true" block="0512802" dirTag="48_742_1" epochTime="1670560869470" isDeparture="false" isScheduleBased="true" minutes="28" seconds="1710" tripTag="54470033_48" vehicle="virtualVehicle_0512802"/>
-  </direction>
- </predictions>
-</body>

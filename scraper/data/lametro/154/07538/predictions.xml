@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="154" routeTitle="154 Van Nuys - Burbank Sta Via Oxnard St" stopTag="7538" stopTitle="Burbank / Hollywood Way">
-  <direction title="East to Burbank Station">
-   <prediction block="1550400" dirTag="154_40_0" epochTime="1670561907517" isDeparture="false" minutes="24" seconds="1491" tripTag="54426024" vehicle="3987"/>
-  </direction>
- </predictions>
-</body>

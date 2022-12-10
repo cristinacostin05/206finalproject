@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="10322" stopTitle="Avenue 60 / Lomitas">
-  <direction title="North to Memorial Park Station">
-   <prediction affectedByLayover="true" block="2560100" dirTag="256_105_0" epochTime="1670562547632" isDeparture="false" minutes="48" seconds="2922" tripTag="54664087" vehicle="3130"/>
-   <prediction affectedByLayover="true" block="2560300" dirTag="256_105_0" epochTime="1670565487632" isDeparture="false" minutes="97" seconds="5862" tripTag="54664090" vehicle="3136"/>
-  </direction>
- </predictions>
-</body>

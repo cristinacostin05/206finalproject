@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="8393" stopTitle="Wilshire / Crenshaw">
-  <direction title="East to Downtown LA - 6th - Central">
-   <prediction affectedByLayover="true" block="7200400" dirTag="720_1271_0" epochTime="1670562016877" isDeparture="false" minutes="57" seconds="3428" tripTag="54507849" vehicle="8737"/>
-   <prediction affectedByLayover="true" block="7203302" dirTag="720_1271_0" epochTime="1670562616877" isDeparture="false" isScheduleBased="true" minutes="67" seconds="4028" tripTag="54507899" vehicle="virtualVehicle_7203302"/>
-  </direction>
- </predictions>
-</body>

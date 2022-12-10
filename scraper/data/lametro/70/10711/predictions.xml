@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="10711" stopTitle="Garvey / Kelburn">
-  <direction title="West to Downtown LA - Broadway-Venice">
-   <prediction affectedByLayover="true" block="0704211" dirTag="70_290_1" epochTime="1670561012090" isDeparture="false" isScheduleBased="true" minutes="28" seconds="1702" tripTag="54592920" vehicle="virtualVehicle_0704211"/>
-   <prediction affectedByLayover="true" block="0700100" dirTag="70_291_1" epochTime="1670563374049" isDeparture="false" minutes="67" seconds="4064" tripTag="54592919" vehicle="4116"/>
-  </direction>
- </predictions>
-</body>

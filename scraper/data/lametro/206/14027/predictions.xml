@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="206" routeTitle="206 Hollywood - Athens Via Normandie Av" stopTag="14027" stopTitle="Vermont / 119th">
-  <direction title="South to Vermont/Athens Sta">
-   <prediction block="2060200" dirTag="206_178_1" epochTime="1670560685872" isDeparture="false" minutes="41" seconds="2479" tripTag="54595555" vehicle="1603"/>
-  </direction>
- </predictions>
-</body>

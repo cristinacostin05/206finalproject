@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="12325" stopTitle="Rosemead / Colorado">
-  <direction title="South to Lakewood Center">
-   <prediction affectedByLayover="true" block="2661000" dirTag="266_26_1" epochTime="1670561787171" isDeparture="false" minutes="25" seconds="1541" tripTag="54432206" vehicle="5884"/>
-   <prediction affectedByLayover="true" block="2661302" dirTag="266_26_1" epochTime="1670565087171" isDeparture="false" minutes="80" seconds="4841" tripTag="54432201" vehicle="5632"/>
-  </direction>
- </predictions>
-</body>

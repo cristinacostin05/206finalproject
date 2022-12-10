@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="90" routeTitle="90 Dtla - Noho Sta Via Vineland-Foothil" stopTag="579" stopTitle="Canada / Santa Maria">
-  <direction title="North to North Hollywood Station">
-   <prediction affectedByLayover="true" block="0901400" dirTag="90_359_0" epochTime="1670561330199" isDeparture="false" isScheduleBased="true" minutes="47" seconds="2820" tripTag="54422210" vehicle="virtualVehicle_0901400"/>
-  </direction>
- </predictions>
-</body>

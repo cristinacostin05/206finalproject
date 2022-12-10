@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="102" routeTitle="102 LAX Cty Bus Ctr - S Gate Via LA Tije" stopTag="9969" stopTitle="Florence / Wilson">
-  <direction title="West to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="1020100" dirTag="102_75_1" epochTime="1670564199361" isDeparture="false" minutes="82" seconds="4926" tripTag="54635524" vehicle="6001"/>
-   <prediction affectedByLayover="true" block="1020200" dirTag="102_75_1" epochTime="1670565207793" isDeparture="false" minutes="98" seconds="5934" tripTag="54635509" vehicle="5751"/>
-  </direction>
- </predictions>
-</body>

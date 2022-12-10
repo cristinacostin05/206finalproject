@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="30001" stopTitle="North Hollywood Station">
-  <direction title="West to Woodland Hills">
-   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670560380000" isDeparture="true" minutes="26" seconds="1605" tripTag="54421612" vehicle="3973"/>
-   <prediction affectedByLayover="true" block="1620400" dirTag="162_1_1" epochTime="1670562840000" isDeparture="true" minutes="67" seconds="4065" tripTag="54421614" vehicle="4109"/>
-  </direction>
- </predictions>
-</body>

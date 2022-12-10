@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="17395" stopTitle="Coldwater Canyon / Valleyheart">
-  <direction title="West to Chatsworth Station">
-   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670560430215" isDeparture="false" minutes="6" seconds="388" tripTag="54429231" vehicle="4021"/>
-   <prediction affectedByLayover="true" block="1670200" dirTag="167_95_1" epochTime="1670563360978" isDeparture="false" minutes="55" seconds="3319" tripTag="54429232" vehicle="4023"/>
-  </direction>
- </predictions>
-</body>

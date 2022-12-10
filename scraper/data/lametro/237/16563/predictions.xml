@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="16563" stopTitle="White Oak / Magnolia">
-  <direction title="East to N. Hollywood Station">
-   <prediction affectedByLayover="true" block="2370300" dirTag="237_24_0" epochTime="1670559252068" isDeparture="false" minutes="6" seconds="379" tripTag="54420302" vehicle="5698"/>
-   <prediction affectedByLayover="true" block="2370200" dirTag="237_24_0" epochTime="1670563152068" isDeparture="false" minutes="71" seconds="4279" tripTag="54420304" vehicle="1576"/>
-  </direction>
- </predictions>
-</body>

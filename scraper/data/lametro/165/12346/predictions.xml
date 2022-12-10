@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="165" routeTitle="165 West Hills - Burbank Via Vanowen St" stopTag="12346" stopTitle="San Fernando / Grismer">
-  <direction title="East to Burbank Station">
-   <prediction block="1655200" dirTag="165_199_0" epochTime="1670558317873" isDeparture="false" minutes="0" seconds="29" tripTag="54422733" vehicle="3955"/>
-   <prediction affectedByLayover="true" block="1640500" dirTag="165_199_0" epochTime="1670563938924" isDeparture="false" minutes="94" seconds="5650" tripTag="54422736" vehicle="1990"/>
-  </direction>
- </predictions>
-</body>

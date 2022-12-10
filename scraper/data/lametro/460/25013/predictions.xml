@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="460" routeTitle="460 Downtown LA - Disneyland Via Harbor" stopTag="25013" stopTitle="Beach / Artesia">
-  <direction title="East to Disneyland">
-   <prediction block="4601002" dirTag="460_200_0" epochTime="1670558760130" isDeparture="false" minutes="11" seconds="691" tripTag="54529717" vehicle="1661"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="230" routeTitle="230 Sylmar- San Fernando- Studio City- V" stopTag="30015" stopTitle="Sylmar Station">
-  <direction title="South to Studio City">
-   <prediction affectedByLayover="true" block="2301202" dirTag="230_87_1" epochTime="1670559120000" isDeparture="true" isScheduleBased="true" minutes="2" seconds="156" tripTag="54423542" vehicle="virtualVehicle_2301202"/>
-  </direction>
- </predictions>
-</body>

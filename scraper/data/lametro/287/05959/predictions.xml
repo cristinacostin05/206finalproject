@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="287" routeTitle="287 Montebello- El Monte- Arcadia Via Ru" stopTag="5959" stopTitle="Santa Anita / Main">
-  <direction title="North to Arcadia Gold Line Station">
-   <prediction block="2870100" dirTag="287_72_0" epochTime="1670560393795" isDeparture="false" minutes="38" seconds="2294" tripTag="54489522" vehicle="4063"/>
-  </direction>
- </predictions>
-</body>

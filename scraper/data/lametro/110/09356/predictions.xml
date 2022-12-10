@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="9356" stopTitle="Compton / 68th">
-  <direction title="East to Bell Gardens">
-   <prediction affectedByLayover="true" block="1101500" dirTag="110_272_0" epochTime="1670558763242" isDeparture="false" isScheduleBased="true" minutes="15" seconds="922" tripTag="54518506" vehicle="virtualVehicle_1101500"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="28" routeTitle="28 Century City-Dtw LA-Via Olympic" stopTag="7880" stopTitle="Olympic / Norton">
-  <direction title="East to Cesar Chavez &amp; Vignes">
-   <prediction block="0285100" dirTag="28_642_0" epochTime="1670561225555" isDeparture="false" minutes="20" seconds="1252" tripTag="54472819" vehicle="4131"/>
-  </direction>
- </predictions>
-</body>

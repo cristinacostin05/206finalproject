@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="142212" stopTitle="Grand / Continental">
-  <direction title="North to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="2320900" dirTag="232_87_0" epochTime="1670560626403" isDeparture="false" isScheduleBased="true" minutes="23" seconds="1411" tripTag="54637081" vehicle="virtualVehicle_2320900"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="550" routeTitle="550 Jefferson Park - San Pedro Via Harbo" stopTag="7752" stopTitle="Jefferson / Mc Clintock">
-  <direction title="North to Expo Park/USC">
-   <prediction block="5500302" dirTag="550_132_0" epochTime="1670558935625" isDeparture="false" minutes="5" seconds="324" tripTag="54528663" vehicle="5974"/>
-  </direction>
- </predictions>
-</body>

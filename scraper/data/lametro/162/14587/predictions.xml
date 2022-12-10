@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="14587" stopTitle="Sherman Way / Haskell">
-  <direction title="West to Woodland Hills">
-   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670562321980" isDeparture="false" minutes="59" seconds="3554" tripTag="54421612" vehicle="3973"/>
-  </direction>
- </predictions>
-</body>

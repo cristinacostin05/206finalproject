@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="9454" stopTitle="Crenshaw / 9th">
-  <direction title="South to South Bay Galleria">
-   <prediction block="2100700" dirTag="210_303_1" epochTime="1670558120752" isDeparture="false" minutes="3" seconds="235" tripTag="54543057" vehicle="2060"/>
-   <prediction affectedByLayover="true" block="2101900" dirTag="210_303_1" epochTime="1670562622415" isDeparture="false" minutes="78" seconds="4737" tripTag="54543031" vehicle="1942"/>
-  </direction>
- </predictions>
-</body>

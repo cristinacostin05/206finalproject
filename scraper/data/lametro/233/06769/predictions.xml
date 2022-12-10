@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="233" routeTitle="233 Lake View Terr - Sherman Oaks Via Va" stopTag="6769" stopTitle="Van Nuys / Addison">
-  <direction title="North to Lake View Terrace">
-   <prediction affectedByLayover="true" block="2330500" dirTag="233_148_0" epochTime="1670564004807" isDeparture="false" minutes="65" seconds="3908" tripTag="54441493" vehicle="8777"/>
-  </direction>
- </predictions>
-</body>

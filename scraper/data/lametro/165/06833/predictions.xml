@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="165" routeTitle="165 West Hills - Burbank Via Vanowen St" stopTag="6833" stopTitle="Vanowen / Corbin">
-  <direction title="East to Burbank Station">
-   <prediction affectedByLayover="true" block="1640500" dirTag="165_199_0" epochTime="1670560974465" isDeparture="false" minutes="44" seconds="2698" tripTag="54422736" vehicle="1990"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="236" routeTitle="236 Sylmar Sta-Encino Via Balboa Bl Rina" stopTag="351" stopTitle="Balboa / Vanowen">
-  <direction title="North to Sylmar Station">
-   <prediction affectedByLayover="true" block="2360100" dirTag="236_133_0" epochTime="1670558789684" isDeparture="false" minutes="18" seconds="1090" tripTag="54420723" vehicle="4074"/>
-   <prediction affectedByLayover="true" block="2360400" dirTag="236_133_0" epochTime="1670562089684" isDeparture="false" minutes="73" seconds="4390" tripTag="54420780" vehicle="1743"/>
-  </direction>
- </predictions>
-</body>

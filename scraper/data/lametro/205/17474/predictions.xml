@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="205" routeTitle="205 Willowbrook Sta-San Pedro Via Wilmgt" stopTag="17474" stopTitle="Del Amo / Alvo">
-  <direction title="North to Willowbrook / Rosa Parks Station">
-   <prediction block="2051000" dirTag="205_87_0" epochTime="1670559825352" isDeparture="false" minutes="6" seconds="403" tripTag="54636693" vehicle="1533"/>
-   <prediction block="2050400" dirTag="205_87_0" epochTime="1670563014390" isDeparture="false" minutes="59" seconds="3592" tripTag="54636694" vehicle="1535"/>
-  </direction>
- </predictions>
-</body>

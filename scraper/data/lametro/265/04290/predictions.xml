@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="265" routeTitle="265 Pico Rivera - Lakewood Ctr Mall Via" stopTag="4290" stopTitle="Paramount / Maris">
-  <direction title="North to Pico Rivera">
-   <prediction block="2650200" dirTag="265_14_0" epochTime="1670558252833" isDeparture="false" minutes="0" seconds="13" tripTag="54437471" vehicle="1819"/>
-   <prediction affectedByLayover="true" block="2650100" dirTag="265_14_0" epochTime="1670561956089" isDeparture="false" minutes="61" seconds="3716" tripTag="54437456" vehicle="2053"/>
-  </direction>
- </predictions>
-</body>

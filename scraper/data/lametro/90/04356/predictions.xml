@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="90" routeTitle="90 Dtla - Noho Sta Via Vineland-Foothil" stopTag="4356" stopTitle="Pennsylvania / Altura">
-  <direction title="North to North Hollywood Station">
-   <prediction affectedByLayover="true" block="0901400" dirTag="90_359_0" epochTime="1670561979500" isDeparture="false" isScheduleBased="true" minutes="57" seconds="3460" tripTag="54422210" vehicle="virtualVehicle_0901400"/>
-  </direction>
- </predictions>
-</body>

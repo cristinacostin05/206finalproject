@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="117" routeTitle="117 LAX Cty Bus Ctr-Downey Via Century B" stopTag="9655" stopTitle="103rd / Stanford">
-  <direction title="West to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="1179811" dirTag="117_72_1" epochTime="1670562549410" isDeparture="false" minutes="55" seconds="3353" tripTag="54541756" vehicle="1635"/>
-  </direction>
- </predictions>
-</body>

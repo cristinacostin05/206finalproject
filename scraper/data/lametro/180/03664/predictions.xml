@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="3664" stopTitle="Colorado / Lake">
-  <direction title="West to Hollywood/Vine Sta">
-   <prediction affectedByLayover="true" block="1801500" dirTag="180_228_1" epochTime="1670561648517" isDeparture="false" minutes="19" seconds="1161" tripTag="54675133" vehicle="5949"/>
-   <prediction affectedByLayover="true" block="1800500" dirTag="180_228_1" epochTime="1670564540726" isDeparture="false" minutes="67" seconds="4054" tripTag="54675134" vehicle="1586"/>
-  </direction>
- </predictions>
-</body>

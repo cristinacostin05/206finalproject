@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="150" routeTitle="150 Chatsworth Sta - Encino Via Topanga" stopTag="6994" stopTitle="Ventura / Amigo">
-  <direction title="East to Encino">
-   <prediction affectedByLayover="true" block="1500700" dirTag="150_180_0" epochTime="1670561185151" isDeparture="false" isScheduleBased="true" minutes="22" seconds="1367" tripTag="54420234" vehicle="virtualVehicle_1500700"/>
-   <prediction block="1500200" dirTag="150_180_0" epochTime="1670562468207" isDeparture="false" minutes="44" seconds="2650" tripTag="54420233" vehicle="5900"/>
-  </direction>
- </predictions>
-</body>

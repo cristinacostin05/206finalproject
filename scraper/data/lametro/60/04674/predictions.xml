@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="4674" stopTitle="Artesia / Santa Fe">
-  <direction title="North to Downtown LA - Sunset- Figueroa">
-   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670560125968" isDeparture="false" isScheduleBased="true" minutes="9" seconds="556" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
-   <prediction affectedByLayover="true" block="0604211" dirTag="60_161_0" epochTime="1670563981968" isDeparture="false" minutes="73" seconds="4412" tripTag="54597697" vehicle="6103"/>
-  </direction>
- </predictions>
-</body>

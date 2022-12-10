@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="9041" stopTitle="Brand / Maple">
-  <direction title="West to Hollywood/Vine Sta">
-   <prediction block="1801700" dirTag="180_228_1" epochTime="1670561803097" isDeparture="false" minutes="21" seconds="1315" tripTag="54675231" vehicle="1919"/>
-   <prediction affectedByLayover="true" block="1801500" dirTag="180_228_1" epochTime="1670564078733" isDeparture="false" minutes="59" seconds="3590" tripTag="54675133" vehicle="5949"/>
-  </direction>
- </predictions>
-</body>

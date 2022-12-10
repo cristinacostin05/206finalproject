@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="15315" stopTitle="Venice / Wilton">
-  <direction title="West to Santa Monica">
-   <prediction affectedByLayover="true" block="0330400" dirTag="33_580_1" epochTime="1670563502551" isDeparture="false" minutes="51" seconds="3115" tripTag="54470544" vehicle="8503"/>
-  </direction>
- </predictions>
-</body>

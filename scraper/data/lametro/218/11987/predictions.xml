@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="218" routeTitle="218 Studio Cty-Cedars Sinai Med Via Laur" stopTag="11987" stopTitle="Santa Monica / Fairfax">
-  <direction title="North to Studio City">
-   <prediction affectedByLayover="true" block="2180100" dirTag="218_38_0" epochTime="1670561341561" isDeparture="false" minutes="29" seconds="1792" tripTag="54423380" vehicle="3120"/>
-   <prediction affectedByLayover="true" block="2180200" dirTag="218_38_0" epochTime="1670564641561" isDeparture="false" minutes="84" seconds="5092" tripTag="54423354" vehicle="3128"/>
-  </direction>
- </predictions>
-</body>

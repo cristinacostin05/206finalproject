@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="617" routeTitle="617 Beverly Hills-Culver City Via Burton" stopTag="12972" stopTitle="Robertson / Wilshire">
-  <direction title="East to Culver City Station">
-   <prediction affectedByLayover="true" block="6170200" dirTag="617_6_0" epochTime="1670564513655" isDeparture="false" minutes="77" seconds="4626" tripTag="54474006" vehicle="5656"/>
-  </direction>
- </predictions>
-</body>

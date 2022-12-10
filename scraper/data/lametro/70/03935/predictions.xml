@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="3935" stopTitle="Spring / Temple">
-  <direction title="East to El Monte Station">
-   <prediction affectedByLayover="true" block="0704111" dirTag="70_288_0" epochTime="1670563243052" isDeparture="false" minutes="65" seconds="3949" tripTag="54592910" vehicle="1996"/>
-  </direction>
- </predictions>
-</body>

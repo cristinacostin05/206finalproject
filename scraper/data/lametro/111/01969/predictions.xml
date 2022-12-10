@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="1969" stopTitle="Florence / Eastern">
-  <direction title="East to Norwalk Green Line Sta">
-   <prediction block="1119911" dirTag="111_387_0" epochTime="1670559959972" isDeparture="false" minutes="4" seconds="279" tripTag="54533456" vehicle="8471"/>
-   <prediction block="1151500" dirTag="111_387_0" epochTime="1670560592938" isDeparture="false" minutes="15" seconds="911" tripTag="54533466" vehicle="6021"/>
-  </direction>
- </predictions>
-</body>

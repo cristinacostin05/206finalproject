@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="5235" stopTitle="Long Beach / Alondra">
-  <direction title="North to Downtown LA - Sunset- Figueroa">
-   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670560480222" isDeparture="false" isScheduleBased="true" minutes="15" seconds="910" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
-   <prediction affectedByLayover="true" block="0604211" dirTag="60_161_0" epochTime="1670564336222" isDeparture="false" minutes="79" seconds="4766" tripTag="54597697" vehicle="6103"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="17427" stopTitle="Pacific Coast / President">
-  <direction title="North to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="2320400" dirTag="232_87_0" epochTime="1670564045319" isDeparture="false" minutes="80" seconds="4828" tripTag="54637083" vehicle="1546"/>
-  </direction>
- </predictions>
-</body>

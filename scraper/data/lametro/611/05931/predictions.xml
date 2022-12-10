@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="611" routeTitle="611 Huntington Park Shuttle" stopTag="5931" stopTitle="Santa Ana / Atlantic">
-  <direction title="Xcounter to Vernon-Huntington Park-Cudahy">
-   <prediction block="6110300" dirTag="611_27_1" epochTime="1670561854669" isDeparture="false" minutes="23" seconds="1404" tripTag="54535744" vehicle="3878"/>
-   <prediction affectedByLayover="true" block="6110100" dirTag="611_27_1" epochTime="1670565389014" isDeparture="false" minutes="82" seconds="4939" tripTag="54535745" vehicle="5781"/>
-  </direction>
- </predictions>
-</body>

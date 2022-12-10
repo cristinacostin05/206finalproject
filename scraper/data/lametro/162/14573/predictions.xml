@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="14573" stopTitle="Sherman Way / Beck">
-  <direction title="West to Woodland Hills">
-   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670561064172" isDeparture="false" minutes="38" seconds="2299" tripTag="54421612" vehicle="3973"/>
-   <prediction affectedByLayover="true" block="1620400" dirTag="162_1_1" epochTime="1670563524172" isDeparture="false" minutes="79" seconds="4759" tripTag="54421614" vehicle="4109"/>
-  </direction>
- </predictions>
-</body>

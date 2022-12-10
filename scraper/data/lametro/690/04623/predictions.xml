@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="690" routeTitle="690 Sylmar Sta -Olive View Hosp.-Sunland" stopTag="4623" stopTitle="Roxford / Glenoaks">
-  <direction title="East to Sunland">
-   <prediction affectedByLayover="true" block="6900400" dirTag="690_1_0" epochTime="1670560717693" isDeparture="false" isScheduleBased="true" minutes="5" seconds="324" tripTag="54428414" vehicle="virtualVehicle_6900400"/>
-   <prediction affectedByLayover="true" block="6900502" dirTag="690_1_0" epochTime="1670562515643" isDeparture="false" minutes="35" seconds="2122" tripTag="54428415" vehicle="6141"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="30" routeTitle="30 Pico Rimpau - Dtwn LA - Indiana Sta" stopTag="4888" stopTitle="1st / Utah">
-  <direction title="East to Downtown LA - Union Sta">
-   <prediction affectedByLayover="true" block="0309911" dirTag="30_800_0" epochTime="1670561336398" isDeparture="false" minutes="39" seconds="2351" tripTag="54511764" vehicle="3983"/>
-  </direction>
- </predictions>
-</body>

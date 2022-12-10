@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="754" routeTitle="754 Hollywood - Athens Via Vermont Av" stopTag="5702" stopTitle="Vermont / Wilshire">
-  <direction title="North to Vermont/Sunset Sta">
-   <prediction block="7540800" dirTag="754_98_0" epochTime="1670561096329" isDeparture="false" minutes="24" seconds="1494" tripTag="54638381" vehicle="9518"/>
-  </direction>
- </predictions>
-</body>

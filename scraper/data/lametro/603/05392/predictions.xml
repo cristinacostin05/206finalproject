@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="603" routeTitle="603 Glendale-Grand Sta Via San Fernando-" stopTag="5392" stopTitle="Pacific / Riverdale">
-  <direction title="North to Glendale Galleria">
-   <prediction affectedByLayover="true" block="6030700" dirTag="603_26_0" epochTime="1670562472547" isDeparture="false" minutes="52" seconds="3121" tripTag="54408642" vehicle="5778"/>
-  </direction>
- </predictions>
-</body>

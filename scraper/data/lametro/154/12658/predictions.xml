@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="154" routeTitle="154 Van Nuys - Burbank Sta Via Oxnard St" stopTag="12658" stopTitle="Oxnard / Ethel">
-  <direction title="West to Sepulveda Station">
-   <prediction affectedByLayover="true" block="1550500" dirTag="154_41_1" epochTime="1670562501984" isDeparture="false" minutes="34" seconds="2080" tripTag="54426034" vehicle="1670"/>
-  </direction>
- </predictions>
-</body>

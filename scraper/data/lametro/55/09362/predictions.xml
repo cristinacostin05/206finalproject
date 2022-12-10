@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="55" routeTitle="55 Downtown LA - Willowbrook Sta Via Co" stopTag="9362" stopTitle="Compton / 95th">
-  <direction title="South to Willowbrook / Rosa Parks Station">
-   <prediction block="0554111" dirTag="55_289_1" epochTime="1670561287152" isDeparture="false" minutes="23" seconds="1408" tripTag="54597134" vehicle="6075"/>
-   <prediction affectedByLayover="true" block="0554211" dirTag="55_288_1" epochTime="1670564683477" isDeparture="false" minutes="80" seconds="4805" tripTag="54597099" vehicle="4061"/>
-  </direction>
- </predictions>
-</body>

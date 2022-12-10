@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="243" routeTitle="243 Northridge - Tarzana Via Tampa - Win" stopTag="142461" stopTitle="Winnetka / G Line (Orange)">
-  <direction title="South to Woodland Hills">
-   <prediction block="2420400" dirTag="243_3_1" epochTime="1670561298005" isDeparture="false" minutes="13" seconds="825" tripTag="54423933_243" vehicle="5934"/>
-  </direction>
- </predictions>
-</body>

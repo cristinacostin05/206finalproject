@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="7088" stopTitle="Vermont / Melbourne">
-  <direction title="East to Pasadena City College">
-   <prediction block="1800800" dirTag="180_227_0" epochTime="1670560584336" isDeparture="false" minutes="1" seconds="103" tripTag="54675220" vehicle="6040"/>
-   <prediction affectedByLayover="true" block="1801700" dirTag="180_227_0" epochTime="1670564548729" isDeparture="false" minutes="67" seconds="4068" tripTag="54675213" vehicle="1919"/>
-  </direction>
- </predictions>
-</body>

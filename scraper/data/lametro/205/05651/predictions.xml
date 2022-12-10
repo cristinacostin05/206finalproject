@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="205" routeTitle="205 Willowbrook Sta-San Pedro Via Wilmgt" stopTag="5651" stopTitle="Vermont / 190th">
-  <direction title="North to Willowbrook / Rosa Parks Station">
-   <prediction block="2050400" dirTag="205_87_0" epochTime="1670561993636" isDeparture="false" minutes="42" seconds="2578" tripTag="54636694" vehicle="1535"/>
-  </direction>
- </predictions>
-</body>

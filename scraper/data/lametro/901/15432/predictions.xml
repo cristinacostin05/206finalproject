@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15432" stopTitle="Canoga Station">
-  <direction title="East to G Line (orange) - North Hollywood Sta">
-   <prediction affectedByLayover="true" block="9012102" dirTag="901_55_0" epochTime="1670562750857" isDeparture="false" minutes="77" seconds="4637" tripTag="54425306" vehicle="19500"/>
-   <prediction affectedByLayover="true" block="9012202" dirTag="901_55_0" epochTime="1670564010857" isDeparture="false" minutes="98" seconds="5897" tripTag="54425314" vehicle="19501"/>
-  </direction>
- </predictions>
-</body>

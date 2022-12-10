@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="90" routeTitle="90 Dtla - Noho Sta Via Vineland-Foothil" stopTag="2033" stopTitle="Foothill / McVine">
-  <direction title="North to North Hollywood Station">
-   <prediction block="0901200" dirTag="90_359_0" epochTime="1670558984564" isDeparture="false" minutes="7" seconds="472" tripTag="54422291" vehicle="4111"/>
-   <prediction affectedByLayover="true" block="0901400" dirTag="90_359_0" epochTime="1670562907795" isDeparture="false" isScheduleBased="true" minutes="73" seconds="4395" tripTag="54422210" vehicle="virtualVehicle_0901400"/>
-  </direction>
- </predictions>
-</body>

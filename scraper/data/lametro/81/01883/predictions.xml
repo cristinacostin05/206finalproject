@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="81" routeTitle="81 Eagle Rock- Dwntwn LA- Harbor Fwy St" stopTag="1883" stopTitle="Figueroa / Martin Luther King Jr">
-  <direction title="North to Eagle Rock Plaza">
-   <prediction block="0811400" dirTag="81_321_0" epochTime="1670558824597" isDeparture="false" minutes="0" seconds="36" tripTag="54674606" vehicle="1888"/>
-   <prediction affectedByLayover="true" block="0811000" dirTag="81_322_0" epochTime="1670564700392" isDeparture="false" isScheduleBased="true" minutes="98" seconds="5912" tripTag="54674619" vehicle="virtualVehicle_0811000"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="62" routeTitle="62 Downtown LA - Hawaiian Gardens Via T" stopTag="3376" stopTitle="Olympic / Mirasol">
-  <direction title="North to Downtown LA">
-   <prediction affectedByLayover="true" block="0620400" dirTag="62_333_0" epochTime="1670562687041" isDeparture="false" minutes="79" seconds="4791" tripTag="54678429" vehicle="5997"/>
-   <prediction affectedByLayover="true" block="0620500" dirTag="62_333_0" epochTime="1670563475467" isDeparture="false" minutes="92" seconds="5579" tripTag="54678455" vehicle="1855"/>
-  </direction>
- </predictions>
-</body>

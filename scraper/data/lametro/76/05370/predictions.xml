@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="76" routeTitle="76 Downtown LA - El Monte Via Valley Bl" stopTag="5370" stopTitle="Olive / 11th">
-  <direction title="East to El Monte Station">
-   <prediction affectedByLayover="true" block="0764111" dirTag="76_190_0" epochTime="1670562505867" isDeparture="false" isScheduleBased="true" minutes="38" seconds="2327" tripTag="54489204" vehicle="virtualVehicle_0764111"/>
-   <prediction affectedByLayover="true" block="0764311" dirTag="76_190_0" epochTime="1670566105867" isDeparture="false" isScheduleBased="true" minutes="98" seconds="5927" tripTag="54489207" vehicle="virtualVehicle_0764311"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="211" routeTitle="211 Inglewood-South Bay Galleria Via Pra" stopTag="12873" stopTitle="Prairie / Broadway">
-  <direction title="South to South Bay Galleria">
-   <prediction block="2110202" dirTag="211_68_1" epochTime="1670557700983" isDeparture="false" minutes="0" seconds="8" tripTag="54637044_211" vehicle="1779"/>
-  </direction>
- </predictions>
-</body>

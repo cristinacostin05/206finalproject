@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="1270" stopTitle="Marianna / Valley">
-  <direction title="South to Csula Transit Center">
-   <prediction block="2560100" dirTag="256_104_1" epochTime="1670559690967" isDeparture="false" minutes="1" seconds="64" tripTag="54664108" vehicle="3130"/>
-   <prediction block="2560300" dirTag="256_104_1" epochTime="1670563283840" isDeparture="false" minutes="60" seconds="3657" tripTag="54664107" vehicle="3136"/>
-  </direction>
- </predictions>
-</body>

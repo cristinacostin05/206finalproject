@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="62" routeTitle="62 Downtown LA - Hawaiian Gardens Via T" stopTag="13597" stopTitle="Hill / 5th">
-  <direction title="South to Hawaiian Gardens - Civic Ctr-Ibex">
-   <prediction affectedByLayover="true" block="0620400" dirTag="62_340_1" epochTime="1670563851181" isDeparture="true" minutes="98" seconds="5927" tripTag="54678430" vehicle="5997"/>
-  </direction>
- </predictions>
-</body>

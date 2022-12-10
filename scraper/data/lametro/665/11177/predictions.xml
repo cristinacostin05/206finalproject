@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="665" routeTitle="665 East LA-City Terrace-Cal State LA Tr" stopTag="11177" stopTitle="Indiana / 3rd">
-  <direction title="South to Indiana-Olympic">
-   <prediction block="6650100" dirTag="665_27_1" epochTime="1670560080195" isDeparture="false" minutes="8" seconds="481" tripTag="54683552" vehicle="1955"/>
-  </direction>
- </predictions>
-</body>

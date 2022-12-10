@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="2170" stopTitle="Garvanza / Avenue 63">
-  <direction title="South to Csula Transit Center">
-   <prediction affectedByLayover="true" block="2580100" dirTag="258_42_1" epochTime="1670561520000" isDeparture="true" minutes="20" seconds="1246" tripTag="54676274" vehicle="5858"/>
-   <prediction affectedByLayover="true" block="2580500" dirTag="258_42_1" epochTime="1670563980000" isDeparture="true" minutes="61" seconds="3706" tripTag="54676295" vehicle="5961"/>
-  </direction>
- </predictions>
-</body>

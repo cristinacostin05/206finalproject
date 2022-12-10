@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="212" routeTitle="212 Hllywd/Vine Sta - Hawthorne/Lennox S" stopTag="3649" stopTitle="La Brea / Hazel">
-  <direction title="North to Hollywood/Highland Sta">
-   <prediction block="2121500" dirTag="212_218_0" epochTime="1670560812836" isDeparture="false" minutes="11" seconds="661" tripTag="54578883" vehicle="5738"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="218" routeTitle="218 Studio Cty-Cedars Sinai Med Via Laur" stopTag="15650" stopTitle="3rd / Orlando">
-  <direction title="South to Cedars-Sinai Medical Ctr">
-   <prediction affectedByLayover="true" block="2180200" dirTag="218_31_1" epochTime="1670562431383" isDeparture="false" minutes="47" seconds="2877" tripTag="54423384" vehicle="3128"/>
-  </direction>
- </predictions>
-</body>

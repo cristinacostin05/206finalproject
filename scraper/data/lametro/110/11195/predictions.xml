@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="11195" stopTitle="Jefferson / Mesmer">
-  <direction title="West to Playa Vista">
-   <prediction block="1100700" dirTag="110_273_1" epochTime="1670560586800" isDeparture="false" minutes="45" seconds="2731" tripTag="54518535" vehicle="5769"/>
-  </direction>
- </predictions>
-</body>

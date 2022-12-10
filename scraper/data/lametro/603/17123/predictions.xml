@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="603" routeTitle="603 Glendale-Grand Sta Via San Fernando-" stopTag="17123" stopTitle="Columbus / Hawthorne">
-  <direction title="South to Grand Sta/LA Trade Tech">
-   <prediction affectedByLayover="true" block="6031000" dirTag="603_27_1" epochTime="1670559600000" isDeparture="true" minutes="3" seconds="226" tripTag="54408545" vehicle="3113"/>
-   <prediction affectedByLayover="true" block="6030700" dirTag="603_27_1" epochTime="1670564880000" isDeparture="true" minutes="91" seconds="5506" tripTag="54408658" vehicle="5778"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="104707" stopTitle="Wilshire / Barrington">
-  <direction title="East to Downtown LA - 6th-Main">
-   <prediction affectedByLayover="true" block="0206302" dirTag="20_779_0" epochTime="1670562133920" isDeparture="false" isScheduleBased="true" minutes="63" seconds="3780" tripTag="54485031" vehicle="virtualVehicle_0206302"/>
-   <prediction affectedByLayover="true" block="0209511" dirTag="20_779_0" epochTime="1670563933920" isDeparture="false" isScheduleBased="true" minutes="93" seconds="5580" tripTag="54485125" vehicle="virtualVehicle_0209511"/>
-  </direction>
- </predictions>
-</body>

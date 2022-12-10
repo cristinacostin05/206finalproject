@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="55" routeTitle="55 Downtown LA - Willowbrook Sta Via Co" stopTag="13974" stopTitle="Spring / 7th">
-  <direction title="South to Willowbrook / Rosa Parks Station">
-   <prediction affectedByLayover="true" block="0554211" dirTag="55_288_1" epochTime="1670562720000" isDeparture="true" minutes="47" seconds="2837" tripTag="54597099" vehicle="4061"/>
-  </direction>
- </predictions>
-</body>

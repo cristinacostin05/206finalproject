@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="287" routeTitle="287 Montebello- El Monte- Arcadia Via Ru" stopTag="14329" stopTitle="Santa Anita / West Hondo">
-  <direction title="South to The Shops At Montebello">
-   <prediction block="2870200" dirTag="287_79_1" epochTime="1670558440639" isDeparture="false" minutes="5" seconds="329" tripTag="54489530" vehicle="1938"/>
-  </direction>
- </predictions>
-</body>

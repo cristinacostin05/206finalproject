@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="230" routeTitle="230 Sylmar- San Fernando- Studio City- V" stopTag="11406" stopTitle="Laurel Canyon / San Fernando Mission">
-  <direction title="South to Studio City">
-   <prediction affectedByLayover="true" block="2301202" dirTag="230_87_1" epochTime="1670559559104" isDeparture="false" isScheduleBased="true" minutes="9" seconds="598" tripTag="54423542" vehicle="virtualVehicle_2301202"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="251" routeTitle="251 Eagle Rock-Long Bch Gl Sta Via Eagle" stopTag="14713" stopTitle="State / Olive">
-  <direction title="South to Long Beach Bl - Green Line Station">
-   <prediction affectedByLayover="true" block="2512802" dirTag="251_177_1" epochTime="1670559475967" isDeparture="false" isScheduleBased="true" minutes="14" seconds="893" tripTag="54644624" vehicle="virtualVehicle_2512802"/>
-  </direction>
- </predictions>
-</body>

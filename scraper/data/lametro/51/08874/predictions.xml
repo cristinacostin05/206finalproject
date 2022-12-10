@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="8874" stopTitle="Avalon / Redondo Beach">
-  <direction title="South to CAL State Dominguez Hls">
-   <prediction block="0512902" dirTag="51_328_1" epochTime="1670560156107" isDeparture="false" minutes="35" seconds="2149" tripTag="54614066" vehicle="3882"/>
-  </direction>
- </predictions>
-</body>

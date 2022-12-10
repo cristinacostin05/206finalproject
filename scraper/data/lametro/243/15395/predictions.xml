@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="243" routeTitle="243 Northridge - Tarzana Via Tampa - Win" stopTag="15395" stopTitle="Ventura / Shirley">
-  <direction title="North to Chatsworth">
-   <prediction affectedByLayover="true" block="2420200" dirTag="243_2_0" epochTime="1670561388350" isDeparture="false" minutes="15" seconds="922" tripTag="54423967_243" vehicle="1577"/>
-  </direction>
- </predictions>
-</body>

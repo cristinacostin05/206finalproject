@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="14092" stopTitle="Woodman / Montague">
-  <direction title="West to Chatsworth Station">
-   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670562403420" isDeparture="false" minutes="39" seconds="2362" tripTag="54429231" vehicle="4021"/>
-   <prediction affectedByLayover="true" block="1670200" dirTag="167_95_1" epochTime="1670565334183" isDeparture="false" minutes="88" seconds="5293" tripTag="54429232" vehicle="4023"/>
-  </direction>
- </predictions>
-</body>

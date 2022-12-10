@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="10" routeTitle="10 W Hollywood-Dtwn LA -Avalon Sta Via" stopTag="11700" stopTitle="Melrose / Gardner">
-  <direction title="West to West Hollywood">
-   <prediction block="0105100" dirTag="10_737_1" epochTime="1670559854118" isDeparture="false" minutes="28" seconds="1720" tripTag="54470057" vehicle="5624"/>
-   <prediction affectedByLayover="true" block="0105602" dirTag="10_737_1" epochTime="1670563114852" isDeparture="false" isScheduleBased="true" minutes="83" seconds="4981" tripTag="54470133" vehicle="virtualVehicle_0105602"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="92" stopTitle="Alondra / Clark">
-  <direction title="West to Harbor Fwy Station">
-   <prediction affectedByLayover="true" block="1270200" dirTag="127_35_1" epochTime="1670558660246" isDeparture="false" minutes="16" seconds="1005" tripTag="54542726" vehicle="1682"/>
-  </direction>
- </predictions>
-</body>

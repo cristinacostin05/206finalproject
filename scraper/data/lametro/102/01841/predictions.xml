@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="102" routeTitle="102 LAX Cty Bus Ctr - S Gate Via LA Tije" stopTag="1841" stopTitle="Exposition / Vermont">
-  <direction title="East to Huntington Park - Palm-Seville">
-   <prediction affectedByLayover="true" block="1020200" dirTag="102_68_0" epochTime="1670561502179" isDeparture="false" minutes="37" seconds="2247" tripTag="54635525" vehicle="5751"/>
-   <prediction block="1020100" dirTag="102_67_0" epochTime="1670561533754" isDeparture="false" minutes="37" seconds="2279" tripTag="54635523" vehicle="6001"/>
-  </direction>
- </predictions>
-</body>

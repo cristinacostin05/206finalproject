@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="218" routeTitle="218 Studio Cty-Cedars Sinai Med Via Laur" stopTag="14353" stopTitle="Crescent Heights / Fountain">
-  <direction title="South to Cedars-Sinai Medical Ctr">
-   <prediction affectedByLayover="true" block="2180200" dirTag="218_31_1" epochTime="1670561549620" isDeparture="false" minutes="33" seconds="1996" tripTag="54423384" vehicle="3128"/>
-   <prediction affectedByLayover="true" block="2180100" dirTag="218_31_1" epochTime="1670565149620" isDeparture="false" minutes="93" seconds="5596" tripTag="54423366" vehicle="3120"/>
-  </direction>
- </predictions>
-</body>

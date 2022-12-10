@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="235" routeTitle="235 Sylmar Sta-Encino Via Balboa Bl Rina" stopTag="8929" stopTitle="Balboa / Saticoy">
-  <direction title="South to Encino">
-   <prediction block="2360400" dirTag="235_124_1" epochTime="1670559726548" isDeparture="false" minutes="16" seconds="998" tripTag="54420726_235" vehicle="1743"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="120" routeTitle="120 Aviation/LAX Sta- Whittwood Ctr Via" stopTag="140793" stopTitle="Imperial / Main">
-  <direction title="West to Aviation/Lax Station">
-   <prediction affectedByLayover="true" block="1200600" dirTag="120_76_1" epochTime="1670560271791" isDeparture="false" isScheduleBased="true" minutes="7" seconds="461" tripTag="54542530" vehicle="virtualVehicle_1200600"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="662" routeTitle="662 Altadena-Pasadena Via Lake - Los Rob" stopTag="12245" stopTitle="Los Robles / Buckeye">
-  <direction title="North to Nb Lincoln - Sb Lake Via Del Mar Sta">
-   <prediction affectedByLayover="true" block="6620802" dirTag="662_7_0" epochTime="1670559050278" isDeparture="false" minutes="17" seconds="1020" tripTag="54676451" vehicle="6045"/>
-   <prediction affectedByLayover="true" block="6620802" dirTag="662_7_0" epochTime="1670562253997" isDeparture="false" minutes="70" seconds="4223" tripTag="54676453" vehicle="6045"/>
-  </direction>
- </predictions>
-</body>

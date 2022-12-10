@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="14608" stopTitle="Sherman Way / Shoup">
-  <direction title="West to Woodland Hills">
-   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670564042929" isDeparture="false" minutes="87" seconds="5272" tripTag="54421612" vehicle="3973"/>
-  </direction>
- </predictions>
-</body>

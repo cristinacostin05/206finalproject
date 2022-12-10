@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="120" routeTitle="120 Aviation/LAX Sta- Whittwood Ctr Via" stopTag="11443" stopTitle="Leffingwell / Toerge">
-  <direction title="West to Aviation/Lax Station">
-   <prediction affectedByLayover="true" block="1200300" dirTag="120_76_1" epochTime="1670563075794" isDeparture="false" minutes="54" seconds="3271" tripTag="54542520" vehicle="6080"/>
-  </direction>
- </predictions>
-</body>

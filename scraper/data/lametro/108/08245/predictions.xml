@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="108" routeTitle="108 Marina Del Rey - Pico Rivera Via Sla" stopTag="8245" stopTitle="Washington / Palawan">
-  <direction title="East to Slauson-Paramount">
-   <prediction affectedByLayover="true" block="1082702" dirTag="108_313_0" epochTime="1670562300000" isDeparture="true" isScheduleBased="true" minutes="37" seconds="2233" tripTag="54518273" vehicle="virtualVehicle_1082702"/>
-  </direction>
- </predictions>
-</body>

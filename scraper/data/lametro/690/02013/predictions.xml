@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="690" routeTitle="690 Sylmar Sta -Olive View Hosp.-Sunland" stopTag="2013" stopTitle="Foothill / Dronfield">
-  <direction title="East to Sunland">
-   <prediction affectedByLayover="true" block="6900400" dirTag="690_1_0" epochTime="1670561343269" isDeparture="false" isScheduleBased="true" minutes="15" seconds="951" tripTag="54428414" vehicle="virtualVehicle_6900400"/>
-   <prediction affectedByLayover="true" block="6900502" dirTag="690_1_0" epochTime="1670563142689" isDeparture="false" minutes="45" seconds="2750" tripTag="54428415" vehicle="6141"/>
-  </direction>
- </predictions>
-</body>

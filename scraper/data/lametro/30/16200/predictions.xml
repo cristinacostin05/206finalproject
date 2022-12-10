@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="30" routeTitle="30 Pico Rimpau - Dtwn LA - Indiana Sta" stopTag="16200" stopTitle="Pico / Flower">
-  <direction title="West to Pico-Rimpau">
-   <prediction block="0309811" dirTag="30_801_1" epochTime="1670560516940" isDeparture="false" minutes="25" seconds="1519" tripTag="54511799" vehicle="3967"/>
-   <prediction affectedByLayover="true" block="0309911" dirTag="30_803_1" epochTime="1670564667528" isDeparture="false" minutes="94" seconds="5670" tripTag="54511802" vehicle="3983"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="16570" stopTitle="White Oak / Valerio">
-  <direction title="West to Encino">
-   <prediction block="2370200" dirTag="237_25_1" epochTime="1670559551953" isDeparture="false" minutes="11" seconds="665" tripTag="54420320" vehicle="1576"/>
-   <prediction affectedByLayover="true" block="2370400" dirTag="237_25_1" epochTime="1670563023926" isDeparture="false" minutes="68" seconds="4137" tripTag="54420305" vehicle="1580"/>
-  </direction>
- </predictions>
-</body>

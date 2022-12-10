@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="5628" stopTitle="Venice / Abbot Kinney">
-  <direction title="East to Downtown LA - Union Sta">
-   <prediction affectedByLayover="true" block="0339811" dirTag="33_589_0" epochTime="1670563820755" isDeparture="false" minutes="57" seconds="3459" tripTag="54470676" vehicle="8641"/>
-   <prediction affectedByLayover="true" block="0339911" dirTag="33_589_0" epochTime="1670566280755" isDeparture="false" minutes="98" seconds="5919" tripTag="54470664" vehicle="8633"/>
-  </direction>
- </predictions>
-</body>

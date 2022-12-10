@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="617" routeTitle="617 Beverly Hills-Culver City Via Burton" stopTag="9120" stopTitle="Burton / Foothill">
-  <direction title="West to Beverly-Pico">
-   <prediction block="6170200" dirTag="617_4_1" epochTime="1670561109139" isDeparture="false" minutes="20" seconds="1214" tripTag="54473993" vehicle="5656"/>
-  </direction>
- </predictions>
-</body>

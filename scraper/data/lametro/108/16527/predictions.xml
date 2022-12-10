@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="108" routeTitle="108 Marina Del Rey - Pico Rivera Via Sla" stopTag="16527" stopTitle="Washington / Via Dolce">
-  <direction title="West to Marina Del Rey">
-   <prediction affectedByLayover="true" block="1082702" dirTag="108_403_1" epochTime="1670560285258" isDeparture="false" isScheduleBased="true" minutes="3" seconds="195" tripTag="54518349" vehicle="virtualVehicle_1082702"/>
-  </direction>
- </predictions>
-</body>

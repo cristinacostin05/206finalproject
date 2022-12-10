@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="28" routeTitle="28 Century City-Dtw LA-Via Olympic" stopTag="4252" stopTitle="Olympic / Normandie">
-  <direction title="West to Century City">
-   <prediction block="0280500" dirTag="28_630_1" epochTime="1670560392887" isDeparture="false" minutes="6" seconds="418" tripTag="54472831" vehicle="5688"/>
-   <prediction affectedByLayover="true" block="0286000" dirTag="28_630_1" epochTime="1670561987125" isDeparture="false" minutes="33" seconds="2012" tripTag="54472828" vehicle="4114"/>
-  </direction>
- </predictions>
-</body>

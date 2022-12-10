@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="15376" stopTitle="Ventura / Whitsett">
-  <direction title="West to Northridge">
-   <prediction affectedByLayover="true" block="2401700" dirTag="240_2_1" epochTime="1670561592843" isDeparture="false" isScheduleBased="true" minutes="52" seconds="3159" tripTag="54418530" vehicle="virtualVehicle_2401700"/>
-   <prediction affectedByLayover="true" block="2401000" dirTag="240_2_1" epochTime="1670561796885" isDeparture="false" minutes="56" seconds="3363" tripTag="54418528" vehicle="8450"/>
-  </direction>
- </predictions>
-</body>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="11490" stopTitle="Long Beach / Marcelle">
-  <direction title="South to Artesia Station">
-   <prediction block="0604211" dirTag="60_163_1" epochTime="1670562235725" isDeparture="false" minutes="44" seconds="2657" tripTag="54597750" vehicle="6103"/>
-   <prediction affectedByLayover="true" block="0600900" dirTag="60_163_1" epochTime="1670564416913" isDeparture="false" minutes="80" seconds="4838" tripTag="54597795" vehicle="4083"/>
-  </direction>
- </predictions>
-</body>

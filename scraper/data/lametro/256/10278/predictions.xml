@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="10278" stopTitle="Washington / Los Robles">
-  <direction title="South to Csula Transit Center">
-   <prediction block="2560300" dirTag="256_104_1" epochTime="1670560376761" isDeparture="false" minutes="12" seconds="745" tripTag="54664107" vehicle="3136"/>
-   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670563712906" isDeparture="false" minutes="68" seconds="4081" tripTag="54664089" vehicle="3145"/>
-  </direction>
- </predictions>
-</body>

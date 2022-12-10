@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="14" routeTitle="14 Cedar Sinai-Dtwn LA-Wash/Fairfax Via" stopTag="140903" stopTitle="Beverly / Gardner">
-  <direction title="North to Beverly Center">
-   <prediction affectedByLayover="true" block="0149811" dirTag="14_504_0" epochTime="1670564236919" isDeparture="false" minutes="70" seconds="4246" tripTag="54520474_14" vehicle="5816"/>
-  </direction>
- </predictions>
-</body>

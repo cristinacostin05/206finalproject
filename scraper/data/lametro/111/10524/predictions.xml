@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="10524" stopTitle="Florence / Haledon">
-  <direction title="West to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="1151500" dirTag="111_380_1" epochTime="1670562585554" isDeparture="false" minutes="48" seconds="2885" tripTag="54533473" vehicle="6021"/>
-   <prediction affectedByLayover="true" block="1119911" dirTag="111_380_1" epochTime="1670563946623" isDeparture="false" minutes="70" seconds="4246" tripTag="54533476" vehicle="8471"/>
-  </direction>
- </predictions>
-</body>

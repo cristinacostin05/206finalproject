@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="8563" stopTitle="York / Avenue 49">
-  <direction title="West to Vermont/Sunset Sta">
-   <prediction block="1820300" dirTag="182_15_1" epochTime="1670561064758" isDeparture="false" minutes="12" seconds="721" tripTag="54677213" vehicle="1912"/>
-   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670563697954" isDeparture="false" minutes="55" seconds="3354" tripTag="54677211" vehicle="1885"/>
-  </direction>
- </predictions>
-</body>

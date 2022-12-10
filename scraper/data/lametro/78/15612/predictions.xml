@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="15612" stopTitle="1st / Hill">
-  <direction title="West to Downtown LA - Grand-Venice">
-   <prediction block="0780100" dirTag="78_421_1" epochTime="1670559981247" isDeparture="false" minutes="36" seconds="2178" tripTag="54636636" vehicle="1826"/>
-   <prediction affectedByLayover="true" block="0780500" dirTag="78_522_1" epochTime="1670563370874" isDeparture="false" minutes="92" seconds="5567" tripTag="54636648" vehicle="2016"/>
-  </direction>
- </predictions>
-</body>

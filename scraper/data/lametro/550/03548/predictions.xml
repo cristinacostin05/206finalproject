@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="550" routeTitle="550 Jefferson Park - San Pedro Via Harbo" stopTag="3548" stopTitle="Gaffey / Westmont">
-  <direction title="North to Harbor Gateway Transit Ctr">
-   <prediction affectedByLayover="true" block="5500100" dirTag="550_131_0" epochTime="1670559623326" isDeparture="false" isScheduleBased="true" minutes="16" seconds="1014" tripTag="54528693" vehicle="1668"/>
-   <prediction affectedByLayover="true" block="5500200" dirTag="550_131_0" epochTime="1670563343326" isDeparture="false" minutes="78" seconds="4734" tripTag="54528692" vehicle="6128"/>
-  </direction>
- </predictions>
-</body>

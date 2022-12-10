@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="217" routeTitle="217 E Hollywood - La Cienega Sta Via Hol" stopTag="10880" stopTitle="Hollywood / La Brea">
-  <direction title="South to LA Cienega/Jefferson Sta">
-   <prediction affectedByLayover="true" block="2170502" dirTag="217_317_1" epochTime="1670559762417" isDeparture="false" isScheduleBased="true" minutes="13" seconds="781" tripTag="54542147" vehicle="virtualVehicle_2170502"/>
-  </direction>
- </predictions>
-</body>

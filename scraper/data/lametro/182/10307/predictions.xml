@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="10307" stopTitle="Eagle Rock / Avenue 41">
-  <direction title="West to Vermont/Sunset Sta">
-   <prediction block="1820300" dirTag="182_15_1" epochTime="1670561302974" isDeparture="false" minutes="15" seconds="958" tripTag="54677213" vehicle="1912"/>
-   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670563936170" isDeparture="false" minutes="59" seconds="3591" tripTag="54677211" vehicle="1885"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="224" routeTitle="224 Sylmar-Universal Cty Via San Fernand" stopTag="2819" stopTitle="Lankershim / Hesby">
-  <direction title="South to Universal/Studio City Sta">
-   <prediction affectedByLayover="true" block="2240200" dirTag="224_258_1" epochTime="1670561645730" isDeparture="false" minutes="43" seconds="2631" tripTag="54429159" vehicle="4010"/>
-  </direction>
- </predictions>
-</body>

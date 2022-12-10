@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="55" routeTitle="55 Downtown LA - Willowbrook Sta Via Co" stopTag="4528" stopTitle="119th / Willowbrook">
-  <direction title="North to Downtown LA - Spring-7th">
-   <prediction affectedByLayover="true" block="0554111" dirTag="55_285_0" epochTime="1670563395399" isDeparture="false" minutes="58" seconds="3526" tripTag="54597092" vehicle="6075"/>
-  </direction>
- </predictions>
-</body>

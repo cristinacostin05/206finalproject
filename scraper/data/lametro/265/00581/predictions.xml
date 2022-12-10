@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="265" routeTitle="265 Pico Rivera - Lakewood Ctr Mall Via" stopTag="581" stopTitle="Candlewood / Downey">
-  <direction title="North to Pico Rivera">
-   <prediction affectedByLayover="true" block="2650100" dirTag="265_14_0" epochTime="1670558797198" isDeparture="false" minutes="9" seconds="564" tripTag="54437456" vehicle="2053"/>
-  </direction>
- </predictions>
-</body>

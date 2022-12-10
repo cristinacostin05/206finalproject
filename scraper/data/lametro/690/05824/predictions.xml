@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="690" routeTitle="690 Sylmar Sta -Olive View Hosp.-Sunland" stopTag="5824" stopTitle="San Fernando / Cobalt">
-  <direction title="East to Sunland">
-   <prediction affectedByLayover="true" block="6900400" dirTag="690_1_0" epochTime="1670560546905" isDeparture="false" isScheduleBased="true" minutes="2" seconds="153" tripTag="54428414" vehicle="virtualVehicle_6900400"/>
-   <prediction affectedByLayover="true" block="6900502" dirTag="690_1_0" epochTime="1670562344855" isDeparture="false" minutes="32" seconds="1951" tripTag="54428415" vehicle="6141"/>
-  </direction>
- </predictions>
-</body>

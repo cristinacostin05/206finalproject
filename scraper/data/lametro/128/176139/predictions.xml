@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="128" routeTitle="128 Compton Sta - Cerritos Towne Center" stopTag="176139" stopTitle="Artesia / Shoemaker">
-  <direction title="East to Cerritos Town Center">
-   <prediction block="1280200" dirTag="128_29_0" epochTime="1670561302601" isDeparture="false" minutes="44" seconds="2657" tripTag="54540267" vehicle="1553"/>
-  </direction>
- </predictions>
-</body>

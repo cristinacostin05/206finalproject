@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="128" routeTitle="128 Compton Sta - Cerritos Towne Center" stopTag="17248" stopTitle="Alondra / Harris">
-  <direction title="West to Compton Station">
-   <prediction block="1280100" dirTag="128_28_1" epochTime="1670559023971" isDeparture="false" minutes="6" seconds="371" tripTag="54540252" vehicle="1532"/>
-   <prediction affectedByLayover="true" block="1280300" dirTag="128_28_1" epochTime="1670561992976" isDeparture="false" minutes="55" seconds="3340" tripTag="54540253" vehicle="1522"/>
-  </direction>
- </predictions>
-</body>

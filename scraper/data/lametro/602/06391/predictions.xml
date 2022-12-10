@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="602" routeTitle="602 Westwood - Pacific Palisades Via Sun" stopTag="6391" stopTitle="Sunset / Palisades">
-  <direction title="East to Westwood/U C L A">
-   <prediction affectedByLayover="true" block="6021702" dirTag="602_16_0" epochTime="1670563886758" isDeparture="false" isScheduleBased="true" minutes="94" seconds="5676" tripTag="54528142" vehicle="virtualVehicle_6021702"/>
-  </direction>
- </predictions>
-</body>

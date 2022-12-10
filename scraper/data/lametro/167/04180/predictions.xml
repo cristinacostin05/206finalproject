@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="4180" stopTitle="Oxnard / Fulton">
-  <direction title="West to Chatsworth Station">
-   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670561002958" isDeparture="false" minutes="16" seconds="968" tripTag="54429231" vehicle="4021"/>
-   <prediction affectedByLayover="true" block="1670200" dirTag="167_95_1" epochTime="1670563933721" isDeparture="false" minutes="64" seconds="3899" tripTag="54429232" vehicle="4023"/>
-  </direction>
- </predictions>
-</body>

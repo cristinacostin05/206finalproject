@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="115" routeTitle="115 Playa Del Rey - Norwalk Via Manchest" stopTag="1910" stopTitle="Firestone / Hoxie">
-  <direction title="East to Norwalk Green Line Sta">
-   <prediction block="1151100" dirTag="115_517_0" epochTime="1670560094934" isDeparture="false" minutes="21" seconds="1263" tripTag="54540965" vehicle="1634"/>
-   <prediction affectedByLayover="true" block="1151300" dirTag="115_517_0" epochTime="1670561117639" isDeparture="false" isScheduleBased="true" minutes="38" seconds="2286" tripTag="54540983" vehicle="virtualVehicle_1151300"/>
-  </direction>
- </predictions>
-</body>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="102" routeTitle="102 LAX Cty Bus Ctr - S Gate Via LA Tije" stopTag="11189" stopTitle="Jefferson / Central">
-  <direction title="West to Lax City Bus Ctr">
-   <prediction affectedByLayover="true" block="1020100" dirTag="102_75_1" epochTime="1670565128140" isDeparture="false" minutes="97" seconds="5852" tripTag="54635524" vehicle="6001"/>
-  </direction>
- </predictions>
-</body>

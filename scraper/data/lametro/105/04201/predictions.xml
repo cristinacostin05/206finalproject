@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="105" routeTitle="105 W Hollywood - Vernon Via La Cienega" stopTag="4201" stopTitle="Pacific / Rr - Xing">
-  <direction title="North to West Hollywood">
-   <prediction affectedByLayover="true" block="1051100" dirTag="105_264_0" epochTime="1670562371328" isDeparture="false" minutes="41" seconds="2462" tripTag="54534795" vehicle="6144"/>
-   <prediction affectedByLayover="true" block="1054111" dirTag="105_260_0" epochTime="1670565270227" isDeparture="false" minutes="89" seconds="5361" tripTag="54534789" vehicle="4006"/>
-  </direction>
- </predictions>
-</body>

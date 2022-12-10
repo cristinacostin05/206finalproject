@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="378" stopTitle="Harbor Beacon Park And Ride">
-  <direction title="South to Silver Line - San Pedro Via Downtown LA">
-   <prediction block="9105702" dirTag="950_209_1" epochTime="1670559752869" isDeparture="false" minutes="28" seconds="1702" tripTag="54545489_950" vehicle="8371"/>
-   <prediction block="9105902" dirTag="950_209_1" epochTime="1670562200030" isDeparture="false" minutes="69" seconds="4149" tripTag="54545491_950" vehicle="5915"/>
-  </direction>
- </predictions>
-</body>

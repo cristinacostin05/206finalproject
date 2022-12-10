@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="2483" stopTitle="Hollywood / Gower">
-  <direction title="East to Pasadena City College">
-   <prediction affectedByLayover="true" block="1801700" dirTag="180_227_0" epochTime="1670563849424" isDeparture="false" minutes="56" seconds="3372" tripTag="54675213" vehicle="1919"/>
-  </direction>
- </predictions>
-</body>

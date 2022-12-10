@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="6482" stopTitle="Telegraph / Clela">
-  <direction title="North to Figueroa-York">
-   <prediction block="2580500" dirTag="258_53_0" epochTime="1670560288971" isDeparture="false" minutes="0" seconds="22" tripTag="54676262" vehicle="5961"/>
-  </direction>
- </predictions>
-</body>

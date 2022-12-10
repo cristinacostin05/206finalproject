@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="28" routeTitle="28 Century City-Dtw LA-Via Olympic" stopTag="12595" stopTitle="Olympic / Carrillo">
-  <direction title="West to Century City">
-   <prediction block="0280500" dirTag="28_630_1" epochTime="1670561469083" isDeparture="false" minutes="24" seconds="1493" tripTag="54472831" vehicle="5688"/>
-   <prediction affectedByLayover="true" block="0286000" dirTag="28_630_1" epochTime="1670563068972" isDeparture="false" minutes="51" seconds="3093" tripTag="54472828" vehicle="4114"/>
-  </direction>
- </predictions>
-</body>

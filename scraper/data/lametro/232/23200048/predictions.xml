@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<body copyright="All data copyright Los Angeles Metro 2022.">
- <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="23200048" stopTitle="Anaheim / Wilmington">
-  <direction title="South to Downtown Long Beach">
-   <prediction block="2320400" dirTag="232_84_1" epochTime="1670559243956" isDeparture="false" minutes="0" seconds="3" tripTag="54637086" vehicle="1546"/>
-   <prediction affectedByLayover="true" block="2320500" dirTag="232_82_1" epochTime="1670564981056" isDeparture="false" minutes="95" seconds="5740" tripTag="54637092" vehicle="1544"/>
-  </direction>
- </predictions>
-</body>
