@@ -3,7 +3,6 @@ import sqlite3
 import json
 import os
 
-
 def read_data(filename):
     full_path = os.path.join(os.path.dirname(__file__), filename)
     f = open(full_path)
