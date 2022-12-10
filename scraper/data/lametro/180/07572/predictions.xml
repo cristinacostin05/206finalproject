@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="7572" stopTitle="Colorado / Melrose">
+  <direction title="East to Pasadena City College">
+   <prediction block="1800200" dirTag="180_227_0" epochTime="1670561150075" isDeparture="false" minutes="11" seconds="669" tripTag="54675229" vehicle="6041"/>
+   <prediction block="1800300" dirTag="180_227_0" epochTime="1670561673705" isDeparture="false" minutes="19" seconds="1192" tripTag="54675283" vehicle="1887"/>
+   <prediction block="1800500" dirTag="180_227_0" epochTime="1670562319178" isDeparture="false" minutes="30" seconds="1838" tripTag="54675224" vehicle="1586"/>
+   <prediction block="1800800" dirTag="180_227_0" epochTime="1670562979130" isDeparture="false" minutes="41" seconds="2498" tripTag="54675220" vehicle="6040"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="2545" stopTitle="Huntington / Monterey">
+  <direction title="West to Vermont/Sunset Sta">
+   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670561820000" isDeparture="true" minutes="24" seconds="1481" tripTag="54677211" vehicle="1885"/>
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_15_1" epochTime="1670564640000" isDeparture="true" isScheduleBased="true" minutes="71" seconds="4301" tripTag="54677212" vehicle="virtualVehicle_1820600"/>
+  </direction>
+ </predictions>
+</body>

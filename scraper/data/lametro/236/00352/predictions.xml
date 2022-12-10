@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="236" routeTitle="236 Sylmar Sta-Encino Via Balboa Bl Rina" stopTag="352" stopTitle="Balboa Blvd / Ventura Fwy">
+  <direction title="North to Sylmar Station">
+   <prediction affectedByLayover="true" block="2360100" dirTag="236_133_0" epochTime="1670558445168" isDeparture="false" minutes="12" seconds="745" tripTag="54420723" vehicle="4074"/>
+   <prediction affectedByLayover="true" block="2360400" dirTag="236_133_0" epochTime="1670561745168" isDeparture="false" minutes="67" seconds="4045" tripTag="54420780" vehicle="1743"/>
+  </direction>
+ </predictions>
+</body>

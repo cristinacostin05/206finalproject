@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15438" stopTitle="De Soto Station">
+  <direction title="West to G Line (orange) - Chatsworth Station">
+   <prediction block="9010700" dirTag="901_54_1" epochTime="1670558178766" isDeparture="false" minutes="1" seconds="61" tripTag="54425155" vehicle="19521"/>
+   <prediction block="9011502" dirTag="901_54_1" epochTime="1670559157574" isDeparture="false" minutes="17" seconds="1040" tripTag="54425143" vehicle="19526"/>
+   <prediction affectedByLayover="true" block="9012102" dirTag="901_54_1" epochTime="1670560634537" isDeparture="false" minutes="41" seconds="2517" tripTag="54425129" vehicle="19500"/>
+   <prediction affectedByLayover="true" block="9012202" dirTag="901_54_1" epochTime="1670561486406" isDeparture="false" minutes="56" seconds="3369" tripTag="54425159" vehicle="19501"/>
+  </direction>
+ </predictions>
+</body>

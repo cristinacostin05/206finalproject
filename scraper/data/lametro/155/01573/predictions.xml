@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="1573" stopTitle="Olive / Glenoaks">
+  <direction title="North to North Hollywood Station">
+   <prediction affectedByLayover="true" block="1550100" dirTag="155_38_0" epochTime="1670559976567" isDeparture="false" minutes="4" seconds="261" tripTag="54394961" vehicle="6046"/>
+   <prediction affectedByLayover="true" block="1550400" dirTag="155_38_0" epochTime="1670563444567" isDeparture="false" minutes="62" seconds="3729" tripTag="54394970" vehicle="3987"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="7344" stopTitle="6th / Bonnie Brae">
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0182200" dirTag="18_286_0" epochTime="1670560047716" isDeparture="false" minutes="35" seconds="2119" tripTag="54677493" vehicle="1707"/>
+   <prediction affectedByLayover="true" block="0181000" dirTag="18_286_0" epochTime="1670560334092" isDeparture="false" minutes="40" seconds="2406" tripTag="54677462" vehicle="1866"/>
+  </direction>
+ </predictions>
+</body>

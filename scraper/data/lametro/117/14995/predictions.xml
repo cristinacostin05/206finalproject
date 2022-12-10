@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="117" routeTitle="117 LAX Cty Bus Ctr-Downey Via Century B" stopTag="14995" stopTitle="Tweedy / Alexander">
+  <direction title="West to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="1179811" dirTag="117_72_1" epochTime="1670561460966" isDeparture="false" minutes="37" seconds="2262" tripTag="54541756" vehicle="1635"/>
+   <prediction affectedByLayover="true" block="1179911" dirTag="117_72_1" epochTime="1670565120966" isDeparture="false" minutes="98" seconds="5922" tripTag="54541757" vehicle="5804"/>
+  </direction>
+ </predictions>
+</body>

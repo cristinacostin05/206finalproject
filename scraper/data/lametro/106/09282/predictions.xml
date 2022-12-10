@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="9282" stopTitle="City Terrace / Rogers">
+  <direction title="South to The Shops At Montebello">
+   <prediction block="1060500" dirTag="106_47_1" epochTime="1670558537818" isDeparture="false" minutes="0" seconds="33" tripTag="54482919" vehicle="4184"/>
+   <prediction affectedByLayover="true" block="1061102" dirTag="106_47_1" epochTime="1670561073443" isDeparture="false" isScheduleBased="true" minutes="42" seconds="2568" tripTag="54482920" vehicle="4123"/>
+  </direction>
+  <direction title="South to East LA College">
+   <prediction affectedByLayover="true" block="1060700" dirTag="106_46_1" epochTime="1670561744000" isDeparture="false" minutes="53" seconds="3239" tripTag="54482921" vehicle="3964"/>
+   <prediction affectedByLayover="true" block="1060800" dirTag="106_46_1" epochTime="1670563724000" isDeparture="false" minutes="86" seconds="5219" tripTag="54482923" vehicle="4172"/>
+  </direction>
+ </predictions>
+</body>

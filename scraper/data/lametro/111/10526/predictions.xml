@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="10526" stopTitle="Florence / Lakewood">
+  <direction title="West to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="1151500" dirTag="111_380_1" epochTime="1670562655214" isDeparture="false" minutes="49" seconds="2954" tripTag="54533473" vehicle="6021"/>
+   <prediction affectedByLayover="true" block="1119911" dirTag="111_380_1" epochTime="1670564016283" isDeparture="false" minutes="71" seconds="4315" tripTag="54533476" vehicle="8471"/>
+  </direction>
+ </predictions>
+</body>

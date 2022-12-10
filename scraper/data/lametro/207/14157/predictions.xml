@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="207" routeTitle="207 Hollywood - Crenshaw Sta Via Western" stopTag="14157" stopTitle="Western / Washington">
+  <direction title="South to Western-Imperial Hwy">
+   <prediction block="2079811" dirTag="207_292_1" epochTime="1670559516090" isDeparture="false" minutes="10" seconds="601" tripTag="54653033" vehicle="8712"/>
+   <prediction affectedByLayover="true" block="2076002" dirTag="207_292_1" epochTime="1670560412904" isDeparture="false" isScheduleBased="true" minutes="24" seconds="1497" tripTag="54653073" vehicle="virtualVehicle_2076002"/>
+   <prediction affectedByLayover="true" block="2075300" dirTag="207_292_1" epochTime="1670562917148" isDeparture="false" minutes="66" seconds="4002" tripTag="54653038" vehicle="8707"/>
+  </direction>
+ </predictions>
+</body>

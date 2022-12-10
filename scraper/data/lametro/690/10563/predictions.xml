@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="690" routeTitle="690 Sylmar Sta -Olive View Hosp.-Sunland" stopTag="10563" stopTitle="Foothill / Conover">
+  <direction title="West to Sylmar Station">
+   <prediction affectedByLayover="true" block="6900200" dirTag="690_2_1" epochTime="1670561155623" isDeparture="false" minutes="12" seconds="743" tripTag="54428449" vehicle="1780"/>
+   <prediction affectedByLayover="true" block="6900400" dirTag="690_2_1" epochTime="1670563903582" isDeparture="false" isScheduleBased="true" minutes="58" seconds="3491" tripTag="54428448" vehicle="virtualVehicle_6900400"/>
+   <prediction affectedByLayover="true" block="6900502" dirTag="690_2_1" epochTime="1670565763942" isDeparture="false" minutes="89" seconds="5352" tripTag="54428452" vehicle="6141"/>
+  </direction>
+ </predictions>
+</body>

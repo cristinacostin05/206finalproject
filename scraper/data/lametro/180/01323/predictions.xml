@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="1323" stopTitle="Colorado / Fair Oaks">
+  <direction title="East to Pasadena City College">
+   <prediction block="1801500" dirTag="180_227_0" epochTime="1670560630746" isDeparture="false" minutes="2" seconds="155" tripTag="54675237" vehicle="5949"/>
+   <prediction block="1800200" dirTag="180_227_0" epochTime="1670561436493" isDeparture="false" minutes="16" seconds="961" tripTag="54675229" vehicle="6041"/>
+   <prediction block="1800300" dirTag="180_227_0" epochTime="1670561960123" isDeparture="false" minutes="24" seconds="1484" tripTag="54675283" vehicle="1887"/>
+   <prediction block="1800500" dirTag="180_227_0" epochTime="1670562605596" isDeparture="false" minutes="35" seconds="2130" tripTag="54675224" vehicle="1586"/>
+   <prediction block="1800800" dirTag="180_227_0" epochTime="1670563265548" isDeparture="false" minutes="46" seconds="2790" tripTag="54675220" vehicle="6040"/>
+  </direction>
+ </predictions>
+</body>

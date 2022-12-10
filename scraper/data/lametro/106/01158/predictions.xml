@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="1158" stopTitle="1st / Ford">
+  <direction title="South to The Shops At Montebello">
+   <prediction block="1060500" dirTag="106_47_1" epochTime="1670561192852" isDeparture="false" minutes="44" seconds="2695" tripTag="54482919" vehicle="4184"/>
+   <prediction affectedByLayover="true" block="1061102" dirTag="106_47_1" epochTime="1670563728477" isDeparture="false" isScheduleBased="true" minutes="87" seconds="5231" tripTag="54482920" vehicle="4123"/>
+  </direction>
+  <direction title="South to East LA College">
+   <prediction block="1060200" dirTag="106_46_1" epochTime="1670559669893" isDeparture="false" minutes="19" seconds="1172" tripTag="54482918" vehicle="3889"/>
+   <prediction affectedByLayover="true" block="1060700" dirTag="106_46_1" epochTime="1670563763254" isDeparture="false" minutes="87" seconds="5266" tripTag="54482921" vehicle="3964"/>
+  </direction>
+ </predictions>
+</body>

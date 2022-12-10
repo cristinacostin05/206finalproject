@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15611" stopTitle="Laurel Canyon Station">
+  <direction title="West to G Line (orange) - Chatsworth Station">
+   <prediction affectedByLayover="true" block="9012102" dirTag="901_54_1" epochTime="1670558669636" isDeparture="false" minutes="9" seconds="550" tripTag="54425129" vehicle="19500"/>
+   <prediction affectedByLayover="true" block="9012202" dirTag="901_54_1" epochTime="1670559521505" isDeparture="false" minutes="23" seconds="1402" tripTag="54425159" vehicle="19501"/>
+   <prediction affectedByLayover="true" block="9012302" dirTag="901_54_1" epochTime="1670562665505" isDeparture="false" minutes="75" seconds="4546" tripTag="54425322" vehicle="19504"/>
+  </direction>
+ </predictions>
+</body>

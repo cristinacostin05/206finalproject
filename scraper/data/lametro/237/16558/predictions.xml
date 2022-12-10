@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="16558" stopTitle="White Oak / Burbank">
+  <direction title="West to Encino">
+   <prediction block="2370200" dirTag="237_25_1" epochTime="1670559916886" isDeparture="false" minutes="17" seconds="1030" tripTag="54420320" vehicle="1576"/>
+   <prediction affectedByLayover="true" block="2370400" dirTag="237_25_1" epochTime="1670563388859" isDeparture="false" minutes="75" seconds="4502" tripTag="54420305" vehicle="1580"/>
+  </direction>
+ </predictions>
+</body>

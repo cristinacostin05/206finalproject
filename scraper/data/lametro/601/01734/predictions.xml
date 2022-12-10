@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="601" routeTitle="601 Warner Center Circulator" stopTag="1734" stopTitle="Oxnard / Canoga">
+  <direction title="South to Warner Center Shuttle">
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_2_1" epochTime="1670558582557" isDeparture="false" minutes="12" seconds="773" tripTag="54408266" vehicle="2052"/>
+   <prediction affectedByLayover="true" block="6010402" dirTag="601_2_1" epochTime="1670560122330" isDeparture="false" minutes="38" seconds="2312" tripTag="54408263" vehicle="5823"/>
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_2_1" epochTime="1670561322330" isDeparture="false" minutes="58" seconds="3512" tripTag="54408267" vehicle="2052"/>
+   <prediction affectedByLayover="true" block="6010402" dirTag="601_2_1" epochTime="1670562522330" isDeparture="false" minutes="78" seconds="4712" tripTag="54408175" vehicle="5823"/>
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_2_1" epochTime="1670563722330" isDeparture="false" minutes="98" seconds="5912" tripTag="54408157" vehicle="2052"/>
+  </direction>
+ </predictions>
+</body>

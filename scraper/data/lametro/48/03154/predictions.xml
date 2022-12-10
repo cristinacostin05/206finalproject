@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="48" routeTitle="48 W Hollywood-Dtwn LA -Avalon Sta Via" stopTag="3154" stopTitle="Maple / Adams">
+  <direction title="East to Avalon Station">
+   <prediction affectedByLayover="true" block="0100600" dirTag="48_747_0" epochTime="1670563124331" isDeparture="false" isScheduleBased="true" minutes="66" seconds="3975" tripTag="54470078_48" vehicle="virtualVehicle_0100600"/>
+  </direction>
+ </predictions>
+</body>

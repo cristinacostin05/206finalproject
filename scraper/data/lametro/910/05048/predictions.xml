@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="5048" stopTitle="USC Medical Ctr Busway Station">
+  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
+   <prediction block="9102602" dirTag="910_210_1" epochTime="1670560503025" isDeparture="false" minutes="9" seconds="599" tripTag="54545613" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_210_1" epochTime="1670565637197" isDeparture="false" isScheduleBased="true" minutes="95" seconds="5734" tripTag="54545496" vehicle="virtualVehicle_9102202"/>
+  </direction>
+ </predictions>
+</body>

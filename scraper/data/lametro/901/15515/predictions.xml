@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15515" stopTitle="Balboa Station">
+  <direction title="West to G Line (orange) - Chatsworth Station">
+   <prediction block="9011502" dirTag="901_54_1" epochTime="1670558349288" isDeparture="false" minutes="3" seconds="231" tripTag="54425143" vehicle="19526"/>
+   <prediction affectedByLayover="true" block="9012102" dirTag="901_54_1" epochTime="1670559826251" isDeparture="false" minutes="28" seconds="1708" tripTag="54425129" vehicle="19500"/>
+   <prediction affectedByLayover="true" block="9012202" dirTag="901_54_1" epochTime="1670560678120" isDeparture="false" minutes="42" seconds="2560" tripTag="54425159" vehicle="19501"/>
+   <prediction affectedByLayover="true" block="9012302" dirTag="901_54_1" epochTime="1670563805120" isDeparture="false" minutes="94" seconds="5687" tripTag="54425322" vehicle="19504"/>
+  </direction>
+ </predictions>
+</body>

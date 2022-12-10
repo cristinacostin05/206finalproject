@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="179" routeTitle="179 Rose Hill Transit Ctr - Arcadia Via" stopTag="11096" stopTitle="Huntington / Marengo">
+  <direction title="East to Arcadia Gold Line Station">
+   <prediction affectedByLayover="true" block="1790200" dirTag="179_5_0" epochTime="1670559432042" isDeparture="false" minutes="16" seconds="986" tripTag="54636805" vehicle="1993"/>
+   <prediction affectedByLayover="true" block="1790300" dirTag="179_5_0" epochTime="1670559579854" isDeparture="false" minutes="18" seconds="1134" tripTag="54636807" vehicle="1820"/>
+   <prediction affectedByLayover="true" block="1790500" dirTag="179_5_0" epochTime="1670561364922" isDeparture="false" isScheduleBased="true" minutes="48" seconds="2919" tripTag="54636808" vehicle="virtualVehicle_1790500"/>
+   <prediction affectedByLayover="true" block="1790200" dirTag="179_5_0" epochTime="1670563998139" isDeparture="false" minutes="92" seconds="5552" tripTag="54636809" vehicle="1993"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="6040" stopTitle="Santa Monica / Beverly Glen">
+  <direction title="East to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0041300" dirTag="4_316_0" epochTime="1670559639269" isDeparture="false" minutes="31" seconds="1889" tripTag="54486009" vehicle="9526"/>
+   <prediction affectedByLayover="true" block="0040700" dirTag="4_316_0" epochTime="1670559767485" isDeparture="false" minutes="33" seconds="2017" tripTag="54485917" vehicle="9523"/>
+   <prediction affectedByLayover="true" block="0045300" dirTag="4_316_0" epochTime="1670562099269" isDeparture="false" minutes="72" seconds="4349" tripTag="54486020" vehicle="8742"/>
+   <prediction affectedByLayover="true" block="0041900" dirTag="4_316_0" epochTime="1670562759269" isDeparture="false" isScheduleBased="true" minutes="83" seconds="5009" tripTag="54486011" vehicle="virtualVehicle_0041900"/>
+  </direction>
+ </predictions>
+</body>

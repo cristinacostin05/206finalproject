@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="4692" stopTitle="Atlantic / El Portal">
+  <direction title="East to El Monte Station">
+   <prediction block="0702600" dirTag="70_292_0" epochTime="1670559298160" isDeparture="false" minutes="0" seconds="3" tripTag="54593100" vehicle="4034"/>
+   <prediction block="0700100" dirTag="70_292_0" epochTime="1670560198946" isDeparture="false" minutes="15" seconds="904" tripTag="54592944" vehicle="4116"/>
+   <prediction block="0700200" dirTag="70_292_0" epochTime="1670560443812" isDeparture="false" minutes="19" seconds="1149" tripTag="54592801" vehicle="1841"/>
+   <prediction affectedByLayover="true" block="0704111" dirTag="70_288_0" epochTime="1670564860600" isDeparture="false" minutes="92" seconds="5566" tripTag="54592910" vehicle="1996"/>
+  </direction>
+ </predictions>
+</body>

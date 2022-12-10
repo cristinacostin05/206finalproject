@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <route color="33cccc" latMax="34.20287" latMin="34.1038799" lonMax="-118.1433899" lonMin="-118.15209" oppositeColor="000000" tag="660" title="660 Del Mar Station - Altadena - Via Fai">
+  <stop lat="34.1413299" lon="-118.14893" stopId="00501" tag="501" title="Raymond / Del Mar"/>
+  <stop lat="34.1834599" lon="-118.1506399" stopId="01487" tag="1487" title="Fair Oaks / Woodbury"/>
+  <stop lat="34.1278" lon="-118.15014" stopId="01844" tag="1844" title="Fair Oaks / Glenarm"/>
+  <stop lat="34.20287" lon="-118.1433899" stopId="01846" tag="1846" title="Fair Oaks / Wapello"/>
+  <stop lat="34.1748" lon="-118.15057" stopId="01849" tag="1849" title="Fair Oaks / Penn"/>
+  <stop lat="34.1691199" lon="-118.15051" stopId="01851" tag="1851" title="Fair Oaks / Washington"/>
+  <stop lat="34.1120399" lon="-118.15014" stopId="01853" tag="1853" title="Fair Oaks / Monterey"/>
+  <stop lat="34.10901" lon="-118.1501599" stopId="01855" tag="1855" title="Fair Oaks / Rollin"/>
+  <stop lat="34.10569" lon="-118.1502199" stopId="01856" tag="1856" title="Fair Oaks / Spruce"/>
+  <stop lat="34.1038799" lon="-118.15209" stopId="02551" tag="2551" title="Huntington / Fremont"/>
+  <stop lat="34.11613" lon="-118.15018" stopId="03255" tag="3255" title="Fair Oaks / Mission"/>
+  <stop lat="34.14794" lon="-118.15038" stopId="03465" tag="3465" title="Fair Oaks / Holly"/>
+  <stop lat="34.1543799" lon="-118.15038" stopId="03466" tag="3466" title="Fair Oaks / Villa"/>
+  <stop lat="34.1493999" lon="-118.15038" stopId="03467" tag="3467" title="Fair Oaks / Walnut"/>
+  <stop lat="34.19207" lon="-118.1483299" stopId="03469" tag="3469" title="Fair Oaks / Mariposa"/>
+  <stop lat="34.15805" lon="-118.15043" stopId="03470" tag="3470" title="Fair Oaks / Orange Grove"/>
+  <stop lat="34.19013" lon="-118.1492399" stopId="03474" tag="3474" title="Fair Oaks / Harriet"/>
+  <stop lat="34.1728" lon="-118.15055" stopId="03475" tag="3475" title="Fair Oaks / Howard"/>
+  <stop lat="34.1990199" lon="-118.14516" stopId="03476" tag="3476" title="Fair Oaks / Las Flores"/>
+  <stop lat="34.2028399" lon="-118.14366" tag="3477_ar" title="Fair Oaks / Loma Alta"/>
+  <stop lat="34.18118" lon="-118.15063" stopId="03481" tag="3481" title="Fair Oaks / Montana"/>
+  <stop lat="34.1616199" lon="-118.1504599" stopId="03482" tag="3482" title="Fair Oaks / Mountain"/>
+  <stop lat="34.1865999" lon="-118.1506699" stopId="03483" tag="3483" title="Fair Oaks / Mountain View"/>
+  <stop lat="34.17824" lon="-118.1506" stopId="03485" tag="3485" title="Fair Oaks / Tremont"/>
+  <stop lat="34.13421" lon="-118.1502" stopId="04955" tag="4955" title="Fair Oaks / Congress"/>
+  <stop lat="34.1386099" lon="-118.1502399" stopId="04956" tag="4956" title="Fair Oaks / Bellevue"/>
+  <stop lat="34.1363299" lon="-118.1502199" stopId="04957" tag="4957" title="Fair Oaks / California"/>
+  <stop lat="34.1437" lon="-118.15029" stopId="04958" tag="4958" title="Fair Oaks / Dayton"/>
+  <stop lat="34.1408999" lon="-118.15026" stopId="04959" tag="4959" title="Fair Oaks / Del Mar"/>
+  <stop lat="34.1239" lon="-118.15012" stopId="04960" tag="4960" title="Fair Oaks / Raymond Hill"/>
+  <stop lat="34.1317499" lon="-118.1501799" stopId="04961" tag="4961" title="Fair Oaks / Bellefontaine"/>
+  <stop lat="34.19477" lon="-118.1471099" stopId="07502" tag="7502" title="Fair Oaks / Altadena"/>
+  <stop lat="34.1460499" lon="-118.1503" stopId="11956" tag="11956" title="Fair Oaks / Colorado"/>
+  <stop lat="34.1650399" lon="-118.1504899" stopId="18015" tag="18015" title="Fair Oaks / Hammond"/>
+  <stop lat="34.11992" lon="-118.1501499" stopId="36487" tag="36487" title="Fair Oaks / Mound"/>
+  <stop lat="34.1413299" lon="-118.14893" tag="501_ar" title="Raymond / Del Mar"/>
+  <stop lat="34.1834599" lon="-118.15096" stopId="00954" tag="954" title="Fair Oaks / Woodbury"/>
+  <stop lat="34.1038799" lon="-118.15209" tag="2551_ar" title="Huntington / Fremont"/>
+  <stop lat="34.2028399" lon="-118.14366" stopId="03477" tag="3477" title="Fair Oaks / Loma Alta"/>
+  <stop lat="34.1909699" lon="-118.14917" stopId="03480" tag="3480" title="Fair Oaks / Mendocino"/>
+  <stop lat="34.1685699" lon="-118.15082" stopId="03488" tag="3488" title="Fair Oaks / Washington"/>
+  <stop lat="34.14437" lon="-118.14896" stopId="03490" tag="3490" title="Raymond / Green"/>
+  <stop lat="34.1454999" lon="-118.1506" stopId="09316" tag="9316" title="Fair Oaks / Colorado"/>
+  <stop lat="34.1314599" lon="-118.1504799" stopId="10392" tag="10392" title="Fair Oaks / Bellefontaine"/>
+  <stop lat="34.1339" lon="-118.1504999" stopId="10394" tag="10394" title="Fair Oaks / Congress"/>
+  <stop lat="34.12766" lon="-118.15045" stopId="10397" tag="10397" title="Fair Oaks / Glenarm"/>
+  <stop lat="34.17411" lon="-118.1509299" stopId="10402" tag="10402" title="Fair Oaks / Penn"/>
+  <stop lat="34.1120099" lon="-118.15062" stopId="10403" tag="10403" title="Fair Oaks / Monterey"/>
+  <stop lat="34.1202799" lon="-118.15042" stopId="10404" tag="10404" title="Fair Oaks / Mound"/>
+  <stop lat="34.10868" lon="-118.1506399" stopId="10405" tag="10405" title="Fair Oaks / Rollin"/>
+  <stop lat="34.10554" lon="-118.1506699" stopId="10406" tag="10406" title="Fair Oaks / Spruce"/>
+  <stop lat="34.12385" lon="-118.15042" stopId="10407" tag="10407" title="Fair Oaks / Raymond Hill"/>
+  <stop lat="34.11558" lon="-118.1504899" stopId="11746" tag="11746" title="Fair Oaks / Mission"/>
+  <stop lat="34.1542599" lon="-118.1506899" stopId="11958" tag="11958" title="Fair Oaks / Villa"/>
+  <stop lat="34.1493599" lon="-118.1506799" stopId="11959" tag="11959" title="Fair Oaks / Walnut"/>
+  <stop lat="34.15753" lon="-118.15072" stopId="11962" tag="11962" title="Fair Oaks / Orange Grove"/>
+  <stop lat="34.1943399" lon="-118.1476" stopId="11963" tag="11963" title="Fair Oaks / Altadena"/>
+  <stop lat="34.1723399" lon="-118.1508499" stopId="11967" tag="11967" title="Fair Oaks / Howard"/>
+  <stop lat="34.1994299" lon="-118.14523" stopId="11968" tag="11968" title="Fair Oaks / Las Flores"/>
+  <stop lat="34.1806599" lon="-118.1509299" stopId="11971" tag="11971" title="Fair Oaks / Montana"/>
+  <stop lat="34.1611799" lon="-118.1507599" stopId="11972" tag="11972" title="Fair Oaks / Mountain"/>
+  <stop lat="34.1866899" lon="-118.1509899" stopId="11973" tag="11973" title="Fair Oaks / Mountain View"/>
+  <stop lat="34.17775" lon="-118.1509" stopId="11975" tag="11975" title="Fair Oaks / Tremont"/>
+  <stop lat="34.18296" lon="-118.15095" stopId="11979" tag="11979" title="Fair Oaks / Woodbury"/>
+  <stop lat="34.1381599" lon="-118.1505399" stopId="13401" tag="13401" title="Fair Oaks / Bellevue"/>
+  <stop lat="34.1354899" lon="-118.15048" stopId="13402" tag="13402" title="Fair Oaks / California"/>
+  <stop lat="34.1404399" lon="-118.1505599" stopId="13403" tag="13403" title="Fair Oaks / Del Mar"/>
+  <stop lat="34.14433" lon="-118.15059" stopId="13404" tag="13404" title="Fair Oaks / Green"/>
+  <stop lat="34.1649899" lon="-118.1507899" stopId="18016" tag="18016" title="Fair Oaks / Hammond"/>
+  <direction name="North" tag="660_8_0" title="North to Fair Oaks-Loma Alta" useForUI="true">
+   <stop tag="2551"/>
+   <stop tag="1856"/>
+   <stop tag="1855"/>
+   <stop tag="1853"/>
+   <stop tag="3255"/>
+   <stop tag="36487"/>
+   <stop tag="4960"/>
+   <stop tag="1844"/>
+   <stop tag="4961"/>
+   <stop tag="4955"/>
+   <stop tag="4957"/>
+   <stop tag="4956"/>
+   <stop tag="4959"/>
+   <stop tag="4958"/>
+   <stop tag="11956"/>
+   <stop tag="3465"/>
+   <stop tag="3467"/>
+   <stop tag="3466"/>
+   <stop tag="3470"/>
+   <stop tag="3482"/>
+   <stop tag="18015"/>
+   <stop tag="1851"/>
+   <stop tag="3475"/>
+   <stop tag="1849"/>
+   <stop tag="3485"/>
+   <stop tag="3481"/>
+   <stop tag="1487"/>
+   <stop tag="3483"/>
+   <stop tag="3474"/>
+   <stop tag="3469"/>
+   <stop tag="7502"/>
+   <stop tag="3476"/>
+   <stop tag="1846"/>
+   <stop tag="3477_ar"/>
+  </direction>
+  <direction name="South" tag="660_7_1" title="South to South Pasadena" useForUI="true">
+   <stop tag="3477"/>
+   <stop tag="11968"/>
+   <stop tag="11963"/>
+   <stop tag="3480"/>
+   <stop tag="11973"/>
+   <stop tag="954"/>
+   <stop tag="11979"/>
+   <stop tag="11971"/>
+   <stop tag="11975"/>
+   <stop tag="10402"/>
+   <stop tag="11967"/>
+   <stop tag="3488"/>
+   <stop tag="18016"/>
+   <stop tag="11972"/>
+   <stop tag="11962"/>
+   <stop tag="11958"/>
+   <stop tag="11959"/>
+   <stop tag="9316"/>
+   <stop tag="13404"/>
+   <stop tag="13403"/>
+   <stop tag="13401"/>
+   <stop tag="13402"/>
+   <stop tag="10394"/>
+   <stop tag="10392"/>
+   <stop tag="10397"/>
+   <stop tag="10407"/>
+   <stop tag="10404"/>
+   <stop tag="11746"/>
+   <stop tag="10403"/>
+   <stop tag="10405"/>
+   <stop tag="10406"/>
+   <stop tag="2551_ar"/>
+  </direction>
+  <path>
+   <point lat="34.1455" lon="-118.1506"/>
+   <point lat="34.1445099" lon="-118.15044"/>
+   <point lat="34.14437" lon="-118.14896"/>
+   <point lat="34.14352" lon="-118.14886"/>
+   <point lat="34.14133" lon="-118.14893"/>
+  </path>
+  <path>
+   <point lat="34.1455" lon="-118.1506"/>
+   <point lat="34.1443299" lon="-118.15059"/>
+   <point lat="34.1424" lon="-118.15043"/>
+   <point lat="34.14044" lon="-118.15056"/>
+   <point lat="34.13816" lon="-118.15054"/>
+   <point lat="34.13549" lon="-118.15048"/>
+   <point lat="34.1339" lon="-118.1505"/>
+   <point lat="34.13146" lon="-118.15048"/>
+   <point lat="34.12766" lon="-118.15045"/>
+   <point lat="34.12385" lon="-118.15042"/>
+   <point lat="34.12028" lon="-118.15042"/>
+   <point lat="34.11558" lon="-118.15049"/>
+   <point lat="34.11201" lon="-118.15062"/>
+   <point lat="34.10868" lon="-118.15064"/>
+   <point lat="34.10554" lon="-118.15067"/>
+   <point lat="34.10504" lon="-118.15053"/>
+   <point lat="34.10485" lon="-118.15058"/>
+   <point lat="34.10472" lon="-118.15064"/>
+   <point lat="34.10458" lon="-118.15071"/>
+   <point lat="34.10448" lon="-118.15079"/>
+   <point lat="34.1044" lon="-118.15089"/>
+   <point lat="34.10434" lon="-118.151"/>
+   <point lat="34.10429" lon="-118.1511"/>
+   <point lat="34.10422" lon="-118.1513"/>
+   <point lat="34.10422" lon="-118.15162"/>
+   <point lat="34.10414" lon="-118.15229"/>
+   <point lat="34.10411" lon="-118.15247"/>
+   <point lat="34.10409" lon="-118.15256"/>
+   <point lat="34.1039699" lon="-118.15295"/>
+   <point lat="34.10392" lon="-118.15307"/>
+   <point lat="34.10381" lon="-118.1539"/>
+   <point lat="34.10353" lon="-118.15384"/>
+   <point lat="34.1034099" lon="-118.15374"/>
+   <point lat="34.1034999" lon="-118.15359"/>
+   <point lat="34.10355" lon="-118.15351"/>
+   <point lat="34.1037" lon="-118.15319"/>
+   <point lat="34.10378" lon="-118.15301"/>
+   <point lat="34.10384" lon="-118.15283"/>
+   <point lat="34.10394" lon="-118.15247"/>
+   <point lat="34.1038799" lon="-118.15209"/>
+  </path>
+  <path>
+   <point lat="34.16912" lon="-118.15051"/>
+   <point lat="34.1728" lon="-118.15055"/>
+   <point lat="34.1748" lon="-118.15057"/>
+   <point lat="34.17824" lon="-118.1506"/>
+   <point lat="34.18118" lon="-118.15063"/>
+   <point lat="34.1834599" lon="-118.15064"/>
+   <point lat="34.1866" lon="-118.15067"/>
+   <point lat="34.18706" lon="-118.15083"/>
+   <point lat="34.18709" lon="-118.15082"/>
+   <point lat="34.1883399" lon="-118.15023"/>
+   <point lat="34.19013" lon="-118.14924"/>
+   <point lat="34.19207" lon="-118.14833"/>
+   <point lat="34.19477" lon="-118.14711"/>
+   <point lat="34.19902" lon="-118.14516"/>
+   <point lat="34.20287" lon="-118.14339"/>
+   <point lat="34.20507" lon="-118.1425"/>
+   <point lat="34.20515" lon="-118.14133"/>
+   <point lat="34.20473" lon="-118.14155"/>
+   <point lat="34.2036" lon="-118.14206"/>
+   <point lat="34.20344" lon="-118.14212"/>
+   <point lat="34.20337" lon="-118.14213"/>
+   <point lat="34.20317" lon="-118.14212"/>
+   <point lat="34.20284" lon="-118.14366"/>
+  </path>
+  <path>
+   <point lat="34.16857" lon="-118.15082"/>
+   <point lat="34.16499" lon="-118.15079"/>
+   <point lat="34.16118" lon="-118.15076"/>
+   <point lat="34.15753" lon="-118.15072"/>
+   <point lat="34.15426" lon="-118.15069"/>
+   <point lat="34.15106" lon="-118.15052"/>
+   <point lat="34.14936" lon="-118.15068"/>
+   <point lat="34.14623" lon="-118.15047"/>
+   <point lat="34.1455" lon="-118.1506"/>
+  </path>
+  <path>
+   <point lat="34.14605" lon="-118.1503"/>
+   <point lat="34.14794" lon="-118.15038"/>
+   <point lat="34.1494" lon="-118.15038"/>
+   <point lat="34.1509799" lon="-118.15051"/>
+   <point lat="34.15106" lon="-118.15052"/>
+   <point lat="34.15438" lon="-118.15038"/>
+   <point lat="34.15805" lon="-118.15043"/>
+   <point lat="34.16162" lon="-118.15046"/>
+   <point lat="34.16504" lon="-118.15049"/>
+   <point lat="34.16912" lon="-118.15051"/>
+  </path>
+  <path>
+   <point lat="34.1038799" lon="-118.15209"/>
+   <point lat="34.1040599" lon="-118.15099"/>
+   <point lat="34.10412" lon="-118.15072"/>
+   <point lat="34.10419" lon="-118.15055"/>
+   <point lat="34.10422" lon="-118.15051"/>
+   <point lat="34.10431" lon="-118.15042"/>
+   <point lat="34.1043499" lon="-118.1504"/>
+   <point lat="34.10439" lon="-118.15039"/>
+   <point lat="34.10486" lon="-118.15037"/>
+   <point lat="34.10569" lon="-118.15022"/>
+   <point lat="34.10901" lon="-118.15016"/>
+   <point lat="34.11204" lon="-118.15014"/>
+   <point lat="34.11613" lon="-118.15018"/>
+   <point lat="34.11943" lon="-118.1503"/>
+   <point lat="34.11992" lon="-118.15015"/>
+   <point lat="34.1239" lon="-118.15012"/>
+   <point lat="34.1278" lon="-118.15014"/>
+   <point lat="34.1317499" lon="-118.15018"/>
+   <point lat="34.13421" lon="-118.1502"/>
+   <point lat="34.13633" lon="-118.15022"/>
+   <point lat="34.13861" lon="-118.15024"/>
+   <point lat="34.1409" lon="-118.15026"/>
+   <point lat="34.1424" lon="-118.15043"/>
+   <point lat="34.1437" lon="-118.15029"/>
+   <point lat="34.14605" lon="-118.1503"/>
+  </path>
+  <path>
+   <point lat="34.1834599" lon="-118.15096"/>
+   <point lat="34.18296" lon="-118.15095"/>
+   <point lat="34.18066" lon="-118.15093"/>
+   <point lat="34.17775" lon="-118.1509"/>
+   <point lat="34.17411" lon="-118.15093"/>
+   <point lat="34.17234" lon="-118.15085"/>
+   <point lat="34.16857" lon="-118.15082"/>
+  </path>
+  <path>
+   <point lat="34.14133" lon="-118.14893"/>
+   <point lat="34.14058" lon="-118.14883"/>
+   <point lat="34.1405699" lon="-118.14929"/>
+   <point lat="34.14058" lon="-118.1496"/>
+   <point lat="34.1405699" lon="-118.15012"/>
+   <point lat="34.14058" lon="-118.15019"/>
+   <point lat="34.1406" lon="-118.15035"/>
+   <point lat="34.14062" lon="-118.15041"/>
+   <point lat="34.1409" lon="-118.15026"/>
+   <point lat="34.1424" lon="-118.15043"/>
+   <point lat="34.1437" lon="-118.15029"/>
+   <point lat="34.14605" lon="-118.1503"/>
+  </path>
+  <path>
+   <point lat="34.20284" lon="-118.14366"/>
+   <point lat="34.19943" lon="-118.14523"/>
+   <point lat="34.1943399" lon="-118.1476"/>
+   <point lat="34.19097" lon="-118.14917"/>
+   <point lat="34.18709" lon="-118.15082"/>
+   <point lat="34.18669" lon="-118.15099"/>
+   <point lat="34.1834599" lon="-118.15096"/>
+  </path>
+  <path>
+   <point lat="34.20284" lon="-118.14366"/>
+   <point lat="34.19943" lon="-118.14523"/>
+   <point lat="34.1943399" lon="-118.1476"/>
+   <point lat="34.19097" lon="-118.14917"/>
+   <point lat="34.1883399" lon="-118.15023"/>
+   <point lat="34.18709" lon="-118.15082"/>
+   <point lat="34.18706" lon="-118.15083"/>
+   <point lat="34.18669" lon="-118.15099"/>
+   <point lat="34.1834599" lon="-118.15096"/>
+  </path>
+ </route>
+</body>

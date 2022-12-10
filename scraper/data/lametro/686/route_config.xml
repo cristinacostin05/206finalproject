@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <route color="33cccc" latMax="34.1786699" latMin="34.1415799" lonMax="-118.11235" lonMin="-118.1505999" oppositeColor="000000" tag="686" title="686 Pasadena Via Del Mar Sta -Colorado-A">
+  <stop lat="34.14627" lon="-118.11301" stopId="00085" tag="85" title="Allen / Colorado"/>
+  <stop lat="34.1694099" lon="-118.11287" stopId="00086" tag="86" title="Allen / Washington"/>
+  <stop lat="34.14588" lon="-118.1155099" stopId="01311" tag="1311" title="Colorado / Bonnie"/>
+  <stop lat="34.14568" lon="-118.1473299" stopId="01316" tag="1316" title="Colorado / Arroyo Pkwy"/>
+  <stop lat="34.1457899" lon="-118.12918" stopId="01318" tag="1318" title="Colorado / Catalina"/>
+  <stop lat="34.14582" lon="-118.1243399" stopId="01319" tag="1319" title="Colorado / Chester"/>
+  <stop lat="34.1456999" lon="-118.14402" stopId="01324" tag="1324" title="Colorado / Garfield"/>
+  <stop lat="34.1458499" lon="-118.12106" stopId="01325" tag="1325" title="Colorado / Hill"/>
+  <stop lat="34.14577" lon="-118.1319999" stopId="01331" tag="1331" title="Colorado / Lake"/>
+  <stop lat="34.1457699" lon="-118.135" stopId="01336" tag="1336" title="Colorado / Oak Knoll"/>
+  <stop lat="34.14587" lon="-118.1172199" stopId="01340" tag="1340" title="Colorado / Sierra Bonita"/>
+  <stop lat="34.1458" lon="-118.1278199" stopId="01343" tag="1343" title="Colorado / Wilson"/>
+  <stop lat="34.1456699" lon="-118.14866" stopId="01348" tag="1348" title="Colorado / Raymond"/>
+  <stop lat="34.1457199" lon="-118.1411" stopId="03055" tag="3055" title="Colorado / Los Robles"/>
+  <stop lat="34.16633" lon="-118.1129199" stopId="03334" tag="3334" title="Allen / Brigden"/>
+  <stop lat="34.1635299" lon="-118.11296" stopId="03335" tag="3335" title="Allen / Casa Grande"/>
+  <stop lat="34.16207" lon="-118.1129699" stopId="03337" tag="3337" title="Allen / Mountain"/>
+  <stop lat="34.1581699" lon="-118.1130199" stopId="03338" tag="3338" title="Allen / Orange Grove"/>
+  <stop lat="34.1498399" lon="-118.11301" stopId="03340" tag="3340" title="Allen / Walnut"/>
+  <stop lat="34.1727499" lon="-118.11265" stopId="03341" tag="3341" title="Allen / Layton"/>
+  <stop lat="34.1607" lon="-118.1129899" stopId="03342" tag="3342" title="Allen / Loma Vista"/>
+  <stop lat="34.1562199" lon="-118.1130099" stopId="03345" tag="3345" title="Allen / Monte Vista"/>
+  <stop lat="34.1751099" lon="-118.11235" stopId="03346" tag="3346" title="Allen / Oakwood"/>
+  <stop lat="34.1415799" lon="-118.14875" stopId="04673" tag="4673" title="Raymond / Del Mar"/>
+  <stop lat="34.1443699" lon="-118.1487899" stopId="09800" tag="9800" title="Raymond / Green"/>
+  <stop lat="34.15173" lon="-118.1129999" stopId="10644" tag="10644" title="Allen / Corson"/>
+  <stop lat="34.1541199" lon="-118.11299" stopId="10660" tag="10660" title="Allen / Villa"/>
+  <stop lat="34.1786699" lon="-118.11253" tag="12495_ar" title="New York / Allen"/>
+  <stop lat="34.14602" lon="-118.13263" stopId="03664" tag="3664" title="Colorado / Lake"/>
+  <stop lat="34.1415799" lon="-118.14875" tag="4673_ar" title="Raymond / Del Mar"/>
+  <stop lat="34.16887" lon="-118.1131799" stopId="08687" tag="8687" title="Allen / Washington"/>
+  <stop lat="34.1454999" lon="-118.1505999" stopId="09316" tag="9316" title="Fair Oaks / Colorado"/>
+  <stop lat="34.1461299" lon="-118.1159599" stopId="09838" tag="9838" title="Colorado / Bonnie"/>
+  <stop lat="34.1461099" lon="-118.11862" stopId="09840" tag="9840" title="Colorado / Marion"/>
+  <stop lat="34.1461499" lon="-118.11337" stopId="09841" tag="9841" title="Colorado / Allen"/>
+  <stop lat="34.14593" lon="-118.1477899" stopId="09843" tag="9843" title="Colorado / Arroyo Pkwy"/>
+  <stop lat="34.14604" lon="-118.1296099" stopId="09844" tag="9844" title="Colorado / Catalina"/>
+  <stop lat="34.14595" lon="-118.1444499" stopId="09850" tag="9850" title="Colorado / Garfield"/>
+  <stop lat="34.1461" lon="-118.1215599" stopId="09852" tag="9852" title="Colorado / Hill"/>
+  <stop lat="34.1459699" lon="-118.1417" stopId="09859" tag="9859" title="Colorado / Los Robles"/>
+  <stop lat="34.1459899" lon="-118.1386" stopId="09861" tag="9861" title="Colorado / Madison"/>
+  <stop lat="34.1460699" lon="-118.12526" stopId="09864" tag="9864" title="Colorado / Michigan"/>
+  <stop lat="34.1460199" lon="-118.13543" stopId="09865" tag="9865" title="Colorado / Oak Knoll"/>
+  <stop lat="34.1460499" lon="-118.12825" stopId="09875" tag="9875" title="Colorado / Wilson"/>
+  <stop lat="34.152" lon="-118.1133" stopId="10922" tag="10922" title="Allen Station"/>
+  <stop lat="34.1663199" lon="-118.11322" stopId="11818" tag="11818" title="Allen / Asbury"/>
+  <stop lat="34.16523" lon="-118.1132399" stopId="11820" tag="11820" title="Allen / Brigden"/>
+  <stop lat="34.1515899" lon="-118.1133" stopId="11821" tag="11821" title="Allen / Corson"/>
+  <stop lat="34.16153" lon="-118.1132799" stopId="11822" tag="11822" title="Allen / Mountain"/>
+  <stop lat="34.15762" lon="-118.1133299" stopId="11823" tag="11823" title="Allen / Orange Grove"/>
+  <stop lat="34.1540899" lon="-118.1133099" stopId="11824" tag="11824" title="Allen / Villa"/>
+  <stop lat="34.1492899" lon="-118.11331" stopId="11825" tag="11825" title="Allen / Walnut"/>
+  <stop lat="34.1730599" lon="-118.11292" stopId="11826" tag="11826" title="Allen / Elizabeth"/>
+  <stop lat="34.15629" lon="-118.11332" stopId="11827" tag="11827" title="Allen / Las Lunas"/>
+  <stop lat="34.1601499" lon="-118.1133" stopId="11828" tag="11828" title="Allen / Loma Vista"/>
+  <stop lat="34.1751399" lon="-118.11266" stopId="11831" tag="11831" title="Allen / Oakwood"/>
+  <stop lat="34.1646499" lon="-118.11325" stopId="11832" tag="11832" title="Allen / Whitefield"/>
+  <stop lat="34.1786699" lon="-118.11253" stopId="12495" tag="12495" title="New York / Allen"/>
+  <stop lat="34.14433" lon="-118.15059" stopId="13404" tag="13404" title="Fair Oaks / Green"/>
+  <direction name="North" tag="686_6_0" title="North to New York-Allen" useForUI="true">
+   <stop tag="4673"/>
+   <stop tag="9800"/>
+   <stop tag="1348"/>
+   <stop tag="1316"/>
+   <stop tag="1324"/>
+   <stop tag="3055"/>
+   <stop tag="1336"/>
+   <stop tag="1331"/>
+   <stop tag="1318"/>
+   <stop tag="1343"/>
+   <stop tag="1319"/>
+   <stop tag="1325"/>
+   <stop tag="1340"/>
+   <stop tag="1311"/>
+   <stop tag="85"/>
+   <stop tag="3340"/>
+   <stop tag="10644"/>
+   <stop tag="10660"/>
+   <stop tag="3345"/>
+   <stop tag="3338"/>
+   <stop tag="3342"/>
+   <stop tag="3337"/>
+   <stop tag="3335"/>
+   <stop tag="3334"/>
+   <stop tag="86"/>
+   <stop tag="3341"/>
+   <stop tag="3346"/>
+   <stop tag="12495_ar"/>
+  </direction>
+  <direction name="South" tag="686_4_1" title="South to Del Mar Station" useForUI="true">
+   <stop tag="12495"/>
+   <stop tag="11831"/>
+   <stop tag="11826"/>
+   <stop tag="8687"/>
+   <stop tag="11818"/>
+   <stop tag="11820"/>
+   <stop tag="11832"/>
+   <stop tag="11822"/>
+   <stop tag="11828"/>
+   <stop tag="11823"/>
+   <stop tag="11827"/>
+   <stop tag="11824"/>
+   <stop tag="10922"/>
+   <stop tag="11821"/>
+   <stop tag="11825"/>
+   <stop tag="9841"/>
+   <stop tag="9838"/>
+   <stop tag="9840"/>
+   <stop tag="9852"/>
+   <stop tag="9864"/>
+   <stop tag="9875"/>
+   <stop tag="9844"/>
+   <stop tag="3664"/>
+   <stop tag="9865"/>
+   <stop tag="9861"/>
+   <stop tag="9859"/>
+   <stop tag="9850"/>
+   <stop tag="9843"/>
+   <stop tag="9316"/>
+   <stop tag="13404"/>
+   <stop tag="4673_ar"/>
+  </direction>
+  <path>
+   <point lat="34.14597" lon="-118.1417"/>
+   <point lat="34.14595" lon="-118.14445"/>
+   <point lat="34.14593" lon="-118.14779"/>
+   <point lat="34.14578" lon="-118.15045"/>
+   <point lat="34.1455" lon="-118.1506"/>
+   <point lat="34.1443299" lon="-118.15059"/>
+   <point lat="34.14353" lon="-118.15044"/>
+   <point lat="34.14062" lon="-118.15041"/>
+   <point lat="34.1406" lon="-118.15035"/>
+   <point lat="34.14058" lon="-118.15019"/>
+   <point lat="34.1405699" lon="-118.15012"/>
+   <point lat="34.14058" lon="-118.1496"/>
+   <point lat="34.1405699" lon="-118.14929"/>
+   <point lat="34.14058" lon="-118.14883"/>
+   <point lat="34.14158" lon="-118.14875"/>
+  </path>
+  <path>
+   <point lat="34.14158" lon="-118.14875"/>
+   <point lat="34.14437" lon="-118.14879"/>
+   <point lat="34.14567" lon="-118.14866"/>
+   <point lat="34.14568" lon="-118.14733"/>
+   <point lat="34.1457" lon="-118.14402"/>
+   <point lat="34.14572" lon="-118.1411"/>
+  </path>
+  <path>
+   <point lat="34.14572" lon="-118.1411"/>
+   <point lat="34.14577" lon="-118.135"/>
+   <point lat="34.14577" lon="-118.132"/>
+   <point lat="34.14579" lon="-118.12918"/>
+   <point lat="34.1458" lon="-118.12782"/>
+   <point lat="34.14582" lon="-118.12434"/>
+   <point lat="34.14585" lon="-118.12106"/>
+   <point lat="34.14587" lon="-118.11722"/>
+   <point lat="34.14588" lon="-118.11551"/>
+   <point lat="34.14602" lon="-118.11316"/>
+   <point lat="34.14627" lon="-118.11301"/>
+   <point lat="34.14984" lon="-118.11301"/>
+   <point lat="34.15173" lon="-118.113"/>
+   <point lat="34.15412" lon="-118.11299"/>
+   <point lat="34.15622" lon="-118.11301"/>
+   <point lat="34.15817" lon="-118.11302"/>
+   <point lat="34.1607" lon="-118.11299"/>
+   <point lat="34.16207" lon="-118.11297"/>
+   <point lat="34.16353" lon="-118.11296"/>
+   <point lat="34.16633" lon="-118.11292"/>
+   <point lat="34.16941" lon="-118.11287"/>
+   <point lat="34.1712599" lon="-118.11299"/>
+   <point lat="34.17275" lon="-118.11265"/>
+   <point lat="34.1751099" lon="-118.11235"/>
+   <point lat="34.17855" lon="-118.11206"/>
+   <point lat="34.1786699" lon="-118.11253"/>
+  </path>
+  <path>
+   <point lat="34.1786699" lon="-118.11253"/>
+   <point lat="34.17853" lon="-118.11589"/>
+   <point lat="34.17732" lon="-118.11587"/>
+   <point lat="34.1773499" lon="-118.11222"/>
+   <point lat="34.17619" lon="-118.11237"/>
+   <point lat="34.17514" lon="-118.11266"/>
+   <point lat="34.17306" lon="-118.11292"/>
+   <point lat="34.1712599" lon="-118.11299"/>
+   <point lat="34.16887" lon="-118.11318"/>
+   <point lat="34.16632" lon="-118.11322"/>
+   <point lat="34.16523" lon="-118.11324"/>
+   <point lat="34.16465" lon="-118.11325"/>
+   <point lat="34.16153" lon="-118.11328"/>
+   <point lat="34.16015" lon="-118.1133"/>
+   <point lat="34.15762" lon="-118.11333"/>
+   <point lat="34.15629" lon="-118.11332"/>
+   <point lat="34.1540899" lon="-118.11331"/>
+   <point lat="34.152" lon="-118.1133"/>
+   <point lat="34.15159" lon="-118.1133"/>
+   <point lat="34.14929" lon="-118.11331"/>
+   <point lat="34.14615" lon="-118.11337"/>
+   <point lat="34.1460099" lon="-118.11444"/>
+   <point lat="34.14613" lon="-118.11596"/>
+   <point lat="34.14611" lon="-118.11862"/>
+   <point lat="34.1460999" lon="-118.12156"/>
+   <point lat="34.14607" lon="-118.12526"/>
+   <point lat="34.14605" lon="-118.12825"/>
+   <point lat="34.14604" lon="-118.12961"/>
+   <point lat="34.14602" lon="-118.13263"/>
+   <point lat="34.14602" lon="-118.13543"/>
+   <point lat="34.14599" lon="-118.1386"/>
+   <point lat="34.14597" lon="-118.1417"/>
+  </path>
+ </route>
+</body>

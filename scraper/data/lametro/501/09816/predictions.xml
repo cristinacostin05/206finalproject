@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="501" routeTitle="501 Pasadena - N. Hollywood Sta Via 134" stopTag="9816" stopTitle="Broadway / Brand">
+  <direction title="West to N. Hllywd- Via 134 Fwy-Red-Orange Line">
+   <prediction affectedByLayover="true" block="5010100" dirTag="501_14_1" epochTime="1670559980720" isDeparture="false" minutes="12" seconds="733" tripTag="54428882" vehicle="8251"/>
+   <prediction block="5010602" dirTag="501_14_1" epochTime="1670560013464" isDeparture="false" minutes="12" seconds="766" tripTag="54428840" vehicle="5786"/>
+   <prediction affectedByLayover="true" block="5010200" dirTag="501_14_1" epochTime="1670560934786" isDeparture="false" minutes="28" seconds="1687" tripTag="54428853" vehicle="5602"/>
+   <prediction affectedByLayover="true" block="5010100" dirTag="501_14_1" epochTime="1670565077016" isDeparture="false" minutes="97" seconds="5829" tripTag="54428894" vehicle="8251"/>
+  </direction>
+ </predictions>
+</body>

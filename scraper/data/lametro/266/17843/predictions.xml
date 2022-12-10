@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="17843" stopTitle="Lakewood / Lubec">
+  <direction title="North to Sierra Madre Villa Station">
+   <prediction block="2661302" dirTag="266_27_0" epochTime="1670560613454" isDeparture="false" minutes="6" seconds="373" tripTag="54432254" vehicle="5632"/>
+   <prediction block="2660800" dirTag="266_27_0" epochTime="1670561863074" isDeparture="false" minutes="27" seconds="1623" tripTag="54432210" vehicle="5726"/>
+   <prediction affectedByLayover="true" block="2661100" dirTag="266_27_0" epochTime="1670563629760" isDeparture="false" minutes="56" seconds="3389" tripTag="54432209" vehicle="5735"/>
+   <prediction affectedByLayover="true" block="2660400" dirTag="266_27_0" epochTime="1670565909760" isDeparture="false" minutes="94" seconds="5669" tripTag="54432208" vehicle="5757"/>
+  </direction>
+ </predictions>
+</body>

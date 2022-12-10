@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="4206" stopTitle="Pacific / 55th">
+  <direction title="North to Downtown LA - Sunset- Figueroa">
+   <prediction block="0604111" dirTag="60_161_0" epochTime="1670559816159" isDeparture="false" minutes="4" seconds="249" tripTag="54597668" vehicle="6114"/>
+   <prediction block="0604311" dirTag="60_161_0" epochTime="1670561454689" isDeparture="false" minutes="31" seconds="1887" tripTag="54597649" vehicle="5675"/>
+   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670562460920" isDeparture="false" isScheduleBased="true" minutes="48" seconds="2894" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
+  </direction>
+ </predictions>
+</body>

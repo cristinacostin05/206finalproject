@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="37" routeTitle="37 Cedar Sinai-Dtwn LA-Wash/Fairfax Via" stopTag="7449" stopTitle="Adams / 4th">
+  <direction title="North to Beverly Center">
+   <prediction affectedByLayover="true" block="0149811" dirTag="37_504_0" epochTime="1670560884941" isDeparture="false" minutes="45" seconds="2715" tripTag="54520474_37" vehicle="5816"/>
+  </direction>
+ </predictions>
+</body>

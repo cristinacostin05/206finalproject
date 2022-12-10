@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="10848" stopTitle="Harbor Transitway / 37th St / USC">
+  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_210_1" epochTime="1670560895037" isDeparture="false" isScheduleBased="true" minutes="16" seconds="991" tripTag="54545504" vehicle="virtualVehicle_9101302"/>
+   <prediction block="9102602" dirTag="910_210_1" epochTime="1670561940865" isDeparture="false" minutes="33" seconds="2037" tripTag="54545613" vehicle="8388"/>
+  </direction>
+ </predictions>
+</body>

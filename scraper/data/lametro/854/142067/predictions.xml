@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="854" routeTitle="854 All Bus Bridges Gold Line" stopTag="142067" stopTitle="Judge John Aiso / Temple">
+  <direction title="West to L-Gold Line Shtl Union Via Little Tokyo">
+   <prediction affectedByLayover="true" block="8540300" dirTag="854_36_1" epochTime="1670560479808" isDeparture="false" minutes="15" seconds="922" tripTag="54671197" vehicle="4189"/>
+   <prediction affectedByLayover="true" block="8540100" dirTag="854_36_1" epochTime="1670561715002" isDeparture="false" minutes="35" seconds="2157" tripTag="54671183" vehicle="4128"/>
+   <prediction affectedByLayover="true" block="8540200" dirTag="854_36_1" epochTime="1670562769694" isDeparture="false" minutes="53" seconds="3212" tripTag="54671184" vehicle="4126"/>
+   <prediction affectedByLayover="true" block="8540300" dirTag="854_36_1" epochTime="1670563969694" isDeparture="false" minutes="73" seconds="4412" tripTag="54671181" vehicle="4189"/>
+   <prediction affectedByLayover="true" block="8540100" dirTag="854_36_1" epochTime="1670565315002" isDeparture="false" minutes="95" seconds="5757" tripTag="54671185" vehicle="4128"/>
+  </direction>
+ </predictions>
+</body>

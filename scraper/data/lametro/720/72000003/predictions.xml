@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="72000003" stopTitle="6th / Witmer">
+  <direction title="West to Westwood">
+   <prediction affectedByLayover="true" block="7203402" dirTag="720_1274_1" epochTime="1670560112725" isDeparture="false" minutes="25" seconds="1516" tripTag="54508049" vehicle="8738"/>
+   <prediction affectedByLayover="true" block="7203802" dirTag="720_1274_1" epochTime="1670561972725" isDeparture="false" minutes="56" seconds="3376" tripTag="54507809" vehicle="8785"/>
+  </direction>
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="7203502" dirTag="720_1273_1" epochTime="1670560191259" isDeparture="false" isScheduleBased="true" minutes="26" seconds="1594" tripTag="54507812" vehicle="virtualVehicle_7203502"/>
+   <prediction affectedByLayover="true" block="7200100" dirTag="720_1273_1" epochTime="1670562051259" isDeparture="false" minutes="57" seconds="3454" tripTag="54508050" vehicle="9587"/>
+  </direction>
+ </predictions>
+</body>

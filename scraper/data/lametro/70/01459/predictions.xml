@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="1459" stopTitle="Garvey / Florence">
+  <direction title="East to El Monte Station">
+   <prediction block="0702600" dirTag="70_292_0" epochTime="1670559617455" isDeparture="false" minutes="5" seconds="326" tripTag="54593100" vehicle="4034"/>
+   <prediction block="0700100" dirTag="70_292_0" epochTime="1670560522599" isDeparture="false" minutes="20" seconds="1232" tripTag="54592944" vehicle="4116"/>
+   <prediction block="0700200" dirTag="70_292_0" epochTime="1670560767465" isDeparture="false" minutes="24" seconds="1476" tripTag="54592801" vehicle="1841"/>
+  </direction>
+ </predictions>
+</body>

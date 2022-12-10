@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="13162" stopTitle="Atlantic / Harding">
+  <direction title="West to Downtown LA - Broadway-Venice">
+   <prediction block="0701700" dirTag="70_290_1" epochTime="1670559939314" isDeparture="false" minutes="10" seconds="626" tripTag="54592901" vehicle="1838"/>
+   <prediction affectedByLayover="true" block="0704211" dirTag="70_290_1" epochTime="1670561756024" isDeparture="false" isScheduleBased="true" minutes="40" seconds="2443" tripTag="54592920" vehicle="virtualVehicle_0704211"/>
+   <prediction affectedByLayover="true" block="0700100" dirTag="70_291_1" epochTime="1670564153822" isDeparture="false" minutes="80" seconds="4841" tripTag="54592919" vehicle="4116"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="30010" stopTitle="Montebello Metrolink Station">
+  <direction title="West to Wilshire / Western Station">
+   <prediction affectedByLayover="true" block="0182502" dirTag="18_287_1" epochTime="1670559720000" isDeparture="true" isScheduleBased="true" minutes="29" seconds="1768" tripTag="54677483" vehicle="virtualVehicle_0182502"/>
+   <prediction affectedByLayover="true" block="0180700" dirTag="18_282_1" epochTime="1670561880000" isDeparture="true" minutes="65" seconds="3928" tripTag="54677460" vehicle="1923"/>
+   <prediction affectedByLayover="true" block="0182200" dirTag="18_287_1" epochTime="1670563500000" isDeparture="true" minutes="92" seconds="5548" tripTag="54677461" vehicle="1707"/>
+  </direction>
+ </predictions>
+</body>

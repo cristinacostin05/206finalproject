@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="286" stopTitle="Avalon / Redondo Beach">
+  <direction title="North to Westlake/Macarthur Pk Station">
+   <prediction affectedByLayover="true" block="0513402" dirTag="51_325_0" epochTime="1670559539172" isDeparture="false" minutes="26" seconds="1560" tripTag="54614049" vehicle="4174"/>
+   <prediction affectedByLayover="true" block="0512902" dirTag="51_325_0" epochTime="1670561399172" isDeparture="false" minutes="57" seconds="3420" tripTag="54614173" vehicle="3882"/>
+  </direction>
+  <direction title="North to 7th Street / Metro Center Station">
+   <prediction affectedByLayover="true" block="0513302" dirTag="51_339_0" epochTime="1670561127910" isDeparture="false" minutes="52" seconds="3149" tripTag="54614039" vehicle="5834"/>
+  </direction>
+ </predictions>
+</body>

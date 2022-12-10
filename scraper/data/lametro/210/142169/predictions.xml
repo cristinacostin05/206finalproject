@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="142169" stopTitle="Crenshaw / Stocker">
+  <direction title="South to South Bay Galleria">
+   <prediction block="2100700" dirTag="210_303_1" epochTime="1670559296663" isDeparture="false" minutes="23" seconds="1404" tripTag="54543057" vehicle="2060"/>
+   <prediction affectedByLayover="true" block="2101900" dirTag="210_303_1" epochTime="1670563798326" isDeparture="false" minutes="98" seconds="5906" tripTag="54543031" vehicle="1942"/>
+  </direction>
+ </predictions>
+</body>

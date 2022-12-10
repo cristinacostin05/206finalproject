@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="8332" stopTitle="Whittier / Via Del Oro">
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0180500" dirTag="18_280_0" epochTime="1670559045348" isDeparture="false" isScheduleBased="true" minutes="18" seconds="1103" tripTag="54677616" vehicle="virtualVehicle_0180500"/>
+   <prediction block="0180700" dirTag="18_280_0" epochTime="1670559281886" isDeparture="false" minutes="22" seconds="1339" tripTag="54677618" vehicle="1923"/>
+   <prediction block="0181100" dirTag="18_280_0" epochTime="1670560689004" isDeparture="false" minutes="45" seconds="2746" tripTag="54677611" vehicle="1708"/>
+   <prediction affectedByLayover="true" block="0182200" dirTag="18_286_0" epochTime="1670562873982" isDeparture="false" minutes="82" seconds="4931" tripTag="54677493" vehicle="1707"/>
+   <prediction affectedByLayover="true" block="0181000" dirTag="18_286_0" epochTime="1670563160358" isDeparture="false" minutes="86" seconds="5218" tripTag="54677462" vehicle="1866"/>
+  </direction>
+ </predictions>
+</body>

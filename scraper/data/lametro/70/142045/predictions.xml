@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="142045" stopTitle="Garvey / Garvey Community Center">
+  <direction title="West to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0704211" dirTag="70_290_1" epochTime="1670560690093" isDeparture="false" isScheduleBased="true" minutes="22" seconds="1374" tripTag="54592920" vehicle="virtualVehicle_0704211"/>
+   <prediction affectedByLayover="true" block="0700100" dirTag="70_291_1" epochTime="1670563125403" isDeparture="false" minutes="63" seconds="3809" tripTag="54592919" vehicle="4116"/>
+   <prediction affectedByLayover="true" block="0704311" dirTag="70_290_1" epochTime="1670565010093" isDeparture="false" isScheduleBased="true" minutes="94" seconds="5694" tripTag="54592913" vehicle="virtualVehicle_0704311"/>
+  </direction>
+ </predictions>
+</body>

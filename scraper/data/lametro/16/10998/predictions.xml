@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="10998" stopTitle="Holloway / La Cienega">
+  <direction title="East to Downtown LA - 6th-Los Angeles">
+   <prediction block="0160602" dirTag="16_417_0" epochTime="1670559206224" isDeparture="false" minutes="1" seconds="116" tripTag="54471079" vehicle="8543"/>
+   <prediction block="0160400" dirTag="16_416_0" epochTime="1670559219728" isDeparture="false" minutes="2" seconds="129" tripTag="54471159" vehicle="8547"/>
+   <prediction affectedByLayover="true" block="0166000" dirTag="16_416_0" epochTime="1670560375826" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1286" tripTag="54470907" vehicle="virtualVehicle_0166000"/>
+   <prediction affectedByLayover="true" block="0165100" dirTag="16_417_0" epochTime="1670560392698" isDeparture="false" minutes="21" seconds="1302" tripTag="54471008" vehicle="8432"/>
+  </direction>
+ </predictions>
+</body>

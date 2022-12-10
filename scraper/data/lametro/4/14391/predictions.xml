@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="14391" stopTitle="Santa Monica / Fairfax">
+  <direction title="West to West LA - Sepulveda Bl">
+   <prediction block="0041000" dirTag="4_317_1" epochTime="1670558444585" isDeparture="false" minutes="11" seconds="679" tripTag="54485802" vehicle="8810"/>
+  </direction>
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0040600" dirTag="4_315_1" epochTime="1670559063515" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1298" tripTag="54485808" vehicle="virtualVehicle_0040600"/>
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670559959588" isDeparture="false" isScheduleBased="true" minutes="36" seconds="2194" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670561759588" isDeparture="false" isScheduleBased="true" minutes="66" seconds="3994" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+ </predictions>
+</body>

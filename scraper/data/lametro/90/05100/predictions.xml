@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="90" routeTitle="90 Dtla - Noho Sta Via Vineland-Foothil" stopTag="5100" stopTitle="Glendale / San Fernando">
+  <direction title="North to North Hollywood Station">
+   <prediction block="0900400" dirTag="90_359_0" epochTime="1670559661356" isDeparture="false" minutes="19" seconds="1140" tripTag="54422202" vehicle="3902"/>
+   <prediction affectedByLayover="true" block="0901400" dirTag="90_359_0" epochTime="1670560028174" isDeparture="false" isScheduleBased="true" minutes="25" seconds="1507" tripTag="54422210" vehicle="virtualVehicle_0901400"/>
+  </direction>
+ </predictions>
+</body>

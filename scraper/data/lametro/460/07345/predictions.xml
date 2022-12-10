@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="460" routeTitle="460 Downtown LA - Disneyland Via Harbor" stopTag="7345" stopTitle="6th / Broadway">
+  <direction title="West to Downtown LA - 6th-Los Angeles">
+   <prediction block="4601202" dirTag="460_202_1" epochTime="1670562863834" isDeparture="false" minutes="79" seconds="4792" tripTag="54529695" vehicle="1737"/>
+  </direction>
+ </predictions>
+</body>

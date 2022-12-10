@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="240" stopTitle="Avalon / 135th">
+  <direction title="South to CAL State Dominguez Hls">
+   <prediction block="0513302" dirTag="51_328_1" epochTime="1670559566280" isDeparture="false" minutes="26" seconds="1567" tripTag="54613978" vehicle="5834"/>
+   <prediction block="0512902" dirTag="51_328_1" epochTime="1670559918218" isDeparture="false" minutes="31" seconds="1919" tripTag="54614066" vehicle="3882"/>
+  </direction>
+ </predictions>
+</body>

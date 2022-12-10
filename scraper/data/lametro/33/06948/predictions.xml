@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="6948" stopTitle="Venice / Hoover">
+  <direction title="East to Downtown LA - Union Sta">
+   <prediction block="0333502" dirTag="33_590_0" epochTime="1670561013391" isDeparture="false" minutes="10" seconds="643" tripTag="54470666" vehicle="8580"/>
+   <prediction block="0331000" dirTag="33_589_0" epochTime="1670563200711" isDeparture="false" minutes="47" seconds="2830" tripTag="54470672" vehicle="8621"/>
+   <prediction block="0339702" dirTag="33_589_0" epochTime="1670563219613" isDeparture="false" minutes="47" seconds="2849" tripTag="54470680" vehicle="8624"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="16301" stopTitle="Sunset / Descanso">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670558351793" isDeparture="false" isScheduleBased="true" minutes="9" seconds="579" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670560151793" isDeparture="false" isScheduleBased="true" minutes="39" seconds="2379" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+   <prediction affectedByLayover="true" block="0049411" dirTag="4_313_1" epochTime="1670563391793" isDeparture="false" isScheduleBased="true" minutes="93" seconds="5619" tripTag="54485785" vehicle="virtualVehicle_0049411"/>
+  </direction>
+ </predictions>
+</body>

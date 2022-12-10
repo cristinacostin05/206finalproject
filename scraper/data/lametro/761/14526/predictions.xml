@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="14526" stopTitle="Sepulveda / Getty Center">
+  <direction title="South to Sepulveda E Line (expo) Station">
+   <prediction block="7610900" dirTag="761_72_1" epochTime="1670559494580" isDeparture="false" minutes="12" seconds="744" tripTag="54424766" vehicle="8717"/>
+   <prediction block="7611000" dirTag="761_72_1" epochTime="1670560968953" isDeparture="false" minutes="36" seconds="2219" tripTag="54424840" vehicle="8760"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="7412" stopTitle="7th / Valencia">
+  <direction title="South to CAL State Dominguez Hls">
+   <prediction affectedByLayover="true" block="0513502" dirTag="51_328_1" epochTime="1670560733757" isDeparture="false" isScheduleBased="true" minutes="45" seconds="2729" tripTag="54614186" vehicle="virtualVehicle_0513502"/>
+  </direction>
+ </predictions>
+</body>

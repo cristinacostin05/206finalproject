@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="90" routeTitle="90 Dtla - Noho Sta Via Vineland-Foothil" stopTag="6376" stopTitle="Sunland / Shadow Island">
+  <direction title="North to North Hollywood Station">
+   <prediction block="0901200" dirTag="90_359_0" epochTime="1670559496499" isDeparture="false" minutes="16" seconds="975" tripTag="54422291" vehicle="4111"/>
+   <prediction block="0900400" dirTag="90_359_0" epochTime="1670563050671" isDeparture="false" minutes="75" seconds="4529" tripTag="54422202" vehicle="3902"/>
+   <prediction affectedByLayover="true" block="0901400" dirTag="90_359_0" epochTime="1670563417489" isDeparture="false" isScheduleBased="true" minutes="81" seconds="4896" tripTag="54422210" vehicle="virtualVehicle_0901400"/>
+  </direction>
+ </predictions>
+</body>

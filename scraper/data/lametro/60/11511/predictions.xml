@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="11511" stopTitle="Long Beach / Josephine">
+  <direction title="South to Artesia Station">
+   <prediction block="0604211" dirTag="60_163_1" epochTime="1670561576204" isDeparture="false" minutes="33" seconds="1995" tripTag="54597750" vehicle="6103"/>
+   <prediction affectedByLayover="true" block="0600900" dirTag="60_163_1" epochTime="1670563760370" isDeparture="false" minutes="69" seconds="4179" tripTag="54597795" vehicle="4083"/>
+  </direction>
+ </predictions>
+</body>

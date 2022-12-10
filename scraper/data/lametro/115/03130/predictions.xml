@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="115" routeTitle="115 Playa Del Rey - Norwalk Via Manchest" stopTag="3130" stopTitle="Manchester / Tuscany">
+  <direction title="East to Stonewood Center">
+   <prediction block="1150700" dirTag="115_519_0" epochTime="1670559203052" isDeparture="false" minutes="6" seconds="375" tripTag="54540980" vehicle="1581"/>
+  </direction>
+  <direction title="East to Norwalk Green Line Sta">
+   <prediction affectedByLayover="true" block="1150200" dirTag="115_517_0" epochTime="1670561903467" isDeparture="false" minutes="51" seconds="3075" tripTag="54541016" vehicle="2047"/>
+   <prediction affectedByLayover="true" block="1150800" dirTag="115_517_0" epochTime="1670564363467" isDeparture="false" minutes="92" seconds="5535" tripTag="54540968" vehicle="1769"/>
+  </direction>
+ </predictions>
+</body>

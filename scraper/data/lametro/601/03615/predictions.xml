@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="601" routeTitle="601 Warner Center Circulator" stopTag="3615" stopTitle="Canoga / Vanowen">
+  <direction title="North to Warner Center Shuttle">
+   <prediction affectedByLayover="true" block="6010402" dirTag="601_1_0" epochTime="1670558822144" isDeparture="false" minutes="16" seconds="1014" tripTag="54408180" vehicle="5823"/>
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_1_0" epochTime="1670560022144" isDeparture="false" minutes="36" seconds="2214" tripTag="54408179" vehicle="2052"/>
+   <prediction affectedByLayover="true" block="6010402" dirTag="601_1_0" epochTime="1670561222144" isDeparture="false" minutes="56" seconds="3414" tripTag="54408178" vehicle="5823"/>
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_1_0" epochTime="1670562422144" isDeparture="false" minutes="76" seconds="4614" tripTag="54408174" vehicle="2052"/>
+   <prediction affectedByLayover="true" block="6010402" dirTag="601_1_0" epochTime="1670563622144" isDeparture="false" minutes="96" seconds="5814" tripTag="54408177" vehicle="5823"/>
+  </direction>
+ </predictions>
+</body>

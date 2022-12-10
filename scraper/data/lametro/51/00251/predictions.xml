@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="251" stopTitle="Avalon / 51st">
+  <direction title="South to CAL State Dominguez Hls">
+   <prediction block="0513302" dirTag="51_328_1" epochTime="1670558069638" isDeparture="false" minutes="1" seconds="69" tripTag="54613978" vehicle="5834"/>
+   <prediction block="0512902" dirTag="51_328_1" epochTime="1670558421576" isDeparture="false" minutes="7" seconds="421" tripTag="54614066" vehicle="3882"/>
+   <prediction affectedByLayover="true" block="0513502" dirTag="51_328_1" epochTime="1670562491602" isDeparture="false" isScheduleBased="true" minutes="74" seconds="4491" tripTag="54614186" vehicle="virtualVehicle_0513502"/>
+  </direction>
+  <direction title="South to Avalon Station">
+   <prediction block="0512400" dirTag="51_333_1" epochTime="1670558133175" isDeparture="false" minutes="2" seconds="133" tripTag="54614167" vehicle="4036"/>
+   <prediction block="0511500" dirTag="51_332_1" epochTime="1670559149786" isDeparture="false" minutes="19" seconds="1149" tripTag="54614093" vehicle="6139"/>
+  </direction>
+ </predictions>
+</body>

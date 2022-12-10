@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="10" routeTitle="10 W Hollywood-Dtwn LA -Avalon Sta Via" stopTag="11703" stopTitle="Melrose / Highland">
+  <direction title="West to West Hollywood">
+   <prediction block="0105100" dirTag="10_737_1" epochTime="1670559694199" isDeparture="false" minutes="26" seconds="1560" tripTag="54470057" vehicle="5624"/>
+   <prediction affectedByLayover="true" block="0105602" dirTag="10_737_1" epochTime="1670562954933" isDeparture="false" isScheduleBased="true" minutes="80" seconds="4820" tripTag="54470133" vehicle="virtualVehicle_0105602"/>
+   <prediction affectedByLayover="true" block="0512802" dirTag="10_742_1" epochTime="1670564037910" isDeparture="false" isScheduleBased="true" minutes="98" seconds="5903" tripTag="54470033_10" vehicle="virtualVehicle_0512802"/>
+  </direction>
+ </predictions>
+</body>

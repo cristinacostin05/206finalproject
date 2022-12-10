@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="7276" stopTitle="3rd / Cochran">
+  <direction title="East to Downtown LA - 6th-Los Angeles">
+   <prediction affectedByLayover="true" block="0160500" dirTag="16_416_0" epochTime="1670559734677" isDeparture="false" isScheduleBased="true" minutes="10" seconds="650" tripTag="54470969" vehicle="virtualVehicle_0160500"/>
+   <prediction block="0160400" dirTag="16_416_0" epochTime="1670560289920" isDeparture="false" minutes="20" seconds="1205" tripTag="54471159" vehicle="8547"/>
+   <prediction block="0160602" dirTag="16_417_0" epochTime="1670560354597" isDeparture="false" minutes="21" seconds="1270" tripTag="54471079" vehicle="8543"/>
+   <prediction affectedByLayover="true" block="0166000" dirTag="16_416_0" epochTime="1670561354677" isDeparture="false" isScheduleBased="true" minutes="37" seconds="2270" tripTag="54470907" vehicle="virtualVehicle_0166000"/>
+   <prediction affectedByLayover="true" block="0165100" dirTag="16_417_0" epochTime="1670561541071" isDeparture="false" minutes="40" seconds="2456" tripTag="54471008" vehicle="8432"/>
+  </direction>
+ </predictions>
+</body>

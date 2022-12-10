@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="5460" stopTitle="San Gabriel / California">
+  <direction title="East to Sierra Madre Villa Station">
+   <prediction block="4870200" dirTag="487_117_0" epochTime="1670558316235" isDeparture="false" minutes="0" seconds="56" tripTag="54489669" vehicle="4142"/>
+   <prediction block="4870300" dirTag="487_117_0" epochTime="1670558903777" isDeparture="false" minutes="10" seconds="643" tripTag="54489693" vehicle="4014"/>
+   <prediction block="4870100" dirTag="487_117_0" epochTime="1670561402127" isDeparture="false" minutes="52" seconds="3142" tripTag="54489681" vehicle="4150"/>
+   <prediction affectedByLayover="true" block="4870502" dirTag="487_117_0" epochTime="1670562868164" isDeparture="false" minutes="76" seconds="4608" tripTag="54489683" vehicle="4081"/>
+  </direction>
+ </predictions>
+</body>

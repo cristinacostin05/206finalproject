@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="40" routeTitle="40 Downtown LA-Sbay Galleria Via King B" stopTag="19026" stopTitle="Broadway / Martin Luther King Jr">
+  <direction title="North to Downtown LA - Union Sta">
+   <prediction block="0402200" dirTag="40_913_0" epochTime="1670561048228" isDeparture="false" minutes="39" seconds="2353" tripTag="54535837" vehicle="6126"/>
+  </direction>
+ </predictions>
+</body>

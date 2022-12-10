@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="6991" stopTitle="12616 B Ventura">
+  <direction title="East to Universal/Studio City Sta">
+   <prediction affectedByLayover="true" block="2401700" dirTag="240_1_0" epochTime="1670560002242" isDeparture="false" isScheduleBased="true" minutes="26" seconds="1583" tripTag="54418549" vehicle="virtualVehicle_2401700"/>
+   <prediction block="2401000" dirTag="240_1_0" epochTime="1670560206284" isDeparture="false" minutes="29" seconds="1787" tripTag="54418535" vehicle="8450"/>
+   <prediction block="2401300" dirTag="240_1_0" epochTime="1670560937979" isDeparture="false" minutes="41" seconds="2519" tripTag="54418544" vehicle="2028"/>
+  </direction>
+ </predictions>
+</body>

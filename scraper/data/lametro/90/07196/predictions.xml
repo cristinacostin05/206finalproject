@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="90" routeTitle="90 Dtla - Noho Sta Via Vineland-Foothil" stopTag="7196" stopTitle="Vineland / Burbank">
+  <direction title="North to North Hollywood Station">
+   <prediction block="0901200" dirTag="90_359_0" epochTime="1670560645034" isDeparture="false" minutes="35" seconds="2122" tripTag="54422291" vehicle="4111"/>
+   <prediction block="0900400" dirTag="90_359_0" epochTime="1670564199206" isDeparture="false" minutes="94" seconds="5676" tripTag="54422202" vehicle="3902"/>
+  </direction>
+ </predictions>
+</body>

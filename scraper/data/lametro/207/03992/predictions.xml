@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="207" routeTitle="207 Hollywood - Crenshaw Sta Via Western" stopTag="3992" stopTitle="Western / Melrose">
+  <direction title="North to Hollywood">
+   <prediction affectedByLayover="true" block="2072402" dirTag="207_291_0" epochTime="1670559176667" isDeparture="false" isScheduleBased="true" minutes="4" seconds="273" tripTag="54653085" vehicle="virtualVehicle_2072402"/>
+   <prediction block="2075300" dirTag="207_291_0" epochTime="1670560193421" isDeparture="false" minutes="21" seconds="1290" tripTag="54653302" vehicle="8707"/>
+   <prediction block="2075400" dirTag="207_290_0" epochTime="1670560768814" isDeparture="false" minutes="31" seconds="1865" tripTag="54653123" vehicle="8713"/>
+   <prediction affectedByLayover="true" block="2070500" dirTag="207_290_0" epochTime="1670563564359" isDeparture="false" minutes="77" seconds="4661" tripTag="54653020" vehicle="5600"/>
+   <prediction affectedByLayover="true" block="2070300" dirTag="207_291_0" epochTime="1670564336231" isDeparture="false" minutes="90" seconds="5433" tripTag="54653235" vehicle="6135"/>
+  </direction>
+ </predictions>
+</body>

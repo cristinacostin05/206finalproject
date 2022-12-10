@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="15621" stopTitle="3rd / Loma">
+  <direction title="West to West Hollywood">
+   <prediction affectedByLayover="true" block="0169911" dirTag="16_412_1" epochTime="1670561919414" isDeparture="false" minutes="47" seconds="2826" tripTag="54471084" vehicle="8509"/>
+   <prediction affectedByLayover="true" block="0160602" dirTag="16_412_1" epochTime="1670563585933" isDeparture="false" minutes="74" seconds="4492" tripTag="54471155" vehicle="8543"/>
+  </direction>
+ </predictions>
+</body>

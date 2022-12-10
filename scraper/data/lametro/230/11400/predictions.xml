@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="230" routeTitle="230 Sylmar- San Fernando- Studio City- V" stopTag="11400" stopTitle="Laurel Canyon / Oxnard">
+  <direction title="North to Sylmar Station">
+   <prediction affectedByLayover="true" block="2301202" dirTag="230_83_0" epochTime="1670564046121" isDeparture="false" isScheduleBased="true" minutes="84" seconds="5096" tripTag="54423545" vehicle="virtualVehicle_2301202"/>
+  </direction>
+ </predictions>
+</body>

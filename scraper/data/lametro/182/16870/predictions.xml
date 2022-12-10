@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="16870" stopTitle="York / Avenue 46">
+  <direction title="East to Huntington-Monterey">
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_14_0" epochTime="1670562322874" isDeparture="false" isScheduleBased="true" minutes="33" seconds="1988" tripTag="54677255" vehicle="virtualVehicle_1820600"/>
+   <prediction affectedByLayover="true" block="1820400" dirTag="182_14_0" epochTime="1670565551902" isDeparture="false" minutes="86" seconds="5217" tripTag="54677195" vehicle="5951"/>
+  </direction>
+ </predictions>
+</body>

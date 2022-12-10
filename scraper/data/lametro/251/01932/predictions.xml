@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="251" routeTitle="251 Eagle Rock-Long Bch Gl Sta Via Eagle" stopTag="1932" stopTitle="Firestone / State">
+  <direction title="North to Eagle Rock Plaza">
+   <prediction affectedByLayover="true" block="2510900" dirTag="251_169_0" epochTime="1670562776214" isDeparture="false" minutes="70" seconds="4218" tripTag="54644449" vehicle="8646"/>
+  </direction>
+ </predictions>
+</body>

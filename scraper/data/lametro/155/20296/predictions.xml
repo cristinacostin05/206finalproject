@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="20296" stopTitle="Magnolia / Hermitage">
+  <direction title="South to Burbank Station">
+   <prediction affectedByLayover="true" block="0900800" dirTag="155_39_1" epochTime="1670560256242" isDeparture="false" minutes="8" seconds="518" tripTag="54394958" vehicle="6079"/>
+   <prediction affectedByLayover="true" block="0901200" dirTag="155_39_1" epochTime="1670564156242" isDeparture="false" minutes="73" seconds="4418" tripTag="54394971" vehicle="4111"/>
+  </direction>
+ </predictions>
+</body>

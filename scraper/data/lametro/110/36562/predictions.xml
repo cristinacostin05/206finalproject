@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="36562" stopTitle="Centinela / Green Valley">
+  <direction title="West to Culver City Transit Ctr">
+   <prediction block="1101200" dirTag="110_274_1" epochTime="1670561395516" isDeparture="false" minutes="58" seconds="3536" tripTag="54518538" vehicle="5917"/>
+   <prediction affectedByLayover="true" block="1101100" dirTag="110_274_1" epochTime="1670561669548" isDeparture="false" minutes="63" seconds="3810" tripTag="54518536" vehicle="5753"/>
+  </direction>
+  <direction title="West to Playa Vista">
+   <prediction block="1100700" dirTag="110_273_1" epochTime="1670560104565" isDeparture="false" minutes="37" seconds="2245" tripTag="54518535" vehicle="5769"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="115" routeTitle="115 Playa Del Rey - Norwalk Via Manchest" stopTag="16123" stopTitle="Manchester / La Cienega">
+  <direction title="West to Playa Del Rey">
+   <prediction block="1150800" dirTag="115_523_1" epochTime="1670562436657" isDeparture="false" minutes="59" seconds="3580" tripTag="54540966" vehicle="1769"/>
+   <prediction affectedByLayover="true" block="1151600" dirTag="115_523_1" epochTime="1670563730647" isDeparture="false" isScheduleBased="true" minutes="81" seconds="4874" tripTag="54541024" vehicle="virtualVehicle_1151600"/>
+  </direction>
+ </predictions>
+</body>

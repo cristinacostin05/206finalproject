@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="3931" stopTitle="Spring / Cesar E Chavez">
+  <direction title="East to Alhambra - Main-Garfield">
+   <prediction block="0781000" dirTag="78_498_0" epochTime="1670558199026" isDeparture="false" minutes="6" seconds="414" tripTag="54636533" vehicle="4094"/>
+   <prediction block="0780500" dirTag="78_498_0" epochTime="1670558725784" isDeparture="false" minutes="15" seconds="941" tripTag="54636500" vehicle="2016"/>
+  </direction>
+  <direction title="East to Las Tunas-Live Oak">
+   <prediction block="0781200" dirTag="78_519_0" epochTime="1670557908072" isDeparture="false" minutes="2" seconds="123" tripTag="54636486" vehicle="5865"/>
+   <prediction affectedByLayover="true" block="0780900" dirTag="78_519_0" epochTime="1670558916318" isDeparture="false" minutes="18" seconds="1131" tripTag="54636477" vehicle="4065"/>
+   <prediction affectedByLayover="true" block="0780100" dirTag="78_519_0" epochTime="1670561364044" isDeparture="false" minutes="59" seconds="3579" tripTag="54636485" vehicle="1826"/>
+  </direction>
+ </predictions>
+</body>

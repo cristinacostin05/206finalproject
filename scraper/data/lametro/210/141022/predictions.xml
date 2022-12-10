@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="141022" stopTitle="Crenshaw / 80th">
+  <direction title="South to South Bay Galleria">
+   <prediction block="2100700" dirTag="210_303_1" epochTime="1670560295606" isDeparture="false" minutes="40" seconds="2404" tripTag="54543057" vehicle="2060"/>
+  </direction>
+ </predictions>
+</body>

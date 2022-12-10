@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="8288" stopTitle="Whittier / Ferris">
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0180500" dirTag="18_280_0" epochTime="1670558532635" isDeparture="false" isScheduleBased="true" minutes="10" seconds="600" tripTag="54677616" vehicle="virtualVehicle_0180500"/>
+   <prediction block="0180700" dirTag="18_280_0" epochTime="1670558796622" isDeparture="false" minutes="14" seconds="864" tripTag="54677618" vehicle="1923"/>
+   <prediction block="0181100" dirTag="18_280_0" epochTime="1670560203740" isDeparture="false" minutes="37" seconds="2271" tripTag="54677611" vehicle="1708"/>
+   <prediction affectedByLayover="true" block="0182200" dirTag="18_286_0" epochTime="1670562416289" isDeparture="false" minutes="74" seconds="4483" tripTag="54677493" vehicle="1707"/>
+   <prediction affectedByLayover="true" block="0181000" dirTag="18_286_0" epochTime="1670562702665" isDeparture="false" minutes="79" seconds="4770" tripTag="54677462" vehicle="1866"/>
+  </direction>
+ </predictions>
+</body>

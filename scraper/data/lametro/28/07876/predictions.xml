@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="28" routeTitle="28 Century City-Dtw LA-Via Olympic" stopTag="7876" stopTitle="Olympic / La Cienega">
+  <direction title="East to Cesar Chavez &amp; Vignes">
+   <prediction block="0285100" dirTag="28_642_0" epochTime="1670560424037" isDeparture="false" minutes="7" seconds="453" tripTag="54472819" vehicle="4131"/>
+   <prediction affectedByLayover="true" block="0286000" dirTag="28_643_0" epochTime="1670565878332" isDeparture="false" minutes="98" seconds="5908" tripTag="54472821" vehicle="4114"/>
+  </direction>
+ </predictions>
+</body>

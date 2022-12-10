@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="1215" stopTitle="6th / San Pedro">
+  <direction title="East to Downtown LA - 6th - Central">
+   <prediction block="7203802" dirTag="720_1271_0" epochTime="1670560140986" isDeparture="false" minutes="25" seconds="1554" tripTag="54507903" vehicle="8785"/>
+   <prediction block="7200100" dirTag="720_1277_0" epochTime="1670560206165" isDeparture="false" minutes="26" seconds="1619" tripTag="54508128" vehicle="9587"/>
+   <prediction affectedByLayover="true" block="7200400" dirTag="720_1271_0" epochTime="1670563684059" isDeparture="false" minutes="84" seconds="5097" tripTag="54507849" vehicle="8737"/>
+   <prediction affectedByLayover="true" block="7203302" dirTag="720_1271_0" epochTime="1670564284059" isDeparture="false" isScheduleBased="true" minutes="94" seconds="5697" tripTag="54507899" vehicle="virtualVehicle_7203302"/>
+  </direction>
+ </predictions>
+</body>

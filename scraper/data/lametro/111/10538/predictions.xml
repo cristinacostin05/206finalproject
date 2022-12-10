@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="10538" stopTitle="Florence / Rives">
+  <direction title="West to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="1151500" dirTag="111_380_1" epochTime="1670562886830" isDeparture="false" minutes="53" seconds="3185" tripTag="54533473" vehicle="6021"/>
+   <prediction affectedByLayover="true" block="1119911" dirTag="111_380_1" epochTime="1670564247899" isDeparture="false" minutes="75" seconds="4546" tripTag="54533476" vehicle="8471"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <route color="e74d00" latMax="34.1008699" latMin="33.92342" lonMax="-118.2912" lonMin="-118.29209" oppositeColor="ffffff" tag="204" title="204 Hollywood -Athens Via Vermont Av">
+  <stop lat="33.9634999" lon="-118.29148" stopId="02410" tag="2410" title="Vermont / 83rd"/>
+  <stop lat="34.08206" lon="-118.2915599" stopId="03960" tag="3960" title="Vermont / Clinton"/>
+  <stop lat="34.0992899" lon="-118.29192" tag="3961_ar" title="Vermont / Hollywood - South"/>
+  <stop lat="34.09543" lon="-118.2916" stopId="03963" tag="3963" title="Vermont / Fountain"/>
+  <stop lat="34.0933199" lon="-118.29159" stopId="03968" tag="3968" title="Vermont / Lexington"/>
+  <stop lat="34.0855199" lon="-118.29156" stopId="03971" tag="3971" title="Vermont / Monroe"/>
+  <stop lat="34.0789099" lon="-118.2915399" stopId="03974" tag="3974" title="Vermont / Rosewood"/>
+  <stop lat="34.0186199" lon="-118.29139" stopId="05635" tag="5635" title="Vermont / Exposition"/>
+  <stop lat="34.0135099" lon="-118.29139" stopId="05637" tag="5637" title="Vermont / Leighton"/>
+  <stop lat="33.9433099" lon="-118.29141" stopId="05642" tag="5642" title="Vermont / 103rd"/>
+  <stop lat="33.9417799" lon="-118.29141" stopId="05643" tag="5643" title="Vermont / 104th"/>
+  <stop lat="33.9379799" lon="-118.29141" stopId="05644" tag="5644" title="Vermont / 108th"/>
+  <stop lat="33.9356399" lon="-118.29141" stopId="05646" tag="5646" title="Vermont / 110th"/>
+  <stop lat="33.93271" lon="-118.2914299" stopId="05647" tag="5647" title="Vermont / 112th"/>
+  <stop lat="34.0506399" lon="-118.2914599" stopId="05648" tag="5648" title="Vermont / 11th"/>
+  <stop lat="34.07263" lon="-118.29151" stopId="05652" tag="5652" title="Vermont / 1st"/>
+  <stop lat="34.03425" lon="-118.29139" stopId="05653" tag="5653" title="Vermont / 24th"/>
+  <stop lat="34.0282499" lon="-118.2913899" stopId="05655" tag="5655" title="Vermont / 29th"/>
+  <stop lat="34.02229" lon="-118.29138" stopId="05656" tag="5656" title="Vermont / 36th"/>
+  <stop lat="34.0159499" lon="-118.29139" stopId="05658" tag="5658" title="Vermont / 39th"/>
+  <stop lat="34.06887" lon="-118.29149" stopId="05659" tag="5659" title="Vermont / 3rd"/>
+  <stop lat="34.0071899" lon="-118.29139" stopId="05660" tag="5660" title="Vermont / 42nd"/>
+  <stop lat="34.0019299" lon="-118.2913799" stopId="05661" tag="5661" title="Vermont / 46th"/>
+  <stop lat="33.99989" lon="-118.29137" stopId="05662" tag="5662" title="Vermont / 48th"/>
+  <stop lat="34.0671899" lon="-118.2914899" stopId="05663" tag="5663" title="Vermont / 4th"/>
+  <stop lat="33.9962799" lon="-118.2913499" stopId="05664" tag="5664" title="Vermont / 51st"/>
+  <stop lat="33.9930999" lon="-118.2913299" stopId="05665" tag="5665" title="Vermont / 54th"/>
+  <stop lat="33.99128" lon="-118.29132" stopId="05666" tag="5666" title="Vermont / 56th"/>
+  <stop lat="33.98573" lon="-118.2913099" stopId="05668" tag="5668" title="Vermont / 60th"/>
+  <stop lat="33.97943" lon="-118.2914599" stopId="05669" tag="5669" title="Vermont / 66th"/>
+  <stop lat="33.97098" lon="-118.2914699" stopId="05673" tag="5673" title="Vermont / 76th"/>
+  <stop lat="33.96811" lon="-118.2914799" stopId="05674" tag="5674" title="Vermont / 79th"/>
+  <stop lat="34.0600499" lon="-118.29147" stopId="05675" tag="5675" title="Vermont / 7th"/>
+  <stop lat="33.9657" lon="-118.2914899" stopId="05676" tag="5676" title="Vermont / 81st"/>
+  <stop lat="33.9582199" lon="-118.29153" stopId="05678" tag="5678" title="Vermont / 88th"/>
+  <stop lat="34.05763" lon="-118.29147" stopId="05679" tag="5679" title="Vermont / 8th"/>
+  <stop lat="33.95485" lon="-118.29138" stopId="05680" tag="5680" title="Vermont / 90th"/>
+  <stop lat="33.9526599" lon="-118.29139" stopId="05681" tag="5681" title="Vermont / 92nd"/>
+  <stop lat="33.95124" lon="-118.29139" stopId="05683" tag="5683" title="Vermont / 94th"/>
+  <stop lat="34.0557799" lon="-118.2914699" stopId="05685" tag="5685" title="Vermont / James M Wood"/>
+  <stop lat="34.0330499" lon="-118.29138" stopId="05686" tag="5686" title="Vermont / Adams"/>
+  <stop lat="33.94892" lon="-118.2913999" stopId="05689" tag="5689" title="Vermont / Colden"/>
+  <stop lat="33.97518" lon="-118.29145" stopId="05690" tag="5690" title="Vermont / Florence"/>
+  <stop lat="33.98244" lon="-118.2913199" stopId="05691" tag="5691" title="Vermont / Gage"/>
+  <stop lat="33.93079" lon="-118.29143" stopId="05692" tag="5692" title="Vermont / Imperial"/>
+  <stop lat="34.0252899" lon="-118.29138" stopId="05693" tag="5693" title="Vermont / Jefferson"/>
+  <stop lat="34.0523199" lon="-118.29145" stopId="05695" tag="5695" title="Vermont / Olympic"/>
+  <stop lat="34.0469899" lon="-118.2914399" stopId="05696" tag="5696" title="Vermont / Pico"/>
+  <stop lat="33.9889299" lon="-118.2913" stopId="05698" tag="5698" title="Vermont / Slauson"/>
+  <stop lat="34.00349" lon="-118.29139" stopId="05700" tag="5700" title="Vermont / Vernon"/>
+  <stop lat="34.0620799" lon="-118.29147" stopId="05702" tag="5702" title="Vermont / Wilshire"/>
+  <stop lat="34.02379" lon="-118.29138" stopId="07084" tag="7084" title="Vermont / 35th"/>
+  <stop lat="34.08861" lon="-118.29158" stopId="07087" tag="7087" title="Vermont / Lockwood"/>
+  <stop lat="34.08654" lon="-118.29157" stopId="07091" tag="7091" title="Vermont / Normal"/>
+  <stop lat="34.0980299" lon="-118.2912" stopId="07092" tag="7092" title="Sunset / Vermont"/>
+  <stop lat="33.9284499" lon="-118.29141" stopId="07093" tag="7093" title="Vermont / Athens Station"/>
+  <stop lat="33.9239999" lon="-118.29132" stopId="07248" tag="7248" title="Vermont / 120th"/>
+  <stop lat="34.01114" lon="-118.29139" stopId="11247" tag="11247" title="Vermont / Martin Luther King Jr"/>
+  <stop lat="34.1008699" lon="-118.29192" stopId="17308" tag="17308" title="Vermont / Hollywood"/>
+  <stop lat="34.0404299" lon="-118.2913999" stopId="140930" tag="140930" title="Vermont / Washington"/>
+  <stop lat="33.94578" lon="-118.2914099" stopId="140945" tag="140945" title="Vermont / Century"/>
+  <stop lat="34.0911499" lon="-118.2915899" stopId="140948" tag="140948" title="Vermont / Santa Monica"/>
+  <stop lat="33.9604399" lon="-118.29151" stopId="140955" tag="140955" title="Vermont / Manchester"/>
+  <stop lat="34.0445199" lon="-118.2914199" stopId="140968" tag="140968" title="Vermont / Venice"/>
+  <stop lat="34.0634999" lon="-118.2914799" stopId="140969" tag="140969" title="Vermont / 6th"/>
+  <stop lat="34.08341" lon="-118.29155" stopId="140970" tag="140970" title="Vermont / Melrose"/>
+  <stop lat="34.0761199" lon="-118.29153" stopId="141085" tag="141085" title="Vermont / Beverly"/>
+  <stop lat="34.0992899" lon="-118.29192" stopId="03961" tag="3961" title="Vermont / Hollywood - South"/>
+  <stop lat="34.08889" lon="-118.29188" stopId="03969" tag="3969" title="Vermont / Lockwood"/>
+  <stop lat="34.0838" lon="-118.29186" stopId="03970" tag="3970" title="Vermont / Melrose"/>
+  <stop lat="33.9239999" lon="-118.29132" tag="7248_ar" title="Vermont / 120th"/>
+  <stop lat="34.08192" lon="-118.29186" stopId="12441" tag="12441" title="Vermont / Clinton"/>
+  <stop lat="34.0957099" lon="-118.2919" stopId="12444" tag="12444" title="Vermont / Fountain"/>
+  <stop lat="34.09318" lon="-118.2919" stopId="12448" tag="12448" title="Vermont / Lexington"/>
+  <stop lat="34.0859599" lon="-118.29187" stopId="12453" tag="12453" title="Vermont / Monroe"/>
+  <stop lat="34.0792599" lon="-118.2918499" stopId="12456" tag="12456" title="Vermont / Rosewood"/>
+  <stop lat="34.09046" lon="-118.29189" stopId="12457" tag="12457" title="Vermont / Santa Monica"/>
+  <stop lat="34.0185099" lon="-118.29169" stopId="14017" tag="14017" title="Vermont / Exposition"/>
+  <stop lat="34.01337" lon="-118.29169" stopId="14018" tag="14018" title="Vermont / Leighton"/>
+  <stop lat="34.04397" lon="-118.29173" stopId="14021" tag="14021" title="Vermont / Venice"/>
+  <stop lat="33.9433499" lon="-118.29204" stopId="14022" tag="14022" title="Vermont / 103rd"/>
+  <stop lat="33.94098" lon="-118.2920499" stopId="14023" tag="14023" title="Vermont / 105th"/>
+  <stop lat="33.9356399" lon="-118.29206" stopId="14025" tag="14025" title="Vermont / 110th"/>
+  <stop lat="33.93298" lon="-118.2920699" stopId="14026" tag="14026" title="Vermont / 112th"/>
+  <stop lat="33.92435" lon="-118.2919999" stopId="14027" tag="14027" title="Vermont / 119th"/>
+  <stop lat="34.0510499" lon="-118.2917599" stopId="14031" tag="14031" title="Vermont / 11th"/>
+  <stop lat="33.92342" lon="-118.29194" stopId="14032" tag="14032" title="Vermont / 120th"/>
+  <stop lat="34.03464" lon="-118.29164" stopId="14036" tag="14036" title="Vermont / 24th"/>
+  <stop lat="34.0288299" lon="-118.29169" stopId="14038" tag="14038" title="Vermont / 29th"/>
+  <stop lat="34.0217899" lon="-118.29169" stopId="14039" tag="14039" title="Vermont / 36th"/>
+  <stop lat="34.01563" lon="-118.2916999" stopId="14041" tag="14041" title="Vermont / 39th"/>
+  <stop lat="34.0074699" lon="-118.29169" stopId="14043" tag="14043" title="Vermont / 42nd"/>
+  <stop lat="34.00138" lon="-118.29168" stopId="14044" tag="14044" title="Vermont / 46th"/>
+  <stop lat="33.99934" lon="-118.29167" stopId="14045" tag="14045" title="Vermont / 48th"/>
+  <stop lat="34.0675199" lon="-118.2917999" stopId="14046" tag="14046" title="Vermont / 4th"/>
+  <stop lat="33.9970499" lon="-118.2916599" stopId="14047" tag="14047" title="Vermont / 51st"/>
+  <stop lat="33.99338" lon="-118.29164" stopId="14050" tag="14050" title="Vermont / 54th"/>
+  <stop lat="33.99155" lon="-118.29162" stopId="14051" tag="14051" title="Vermont / 56th"/>
+  <stop lat="33.9856599" lon="-118.29162" stopId="14053" tag="14053" title="Vermont / 60th"/>
+  <stop lat="33.9788799" lon="-118.2917699" stopId="14054" tag="14054" title="Vermont / 66th"/>
+  <stop lat="33.9767799" lon="-118.29176" stopId="14055" tag="14055" title="Vermont / 69th"/>
+  <stop lat="33.9708" lon="-118.2917799" stopId="14058" tag="14058" title="Vermont / 76th"/>
+  <stop lat="33.96751" lon="-118.2917899" stopId="14059" tag="14059" title="Vermont / 79th"/>
+  <stop lat="34.0594999" lon="-118.29178" stopId="14060" tag="14060" title="Vermont / 7th"/>
+  <stop lat="33.9652099" lon="-118.29179" stopId="14061" tag="14061" title="Vermont / 81st"/>
+  <stop lat="33.96337" lon="-118.29179" stopId="14062" tag="14062" title="Vermont / 83rd"/>
+  <stop lat="33.9576999" lon="-118.29191" stopId="14063" tag="14063" title="Vermont / 88th"/>
+  <stop lat="34.0579" lon="-118.29178" stopId="14064" tag="14064" title="Vermont / 8th"/>
+  <stop lat="33.95552" lon="-118.2920199" stopId="14065" tag="14065" title="Vermont / 90th"/>
+  <stop lat="33.9523" lon="-118.2920299" stopId="14068" tag="14068" title="Vermont / 93rd"/>
+  <stop lat="33.9511" lon="-118.29203" stopId="14069" tag="14069" title="Vermont / 94th"/>
+  <stop lat="34.0560999" lon="-118.2917699" stopId="14071" tag="14071" title="Vermont / James M Wood"/>
+  <stop lat="34.0324899" lon="-118.29168" stopId="14072" tag="14072" title="Vermont / Adams"/>
+  <stop lat="33.9456699" lon="-118.29204" stopId="14074" tag="14074" title="Vermont / Century"/>
+  <stop lat="33.9492699" lon="-118.29203" stopId="14075" tag="14075" title="Vermont / Colden"/>
+  <stop lat="33.9743" lon="-118.29176" stopId="14076" tag="14076" title="Vermont / Florence"/>
+  <stop lat="33.9823499" lon="-118.29162" stopId="14077" tag="14077" title="Vermont / Gage"/>
+  <stop lat="33.9306999" lon="-118.29208" stopId="14078" tag="14078" title="Vermont / Imperial"/>
+  <stop lat="34.0256999" lon="-118.29169" stopId="14079" tag="14079" title="Vermont / Jefferson"/>
+  <stop lat="33.9596999" lon="-118.29182" stopId="14080" tag="14080" title="Vermont / Manchester"/>
+  <stop lat="34.0527599" lon="-118.29176" stopId="14082" tag="14082" title="Vermont / Olympic"/>
+  <stop lat="34.0468799" lon="-118.2917399" stopId="14083" tag="14083" title="Vermont / Pico"/>
+  <stop lat="34.00387" lon="-118.2916999" stopId="14087" tag="14087" title="Vermont / Vernon"/>
+  <stop lat="34.04021" lon="-118.29171" stopId="14088" tag="14088" title="Vermont / Washington"/>
+  <stop lat="34.0620799" lon="-118.29178" stopId="14089" tag="14089" title="Vermont / Wilshire"/>
+  <stop lat="34.02365" lon="-118.29169" stopId="15429" tag="15429" title="Vermont / 35th"/>
+  <stop lat="34.01105" lon="-118.29169" stopId="15431" tag="15431" title="Vermont / Martin Luther King Jr"/>
+  <stop lat="33.9284799" lon="-118.29209" stopId="15437" tag="15437" title="Vermont / Athens Station"/>
+  <stop lat="34.07255" lon="-118.29182" stopId="15439" tag="15439" title="Vermont / 1st"/>
+  <stop lat="33.9888799" lon="-118.29161" stopId="140953" tag="140953" title="Vermont / Slauson"/>
+  <stop lat="34.09766" lon="-118.29191" stopId="140959" tag="140959" title="Vermont / Sunset"/>
+  <stop lat="34.0766099" lon="-118.29184" stopId="140960" tag="140960" title="Vermont / Beverly"/>
+  <stop lat="34.06925" lon="-118.29181" stopId="140971" tag="140971" title="Vermont / 3rd"/>
+  <stop lat="34.0638199" lon="-118.2917899" stopId="140972" tag="140972" title="Vermont / 6th"/>
+  <stop lat="33.9375199" lon="-118.29206" stopId="142197" tag="142197" title="Vermont / 109th"/>
+  <direction name="North" tag="204_115_0" title="North to Vermont/Sunset Sta" useForUI="true">
+   <stop tag="7248"/>
+   <stop tag="7093"/>
+   <stop tag="5692"/>
+   <stop tag="5647"/>
+   <stop tag="5646"/>
+   <stop tag="5644"/>
+   <stop tag="5643"/>
+   <stop tag="5642"/>
+   <stop tag="140945"/>
+   <stop tag="5689"/>
+   <stop tag="5683"/>
+   <stop tag="5681"/>
+   <stop tag="5680"/>
+   <stop tag="5678"/>
+   <stop tag="140955"/>
+   <stop tag="2410"/>
+   <stop tag="5676"/>
+   <stop tag="5674"/>
+   <stop tag="5673"/>
+   <stop tag="5690"/>
+   <stop tag="5669"/>
+   <stop tag="5691"/>
+   <stop tag="5668"/>
+   <stop tag="5698"/>
+   <stop tag="5666"/>
+   <stop tag="5665"/>
+   <stop tag="5664"/>
+   <stop tag="5662"/>
+   <stop tag="5661"/>
+   <stop tag="5700"/>
+   <stop tag="5660"/>
+   <stop tag="11247"/>
+   <stop tag="5637"/>
+   <stop tag="5658"/>
+   <stop tag="5635"/>
+   <stop tag="5656"/>
+   <stop tag="7084"/>
+   <stop tag="5693"/>
+   <stop tag="5655"/>
+   <stop tag="5686"/>
+   <stop tag="5653"/>
+   <stop tag="140930"/>
+   <stop tag="140968"/>
+   <stop tag="5696"/>
+   <stop tag="5648"/>
+   <stop tag="5695"/>
+   <stop tag="5685"/>
+   <stop tag="5679"/>
+   <stop tag="5675"/>
+   <stop tag="5702"/>
+   <stop tag="140969"/>
+   <stop tag="5663"/>
+   <stop tag="5659"/>
+   <stop tag="5652"/>
+   <stop tag="141085"/>
+   <stop tag="3974"/>
+   <stop tag="3960"/>
+   <stop tag="140970"/>
+   <stop tag="3971"/>
+   <stop tag="7091"/>
+   <stop tag="7087"/>
+   <stop tag="140948"/>
+   <stop tag="3968"/>
+   <stop tag="3963"/>
+   <stop tag="7092"/>
+   <stop tag="17308"/>
+   <stop tag="3961_ar"/>
+  </direction>
+  <direction name="South" tag="204_122_1" title="South to Vermont/Athens Sta" useForUI="true">
+   <stop tag="3961"/>
+   <stop tag="140959"/>
+   <stop tag="12444"/>
+   <stop tag="12448"/>
+   <stop tag="12457"/>
+   <stop tag="3969"/>
+   <stop tag="12453"/>
+   <stop tag="3970"/>
+   <stop tag="12441"/>
+   <stop tag="12456"/>
+   <stop tag="140960"/>
+   <stop tag="15439"/>
+   <stop tag="140971"/>
+   <stop tag="14046"/>
+   <stop tag="140972"/>
+   <stop tag="14089"/>
+   <stop tag="14060"/>
+   <stop tag="14064"/>
+   <stop tag="14071"/>
+   <stop tag="14082"/>
+   <stop tag="14031"/>
+   <stop tag="14083"/>
+   <stop tag="14021"/>
+   <stop tag="14088"/>
+   <stop tag="14036"/>
+   <stop tag="14072"/>
+   <stop tag="14038"/>
+   <stop tag="14079"/>
+   <stop tag="15429"/>
+   <stop tag="14039"/>
+   <stop tag="14017"/>
+   <stop tag="14041"/>
+   <stop tag="14018"/>
+   <stop tag="15431"/>
+   <stop tag="14043"/>
+   <stop tag="14087"/>
+   <stop tag="14044"/>
+   <stop tag="14045"/>
+   <stop tag="14047"/>
+   <stop tag="14050"/>
+   <stop tag="14051"/>
+   <stop tag="140953"/>
+   <stop tag="14053"/>
+   <stop tag="14077"/>
+   <stop tag="14054"/>
+   <stop tag="14055"/>
+   <stop tag="14076"/>
+   <stop tag="14058"/>
+   <stop tag="14059"/>
+   <stop tag="14061"/>
+   <stop tag="14062"/>
+   <stop tag="14080"/>
+   <stop tag="14063"/>
+   <stop tag="14065"/>
+   <stop tag="14068"/>
+   <stop tag="14069"/>
+   <stop tag="14075"/>
+   <stop tag="14074"/>
+   <stop tag="14022"/>
+   <stop tag="14023"/>
+   <stop tag="142197"/>
+   <stop tag="14025"/>
+   <stop tag="14026"/>
+   <stop tag="14078"/>
+   <stop tag="15437"/>
+   <stop tag="14027"/>
+   <stop tag="14032"/>
+   <stop tag="7248_ar"/>
+  </direction>
+  <path>
+   <point lat="34.0957099" lon="-118.2919"/>
+   <point lat="34.0931799" lon="-118.2919"/>
+   <point lat="34.09046" lon="-118.29189"/>
+   <point lat="34.08889" lon="-118.29188"/>
+   <point lat="34.08596" lon="-118.29187"/>
+  </path>
+  <path>
+   <point lat="33.98888" lon="-118.29161"/>
+   <point lat="33.98566" lon="-118.29162"/>
+   <point lat="33.9823499" lon="-118.29162"/>
+   <point lat="33.9788799" lon="-118.29177"/>
+   <point lat="33.97678" lon="-118.29176"/>
+   <point lat="33.9743" lon="-118.29176"/>
+   <point lat="33.9707999" lon="-118.29178"/>
+   <point lat="33.96751" lon="-118.29179"/>
+   <point lat="33.96521" lon="-118.29179"/>
+   <point lat="33.96337" lon="-118.29179"/>
+   <point lat="33.9597" lon="-118.29182"/>
+  </path>
+  <path>
+   <point lat="34.09803" lon="-118.2912"/>
+   <point lat="34.09816" lon="-118.28954"/>
+   <point lat="34.09817" lon="-118.2885"/>
+   <point lat="34.09816" lon="-118.28766"/>
+   <point lat="34.09817" lon="-118.2874"/>
+   <point lat="34.09817" lon="-118.28735"/>
+   <point lat="34.09819" lon="-118.28712"/>
+   <point lat="34.09837" lon="-118.28741"/>
+   <point lat="34.09885" lon="-118.28811"/>
+   <point lat="34.09917" lon="-118.28861"/>
+   <point lat="34.09946" lon="-118.2891"/>
+   <point lat="34.09951" lon="-118.28917"/>
+   <point lat="34.10099" lon="-118.2914"/>
+   <point lat="34.10104" lon="-118.29149"/>
+   <point lat="34.10122" lon="-118.29177"/>
+   <point lat="34.10087" lon="-118.29192"/>
+   <point lat="34.09929" lon="-118.29192"/>
+  </path>
+  <path>
+   <point lat="33.9597" lon="-118.29182"/>
+   <point lat="33.9577" lon="-118.29191"/>
+   <point lat="33.95552" lon="-118.29202"/>
+   <point lat="33.9523" lon="-118.29203"/>
+   <point lat="33.9510999" lon="-118.29203"/>
+   <point lat="33.94927" lon="-118.29203"/>
+   <point lat="33.94567" lon="-118.29204"/>
+   <point lat="33.94335" lon="-118.29204"/>
+   <point lat="33.94098" lon="-118.29205"/>
+   <point lat="33.93752" lon="-118.29206"/>
+   <point lat="33.93564" lon="-118.29206"/>
+   <point lat="33.93298" lon="-118.29207"/>
+   <point lat="33.9307" lon="-118.29208"/>
+   <point lat="33.92848" lon="-118.29209"/>
+  </path>
+  <path>
+   <point lat="34.01851" lon="-118.29169"/>
+   <point lat="34.01563" lon="-118.2917"/>
+   <point lat="34.01337" lon="-118.29169"/>
+   <point lat="34.01105" lon="-118.29169"/>
+   <point lat="34.00747" lon="-118.29169"/>
+   <point lat="34.00387" lon="-118.2917"/>
+   <point lat="34.00138" lon="-118.29168"/>
+   <point lat="33.9993399" lon="-118.29167"/>
+   <point lat="33.99705" lon="-118.29166"/>
+   <point lat="33.99338" lon="-118.29164"/>
+   <point lat="33.9915499" lon="-118.29162"/>
+   <point lat="33.98888" lon="-118.29161"/>
+  </path>
+  <path>
+   <point lat="34.07661" lon="-118.29184"/>
+   <point lat="34.07255" lon="-118.29182"/>
+   <point lat="34.0692499" lon="-118.29181"/>
+   <point lat="34.06752" lon="-118.2918"/>
+   <point lat="34.06382" lon="-118.29179"/>
+   <point lat="34.06208" lon="-118.29178"/>
+  </path>
+  <path>
+   <point lat="34.06208" lon="-118.29178"/>
+   <point lat="34.0595" lon="-118.29178"/>
+   <point lat="34.0578999" lon="-118.29178"/>
+   <point lat="34.0561" lon="-118.29177"/>
+   <point lat="34.05276" lon="-118.29176"/>
+   <point lat="34.0510499" lon="-118.29176"/>
+   <point lat="34.04688" lon="-118.29174"/>
+   <point lat="34.04397" lon="-118.29173"/>
+   <point lat="34.04021" lon="-118.29171"/>
+   <point lat="34.03464" lon="-118.29164"/>
+   <point lat="34.03249" lon="-118.29168"/>
+  </path>
+  <path>
+   <point lat="33.96044" lon="-118.29151"/>
+   <point lat="33.9635" lon="-118.29148"/>
+   <point lat="33.9657" lon="-118.29149"/>
+   <point lat="33.96811" lon="-118.29148"/>
+   <point lat="33.97098" lon="-118.29147"/>
+   <point lat="33.97518" lon="-118.29145"/>
+   <point lat="33.97625" lon="-118.2916"/>
+   <point lat="33.97943" lon="-118.29146"/>
+   <point lat="33.9824399" lon="-118.29132"/>
+   <point lat="33.9857299" lon="-118.29131"/>
+   <point lat="33.98893" lon="-118.2913"/>
+  </path>
+  <path>
+   <point lat="34.08552" lon="-118.29156"/>
+   <point lat="34.08654" lon="-118.29157"/>
+   <point lat="34.08861" lon="-118.29158"/>
+   <point lat="34.09115" lon="-118.29159"/>
+   <point lat="34.09332" lon="-118.29159"/>
+   <point lat="34.09543" lon="-118.2916"/>
+   <point lat="34.09726" lon="-118.29176"/>
+   <point lat="34.09816" lon="-118.29176"/>
+   <point lat="34.09803" lon="-118.2912"/>
+  </path>
+  <path>
+   <point lat="34.07612" lon="-118.29153"/>
+   <point lat="34.07891" lon="-118.29154"/>
+   <point lat="34.08206" lon="-118.29156"/>
+   <point lat="34.08341" lon="-118.29155"/>
+   <point lat="34.08552" lon="-118.29156"/>
+  </path>
+  <path>
+   <point lat="33.924" lon="-118.29132"/>
+   <point lat="33.92845" lon="-118.29141"/>
+  </path>
+  <path>
+   <point lat="34.09929" lon="-118.29192"/>
+   <point lat="34.09766" lon="-118.29191"/>
+   <point lat="34.0957099" lon="-118.2919"/>
+  </path>
+  <path>
+   <point lat="34.01862" lon="-118.29139"/>
+   <point lat="34.02229" lon="-118.29138"/>
+   <point lat="34.02379" lon="-118.29138"/>
+   <point lat="34.02529" lon="-118.29138"/>
+   <point lat="34.02825" lon="-118.29139"/>
+   <point lat="34.03305" lon="-118.29138"/>
+  </path>
+  <path>
+   <point lat="34.03249" lon="-118.29168"/>
+   <point lat="34.02883" lon="-118.29169"/>
+   <point lat="34.0257" lon="-118.29169"/>
+   <point lat="34.02365" lon="-118.29169"/>
+   <point lat="34.02179" lon="-118.29169"/>
+   <point lat="34.01851" lon="-118.29169"/>
+  </path>
+  <path>
+   <point lat="33.92848" lon="-118.29209"/>
+   <point lat="33.92575" lon="-118.29194"/>
+   <point lat="33.9243499" lon="-118.292"/>
+   <point lat="33.92342" lon="-118.29194"/>
+   <point lat="33.92307" lon="-118.29178"/>
+   <point lat="33.92212" lon="-118.29179"/>
+   <point lat="33.92213" lon="-118.29153"/>
+   <point lat="33.92357" lon="-118.29152"/>
+   <point lat="33.924" lon="-118.29132"/>
+  </path>
+  <path>
+   <point lat="34.08596" lon="-118.29187"/>
+   <point lat="34.0837999" lon="-118.29186"/>
+   <point lat="34.0819199" lon="-118.29186"/>
+   <point lat="34.07926" lon="-118.29185"/>
+   <point lat="34.07661" lon="-118.29184"/>
+  </path>
+  <path>
+   <point lat="33.98893" lon="-118.2913"/>
+   <point lat="33.99128" lon="-118.29132"/>
+   <point lat="33.9931" lon="-118.29133"/>
+   <point lat="33.99628" lon="-118.29135"/>
+   <point lat="33.99989" lon="-118.29137"/>
+   <point lat="34.00193" lon="-118.29138"/>
+   <point lat="34.00349" lon="-118.29139"/>
+   <point lat="34.00719" lon="-118.29139"/>
+   <point lat="34.01114" lon="-118.29139"/>
+   <point lat="34.0135099" lon="-118.29139"/>
+   <point lat="34.0159499" lon="-118.29139"/>
+   <point lat="34.01862" lon="-118.29139"/>
+  </path>
+  <path>
+   <point lat="34.06208" lon="-118.29147"/>
+   <point lat="34.0635" lon="-118.29148"/>
+   <point lat="34.0671899" lon="-118.29149"/>
+   <point lat="34.0688699" lon="-118.29149"/>
+   <point lat="34.0726299" lon="-118.29151"/>
+   <point lat="34.07612" lon="-118.29153"/>
+  </path>
+  <path>
+   <point lat="33.92845" lon="-118.29141"/>
+   <point lat="33.93079" lon="-118.29143"/>
+   <point lat="33.93271" lon="-118.29143"/>
+   <point lat="33.93564" lon="-118.29141"/>
+   <point lat="33.93798" lon="-118.29141"/>
+   <point lat="33.94178" lon="-118.29141"/>
+   <point lat="33.9433099" lon="-118.29141"/>
+   <point lat="33.94578" lon="-118.29141"/>
+   <point lat="33.94892" lon="-118.2914"/>
+   <point lat="33.95124" lon="-118.29139"/>
+   <point lat="33.95266" lon="-118.29139"/>
+   <point lat="33.95485" lon="-118.29138"/>
+   <point lat="33.9569" lon="-118.29153"/>
+   <point lat="33.95822" lon="-118.29153"/>
+   <point lat="33.96044" lon="-118.29151"/>
+  </path>
+  <path>
+   <point lat="34.03305" lon="-118.29138"/>
+   <point lat="34.03425" lon="-118.29139"/>
+   <point lat="34.04043" lon="-118.2914"/>
+   <point lat="34.04452" lon="-118.29142"/>
+   <point lat="34.04699" lon="-118.29144"/>
+   <point lat="34.05064" lon="-118.29146"/>
+   <point lat="34.05232" lon="-118.29145"/>
+   <point lat="34.05578" lon="-118.29147"/>
+   <point lat="34.05763" lon="-118.29147"/>
+   <point lat="34.0600499" lon="-118.29147"/>
+   <point lat="34.06208" lon="-118.29147"/>
+  </path>
+ </route>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="76" routeTitle="76 Downtown LA - El Monte Via Valley Bl" stopTag="3785" stopTitle="Main / Chavez">
+  <direction title="East to El Monte Station">
+   <prediction block="0764211" dirTag="76_186_0" epochTime="1670560632108" isDeparture="false" minutes="7" seconds="454" tripTag="54489138" vehicle="1817"/>
+   <prediction affectedByLayover="true" block="0764111" dirTag="76_190_0" epochTime="1670563614486" isDeparture="false" isScheduleBased="true" minutes="57" seconds="3436" tripTag="54489204" vehicle="virtualVehicle_0764111"/>
+  </direction>
+ </predictions>
+</body>

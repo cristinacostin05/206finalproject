@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="9571" stopTitle="Devonshire / Lindley">
+  <direction title="West to Northridge">
+   <prediction block="2400700" dirTag="240_2_1" epochTime="1670560000845" isDeparture="false" isScheduleBased="true" minutes="26" seconds="1576" tripTag="54418565" vehicle="8449"/>
+   <prediction block="2401800" dirTag="240_2_1" epochTime="1670561374480" isDeparture="false" minutes="49" seconds="2949" tripTag="54418574" vehicle="1756"/>
+   <prediction block="2402002" dirTag="240_2_1" epochTime="1670562042902" isDeparture="false" isScheduleBased="true" minutes="60" seconds="3618" tripTag="54418540" vehicle="8479"/>
+  </direction>
+ </predictions>
+</body>

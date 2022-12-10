@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="14590" stopTitle="Sherman Way / Kester">
+  <direction title="West to Woodland Hills">
+   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670562074492" isDeparture="false" minutes="55" seconds="3306" tripTag="54421612" vehicle="3973"/>
+   <prediction affectedByLayover="true" block="1620400" dirTag="162_1_1" epochTime="1670564534492" isDeparture="false" minutes="96" seconds="5766" tripTag="54421614" vehicle="4109"/>
+  </direction>
+ </predictions>
+</body>

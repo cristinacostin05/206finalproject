@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="17794" stopTitle="Lakewood / Hedda">
+  <direction title="South to Lakewood Center">
+   <prediction block="2661100" dirTag="266_26_1" epochTime="1670560376197" isDeparture="false" minutes="2" seconds="126" tripTag="54432258" vehicle="5735"/>
+   <prediction block="2660400" dirTag="266_26_1" epochTime="1670561851699" isDeparture="false" minutes="26" seconds="1601" tripTag="54432299" vehicle="5757"/>
+   <prediction block="2661200" dirTag="266_26_1" epochTime="1670563484655" isDeparture="false" minutes="53" seconds="3234" tripTag="54432261" vehicle="5635"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="14439" stopTitle="Westwood / Santa Monica">
+  <direction title="North to Sepulveda E Line (expo) Station">
+   <prediction affectedByLayover="true" block="7610400" dirTag="761_71_0" epochTime="1670560044548" isDeparture="false" minutes="21" seconds="1305" tripTag="54424843" vehicle="8748"/>
+   <prediction affectedByLayover="true" block="7611300" dirTag="761_71_0" epochTime="1670561751998" isDeparture="false" minutes="50" seconds="3012" tripTag="54424844" vehicle="8468"/>
+   <prediction affectedByLayover="true" block="7610900" dirTag="761_71_0" epochTime="1670563251998" isDeparture="false" minutes="75" seconds="4512" tripTag="54424846" vehicle="8717"/>
+  </direction>
+ </predictions>
+</body>

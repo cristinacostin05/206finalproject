@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="1545" stopTitle="Main / Almansor">
+  <direction title="East to Las Tunas-Live Oak">
+   <prediction block="0780400" dirTag="78_519_0" epochTime="1670559501829" isDeparture="false" minutes="28" seconds="1724" tripTag="54636482" vehicle="1994"/>
+   <prediction block="0781200" dirTag="78_519_0" epochTime="1670560116528" isDeparture="false" minutes="38" seconds="2338" tripTag="54636486" vehicle="5865"/>
+   <prediction affectedByLayover="true" block="0780900" dirTag="78_519_0" epochTime="1670561124774" isDeparture="false" minutes="55" seconds="3347" tripTag="54636477" vehicle="4065"/>
+   <prediction affectedByLayover="true" block="0780100" dirTag="78_519_0" epochTime="1670563572500" isDeparture="false" minutes="96" seconds="5794" tripTag="54636485" vehicle="1826"/>
+  </direction>
+ </predictions>
+</body>

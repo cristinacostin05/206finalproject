@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="16747" stopTitle="Wilshire / Rodeo">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0205200" dirTag="20_777_1" epochTime="1670561214929" isDeparture="false" isScheduleBased="true" minutes="47" seconds="2848" tripTag="54485093" vehicle="4130"/>
+   <prediction affectedByLayover="true" block="0205100" dirTag="20_777_1" epochTime="1670561384890" isDeparture="false" isScheduleBased="true" minutes="50" seconds="3018" tripTag="54485134" vehicle="6039"/>
+   <prediction affectedByLayover="true" block="0201102" dirTag="20_777_1" epochTime="1670562397929" isDeparture="false" isScheduleBased="true" minutes="67" seconds="4031" tripTag="54485089" vehicle="virtualVehicle_0201102"/>
+   <prediction affectedByLayover="true" block="0209611" dirTag="20_777_1" epochTime="1670563897929" isDeparture="false" isScheduleBased="true" minutes="92" seconds="5531" tripTag="54485094" vehicle="virtualVehicle_0209611"/>
+  </direction>
+ </predictions>
+</body>

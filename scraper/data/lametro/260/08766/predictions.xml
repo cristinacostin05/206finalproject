@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="8766" stopTitle="Atlantic / Clara">
+  <direction title="South to Artesia Station">
+   <prediction block="2601300" dirTag="260_286_1" epochTime="1670562003486" isDeparture="false" minutes="43" seconds="2602" tripTag="54610121" vehicle="8319"/>
+   <prediction affectedByLayover="true" block="2601902" dirTag="260_286_1" epochTime="1670564000836" isDeparture="false" minutes="76" seconds="4599" tripTag="54610123" vehicle="1843"/>
+  </direction>
+ </predictions>
+</body>

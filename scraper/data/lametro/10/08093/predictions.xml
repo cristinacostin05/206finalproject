@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="10" routeTitle="10 W Hollywood-Dtwn LA -Avalon Sta Via" stopTag="8093" stopTitle="Temple / Figueroa">
+  <direction title="West to West Hollywood">
+   <prediction block="0105100" dirTag="10_737_1" epochTime="1670558240348" isDeparture="false" minutes="1" seconds="108" tripTag="54470057" vehicle="5624"/>
+   <prediction affectedByLayover="true" block="0105602" dirTag="10_737_1" epochTime="1670561501082" isDeparture="false" isScheduleBased="true" minutes="56" seconds="3369" tripTag="54470133" vehicle="virtualVehicle_0105602"/>
+   <prediction affectedByLayover="true" block="0512802" dirTag="10_742_1" epochTime="1670562725971" isDeparture="false" isScheduleBased="true" minutes="76" seconds="4594" tripTag="54470033_10" vehicle="virtualVehicle_0512802"/>
+  </direction>
+ </predictions>
+</body>

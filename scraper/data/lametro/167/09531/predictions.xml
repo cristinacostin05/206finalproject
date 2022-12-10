@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="9531" stopTitle="Plummer / Lurline">
+  <direction title="East to Coldwater Cyn-Ventura">
+   <prediction affectedByLayover="true" block="1670400" dirTag="167_99_0" epochTime="1670561328105" isDeparture="false" minutes="21" seconds="1308" tripTag="54429240" vehicle="4022"/>
+   <prediction affectedByLayover="true" block="1670100" dirTag="167_99_0" epochTime="1670565506455" isDeparture="false" minutes="91" seconds="5487" tripTag="54429241" vehicle="4021"/>
+  </direction>
+ </predictions>
+</body>

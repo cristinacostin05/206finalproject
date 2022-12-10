@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="662" routeTitle="662 Altadena-Pasadena Via Lake - Los Rob" stopTag="1568" stopTitle="Mariposa / Saint James">
+  <direction title="North to Nb Lincoln - Sb Lake Via Del Mar Sta">
+   <prediction affectedByLayover="true" block="6620802" dirTag="662_7_0" epochTime="1670561205185" isDeparture="false" minutes="53" seconds="3183" tripTag="54676453" vehicle="6045"/>
+  </direction>
+ </predictions>
+</body>

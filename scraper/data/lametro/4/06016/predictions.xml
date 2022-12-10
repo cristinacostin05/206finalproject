@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="6016" stopTitle="Santa Monica / Genesee">
+  <direction title="West to Santa Monica">
+   <prediction block="0045300" dirTag="4_315_1" epochTime="1670557861687" isDeparture="false" minutes="1" seconds="101" tripTag="54485793" vehicle="8742"/>
+   <prediction affectedByLayover="true" block="0040600" dirTag="4_315_1" epochTime="1670558973184" isDeparture="false" isScheduleBased="true" minutes="20" seconds="1213" tripTag="54485808" vehicle="virtualVehicle_0040600"/>
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670559902418" isDeparture="false" isScheduleBased="true" minutes="35" seconds="2142" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670561702418" isDeparture="false" isScheduleBased="true" minutes="65" seconds="3942" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+  <direction title="West to West LA - Sepulveda Bl">
+   <prediction block="0041000" dirTag="4_317_1" epochTime="1670558342874" isDeparture="false" minutes="9" seconds="582" tripTag="54485802" vehicle="8810"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="204" routeTitle="204 Hollywood -Athens Via Vermont Av" stopTag="140959" stopTitle="Vermont / Sunset">
+  <direction title="South to Vermont/Athens Sta">
+   <prediction affectedByLayover="true" block="2044111" dirTag="204_122_1" epochTime="1670562044528" isDeparture="false" minutes="31" seconds="1899" tripTag="54635759" vehicle="3992"/>
+   <prediction affectedByLayover="true" block="2044211" dirTag="204_122_1" epochTime="1670564444528" isDeparture="false" minutes="71" seconds="4299" tripTag="54635740" vehicle="3862"/>
+  </direction>
+ </predictions>
+</body>

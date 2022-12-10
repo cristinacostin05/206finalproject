@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="66" routeTitle="66 Wilshire Ctr-Dtwn LA-Montebello Via" stopTag="1578" stopTitle="Olympic / Fraser">
+  <direction title="East to Commerce Center">
+   <prediction block="0661300" dirTag="66_405_0" epochTime="1670558021830" isDeparture="false" minutes="5" seconds="304" tripTag="54630951" vehicle="6011"/>
+   <prediction affectedByLayover="true" block="0660800" dirTag="66_409_0" epochTime="1670562017495" isDeparture="false" minutes="71" seconds="4299" tripTag="54630946" vehicle="8816"/>
+  </direction>
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0662702" dirTag="66_394_0" epochTime="1670558226015" isDeparture="false" isScheduleBased="true" minutes="8" seconds="508" tripTag="54630955" vehicle="virtualVehicle_0662702"/>
+  </direction>
+ </predictions>
+</body>

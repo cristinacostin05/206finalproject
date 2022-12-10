@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="17834" stopTitle="Lakewood / Buckles">
+  <direction title="North to Sierra Madre Villa Station">
+   <prediction block="2661302" dirTag="266_27_0" epochTime="1670560271988" isDeparture="false" minutes="0" seconds="32" tripTag="54432254" vehicle="5632"/>
+   <prediction block="2660800" dirTag="266_27_0" epochTime="1670561521608" isDeparture="false" minutes="21" seconds="1282" tripTag="54432210" vehicle="5726"/>
+   <prediction affectedByLayover="true" block="2661100" dirTag="266_27_0" epochTime="1670563288294" isDeparture="false" minutes="50" seconds="3049" tripTag="54432209" vehicle="5735"/>
+   <prediction affectedByLayover="true" block="2660400" dirTag="266_27_0" epochTime="1670565568294" isDeparture="false" minutes="88" seconds="5329" tripTag="54432208" vehicle="5757"/>
+  </direction>
+ </predictions>
+</body>

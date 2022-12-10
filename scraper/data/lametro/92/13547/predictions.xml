@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="92" routeTitle="92 Dwntwn LA- Sylmar Sta Via Glendale -" stopTag="13547" stopTitle="Glenoaks / Tujunga">
+  <direction title="North to Sylmar Station">
+   <prediction affectedByLayover="true" block="0921500" dirTag="92_275_0" epochTime="1670563046093" isDeparture="false" isScheduleBased="true" minutes="65" seconds="3921" tripTag="54432496" vehicle="virtualVehicle_0921500"/>
+  </direction>
+ </predictions>
+</body>

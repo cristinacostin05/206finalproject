@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="125" routeTitle="125 El Segundo - Norwalk Station Via Ros" stopTag="17365" stopTitle="Rosecrans / Wilmington">
+  <direction title="East to Norwalk Green Line Sta">
+   <prediction affectedByLayover="true" block="1251100" dirTag="125_152_0" epochTime="1670562380735" isDeparture="false" isScheduleBased="true" minutes="67" seconds="4063" tripTag="54454551" vehicle="virtualVehicle_1251100"/>
+  </direction>
+ </predictions>
+</body>

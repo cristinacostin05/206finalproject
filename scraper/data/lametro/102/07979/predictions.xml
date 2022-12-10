@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="102" routeTitle="102 LAX Cty Bus Ctr - S Gate Via LA Tije" stopTag="7979" stopTitle="Slauson / Kings">
+  <direction title="East to Huntington Park - Palm-Seville">
+   <prediction affectedByLayover="true" block="1020200" dirTag="102_68_0" epochTime="1670560007710" isDeparture="false" minutes="12" seconds="745" tripTag="54635525" vehicle="5751"/>
+  </direction>
+ </predictions>
+</body>

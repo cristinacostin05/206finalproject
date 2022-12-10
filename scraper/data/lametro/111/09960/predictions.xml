@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="9960" stopTitle="Florence / Alameda">
+  <direction title="West to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="1151500" dirTag="111_380_1" epochTime="1670564511153" isDeparture="false" minutes="80" seconds="4815" tripTag="54533473" vehicle="6021"/>
+  </direction>
+ </predictions>
+</body>

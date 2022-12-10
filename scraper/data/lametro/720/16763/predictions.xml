@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="16763" stopTitle="Wilshire / Bonsall">
+  <direction title="West to Santa Monica">
+   <prediction block="7203902" dirTag="720_1273_1" epochTime="1670560692369" isDeparture="false" minutes="34" seconds="2097" tripTag="54507861" vehicle="8793"/>
+   <prediction block="7201200" dirTag="720_1273_1" epochTime="1670561468246" isDeparture="false" minutes="47" seconds="2873" tripTag="54508040" vehicle="9571"/>
+   <prediction affectedByLayover="true" block="7203502" dirTag="720_1273_1" epochTime="1670563292607" isDeparture="false" isScheduleBased="true" minutes="78" seconds="4697" tripTag="54507812" vehicle="virtualVehicle_7203502"/>
+  </direction>
+ </predictions>
+</body>

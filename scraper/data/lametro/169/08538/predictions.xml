@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="169" routeTitle="169 Warner Ctr-Burbank Airpt Via Valley" stopTag="8538" stopTitle="Woodman / Ranchito">
+  <direction title="East to Hollywood Burbank Airport">
+   <prediction block="1690200" dirTag="169_142_0" epochTime="1670560732045" isDeparture="false" minutes="21" seconds="1264" tripTag="54420028" vehicle="4104"/>
+  </direction>
+ </predictions>
+</body>

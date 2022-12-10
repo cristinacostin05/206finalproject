@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <route color="d73d00" latMax="34.0591299" latMin="34.0260199" lonMax="-118.249" lonMin="-118.37049" oppositeColor="ffffff" tag="37" title="37 Cedar Sinai-Dtwn LA-Wash/Fairfax Via">
+  <stop lat="34.0323599" lon="-118.37049" stopId="00055" tag="55" title="Adams / Fairfax"/>
+  <stop lat="34.0326699" lon="-118.2912" stopId="00056" tag="56" title="Adams / Vermont"/>
+  <stop lat="34.0324299" lon="-118.3506" stopId="04971" tag="4971" title="Adams / La Brea"/>
+  <stop lat="34.0325399" lon="-118.32128" stopId="07449" tag="7449" title="Adams / 4th"/>
+  <stop lat="34.0325299" lon="-118.32408" stopId="07451" tag="7451" title="Adams / 7th"/>
+  <stop lat="34.0325599" lon="-118.31783" stopId="07453" tag="7453" title="Adams / Arlington"/>
+  <stop lat="34.02926" lon="-118.27871" stopId="07455" tag="7455" title="Adams / Chester"/>
+  <stop lat="34.03257" lon="-118.3153299" stopId="07456" tag="7456" title="Adams / Cimarron"/>
+  <stop lat="34.03251" lon="-118.3288299" stopId="07457" tag="7457" title="Adams / Edgehill"/>
+  <stop lat="34.0264599" lon="-118.2724699" stopId="07459" tag="7459" title="Adams / Grand"/>
+  <stop lat="34.0326299" lon="-118.30294" stopId="07460" tag="7460" title="Adams / Halldale"/>
+  <stop lat="34.0323999" lon="-118.36278" stopId="07461" tag="7461" title="Adams / Hauser"/>
+  <stop lat="34.0326199" lon="-118.30511" stopId="07462" tag="7462" title="Adams / La Salle"/>
+  <stop lat="34.03266" lon="-118.2866299" stopId="07463" tag="7463" title="Adams / Magnolia"/>
+  <stop lat="34.03265" lon="-118.2961199" stopId="07465" tag="7465" title="Adams / Budlong"/>
+  <stop lat="34.0324" lon="-118.35969" stopId="07467" tag="7467" title="Adams / Dunsmuir"/>
+  <stop lat="34.0281399" lon="-118.2761999" stopId="07468" tag="7468" title="Adams / Figueroa"/>
+  <stop lat="34.03246" lon="-118.3461699" stopId="07471" tag="7471" title="Adams / Harcourt"/>
+  <stop lat="34.0314899" lon="-118.2837399" stopId="07473" tag="7473" title="Adams / Hoover"/>
+  <stop lat="34.03264" lon="-118.2999899" stopId="07475" tag="7475" title="Adams / Normandie"/>
+  <stop lat="34.0324199" lon="-118.35601" stopId="07476" tag="7476" title="Adams / Redondo"/>
+  <stop lat="34.0325899" lon="-118.31144" stopId="07477" tag="7477" title="Adams / Saint Andrews"/>
+  <stop lat="34.03261" lon="-118.3091999" stopId="07479" tag="7479" title="Adams / Western"/>
+  <stop lat="34.03031" lon="-118.28104" stopId="07480" tag="7480" title="Adams / Severance"/>
+  <stop lat="34.0323799" lon="-118.3681" stopId="07481" tag="7481" title="Adams / Thurman"/>
+  <stop lat="34.0324999" lon="-118.33467" stopId="08213" tag="8213" title="Adams / Crenshaw"/>
+  <stop lat="34.03247" lon="-118.3407299" stopId="15807" tag="15807" title="Adams / Buckingham"/>
+  <stop lat="34.03482" lon="-118.3692899" stopId="16530" tag="16530" title="Washington / Fairfax"/>
+  <stop lat="34.0260199" lon="-118.27056" stopId="16950" tag="16950" title="Hill / Adams"/>
+  <stop lat="34.03284" lon="-118.3007299" stopId="04574" tag="4574" title="Adams / Normandie"/>
+  <stop lat="34.03267" lon="-118.3407599" stopId="07454" tag="7454" title="Adams / Buckingham"/>
+  <stop lat="34.03283" lon="-118.3022599" stopId="08654" tag="8654" title="Adams / Congress"/>
+  <stop lat="34.0391699" lon="-118.26436" stopId="10802" tag="10802" title="Grand / Pico"/>
+  <stop lat="34.02666" lon="-118.27233" stopId="10809" tag="10809" title="Grand / Adams"/>
+  <stop lat="34.0356699" lon="-118.36913" stopId="13406" tag="13406" title="Washington Fairfax Hub"/>
+  <stop lat="34.0359799" lon="-118.26635" stopId="13549" tag="13549" title="Grand / Venice"/>
+  <stop lat="34.04177" lon="-118.2619699" stopId="13551" tag="13551" title="Grand / 11th"/>
+  <stop lat="34.0528799" lon="-118.25157" stopId="13560" tag="13560" title="Grand / 3rd"/>
+  <stop lat="34.0500699" lon="-118.25427" stopId="13561" tag="13561" title="Grand / 5th"/>
+  <stop lat="34.04893" lon="-118.2552699" stopId="13562" tag="13562" title="Grand / 6th"/>
+  <stop lat="34.04654" lon="-118.2574899" stopId="13567" tag="13567" title="Grand / 7th"/>
+  <stop lat="34.04572" lon="-118.2582499" stopId="13568" tag="13568" title="Grand / 8th"/>
+  <stop lat="34.0432599" lon="-118.26056" stopId="13572" tag="13572" title="Grand / Olympic"/>
+  <stop lat="34.0293099" lon="-118.27063" stopId="13573" tag="13573" title="Grand / 23rd"/>
+  <stop lat="34.03252" lon="-118.2685799" stopId="13576" tag="13576" title="Grand / Washington"/>
+  <stop lat="34.0591299" lon="-118.25442" stopId="15610" tag="15610" title="1st / Beaudry"/>
+  <stop lat="34.0563599" lon="-118.2500599" stopId="15613" tag="15613" title="1st / Hope"/>
+  <stop lat="34.03271" lon="-118.3282299" stopId="15801" tag="15801" title="Adams / 10th"/>
+  <stop lat="34.0327" lon="-118.33177" stopId="15802" tag="15802" title="Adams / 13th"/>
+  <stop lat="34.03274" lon="-118.3210599" stopId="15803" tag="15803" title="Adams / 4th"/>
+  <stop lat="34.03273" lon="-118.3234399" stopId="15804" tag="15804" title="Adams / 6th"/>
+  <stop lat="34.0327499" lon="-118.31751" stopId="15806" tag="15806" title="Adams / Arlington"/>
+  <stop lat="34.02931" lon="-118.27831" stopId="15808" tag="15808" title="Adams / Chester"/>
+  <stop lat="34.0327599" lon="-118.31533" stopId="15809" tag="15809" title="Adams / Cimarron"/>
+  <stop lat="34.0327" lon="-118.3347499" stopId="15810" tag="15810" title="Adams / Crenshaw"/>
+  <stop lat="34.0326" lon="-118.3624499" stopId="15812" tag="15812" title="Adams / Hauser"/>
+  <stop lat="34.0328599" lon="-118.3055499" stopId="15813" tag="15813" title="Adams / La Salle"/>
+  <stop lat="34.0328599" lon="-118.2866299" stopId="15814" tag="15814" title="Adams / Magnolia"/>
+  <stop lat="34.0328499" lon="-118.29579" stopId="15815" tag="15815" title="Adams / Budlong"/>
+  <stop lat="34.0326" lon="-118.3592999" stopId="15817" tag="15817" title="Adams / Dunsmuir"/>
+  <stop lat="34.0325599" lon="-118.37048" stopId="15818" tag="15818" title="Adams / Fairfax"/>
+  <stop lat="34.0281599" lon="-118.27576" stopId="15819" tag="15819" title="Adams / Figueroa"/>
+  <stop lat="34.03265" lon="-118.3458399" stopId="15822" tag="15822" title="Adams / Harcourt"/>
+  <stop lat="34.03192" lon="-118.28421" stopId="15824" tag="15824" title="Adams / Hoover"/>
+  <stop lat="34.0326299" lon="-118.3506" stopId="15825" tag="15825" title="Adams / La Brea"/>
+  <stop lat="34.03261" lon="-118.3560699" stopId="15829" tag="15829" title="Adams / Redondo"/>
+  <stop lat="34.03279" lon="-118.3114399" stopId="15830" tag="15830" title="Adams / Saint Andrews"/>
+  <stop lat="34.0328699" lon="-118.29186" stopId="15832" tag="15832" title="Adams / Vermont"/>
+  <stop lat="34.0328099" lon="-118.30871" stopId="15833" tag="15833" title="Adams / Western"/>
+  <stop lat="34.03256" lon="-118.3676799" stopId="15834" tag="15834" title="Adams / Thurman"/>
+  <stop lat="34.0352799" lon="-118.36907" tag="16535_ar" title="Washington Fairfax Terminal"/>
+  <stop lat="34.0556799" lon="-118.249" stopId="142453" tag="142453" title="1st / Grand"/>
+  <direction name="North" tag="37_504_0" title="North to Beverly Center" useForUI="true">
+   <stop tag="16530"/>
+   <stop tag="55"/>
+   <stop tag="7481"/>
+   <stop tag="7461"/>
+   <stop tag="7467"/>
+   <stop tag="7476"/>
+   <stop tag="4971"/>
+   <stop tag="7471"/>
+   <stop tag="15807"/>
+   <stop tag="8213"/>
+   <stop tag="7457"/>
+   <stop tag="7451"/>
+   <stop tag="7449"/>
+   <stop tag="7453"/>
+   <stop tag="7456"/>
+   <stop tag="7477"/>
+   <stop tag="7479"/>
+   <stop tag="7462"/>
+   <stop tag="7460"/>
+   <stop tag="7475"/>
+   <stop tag="7465"/>
+   <stop tag="56"/>
+   <stop tag="7463"/>
+   <stop tag="7473"/>
+   <stop tag="7480"/>
+   <stop tag="7455"/>
+   <stop tag="7468"/>
+   <stop tag="7459"/>
+   <stop tag="16950"/>
+  </direction>
+  <direction name="South" tag="37_503_1" title="South to Washington/Fairfax Transit Hub" useForUI="true">
+   <stop tag="15610"/>
+   <stop tag="15613"/>
+   <stop tag="142453"/>
+   <stop tag="13560"/>
+   <stop tag="13561"/>
+   <stop tag="13562"/>
+   <stop tag="13567"/>
+   <stop tag="13568"/>
+   <stop tag="13572"/>
+   <stop tag="13551"/>
+   <stop tag="10802"/>
+   <stop tag="13549"/>
+   <stop tag="13576"/>
+   <stop tag="13573"/>
+   <stop tag="10809"/>
+   <stop tag="15819"/>
+   <stop tag="15808"/>
+   <stop tag="15824"/>
+   <stop tag="15814"/>
+   <stop tag="15832"/>
+   <stop tag="15815"/>
+   <stop tag="4574"/>
+   <stop tag="8654"/>
+   <stop tag="15813"/>
+   <stop tag="15833"/>
+   <stop tag="15830"/>
+   <stop tag="15809"/>
+   <stop tag="15806"/>
+   <stop tag="15803"/>
+   <stop tag="15804"/>
+   <stop tag="15801"/>
+   <stop tag="15802"/>
+   <stop tag="15810"/>
+   <stop tag="7454"/>
+   <stop tag="15822"/>
+   <stop tag="15825"/>
+   <stop tag="15829"/>
+   <stop tag="15817"/>
+   <stop tag="15812"/>
+   <stop tag="15834"/>
+   <stop tag="15818"/>
+   <stop tag="13406"/>
+   <stop tag="16535_ar"/>
+  </direction>
+  <path>
+   <point lat="34.05913" lon="-118.25442"/>
+   <point lat="34.05636" lon="-118.25006"/>
+   <point lat="34.05568" lon="-118.249"/>
+   <point lat="34.05446" lon="-118.24989"/>
+   <point lat="34.05288" lon="-118.25157"/>
+   <point lat="34.05022" lon="-118.25395"/>
+   <point lat="34.05007" lon="-118.25427"/>
+   <point lat="34.04893" lon="-118.25527"/>
+   <point lat="34.04654" lon="-118.25749"/>
+  </path>
+  <path>
+   <point lat="34.03528" lon="-118.36907"/>
+   <point lat="34.0356" lon="-118.36896"/>
+   <point lat="34.03584" lon="-118.369"/>
+   <point lat="34.0356" lon="-118.36841"/>
+   <point lat="34.03538" lon="-118.36781"/>
+   <point lat="34.03517" lon="-118.36822"/>
+   <point lat="34.03511" lon="-118.36836"/>
+   <point lat="34.03499" lon="-118.36861"/>
+   <point lat="34.03482" lon="-118.36929"/>
+   <point lat="34.0345299" lon="-118.36961"/>
+   <point lat="34.03401" lon="-118.37075"/>
+   <point lat="34.0336799" lon="-118.37153"/>
+   <point lat="34.03365" lon="-118.37163"/>
+   <point lat="34.03301" lon="-118.37315"/>
+   <point lat="34.03276" lon="-118.37275"/>
+   <point lat="34.03267" lon="-118.37259"/>
+   <point lat="34.03259" lon="-118.37243"/>
+   <point lat="34.03255" lon="-118.37232"/>
+   <point lat="34.03251" lon="-118.37216"/>
+   <point lat="34.03249" lon="-118.37205"/>
+   <point lat="34.03247" lon="-118.37187"/>
+   <point lat="34.03245" lon="-118.37164"/>
+   <point lat="34.03236" lon="-118.37049"/>
+  </path>
+  <path>
+   <point lat="34.03267" lon="-118.2912"/>
+   <point lat="34.03266" lon="-118.28663"/>
+   <point lat="34.03268" lon="-118.28615"/>
+   <point lat="34.03149" lon="-118.28374"/>
+   <point lat="34.0309" lon="-118.28214"/>
+   <point lat="34.03088" lon="-118.28207"/>
+   <point lat="34.03031" lon="-118.28104"/>
+   <point lat="34.02926" lon="-118.27871"/>
+   <point lat="34.02814" lon="-118.2762"/>
+   <point lat="34.02708" lon="-118.27361"/>
+   <point lat="34.02646" lon="-118.27247"/>
+   <point lat="34.02582" lon="-118.27082"/>
+   <point lat="34.02602" lon="-118.27056"/>
+  </path>
+  <path>
+   <point lat="34.0325599" lon="-118.37048"/>
+   <point lat="34.03441" lon="-118.36987"/>
+   <point lat="34.03567" lon="-118.36913"/>
+   <point lat="34.0356" lon="-118.36841"/>
+   <point lat="34.03538" lon="-118.36781"/>
+   <point lat="34.03517" lon="-118.36822"/>
+   <point lat="34.03511" lon="-118.36836"/>
+   <point lat="34.03499" lon="-118.36861"/>
+   <point lat="34.03465" lon="-118.36937"/>
+   <point lat="34.03466" lon="-118.36948"/>
+   <point lat="34.03468" lon="-118.36952"/>
+   <point lat="34.03472" lon="-118.36958"/>
+   <point lat="34.03478" lon="-118.36961"/>
+   <point lat="34.03492" lon="-118.36964"/>
+   <point lat="34.03493" lon="-118.36954"/>
+   <point lat="34.03495" lon="-118.36941"/>
+   <point lat="34.03499" lon="-118.36928"/>
+   <point lat="34.03528" lon="-118.36907"/>
+  </path>
+  <path>
+   <point lat="34.02816" lon="-118.27576"/>
+   <point lat="34.02931" lon="-118.27831"/>
+   <point lat="34.03088" lon="-118.28207"/>
+   <point lat="34.03192" lon="-118.28421"/>
+   <point lat="34.03268" lon="-118.28615"/>
+   <point lat="34.03286" lon="-118.28663"/>
+   <point lat="34.03287" lon="-118.29186"/>
+  </path>
+  <path>
+   <point lat="34.03598" lon="-118.26635"/>
+   <point lat="34.03252" lon="-118.26858"/>
+   <point lat="34.02996" lon="-118.27005"/>
+   <point lat="34.02931" lon="-118.27063"/>
+   <point lat="34.02666" lon="-118.27233"/>
+   <point lat="34.02708" lon="-118.27361"/>
+   <point lat="34.02816" lon="-118.27576"/>
+  </path>
+  <path>
+   <point lat="34.03236" lon="-118.37049"/>
+   <point lat="34.03238" lon="-118.3681"/>
+   <point lat="34.0324" lon="-118.36278"/>
+   <point lat="34.0324" lon="-118.35969"/>
+   <point lat="34.03242" lon="-118.35601"/>
+   <point lat="34.03243" lon="-118.3506"/>
+  </path>
+  <path>
+   <point lat="34.03263" lon="-118.3506"/>
+   <point lat="34.03261" lon="-118.35607"/>
+   <point lat="34.0326" lon="-118.3593"/>
+   <point lat="34.0326" lon="-118.36245"/>
+   <point lat="34.0325599" lon="-118.36768"/>
+   <point lat="34.0325599" lon="-118.37048"/>
+  </path>
+  <path>
+   <point lat="34.03287" lon="-118.29186"/>
+   <point lat="34.03285" lon="-118.29579"/>
+   <point lat="34.03284" lon="-118.30073"/>
+   <point lat="34.03283" lon="-118.30226"/>
+   <point lat="34.03286" lon="-118.30555"/>
+   <point lat="34.03281" lon="-118.30871"/>
+   <point lat="34.03279" lon="-118.31144"/>
+   <point lat="34.03276" lon="-118.31533"/>
+   <point lat="34.03275" lon="-118.31751"/>
+   <point lat="34.0327399" lon="-118.32106"/>
+   <point lat="34.03273" lon="-118.32344"/>
+   <point lat="34.03271" lon="-118.32823"/>
+   <point lat="34.0327" lon="-118.33177"/>
+   <point lat="34.0327" lon="-118.33475"/>
+   <point lat="34.03267" lon="-118.34076"/>
+   <point lat="34.0326499" lon="-118.34584"/>
+   <point lat="34.03263" lon="-118.3506"/>
+  </path>
+  <path>
+   <point lat="34.03243" lon="-118.3506"/>
+   <point lat="34.03246" lon="-118.34617"/>
+   <point lat="34.03247" lon="-118.34073"/>
+   <point lat="34.0325" lon="-118.33467"/>
+   <point lat="34.03251" lon="-118.32883"/>
+   <point lat="34.03253" lon="-118.32408"/>
+   <point lat="34.03254" lon="-118.32128"/>
+   <point lat="34.0325599" lon="-118.31783"/>
+   <point lat="34.03257" lon="-118.31533"/>
+   <point lat="34.03259" lon="-118.31144"/>
+   <point lat="34.03261" lon="-118.3092"/>
+   <point lat="34.03262" lon="-118.30511"/>
+   <point lat="34.03263" lon="-118.30294"/>
+   <point lat="34.03264" lon="-118.29999"/>
+   <point lat="34.0326499" lon="-118.29612"/>
+   <point lat="34.03267" lon="-118.2912"/>
+  </path>
+  <path>
+   <point lat="34.02816" lon="-118.27576"/>
+   <point lat="34.02931" lon="-118.27831"/>
+   <point lat="34.03088" lon="-118.28207"/>
+   <point lat="34.0309" lon="-118.28214"/>
+   <point lat="34.03192" lon="-118.28421"/>
+   <point lat="34.03268" lon="-118.28615"/>
+   <point lat="34.03286" lon="-118.28663"/>
+   <point lat="34.03287" lon="-118.29186"/>
+  </path>
+  <path>
+   <point lat="34.04654" lon="-118.25749"/>
+   <point lat="34.04572" lon="-118.25825"/>
+   <point lat="34.0432599" lon="-118.26056"/>
+   <point lat="34.04177" lon="-118.26197"/>
+   <point lat="34.0394099" lon="-118.26401"/>
+   <point lat="34.03917" lon="-118.26436"/>
+   <point lat="34.03598" lon="-118.26635"/>
+  </path>
+  <path>
+   <point lat="34.05913" lon="-118.25442"/>
+   <point lat="34.05636" lon="-118.25006"/>
+   <point lat="34.05568" lon="-118.249"/>
+   <point lat="34.05446" lon="-118.24989"/>
+   <point lat="34.05288" lon="-118.25157"/>
+   <point lat="34.05022" lon="-118.25395"/>
+   <point lat="34.05007" lon="-118.25427"/>
+   <point lat="34.04893" lon="-118.25527"/>
+   <point lat="34.04654" lon="-118.25749"/>
+   <point lat="34.04572" lon="-118.25825"/>
+   <point lat="34.0432599" lon="-118.26056"/>
+   <point lat="34.04177" lon="-118.26197"/>
+   <point lat="34.0394099" lon="-118.26401"/>
+   <point lat="34.03917" lon="-118.26436"/>
+   <point lat="34.03598" lon="-118.26635"/>
+  </path>
+ </route>
+</body>

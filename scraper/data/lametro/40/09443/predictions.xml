@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="40" routeTitle="40 Downtown LA-Sbay Galleria Via King B" stopTag="9443" stopTitle="Crenshaw / 57th">
+  <direction title="South to South Bay Galleria">
+   <prediction block="0402300" dirTag="40_916_1" epochTime="1670558836035" isDeparture="false" minutes="2" seconds="128" tripTag="54535966" vehicle="8465"/>
+  </direction>
+ </predictions>
+</body>

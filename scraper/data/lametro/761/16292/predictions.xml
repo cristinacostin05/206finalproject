@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="16292" stopTitle="Sunset / Bellagio">
+  <direction title="North to Sepulveda E Line (expo) Station">
+   <prediction block="7610200" dirTag="761_71_0" epochTime="1670559486159" isDeparture="false" minutes="12" seconds="742" tripTag="54424826" vehicle="8757"/>
+   <prediction affectedByLayover="true" block="7610400" dirTag="761_71_0" epochTime="1670560940043" isDeparture="false" minutes="36" seconds="2196" tripTag="54424843" vehicle="8748"/>
+   <prediction affectedByLayover="true" block="7611300" dirTag="761_71_0" epochTime="1670562652113" isDeparture="false" minutes="65" seconds="3908" tripTag="54424844" vehicle="8468"/>
+   <prediction affectedByLayover="true" block="7610900" dirTag="761_71_0" epochTime="1670564152113" isDeparture="false" minutes="90" seconds="5408" tripTag="54424846" vehicle="8717"/>
+  </direction>
+ </predictions>
+</body>

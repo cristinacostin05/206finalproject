@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="12889" stopTitle="Ramona / Centre Plaza">
+  <direction title="South to The Shops At Montebello">
+   <prediction affectedByLayover="true" block="1061102" dirTag="106_47_1" epochTime="1670560527067" isDeparture="false" isScheduleBased="true" minutes="33" seconds="2019" tripTag="54482920" vehicle="4123"/>
+  </direction>
+  <direction title="South to East LA College">
+   <prediction affectedByLayover="true" block="1060700" dirTag="106_46_1" epochTime="1670561285914" isDeparture="false" minutes="46" seconds="2778" tripTag="54482921" vehicle="3964"/>
+   <prediction affectedByLayover="true" block="1060800" dirTag="106_46_1" epochTime="1670563265914" isDeparture="false" minutes="79" seconds="4758" tripTag="54482923" vehicle="4172"/>
+  </direction>
+ </predictions>
+</body>

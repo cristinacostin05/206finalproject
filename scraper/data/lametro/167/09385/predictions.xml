@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="9385" stopTitle="Plummer / Corbin">
+  <direction title="West to Chatsworth Station">
+   <prediction block="1670300" dirTag="167_95_1" epochTime="1670560554588" isDeparture="false" minutes="8" seconds="518" tripTag="54429230" vehicle="4020"/>
+   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670564459207" isDeparture="false" minutes="73" seconds="4423" tripTag="54429231" vehicle="4021"/>
+  </direction>
+ </predictions>
+</body>

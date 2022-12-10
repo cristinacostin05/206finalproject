@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="6041" stopTitle="Santa Monica / Bundy">
+  <direction title="East to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0041300" dirTag="4_316_0" epochTime="1670558915236" isDeparture="false" minutes="19" seconds="1165" tripTag="54486009" vehicle="9526"/>
+   <prediction affectedByLayover="true" block="0040700" dirTag="4_316_0" epochTime="1670559043452" isDeparture="false" minutes="21" seconds="1293" tripTag="54485917" vehicle="9523"/>
+   <prediction affectedByLayover="true" block="0045300" dirTag="4_316_0" epochTime="1670561375236" isDeparture="false" minutes="60" seconds="3625" tripTag="54486020" vehicle="8742"/>
+   <prediction affectedByLayover="true" block="0041900" dirTag="4_316_0" epochTime="1670562035236" isDeparture="false" isScheduleBased="true" minutes="71" seconds="4285" tripTag="54486011" vehicle="virtualVehicle_0041900"/>
+   <prediction affectedByLayover="true" block="0049611" dirTag="4_314_0" epochTime="1670563452106" isDeparture="false" isScheduleBased="true" minutes="95" seconds="5701" tripTag="54486018" vehicle="virtualVehicle_0049611"/>
+  </direction>
+ </predictions>
+</body>

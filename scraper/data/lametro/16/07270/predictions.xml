@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="7270" stopTitle="3rd / Alvarado">
+  <direction title="East to Downtown LA - 6th-Los Angeles">
+   <prediction block="0165700" dirTag="16_416_0" epochTime="1670560010579" isDeparture="false" minutes="15" seconds="927" tripTag="54471033" vehicle="8550"/>
+   <prediction affectedByLayover="true" block="0160500" dirTag="16_416_0" epochTime="1670561079191" isDeparture="false" isScheduleBased="true" minutes="33" seconds="1996" tripTag="54470969" vehicle="virtualVehicle_0160500"/>
+   <prediction block="0160602" dirTag="16_417_0" epochTime="1670561630805" isDeparture="false" minutes="42" seconds="2547" tripTag="54471079" vehicle="8543"/>
+   <prediction block="0160400" dirTag="16_416_0" epochTime="1670561683925" isDeparture="false" minutes="43" seconds="2600" tripTag="54471159" vehicle="8547"/>
+   <prediction affectedByLayover="true" block="0166000" dirTag="16_416_0" epochTime="1670562699191" isDeparture="false" isScheduleBased="true" minutes="60" seconds="3616" tripTag="54470907" vehicle="virtualVehicle_0166000"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="15956" stopTitle="El Segundo / Broadway">
+  <direction title="West to Harbor Fwy Station">
+   <prediction block="1270100" dirTag="127_35_1" epochTime="1670559587300" isDeparture="false" minutes="31" seconds="1919" tripTag="54542723" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270400" dirTag="127_34_1" epochTime="1670559862946" isDeparture="false" minutes="36" seconds="2194" tripTag="54542770" vehicle="2024"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_35_1" epochTime="1670561107163" isDeparture="false" minutes="57" seconds="3439" tripTag="54542726" vehicle="1682"/>
+   <prediction affectedByLayover="true" block="1270100" dirTag="127_34_1" epochTime="1670562675741" isDeparture="false" minutes="83" seconds="5007" tripTag="54542771" vehicle="1943"/>
+  </direction>
+ </predictions>
+</body>

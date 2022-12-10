@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="2345" stopTitle="Terminal 25">
+  <direction title="East to Sierra Madre Villa Station">
+   <prediction affectedByLayover="true" block="4870502" dirTag="487_117_0" epochTime="1670559598098" isDeparture="true" minutes="22" seconds="1342" tripTag="54489683" vehicle="4081"/>
+   <prediction affectedByLayover="true" block="4870300" dirTag="487_117_0" epochTime="1670562520650" isDeparture="true" minutes="71" seconds="4264" tripTag="54489684" vehicle="4014"/>
+   <prediction affectedByLayover="true" block="4870200" dirTag="487_117_0" epochTime="1670562960000" isDeparture="true" minutes="78" seconds="4704" tripTag="54489682" vehicle="4142"/>
+  </direction>
+ </predictions>
+</body>

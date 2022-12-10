@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="9809" stopTitle="Raymond / Union">
+  <direction title="North to Sierra Madre Villa Station">
+   <prediction block="2560200" dirTag="256_103_0" epochTime="1670561181937" isDeparture="false" minutes="26" seconds="1563" tripTag="54664088" vehicle="3133"/>
+  </direction>
+  <direction title="North to Memorial Park Station">
+   <prediction affectedByLayover="true" block="2560100" dirTag="256_105_0" epochTime="1670563858616" isDeparture="false" minutes="70" seconds="4240" tripTag="54664087" vehicle="3130"/>
+  </direction>
+ </predictions>
+</body>

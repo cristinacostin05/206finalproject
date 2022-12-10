@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="115" routeTitle="115 Playa Del Rey - Norwalk Via Manchest" stopTag="1924" stopTitle="Firestone / Rheem">
+  <direction title="East to Stonewood Center">
+   <prediction block="1150700" dirTag="115_519_0" epochTime="1670563079786" isDeparture="false" minutes="70" seconds="4246" tripTag="54540980" vehicle="1581"/>
+  </direction>
+  <direction title="East to Norwalk Green Line Sta">
+   <prediction block="1151100" dirTag="115_517_0" epochTime="1670558992705" isDeparture="false" minutes="2" seconds="159" tripTag="54540965" vehicle="1634"/>
+   <prediction affectedByLayover="true" block="1151300" dirTag="115_517_0" epochTime="1670560015410" isDeparture="false" isScheduleBased="true" minutes="19" seconds="1182" tripTag="54540983" vehicle="virtualVehicle_1151300"/>
+  </direction>
+ </predictions>
+</body>

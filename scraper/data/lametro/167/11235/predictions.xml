@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="11235" stopTitle="Coldwater Canyon / Elkwood">
+  <direction title="West to Chatsworth Station">
+   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670561551100" isDeparture="false" minutes="25" seconds="1514" tripTag="54429231" vehicle="4021"/>
+   <prediction affectedByLayover="true" block="1670200" dirTag="167_95_1" epochTime="1670564481863" isDeparture="false" minutes="74" seconds="4444" tripTag="54429232" vehicle="4023"/>
+  </direction>
+ </predictions>
+</body>

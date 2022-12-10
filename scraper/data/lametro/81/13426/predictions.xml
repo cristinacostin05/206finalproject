@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="81" routeTitle="81 Eagle Rock- Dwntwn LA- Harbor Fwy St" stopTag="13426" stopTitle="Figueroa / 111th">
+  <direction title="South to Harbor Fwy Station">
+   <prediction affectedByLayover="true" block="0811702" dirTag="81_323_1" epochTime="1670560059589" isDeparture="false" isScheduleBased="true" minutes="20" seconds="1240" tripTag="54674625" vehicle="virtualVehicle_0811702"/>
+   <prediction affectedByLayover="true" block="0811000" dirTag="81_319_1" epochTime="1670561166615" isDeparture="false" isScheduleBased="true" minutes="39" seconds="2347" tripTag="54674612" vehicle="virtualVehicle_0811000"/>
+   <prediction block="0810100" dirTag="81_323_1" epochTime="1670561382579" isDeparture="false" minutes="42" seconds="2563" tripTag="54674707" vehicle="5678"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="13140" stopTitle="Atlantic / 6th">
+  <direction title="South to Artesia Station">
+   <prediction block="2601300" dirTag="260_286_1" epochTime="1670560705915" isDeparture="false" minutes="21" seconds="1303" tripTag="54610121" vehicle="8319"/>
+   <prediction affectedByLayover="true" block="2601902" dirTag="260_286_1" epochTime="1670562708283" isDeparture="false" minutes="55" seconds="3305" tripTag="54610123" vehicle="1843"/>
+   <prediction affectedByLayover="true" block="2601000" dirTag="260_286_1" epochTime="1670564297123" isDeparture="false" minutes="81" seconds="4894" tripTag="54610124" vehicle="8324"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="12921" stopTitle="Reseda / Erwin">
+  <direction title="West to Northridge">
+   <prediction block="2400700" dirTag="240_2_1" epochTime="1670558627468" isDeparture="false" isScheduleBased="true" minutes="3" seconds="201" tripTag="54418565" vehicle="8449"/>
+   <prediction block="2401800" dirTag="240_2_1" epochTime="1670560001103" isDeparture="false" minutes="26" seconds="1575" tripTag="54418574" vehicle="1756"/>
+   <prediction block="2402002" dirTag="240_2_1" epochTime="1670560669525" isDeparture="false" isScheduleBased="true" minutes="37" seconds="2244" tripTag="54418540" vehicle="8479"/>
+   <prediction affectedByLayover="true" block="2401700" dirTag="240_2_1" epochTime="1670563948359" isDeparture="false" isScheduleBased="true" minutes="92" seconds="5522" tripTag="54418530" vehicle="virtualVehicle_2401700"/>
+   <prediction affectedByLayover="true" block="2401000" dirTag="240_2_1" epochTime="1670564152401" isDeparture="false" minutes="95" seconds="5726" tripTag="54418528" vehicle="8450"/>
+  </direction>
+ </predictions>
+</body>

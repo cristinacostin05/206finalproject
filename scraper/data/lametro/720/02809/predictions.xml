@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="2809" stopTitle="Wilshire / Cloverdale">
+  <direction title="East to Downtown LA - 6th - Central">
+   <prediction affectedByLayover="true" block="7200400" dirTag="720_1271_0" epochTime="1670561655107" isDeparture="false" minutes="51" seconds="3068" tripTag="54507849" vehicle="8737"/>
+   <prediction affectedByLayover="true" block="7203302" dirTag="720_1271_0" epochTime="1670562255107" isDeparture="false" isScheduleBased="true" minutes="61" seconds="3668" tripTag="54507899" vehicle="virtualVehicle_7203302"/>
+   <prediction affectedByLayover="true" block="7203902" dirTag="720_1271_0" epochTime="1670564435022" isDeparture="false" minutes="97" seconds="5848" tripTag="54507850" vehicle="8793"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="8095" stopTitle="Temple / Grand">
+  <direction title="North to Downtown LA - Sunset- Figueroa">
+   <prediction block="0600900" dirTag="60_161_0" epochTime="1670559817394" isDeparture="false" minutes="4" seconds="245" tripTag="54597871" vehicle="4083"/>
+   <prediction block="0604111" dirTag="60_161_0" epochTime="1670561171745" isDeparture="false" minutes="26" seconds="1599" tripTag="54597668" vehicle="6114"/>
+   <prediction block="0604311" dirTag="60_161_0" epochTime="1670562810275" isDeparture="false" minutes="53" seconds="3237" tripTag="54597649" vehicle="5675"/>
+   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670563840247" isDeparture="false" isScheduleBased="true" minutes="71" seconds="4267" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
+  </direction>
+ </predictions>
+</body>

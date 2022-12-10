@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="62" routeTitle="62 Downtown LA - Hawaiian Gardens Via T" stopTag="32117" stopTitle="South / Gridley">
+  <direction title="North to Downtown LA">
+   <prediction affectedByLayover="true" block="0620400" dirTag="62_333_0" epochTime="1670559006091" isDeparture="false" minutes="18" seconds="1097" tripTag="54678429" vehicle="5997"/>
+   <prediction affectedByLayover="true" block="0620500" dirTag="62_333_0" epochTime="1670559793343" isDeparture="false" minutes="31" seconds="1884" tripTag="54678455" vehicle="1855"/>
+   <prediction affectedByLayover="true" block="0620600" dirTag="62_331_0" epochTime="1670562852023" isDeparture="false" isScheduleBased="true" minutes="82" seconds="4943" tripTag="54678436" vehicle="virtualVehicle_0620600"/>
+  </direction>
+ </predictions>
+</body>

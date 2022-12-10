@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="11917" stopTitle="Spring / 1st - City Hall">
+  <direction title="East to Sierra Madre Villa Station">
+   <prediction block="4870100" dirTag="487_117_0" epochTime="1670559061039" isDeparture="false" minutes="13" seconds="799" tripTag="54489681" vehicle="4150"/>
+   <prediction affectedByLayover="true" block="4870502" dirTag="487_117_0" epochTime="1670560527076" isDeparture="false" minutes="37" seconds="2265" tripTag="54489683" vehicle="4081"/>
+   <prediction affectedByLayover="true" block="4870300" dirTag="487_117_0" epochTime="1670563449628" isDeparture="false" minutes="86" seconds="5188" tripTag="54489684" vehicle="4014"/>
+   <prediction affectedByLayover="true" block="4870200" dirTag="487_117_0" epochTime="1670563888978" isDeparture="false" minutes="93" seconds="5627" tripTag="54489682" vehicle="4142"/>
+  </direction>
+ </predictions>
+</body>

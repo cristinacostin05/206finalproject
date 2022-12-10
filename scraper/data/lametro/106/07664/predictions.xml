@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="7664" stopTitle="Garvey / Abajo">
+  <direction title="North to Garvey &amp; Atlantic">
+   <prediction block="1060700" dirTag="106_43_0" epochTime="1670559421016" isDeparture="false" minutes="15" seconds="933" tripTag="54482973" vehicle="3964"/>
+   <prediction block="1060800" dirTag="106_42_0" epochTime="1670560699930" isDeparture="false" minutes="36" seconds="2212" tripTag="54482974" vehicle="4172"/>
+   <prediction affectedByLayover="true" block="1060300" dirTag="106_42_0" epochTime="1670562708417" isDeparture="false" minutes="70" seconds="4221" tripTag="54482975" vehicle="3890"/>
+  </direction>
+ </predictions>
+</body>

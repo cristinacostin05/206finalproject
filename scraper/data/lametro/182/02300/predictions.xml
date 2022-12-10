@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="2300" stopTitle="Griffin / Avenue 41">
+  <direction title="West to Vermont/Sunset Sta">
+   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670562554687" isDeparture="false" minutes="36" seconds="2216" tripTag="54677211" vehicle="1885"/>
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_15_1" epochTime="1670565477138" isDeparture="false" isScheduleBased="true" minutes="85" seconds="5138" tripTag="54677212" vehicle="virtualVehicle_1820600"/>
+  </direction>
+ </predictions>
+</body>

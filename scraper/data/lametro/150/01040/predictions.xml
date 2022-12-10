@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="150" routeTitle="150 Chatsworth Sta - Encino Via Topanga" stopTag="1040" stopTitle="Devonshire / Topanga Canyon">
+  <direction title="West to Chatsworth Station">
+   <prediction affectedByLayover="true" block="1500200" dirTag="150_191_1" epochTime="1670565167255" isDeparture="false" minutes="89" seconds="5342" tripTag="54420242" vehicle="5900"/>
+  </direction>
+ </predictions>
+</body>

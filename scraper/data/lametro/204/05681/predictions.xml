@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="204" routeTitle="204 Hollywood -Athens Via Vermont Av" stopTag="5681" stopTitle="Vermont / 92nd">
+  <direction title="North to Vermont/Sunset Sta">
+   <prediction affectedByLayover="true" block="2044411" dirTag="204_115_0" epochTime="1670563597500" isDeparture="false" isScheduleBased="true" minutes="57" seconds="3470" tripTag="54635778" vehicle="virtualVehicle_2044411"/>
+   <prediction affectedByLayover="true" block="2044511" dirTag="204_115_0" epochTime="1670564797500" isDeparture="false" isScheduleBased="true" minutes="77" seconds="4670" tripTag="54635718" vehicle="virtualVehicle_2044511"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="45" routeTitle="45 Lincoln Heights-Dtwn LA-Harbr Fwy St" stopTag="11905" stopTitle="Broadway / Daly">
+  <direction title="South to Harbor Fwy Station">
+   <prediction affectedByLayover="true" block="0455500" dirTag="45_601_1" epochTime="1670565553505" isDeparture="false" minutes="96" seconds="5797" tripTag="54679039" vehicle="6087"/>
+  </direction>
+ </predictions>
+</body>

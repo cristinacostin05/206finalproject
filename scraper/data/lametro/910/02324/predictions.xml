@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="2324" stopTitle="Harbor Transitway / Harbor Fwy Station">
+  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_210_1" epochTime="1670561397726" isDeparture="false" isScheduleBased="true" minutes="24" seconds="1495" tripTag="54545504" vehicle="virtualVehicle_9101302"/>
+   <prediction block="9102602" dirTag="910_210_1" epochTime="1670562443554" isDeparture="false" minutes="42" seconds="2541" tripTag="54545613" vehicle="8388"/>
+  </direction>
+ </predictions>
+</body>

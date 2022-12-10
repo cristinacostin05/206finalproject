@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="9986" stopTitle="Gage / Wilmington">
+  <direction title="West to Culver City Transit Ctr">
+   <prediction block="1101200" dirTag="110_274_1" epochTime="1670558958747" isDeparture="false" minutes="18" seconds="1109" tripTag="54518538" vehicle="5917"/>
+   <prediction affectedByLayover="true" block="1101100" dirTag="110_274_1" epochTime="1670559232779" isDeparture="false" minutes="23" seconds="1383" tripTag="54518536" vehicle="5753"/>
+  </direction>
+ </predictions>
+</body>

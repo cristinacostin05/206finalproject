@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="115" routeTitle="115 Playa Del Rey - Norwalk Via Manchest" stopTag="16099" stopTitle="Manchester / Harvard">
+  <direction title="West to Playa Del Rey">
+   <prediction block="1150800" dirTag="115_523_1" epochTime="1670561536144" isDeparture="false" minutes="44" seconds="2683" tripTag="54540966" vehicle="1769"/>
+   <prediction affectedByLayover="true" block="1151600" dirTag="115_523_1" epochTime="1670562844899" isDeparture="false" isScheduleBased="true" minutes="66" seconds="3992" tripTag="54541024" vehicle="virtualVehicle_1151600"/>
+   <prediction affectedByLayover="true" block="1151100" dirTag="115_523_1" epochTime="1670564499628" isDeparture="false" minutes="94" seconds="5646" tripTag="54540963" vehicle="1634"/>
+  </direction>
+ </predictions>
+</body>

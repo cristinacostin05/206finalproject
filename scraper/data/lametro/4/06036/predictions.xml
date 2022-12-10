@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="6036" stopTitle="Santa Monica / Wilton">
+  <direction title="East to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0042502" dirTag="4_314_0" epochTime="1670559417064" isDeparture="false" isScheduleBased="true" minutes="27" seconds="1667" tripTag="54485918" vehicle="virtualVehicle_0042502"/>
+   <prediction affectedByLayover="true" block="0041300" dirTag="4_316_0" epochTime="1670561623541" isDeparture="false" minutes="64" seconds="3874" tripTag="54486009" vehicle="9526"/>
+   <prediction affectedByLayover="true" block="0040700" dirTag="4_316_0" epochTime="1670561751757" isDeparture="false" minutes="66" seconds="4002" tripTag="54485917" vehicle="9523"/>
+  </direction>
+ </predictions>
+</body>

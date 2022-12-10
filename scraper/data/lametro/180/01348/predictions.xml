@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="1348" stopTitle="Colorado / Raymond">
+  <direction title="East to Pasadena City College">
+   <prediction block="1801500" dirTag="180_227_0" epochTime="1670560674746" isDeparture="false" minutes="3" seconds="193" tripTag="54675237" vehicle="5949"/>
+   <prediction block="1800200" dirTag="180_227_0" epochTime="1670561480493" isDeparture="false" minutes="16" seconds="999" tripTag="54675229" vehicle="6041"/>
+   <prediction block="1800300" dirTag="180_227_0" epochTime="1670562004123" isDeparture="false" minutes="25" seconds="1523" tripTag="54675283" vehicle="1887"/>
+   <prediction block="1800500" dirTag="180_227_0" epochTime="1670562649596" isDeparture="false" minutes="36" seconds="2168" tripTag="54675224" vehicle="1586"/>
+   <prediction block="1800800" dirTag="180_227_0" epochTime="1670563309548" isDeparture="false" minutes="47" seconds="2828" tripTag="54675220" vehicle="6040"/>
+  </direction>
+ </predictions>
+</body>

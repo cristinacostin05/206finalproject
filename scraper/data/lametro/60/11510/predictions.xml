@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="11510" stopTitle="Long Beach / Independence">
+  <direction title="South to Artesia Station">
+   <prediction block="0604211" dirTag="60_163_1" epochTime="1670560498882" isDeparture="false" minutes="15" seconds="918" tripTag="54597750" vehicle="6103"/>
+   <prediction affectedByLayover="true" block="0600900" dirTag="60_163_1" epochTime="1670562683048" isDeparture="false" minutes="51" seconds="3102" tripTag="54597795" vehicle="4083"/>
+   <prediction affectedByLayover="true" block="0604111" dirTag="60_163_1" epochTime="1670564754666" isDeparture="false" minutes="86" seconds="5174" tripTag="54597755" vehicle="6114"/>
+  </direction>
+ </predictions>
+</body>

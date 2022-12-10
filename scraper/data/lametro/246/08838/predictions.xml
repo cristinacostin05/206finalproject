@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="246" routeTitle="246 Harbor Gateway Trans Ctr - San Pedro" stopTag="8838" stopTitle="Avalon / 223rd">
+  <direction title="South to San Pedro - Pacific-21st">
+   <prediction block="2460400" dirTag="246_71_1" epochTime="1670558998131" isDeparture="false" isScheduleBased="true" minutes="9" seconds="597" tripTag="54544802" vehicle="5611"/>
+   <prediction affectedByLayover="true" block="2460300" dirTag="246_71_1" epochTime="1670560558649" isDeparture="false" isScheduleBased="true" minutes="35" seconds="2157" tripTag="54544776" vehicle="1789"/>
+  </direction>
+ </predictions>
+</body>

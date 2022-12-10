@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="14973" stopTitle="Tracy / Ames">
+  <direction title="West to Vermont/Sunset Sta">
+   <prediction block="1820300" dirTag="182_15_1" epochTime="1670562028928" isDeparture="false" minutes="28" seconds="1680" tripTag="54677213" vehicle="1912"/>
+   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670564662124" isDeparture="false" minutes="71" seconds="4313" tripTag="54677211" vehicle="1885"/>
+  </direction>
+ </predictions>
+</body>

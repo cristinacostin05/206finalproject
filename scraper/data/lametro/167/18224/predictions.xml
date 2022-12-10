@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="18224" stopTitle="Whitsett / Moorpark">
+  <direction title="East to Coldwater Cyn-Ventura">
+   <prediction block="1670100" dirTag="167_99_0" epochTime="1670560165930" isDeparture="false" minutes="2" seconds="135" tripTag="54429215" vehicle="4021"/>
+   <prediction block="1670200" dirTag="167_99_0" epochTime="1670562112397" isDeparture="false" minutes="34" seconds="2081" tripTag="54429238" vehicle="4023"/>
+   <prediction affectedByLayover="true" block="1670400" dirTag="167_99_0" epochTime="1670565523124" isDeparture="false" minutes="91" seconds="5492" tripTag="54429240" vehicle="4022"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="16701" stopTitle="Wilshire / Alvarado">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0205200" dirTag="20_777_1" epochTime="1670559186761" isDeparture="false" isScheduleBased="true" minutes="13" seconds="826" tripTag="54485093" vehicle="4130"/>
+   <prediction affectedByLayover="true" block="0205100" dirTag="20_777_1" epochTime="1670559356722" isDeparture="false" isScheduleBased="true" minutes="16" seconds="996" tripTag="54485134" vehicle="6039"/>
+   <prediction affectedByLayover="true" block="0201102" dirTag="20_777_1" epochTime="1670560369761" isDeparture="false" isScheduleBased="true" minutes="33" seconds="2009" tripTag="54485089" vehicle="virtualVehicle_0201102"/>
+   <prediction affectedByLayover="true" block="0209611" dirTag="20_777_1" epochTime="1670561869761" isDeparture="false" isScheduleBased="true" minutes="58" seconds="3509" tripTag="54485094" vehicle="virtualVehicle_0209611"/>
+   <prediction affectedByLayover="true" block="0209811" dirTag="20_777_1" epochTime="1670563489761" isDeparture="false" isScheduleBased="true" minutes="85" seconds="5129" tripTag="54485091" vehicle="4165"/>
+  </direction>
+ </predictions>
+</body>

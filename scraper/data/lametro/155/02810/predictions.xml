@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="2810" stopTitle="Lankershim / Valleyheart">
+  <direction title="North to North Hollywood Station">
+   <prediction block="1550200" dirTag="155_38_0" epochTime="1670560572627" isDeparture="false" minutes="14" seconds="863" tripTag="54394964" vehicle="5956"/>
+   <prediction affectedByLayover="true" block="1550100" dirTag="155_38_0" epochTime="1670561187373" isDeparture="false" minutes="24" seconds="1478" tripTag="54394961" vehicle="6046"/>
+   <prediction affectedByLayover="true" block="1550400" dirTag="155_38_0" epochTime="1670564655373" isDeparture="false" minutes="82" seconds="4946" tripTag="54394970" vehicle="3987"/>
+  </direction>
+ </predictions>
+</body>

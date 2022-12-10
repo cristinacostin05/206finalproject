@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="5071" stopTitle="Marengo / Villa">
+  <direction title="South to Csula Transit Center">
+   <prediction block="2560300" dirTag="256_104_1" epochTime="1670560983033" isDeparture="false" minutes="22" seconds="1355" tripTag="54664107" vehicle="3136"/>
+   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670564315358" isDeparture="false" minutes="78" seconds="4687" tripTag="54664089" vehicle="3145"/>
+  </direction>
+ </predictions>
+</body>

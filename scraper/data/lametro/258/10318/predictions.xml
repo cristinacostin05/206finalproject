@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="10318" stopTitle="Eastern / Live Oak">
+  <direction title="South to Paramount">
+   <prediction block="2580200" dirTag="258_45_1" epochTime="1670563312930" isDeparture="false" minutes="50" seconds="3034" tripTag="54676276" vehicle="1640"/>
+  </direction>
+ </predictions>
+</body>

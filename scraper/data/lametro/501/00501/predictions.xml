@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="501" routeTitle="501 Pasadena - N. Hollywood Sta Via 134" stopTag="501" stopTitle="Raymond / Del Mar">
+  <direction title="West to N. Hllywd- Via 134 Fwy-Red-Orange Line">
+   <prediction affectedByLayover="true" block="5010200" dirTag="501_14_1" epochTime="1670560140000" isDeparture="true" minutes="14" seconds="894" tripTag="54428853" vehicle="5602"/>
+   <prediction affectedByLayover="true" block="5010100" dirTag="501_14_1" epochTime="1670564282230" isDeparture="true" minutes="83" seconds="5036" tripTag="54428894" vehicle="8251"/>
+  </direction>
+ </predictions>
+</body>

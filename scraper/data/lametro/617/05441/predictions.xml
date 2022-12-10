@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="617" routeTitle="617 Beverly Hills-Culver City Via Burton" stopTag="5441" stopTitle="Robertson / Olympic">
+  <direction title="West to Beverly-Pico">
+   <prediction block="6170200" dirTag="617_4_1" epochTime="1670560346131" isDeparture="false" minutes="7" seconds="451" tripTag="54473993" vehicle="5656"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="13568" stopTitle="Grand / 8th">
+  <direction title="West to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0702800" dirTag="70_291_1" epochTime="1670559467367" isDeparture="false" isScheduleBased="true" minutes="2" seconds="153" tripTag="54593040" vehicle="virtualVehicle_0702800"/>
+   <prediction block="0704111" dirTag="70_290_1" epochTime="1670561008387" isDeparture="false" minutes="28" seconds="1694" tripTag="54593036" vehicle="1996"/>
+   <prediction block="0701700" dirTag="70_290_1" epochTime="1670562286478" isDeparture="false" minutes="49" seconds="2972" tripTag="54592901" vehicle="1838"/>
+   <prediction affectedByLayover="true" block="0704211" dirTag="70_290_1" epochTime="1670564029539" isDeparture="false" isScheduleBased="true" minutes="78" seconds="4715" tripTag="54592920" vehicle="virtualVehicle_0704211"/>
+  </direction>
+ </predictions>
+</body>

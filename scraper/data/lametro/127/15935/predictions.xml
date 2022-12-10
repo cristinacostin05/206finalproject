@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="15935" stopTitle="Compton / Nestor">
+  <direction title="West to Harbor Fwy Station">
+   <prediction block="1270100" dirTag="127_35_1" epochTime="1670559031837" isDeparture="false" minutes="22" seconds="1364" tripTag="54542723" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270400" dirTag="127_34_1" epochTime="1670559344094" isDeparture="false" minutes="27" seconds="1677" tripTag="54542770" vehicle="2024"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_35_1" epochTime="1670560551700" isDeparture="false" minutes="48" seconds="2884" tripTag="54542726" vehicle="1682"/>
+   <prediction affectedByLayover="true" block="1270100" dirTag="127_34_1" epochTime="1670562156889" isDeparture="false" minutes="74" seconds="4489" tripTag="54542771" vehicle="1943"/>
+  </direction>
+ </predictions>
+</body>

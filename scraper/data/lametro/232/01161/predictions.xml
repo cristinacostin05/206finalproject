@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="1161" stopTitle="Downtown Long Beach Station">
+  <direction title="North to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="2320400" dirTag="232_87_0" epochTime="1670561759999" isDeparture="false" minutes="42" seconds="2551" tripTag="54637083" vehicle="1546"/>
+  </direction>
+  <direction title="South to Downtown Long Beach">
+   <prediction block="2320400" dirTag="232_84_1" epochTime="1670560682289" isDeparture="false" minutes="24" seconds="1474" tripTag="54637086" vehicle="1546"/>
+  </direction>
+ </predictions>
+</body>

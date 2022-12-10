@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="9882" stopTitle="Compton / Long Beach">
+  <direction title="West to Harbor Fwy Station">
+   <prediction block="1270100" dirTag="127_35_1" epochTime="1670558033129" isDeparture="false" minutes="6" seconds="371" tripTag="54542723" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_35_1" epochTime="1670559552992" isDeparture="false" minutes="31" seconds="1891" tripTag="54542726" vehicle="1682"/>
+  </direction>
+ </predictions>
+</body>

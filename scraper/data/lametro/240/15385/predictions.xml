@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="15385" stopTitle="Ventura / Petit">
+  <direction title="West to Northridge">
+   <prediction block="2401800" dirTag="240_2_1" epochTime="1670559056526" isDeparture="false" minutes="10" seconds="621" tripTag="54418574" vehicle="1756"/>
+   <prediction block="2402002" dirTag="240_2_1" epochTime="1670559724948" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1290" tripTag="54418540" vehicle="8479"/>
+   <prediction affectedByLayover="true" block="2401700" dirTag="240_2_1" epochTime="1670563003782" isDeparture="false" isScheduleBased="true" minutes="76" seconds="4568" tripTag="54418530" vehicle="virtualVehicle_2401700"/>
+   <prediction affectedByLayover="true" block="2401000" dirTag="240_2_1" epochTime="1670563207824" isDeparture="false" minutes="79" seconds="4772" tripTag="54418528" vehicle="8450"/>
+  </direction>
+ </predictions>
+</body>

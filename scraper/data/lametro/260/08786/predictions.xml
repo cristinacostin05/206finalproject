@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="8786" stopTitle="Atlantic / Randolph">
+  <direction title="South to Artesia Station">
+   <prediction block="2601300" dirTag="260_286_1" epochTime="1670561653077" isDeparture="false" minutes="37" seconds="2256" tripTag="54610121" vehicle="8319"/>
+   <prediction affectedByLayover="true" block="2601902" dirTag="260_286_1" epochTime="1670563650427" isDeparture="false" minutes="70" seconds="4253" tripTag="54610123" vehicle="1843"/>
+   <prediction affectedByLayover="true" block="2601000" dirTag="260_286_1" epochTime="1670565258538" isDeparture="false" minutes="97" seconds="5862" tripTag="54610124" vehicle="8324"/>
+  </direction>
+ </predictions>
+</body>

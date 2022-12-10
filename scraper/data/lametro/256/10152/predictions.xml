@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="10152" stopTitle="Eastern / Norelle">
+  <direction title="North to Memorial Park Station">
+   <prediction affectedByLayover="true" block="2560100" dirTag="256_105_0" epochTime="1670561848174" isDeparture="false" minutes="37" seconds="2228" tripTag="54664087" vehicle="3130"/>
+   <prediction affectedByLayover="true" block="2560300" dirTag="256_105_0" epochTime="1670564788174" isDeparture="false" minutes="86" seconds="5168" tripTag="54664090" vehicle="3136"/>
+  </direction>
+ </predictions>
+</body>

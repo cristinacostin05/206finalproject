@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="10993" stopTitle="Melrose / Colorado">
+  <direction title="South to Csula Transit Center">
+   <prediction block="2560300" dirTag="256_104_1" epochTime="1670561619176" isDeparture="false" minutes="33" seconds="1986" tripTag="54664107" vehicle="3136"/>
+   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670564955321" isDeparture="false" minutes="88" seconds="5322" tripTag="54664089" vehicle="3145"/>
+  </direction>
+ </predictions>
+</body>

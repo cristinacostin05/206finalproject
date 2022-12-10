@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="92" routeTitle="92 Dwntwn LA- Sylmar Sta Via Glendale -" stopTag="384" stopTitle="Bellevue / Laveta">
+  <direction title="North to Sylmar Station">
+   <prediction affectedByLayover="true" block="0921500" dirTag="92_275_0" epochTime="1670560150683" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1049" tripTag="54432496" vehicle="virtualVehicle_0921500"/>
+  </direction>
+ </predictions>
+</body>

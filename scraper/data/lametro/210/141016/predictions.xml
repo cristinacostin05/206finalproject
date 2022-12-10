@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="141016" stopTitle="Rossmore / Rosewood">
+  <direction title="South to South Bay Galleria">
+   <prediction affectedByLayover="true" block="2101900" dirTag="210_303_1" epochTime="1670561831722" isDeparture="false" minutes="65" seconds="3940" tripTag="54543031" vehicle="1942"/>
+  </direction>
+ </predictions>
+</body>

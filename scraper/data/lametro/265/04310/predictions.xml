@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="265" routeTitle="265 Pico Rivera - Lakewood Ctr Mall Via" stopTag="4310" stopTitle="Paramount / Whittier">
+  <direction title="North to Pico Rivera">
+   <prediction block="2650200" dirTag="265_14_0" epochTime="1670558385452" isDeparture="false" minutes="2" seconds="144" tripTag="54437471" vehicle="1819"/>
+   <prediction affectedByLayover="true" block="2650100" dirTag="265_14_0" epochTime="1670562098088" isDeparture="false" minutes="64" seconds="3857" tripTag="54437456" vehicle="2053"/>
+  </direction>
+ </predictions>
+</body>

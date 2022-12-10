@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="179" routeTitle="179 Rose Hill Transit Ctr - Arcadia Via" stopTag="2563" stopTitle="Huntington / Gainsborough">
+  <direction title="West to Huntington-Monterey">
+   <prediction affectedByLayover="true" block="1790500" dirTag="179_7_1" epochTime="1670559273378" isDeparture="false" isScheduleBased="true" minutes="13" seconds="827" tripTag="54636841" vehicle="virtualVehicle_1790500"/>
+   <prediction affectedByLayover="true" block="1790200" dirTag="179_7_1" epochTime="1670562116305" isDeparture="false" minutes="61" seconds="3669" tripTag="54636842" vehicle="1993"/>
+  </direction>
+  <direction title="West to Huntington-Maycrest">
+   <prediction affectedByLayover="true" block="1790300" dirTag="179_11_1" epochTime="1670562770347" isDeparture="false" minutes="72" seconds="4324" tripTag="54636843" vehicle="1820"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="12411" stopTitle="Spring / Temple">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0330400" dirTag="33_580_1" epochTime="1670562012147" isDeparture="false" minutes="27" seconds="1634" tripTag="54470544" vehicle="8503"/>
+   <prediction affectedByLayover="true" block="0339702" dirTag="33_575_1" epochTime="1670565143369" isDeparture="false" minutes="79" seconds="4765" tripTag="54470551" vehicle="8624"/>
+   <prediction affectedByLayover="true" block="0331000" dirTag="33_580_1" epochTime="1670565612147" isDeparture="false" minutes="87" seconds="5234" tripTag="54470542" vehicle="8621"/>
+  </direction>
+ </predictions>
+</body>

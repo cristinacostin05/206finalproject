@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="662" routeTitle="662 Altadena-Pasadena Via Lake - Los Rob" stopTag="16519" stopTitle="Washington / Navarro">
+  <direction title="South to Nb Lake - Sb Lincoln Via Del Mar Sta">
+   <prediction block="6620702" dirTag="662_8_1" epochTime="1670559202692" isDeparture="false" minutes="19" seconds="1158" tripTag="54676394" vehicle="1594"/>
+   <prediction affectedByLayover="true" block="6620702" dirTag="662_8_1" epochTime="1670562332566" isDeparture="false" minutes="71" seconds="4288" tripTag="54676391" vehicle="1594"/>
+  </direction>
+ </predictions>
+</body>

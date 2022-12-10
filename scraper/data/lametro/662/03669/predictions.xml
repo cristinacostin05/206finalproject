@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="662" routeTitle="662 Altadena-Pasadena Via Lake - Los Rob" stopTag="3669" stopTitle="Lake / Mountain">
+  <direction title="North to Nb Lincoln - Sb Lake Via Del Mar Sta">
+   <prediction affectedByLayover="true" block="6620802" dirTag="662_7_0" epochTime="1670560225286" isDeparture="false" minutes="36" seconds="2201" tripTag="54676451" vehicle="6045"/>
+   <prediction affectedByLayover="true" block="6620802" dirTag="662_7_0" epochTime="1670563429005" isDeparture="false" minutes="90" seconds="5405" tripTag="54676453" vehicle="6045"/>
+  </direction>
+ </predictions>
+</body>

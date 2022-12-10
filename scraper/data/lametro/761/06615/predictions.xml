@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="6615" stopTitle="Truman / Hubbard">
+  <direction title="North to Sepulveda E Line (expo) Station">
+   <prediction block="7612002" dirTag="761_71_0" epochTime="1670558987406" isDeparture="false" minutes="4" seconds="250" tripTag="54424825" vehicle="8753"/>
+   <prediction block="7611500" dirTag="761_71_0" epochTime="1670560740016" isDeparture="false" minutes="33" seconds="2002" tripTag="54424806" vehicle="8792"/>
+   <prediction block="7610200" dirTag="761_71_0" epochTime="1670563502945" isDeparture="false" minutes="79" seconds="4765" tripTag="54424826" vehicle="8757"/>
+  </direction>
+ </predictions>
+</body>

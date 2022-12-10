@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="218" routeTitle="218 Studio Cty-Cedars Sinai Med Via Laur" stopTag="11981" stopTitle="Fairfax / Beverly">
+  <direction title="South to Cedars-Sinai Medical Ctr">
+   <prediction affectedByLayover="true" block="2180200" dirTag="218_31_1" epochTime="1670562146184" isDeparture="false" minutes="43" seconds="2594" tripTag="54423384" vehicle="3128"/>
+  </direction>
+ </predictions>
+</body>

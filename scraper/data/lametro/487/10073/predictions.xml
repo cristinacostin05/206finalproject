@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="10073" stopTitle="Las Tunas / Del Mar">
+  <direction title="West to Downtown LA - 5th-Beaudry">
+   <prediction affectedByLayover="true" block="4870200" dirTag="487_121_1" epochTime="1670559732956" isDeparture="false" minutes="24" seconds="1466" tripTag="54489671" vehicle="4142"/>
+   <prediction affectedByLayover="true" block="4870300" dirTag="487_121_1" epochTime="1670560320498" isDeparture="false" minutes="34" seconds="2053" tripTag="54489673" vehicle="4014"/>
+   <prediction affectedByLayover="true" block="4870100" dirTag="487_121_1" epochTime="1670562818848" isDeparture="false" minutes="75" seconds="4552" tripTag="54489690" vehicle="4150"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="8437" stopTitle="Wilshire / Normandie">
+  <direction title="East to Downtown LA - 6th - Central">
+   <prediction block="7200100" dirTag="720_1277_0" epochTime="1670558821842" isDeparture="false" minutes="3" seconds="233" tripTag="54508128" vehicle="9587"/>
+   <prediction block="7203802" dirTag="720_1271_0" epochTime="1670558857282" isDeparture="false" minutes="4" seconds="268" tripTag="54507903" vehicle="8785"/>
+   <prediction affectedByLayover="true" block="7200400" dirTag="720_1271_0" epochTime="1670562400355" isDeparture="false" minutes="63" seconds="3811" tripTag="54507849" vehicle="8737"/>
+   <prediction affectedByLayover="true" block="7203302" dirTag="720_1271_0" epochTime="1670563000355" isDeparture="false" isScheduleBased="true" minutes="73" seconds="4411" tripTag="54507899" vehicle="virtualVehicle_7203302"/>
+  </direction>
+ </predictions>
+</body>

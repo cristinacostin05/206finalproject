@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="10498" stopTitle="Fletcher / Crystal">
+  <direction title="West to Vermont/Sunset Sta">
+   <prediction block="1820300" dirTag="182_15_1" epochTime="1670561678121" isDeparture="false" minutes="22" seconds="1333" tripTag="54677213" vehicle="1912"/>
+   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670564311317" isDeparture="false" minutes="66" seconds="3966" tripTag="54677211" vehicle="1885"/>
+  </direction>
+ </predictions>
+</body>

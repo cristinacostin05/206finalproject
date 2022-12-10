@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="120" routeTitle="120 Aviation/LAX Sta- Whittwood Ctr Via" stopTag="2614" stopTitle="Imperial / Bellflower">
+  <direction title="East to Whittwood Town Center">
+   <prediction affectedByLayover="true" block="1200700" dirTag="120_88_0" epochTime="1670563879773" isDeparture="false" isScheduleBased="true" minutes="68" seconds="4103" tripTag="54542518" vehicle="virtualVehicle_1200700"/>
+  </direction>
+ </predictions>
+</body>

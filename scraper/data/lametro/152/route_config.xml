@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <route color="e74d00" latMax="34.2224399" latMin="34.16873" lonMax="-118.37529" lonMin="-118.62992" oppositeColor="ffffff" tag="152" title="152 Canoga Park - N Hollywood Sta Via Ro">
+  <stop lat="34.21175" lon="-118.62328" stopId="01865" tag="1865" title="Fallbrook / Ingomar"/>
+  <stop lat="34.21926" lon="-118.6233299" stopId="01869" tag="1869" title="Fallbrook / Roscoe"/>
+  <stop lat="34.2052899" lon="-118.6232699" stopId="01870" tag="1870" title="Fallbrook / Runnymede"/>
+  <stop lat="34.2086499" lon="-118.62328" stopId="01871" tag="1871" title="Fallbrook / Saticoy"/>
+  <stop lat="34.2012699" lon="-118.62325" stopId="01872" tag="1872" title="Fallbrook / Sherman Way"/>
+  <stop lat="34.2157799" lon="-118.62329" stopId="01873" tag="1873" title="Fallbrook / Strathern"/>
+  <stop lat="34.22154" lon="-118.40272" stopId="02086" tag="2086" title="Roscoe / Rhodes"/>
+  <stop lat="34.1723199" lon="-118.37922" stopId="02811" tag="2811" title="Lankershim / Burbank"/>
+  <stop lat="34.1776699" lon="-118.3824699" stopId="02812" tag="2812" title="Lankershim / Califa"/>
+  <stop lat="34.1977199" lon="-118.3878999" stopId="02817" tag="2817" title="Lankershim / Hart"/>
+  <stop lat="34.17586" lon="-118.38136" stopId="02818" tag="2818" title="Lankershim / Hatteras"/>
+  <stop lat="34.19006" lon="-118.3878999" stopId="02822" tag="2822" title="Lankershim / Kittridge"/>
+  <stop lat="34.17914" lon="-118.38335" stopId="02827" tag="2827" title="Lankershim / Oxnard"/>
+  <stop lat="34.2058999" lon="-118.38793" stopId="02830" tag="2830" title="Lankershim / Runnymede"/>
+  <stop lat="34.2082" lon="-118.38793" stopId="02832" tag="2832" title="Lankershim / Saticoy"/>
+  <stop lat="34.1936699" lon="-118.38789" stopId="02837" tag="2837" title="Lankershim / Vanowen"/>
+  <stop lat="34.1868399" lon="-118.3879199" stopId="02838" tag="2838" title="Lankershim / Victory"/>
+  <stop lat="34.2009399" lon="-118.38793" stopId="02842" tag="2842" title="Lankershim / Sherman Way"/>
+  <stop lat="34.1827599" lon="-118.3855399" stopId="03620" tag="3620" title="Lankershim / Erwin"/>
+  <stop lat="34.2196699" lon="-118.59787" stopId="04531" tag="4531" title="Roscoe / Canoga"/>
+  <stop lat="34.2213399" lon="-118.46131" stopId="04533" tag="4533" title="Roscoe / Noble"/>
+  <stop lat="34.22155" lon="-118.4253299" stopId="04534" tag="4534" title="Roscoe / Sparton"/>
+  <stop lat="34.22155" lon="-118.4324199" stopId="04536" tag="4536" title="Roscoe / Woodman"/>
+  <stop lat="34.22154" lon="-118.41746" stopId="04537" tag="4537" title="Roscoe / Canterbury"/>
+  <stop lat="34.22154" lon="-118.4145799" stopId="04538" tag="4538" title="Roscoe / Coldwater Canyon"/>
+  <stop lat="34.22022" lon="-118.5624399" stopId="04539" tag="4539" title="Roscoe / Corbin"/>
+  <stop lat="34.21981" lon="-118.5886699" stopId="04540" tag="4540" title="Roscoe / De Soto"/>
+  <stop lat="34.2209399" lon="-118.51392" stopId="04541" tag="4541" title="Roscoe / Encino"/>
+  <stop lat="34.2206699" lon="-118.53189" stopId="04542" tag="4542" title="Roscoe / Etiwanda"/>
+  <stop lat="34.21947" lon="-118.6104899" stopId="04543" tag="4543" title="Roscoe / Farralone"/>
+  <stop lat="34.22126" lon="-118.4766199" stopId="04544" tag="4544" title="Roscoe / Haskell"/>
+  <stop lat="34.2211799" lon="-118.48923" stopId="04545" tag="4545" title="Roscoe / Gothic"/>
+  <stop lat="34.22116" lon="-118.49227" stopId="04547" tag="4547" title="Roscoe / Hayvenhurst"/>
+  <stop lat="34.2215" lon="-118.4405999" stopId="04548" tag="4548" title="Roscoe / Hazeltine"/>
+  <stop lat="34.21988" lon="-118.5843399" stopId="04549" tag="4549" title="Roscoe / Irondale"/>
+  <stop lat="34.2215199" lon="-118.39667" stopId="04550" tag="4550" title="Roscoe / Laurel Canyon"/>
+  <stop lat="34.2207499" lon="-118.52702" stopId="04554" tag="4554" title="Roscoe / Lindley"/>
+  <stop lat="34.2209999" lon="-118.50954" stopId="04555" tag="4555" title="Roscoe / Louise"/>
+  <stop lat="34.2199499" lon="-118.57993" stopId="04556" tag="4556" title="Roscoe / Mason"/>
+  <stop lat="34.2215499" lon="-118.4223699" stopId="04557" tag="4557" title="Roscoe / Nagle"/>
+  <stop lat="34.22015" lon="-118.5668299" stopId="04559" tag="4559" title="Roscoe / Oakdale"/>
+  <stop lat="34.22001" lon="-118.5755699" stopId="04560" tag="4560" title="Roscoe / Oso"/>
+  <stop lat="34.21961" lon="-118.6017799" stopId="04561" tag="4561" title="Roscoe / Owensmouth"/>
+  <stop lat="34.2206099" lon="-118.53575" stopId="04564" tag="4564" title="Roscoe / Reseda"/>
+  <stop lat="34.2193299" lon="-118.61924" stopId="04565" tag="4565" title="Roscoe / Sale"/>
+  <stop lat="34.22127" lon="-118.4717399" stopId="04566" tag="4566" title="Roscoe / Orion"/>
+  <stop lat="34.2212899" lon="-118.46788" stopId="04567" tag="4567" title="Roscoe / Sepulveda"/>
+  <stop lat="34.2202899" lon="-118.5576" stopId="04568" tag="4568" title="Roscoe / Shirley"/>
+  <stop lat="34.2193999" lon="-118.61489" stopId="04569" tag="4569" title="Roscoe / Shoup"/>
+  <stop lat="34.2215299" lon="-118.3999599" stopId="04570" tag="4570" title="Roscoe / St Clair"/>
+  <stop lat="34.2203599" lon="-118.55323" stopId="04571" tag="4571" title="Roscoe / Tampa"/>
+  <stop lat="34.2213899" lon="-118.45181" stopId="04572" tag="4572" title="Roscoe / Tobias"/>
+  <stop lat="34.2195399" lon="-118.60566" stopId="04573" tag="4573" title="Roscoe / Topanga Canyon"/>
+  <stop lat="34.2214199" lon="-118.44842" stopId="04575" tag="4575" title="Roscoe / Van Nuys"/>
+  <stop lat="34.2204199" lon="-118.54884" stopId="04576" tag="4576" title="Roscoe / Vanalden"/>
+  <stop lat="34.21974" lon="-118.5930299" stopId="04577" tag="4577" title="Roscoe / Variel"/>
+  <stop lat="34.22155" lon="-118.4289999" stopId="04578" tag="4578" title="Roscoe / Ventura Canyon"/>
+  <stop lat="34.2215" lon="-118.4435699" stopId="04579" tag="4579" title="Roscoe / Wakefield"/>
+  <stop lat="34.2208699" lon="-118.51878" stopId="04581" tag="4581" title="Roscoe / White Oak"/>
+  <stop lat="34.22154" lon="-118.4049199" stopId="04583" tag="4583" title="Roscoe / Whitsett"/>
+  <stop lat="34.22048" lon="-118.5449899" stopId="04584" tag="4584" title="Roscoe / Wilbur"/>
+  <stop lat="34.22138" lon="-118.4554499" stopId="04585" tag="4585" title="Roscoe / Willis"/>
+  <stop lat="34.2210499" lon="-118.50569" stopId="04586" tag="4586" title="Roscoe / Amestoy"/>
+  <stop lat="34.2200899" lon="-118.5707" stopId="04587" tag="4587" title="Roscoe / Winnetka"/>
+  <stop lat="34.2212199" lon="-118.48334" stopId="04588" tag="4588" title="Roscoe / Woodley"/>
+  <stop lat="34.22055" lon="-118.5406099" stopId="04590" tag="4590" title="Roscoe / Yolanda"/>
+  <stop lat="34.2207999" lon="-118.52315" stopId="04591" tag="4591" title="Roscoe / Zelzah"/>
+  <stop lat="34.2215199" lon="-118.43647" stopId="04763" tag="4763" title="Roscoe / Ranchito"/>
+  <stop lat="34.20081" lon="-118.62793" stopId="06223" tag="6223" title="Sherman Way / Royer"/>
+  <stop lat="34.21183" lon="-118.3879299" stopId="11323" tag="11323" title="Lankershim / Stagg"/>
+  <stop lat="34.2154599" lon="-118.3879499" stopId="11324" tag="11324" title="Lankershim / Strathern"/>
+  <stop lat="34.2025099" lon="-118.62956" stopId="11681" tag="11681" title="West Hills Medical Center"/>
+  <stop lat="34.2212299" lon="-118.48046" stopId="13006" tag="13006" title="Roscoe / Gloria"/>
+  <stop lat="34.2210899" lon="-118.50233" stopId="19061" tag="19061" title="Roscoe / Balboa"/>
+  <stop lat="34.20189" lon="-118.6295899" stopId="24247" tag="24247" title="Medical Center Dr / Community Medical Ce"/>
+  <stop lat="34.1688299" lon="-118.37529" tag="30001_ar" title="North Hollywood Station"/>
+  <stop lat="34.2119699" lon="-118.38763" stopId="02834" tag="2834" title="Lankershim / Stagg"/>
+  <stop lat="34.2156" lon="-118.38764" stopId="02835" tag="2835" title="Lankershim / Strathern"/>
+  <stop lat="34.2208499" lon="-118.53641" stopId="04563" tag="4563" title="Roscoe / Reseda"/>
+  <stop lat="34.2116099" lon="-118.6235899" stopId="10414" tag="10414" title="Fallbrook / Ingomar"/>
+  <stop lat="34.2191099" lon="-118.6236199" stopId="10418" tag="10418" title="Fallbrook / Roscoe"/>
+  <stop lat="34.20474" lon="-118.62357" stopId="10419" tag="10419" title="Fallbrook / Runnymede"/>
+  <stop lat="34.20799" lon="-118.6235799" stopId="10420" tag="10420" title="Fallbrook / Saticoy"/>
+  <stop lat="34.2156399" lon="-118.6235999" stopId="10422" tag="10422" title="Fallbrook / Strathern"/>
+  <stop lat="34.2217899" lon="-118.40289" stopId="10634" tag="10634" title="Roscoe / Peoria"/>
+  <stop lat="34.1719799" lon="-118.37868" stopId="11300" tag="11300" title="Lankershim / Burbank"/>
+  <stop lat="34.1775399" lon="-118.3820499" stopId="11301" tag="11301" title="Lankershim / Califa"/>
+  <stop lat="34.17968" lon="-118.38334" stopId="11304" tag="11304" title="Lankershim / Oxnard"/>
+  <stop lat="34.19776" lon="-118.3876" stopId="11305" tag="11305" title="Lankershim / Hart"/>
+  <stop lat="34.17573" lon="-118.38094" stopId="11306" tag="11306" title="Lankershim / Hatteras"/>
+  <stop lat="34.19019" lon="-118.38759" stopId="11309" tag="11309" title="Lankershim / Kittridge"/>
+  <stop lat="34.20562" lon="-118.38762" stopId="11318" tag="11318" title="Lankershim / Runnymede"/>
+  <stop lat="34.20834" lon="-118.38763" stopId="11321" tag="11321" title="Lankershim / Saticoy"/>
+  <stop lat="34.2010799" lon="-118.38763" stopId="11322" tag="11322" title="Lankershim / Sherman Way"/>
+  <stop lat="34.2224399" lon="-118.38812" stopId="11326" tag="11326" title="Tuxford / Lankershim"/>
+  <stop lat="34.1942199" lon="-118.38759" stopId="11328" tag="11328" title="Lankershim / Vanowen"/>
+  <stop lat="34.18696" lon="-118.3876" stopId="11329" tag="11329" title="Lankershim / Victory"/>
+  <stop lat="34.2025099" lon="-118.62956" tag="11681_ar" title="West Hills Medical Center"/>
+  <stop lat="34.2199199" lon="-118.59821" stopId="12989" tag="12989" title="Roscoe / Canoga"/>
+  <stop lat="34.2218" lon="-118.42499" stopId="12990" tag="12990" title="Roscoe / Sparton"/>
+  <stop lat="34.22148" lon="-118.4806199" stopId="12991" tag="12991" title="Roscoe / Gloria"/>
+  <stop lat="34.22143" lon="-118.4898999" stopId="12992" tag="12992" title="Roscoe / Gothic"/>
+  <stop lat="34.22151" lon="-118.4762899" stopId="12993" tag="12993" title="Roscoe / Haskell"/>
+  <stop lat="34.2213999" lon="-118.49246" stopId="12994" tag="12994" title="Roscoe / Hayvenhurst"/>
+  <stop lat="34.2201399" lon="-118.58401" stopId="12995" tag="12995" title="Roscoe / Lurline"/>
+  <stop lat="34.22179" lon="-118.4050799" stopId="12998" tag="12998" title="Roscoe / Arleta"/>
+  <stop lat="34.2217999" lon="-118.43309" stopId="12999" tag="12999" title="Roscoe / Woodman"/>
+  <stop lat="34.2218" lon="-118.41713" stopId="13000" tag="13000" title="Roscoe / Canterbury"/>
+  <stop lat="34.22047" lon="-118.5621199" stopId="13001" tag="13001" title="Roscoe / Corbin"/>
+  <stop lat="34.2200599" lon="-118.58884" stopId="13002" tag="13002" title="Roscoe / De Soto"/>
+  <stop lat="34.2211799" lon="-118.51459" stopId="13003" tag="13003" title="Roscoe / Encino"/>
+  <stop lat="34.22093" lon="-118.5315699" stopId="13004" tag="13004" title="Roscoe / Etiwanda"/>
+  <stop lat="34.21973" lon="-118.6102199" stopId="13005" tag="13005" title="Roscoe / Farralone"/>
+  <stop lat="34.22176" lon="-118.4402699" stopId="13007" tag="13007" title="Roscoe / Hazeltine"/>
+  <stop lat="34.2217799" lon="-118.39684" stopId="13009" tag="13009" title="Roscoe / Laurel Canyon"/>
+  <stop lat="34.2209999" lon="-118.52719" stopId="13010" tag="13010" title="Roscoe / Lindley"/>
+  <stop lat="34.22124" lon="-118.5102099" stopId="13011" tag="13011" title="Roscoe / Louise"/>
+  <stop lat="34.2202" lon="-118.5801099" stopId="13012" tag="13012" title="Roscoe / Mason"/>
+  <stop lat="34.2218" lon="-118.4220399" stopId="13013" tag="13013" title="Roscoe / Nagle"/>
+  <stop lat="34.2215899" lon="-118.46168" stopId="13014" tag="13014" title="Roscoe / Noble"/>
+  <stop lat="34.2204" lon="-118.5669999" stopId="13015" tag="13015" title="Roscoe / Oakdale"/>
+  <stop lat="34.2202799" lon="-118.57525" stopId="13016" tag="13016" title="Roscoe / Oso"/>
+  <stop lat="34.21986" lon="-118.6019499" stopId="13017" tag="13017" title="Roscoe / Owensmouth"/>
+  <stop lat="34.2217699" lon="-118.43697" stopId="13018" tag="13018" title="Roscoe / Ranchito"/>
+  <stop lat="34.2195799" lon="-118.61941" stopId="13020" tag="13020" title="Roscoe / Sale"/>
+  <stop lat="34.2215199" lon="-118.4733" stopId="13021" tag="13021" title="Roscoe / San Diego Fwy"/>
+  <stop lat="34.22154" lon="-118.4680399" stopId="13022" tag="13022" title="Roscoe / Sepulveda"/>
+  <stop lat="34.22178" lon="-118.39963" stopId="13023" tag="13023" title="Roscoe / Sharp"/>
+  <stop lat="34.2217999" lon="-118.4147099" stopId="13024" tag="13024" title="Roscoe / Coldwater Canyon"/>
+  <stop lat="34.2205299" lon="-118.55827" stopId="13025" tag="13025" title="Roscoe / Shirley"/>
+  <stop lat="34.21966" lon="-118.6145599" stopId="13026" tag="13026" title="Roscoe / Shoup"/>
+  <stop lat="34.2205999" lon="-118.5539" stopId="13027" tag="13027" title="Roscoe / Tampa"/>
+  <stop lat="34.2216399" lon="-118.45197" stopId="13028" tag="13028" title="Roscoe / Tobias"/>
+  <stop lat="34.2216699" lon="-118.44908" stopId="13032" tag="13032" title="Roscoe / Van Nuys"/>
+  <stop lat="34.2206699" lon="-118.54902" stopId="13034" tag="13034" title="Roscoe / Vanalden"/>
+  <stop lat="34.22" lon="-118.5927099" stopId="13035" tag="13035" title="Roscoe / Variel"/>
+  <stop lat="34.2218" lon="-118.4286099" stopId="13036" tag="13036" title="Roscoe / Ventura Canyon"/>
+  <stop lat="34.22175" lon="-118.4432399" stopId="13037" tag="13037" title="Roscoe / Wakefield"/>
+  <stop lat="34.2217599" lon="-118.3928399" stopId="13038" tag="13038" title="Roscoe / Webb"/>
+  <stop lat="34.2211199" lon="-118.51895" stopId="13039" tag="13039" title="Roscoe / White Oak"/>
+  <stop lat="34.2207299" lon="-118.54517" stopId="13041" tag="13041" title="Roscoe / Wilbur"/>
+  <stop lat="34.22163" lon="-118.4551199" stopId="13042" tag="13042" title="Roscoe / Willis"/>
+  <stop lat="34.2203299" lon="-118.57137" stopId="13043" tag="13043" title="Roscoe / Winnetka"/>
+  <stop lat="34.2213" lon="-118.5053599" stopId="13044" tag="13044" title="Roscoe / Amestoy"/>
+  <stop lat="34.2214499" lon="-118.48338" stopId="13045" tag="13045" title="Roscoe / Woodley"/>
+  <stop lat="34.2207999" lon="-118.54029" stopId="13046" tag="13046" title="Roscoe / Yolanda"/>
+  <stop lat="34.22106" lon="-118.5228299" stopId="13047" tag="13047" title="Roscoe / Zelzah"/>
+  <stop lat="34.2010699" lon="-118.62992" stopId="14562" tag="14562" title="Sherman / Medical Center"/>
+  <stop lat="34.2011199" lon="-118.6237299" stopId="14584" tag="14584" title="Sherman Way / Fallbrook"/>
+  <stop lat="34.2010299" lon="-118.6281499" stopId="14603" tag="14603" title="Sherman Way / Royer"/>
+  <stop lat="34.2213399" lon="-118.50251" stopId="19092" tag="19092" title="Roscoe / Balboa"/>
+  <stop lat="34.2197899" lon="-118.60633" stopId="19093" tag="19093" title="Roscoe / Topanga Canyon"/>
+  <stop lat="34.16873" lon="-118.37673" stopId="20002" tag="20002" title="Lankershim / Chandler"/>
+  <stop lat="34.18287" lon="-118.38526" stopId="20345" tag="20345" title="Lankershim / Erwin"/>
+  <stop lat="34.1688299" lon="-118.37529" stopId="30001" tag="30001" title="North Hollywood Station"/>
+  <direction name="East" tag="152_164_0" title="East to North Hollywood Station" useForUI="true">
+   <stop tag="11681"/>
+   <stop tag="24247"/>
+   <stop tag="6223"/>
+   <stop tag="1872"/>
+   <stop tag="1870"/>
+   <stop tag="1871"/>
+   <stop tag="1865"/>
+   <stop tag="1873"/>
+   <stop tag="1869"/>
+   <stop tag="4565"/>
+   <stop tag="4569"/>
+   <stop tag="4543"/>
+   <stop tag="4573"/>
+   <stop tag="4561"/>
+   <stop tag="4531"/>
+   <stop tag="4577"/>
+   <stop tag="4540"/>
+   <stop tag="4549"/>
+   <stop tag="4556"/>
+   <stop tag="4560"/>
+   <stop tag="4587"/>
+   <stop tag="4559"/>
+   <stop tag="4539"/>
+   <stop tag="4568"/>
+   <stop tag="4571"/>
+   <stop tag="4576"/>
+   <stop tag="4584"/>
+   <stop tag="4590"/>
+   <stop tag="4564"/>
+   <stop tag="4542"/>
+   <stop tag="4554"/>
+   <stop tag="4591"/>
+   <stop tag="4581"/>
+   <stop tag="4541"/>
+   <stop tag="4555"/>
+   <stop tag="4586"/>
+   <stop tag="19061"/>
+   <stop tag="4547"/>
+   <stop tag="4545"/>
+   <stop tag="4588"/>
+   <stop tag="13006"/>
+   <stop tag="4544"/>
+   <stop tag="4566"/>
+   <stop tag="4567"/>
+   <stop tag="4533"/>
+   <stop tag="4585"/>
+   <stop tag="4572"/>
+   <stop tag="4575"/>
+   <stop tag="4579"/>
+   <stop tag="4548"/>
+   <stop tag="4763"/>
+   <stop tag="4536"/>
+   <stop tag="4578"/>
+   <stop tag="4534"/>
+   <stop tag="4557"/>
+   <stop tag="4537"/>
+   <stop tag="4538"/>
+   <stop tag="4583"/>
+   <stop tag="2086"/>
+   <stop tag="4570"/>
+   <stop tag="4550"/>
+   <stop tag="11324"/>
+   <stop tag="11323"/>
+   <stop tag="2832"/>
+   <stop tag="2830"/>
+   <stop tag="2842"/>
+   <stop tag="2817"/>
+   <stop tag="2837"/>
+   <stop tag="2822"/>
+   <stop tag="2838"/>
+   <stop tag="3620"/>
+   <stop tag="2827"/>
+   <stop tag="2812"/>
+   <stop tag="2818"/>
+   <stop tag="2811"/>
+   <stop tag="30001_ar"/>
+  </direction>
+  <direction name="West" tag="152_163_1" title="West to West Hills Medical Ctr" useForUI="true">
+   <stop tag="30001"/>
+   <stop tag="20002"/>
+   <stop tag="11300"/>
+   <stop tag="11306"/>
+   <stop tag="11301"/>
+   <stop tag="11304"/>
+   <stop tag="20345"/>
+   <stop tag="11329"/>
+   <stop tag="11309"/>
+   <stop tag="11328"/>
+   <stop tag="11305"/>
+   <stop tag="11322"/>
+   <stop tag="11318"/>
+   <stop tag="11321"/>
+   <stop tag="2834"/>
+   <stop tag="2835"/>
+   <stop tag="11326"/>
+   <stop tag="13038"/>
+   <stop tag="13009"/>
+   <stop tag="13023"/>
+   <stop tag="10634"/>
+   <stop tag="12998"/>
+   <stop tag="13024"/>
+   <stop tag="13000"/>
+   <stop tag="13013"/>
+   <stop tag="12990"/>
+   <stop tag="13036"/>
+   <stop tag="12999"/>
+   <stop tag="13018"/>
+   <stop tag="13007"/>
+   <stop tag="13037"/>
+   <stop tag="13032"/>
+   <stop tag="13028"/>
+   <stop tag="13042"/>
+   <stop tag="13014"/>
+   <stop tag="13022"/>
+   <stop tag="13021"/>
+   <stop tag="12993"/>
+   <stop tag="12991"/>
+   <stop tag="13045"/>
+   <stop tag="12992"/>
+   <stop tag="12994"/>
+   <stop tag="19092"/>
+   <stop tag="13044"/>
+   <stop tag="13011"/>
+   <stop tag="13003"/>
+   <stop tag="13039"/>
+   <stop tag="13047"/>
+   <stop tag="13010"/>
+   <stop tag="13004"/>
+   <stop tag="4563"/>
+   <stop tag="13046"/>
+   <stop tag="13041"/>
+   <stop tag="13034"/>
+   <stop tag="13027"/>
+   <stop tag="13025"/>
+   <stop tag="13001"/>
+   <stop tag="13015"/>
+   <stop tag="13043"/>
+   <stop tag="13016"/>
+   <stop tag="13012"/>
+   <stop tag="12995"/>
+   <stop tag="13002"/>
+   <stop tag="13035"/>
+   <stop tag="12989"/>
+   <stop tag="13017"/>
+   <stop tag="19093"/>
+   <stop tag="13005"/>
+   <stop tag="13026"/>
+   <stop tag="13020"/>
+   <stop tag="10418"/>
+   <stop tag="10422"/>
+   <stop tag="10414"/>
+   <stop tag="10420"/>
+   <stop tag="10419"/>
+   <stop tag="14584"/>
+   <stop tag="14603"/>
+   <stop tag="14562"/>
+   <stop tag="11681_ar"/>
+  </direction>
+  <path>
+   <point lat="34.17232" lon="-118.37922"/>
+   <point lat="34.17106" lon="-118.37831"/>
+   <point lat="34.17001" lon="-118.37768"/>
+   <point lat="34.17001" lon="-118.37626"/>
+   <point lat="34.17001" lon="-118.37422"/>
+   <point lat="34.16902" lon="-118.37422"/>
+   <point lat="34.16901" lon="-118.37441"/>
+   <point lat="34.16901" lon="-118.37588"/>
+   <point lat="34.16899" lon="-118.37593"/>
+   <point lat="34.16893" lon="-118.37595"/>
+   <point lat="34.1688199" lon="-118.37596"/>
+   <point lat="34.16877" lon="-118.37594"/>
+   <point lat="34.16869" lon="-118.37589"/>
+   <point lat="34.16866" lon="-118.37584"/>
+   <point lat="34.16883" lon="-118.37529"/>
+  </path>
+  <path>
+   <point lat="34.22085" lon="-118.53641"/>
+   <point lat="34.2207999" lon="-118.54029"/>
+   <point lat="34.22073" lon="-118.54517"/>
+   <point lat="34.22067" lon="-118.54902"/>
+   <point lat="34.2206" lon="-118.5539"/>
+   <point lat="34.2205299" lon="-118.55827"/>
+   <point lat="34.22047" lon="-118.56212"/>
+   <point lat="34.2204" lon="-118.567"/>
+   <point lat="34.22033" lon="-118.57137"/>
+   <point lat="34.22028" lon="-118.57525"/>
+   <point lat="34.2202" lon="-118.58011"/>
+   <point lat="34.22014" lon="-118.58401"/>
+   <point lat="34.2200599" lon="-118.58884"/>
+   <point lat="34.22" lon="-118.59271"/>
+   <point lat="34.21992" lon="-118.59821"/>
+  </path>
+  <path>
+   <point lat="34.20094" lon="-118.38793"/>
+   <point lat="34.1977199" lon="-118.3879"/>
+   <point lat="34.19367" lon="-118.38789"/>
+   <point lat="34.19006" lon="-118.3879"/>
+   <point lat="34.18856" lon="-118.38775"/>
+   <point lat="34.1868399" lon="-118.38792"/>
+   <point lat="34.18644" lon="-118.38758"/>
+   <point lat="34.18276" lon="-118.38554"/>
+   <point lat="34.1791399" lon="-118.38335"/>
+   <point lat="34.17767" lon="-118.38247"/>
+   <point lat="34.17586" lon="-118.38136"/>
+   <point lat="34.17232" lon="-118.37922"/>
+  </path>
+  <path>
+   <point lat="34.22167" lon="-118.44908"/>
+   <point lat="34.22164" lon="-118.45197"/>
+   <point lat="34.22163" lon="-118.45512"/>
+   <point lat="34.22159" lon="-118.46168"/>
+   <point lat="34.22154" lon="-118.46804"/>
+   <point lat="34.22152" lon="-118.4733"/>
+   <point lat="34.22151" lon="-118.47629"/>
+   <point lat="34.22148" lon="-118.48062"/>
+   <point lat="34.22145" lon="-118.48338"/>
+   <point lat="34.22143" lon="-118.4899"/>
+   <point lat="34.2214" lon="-118.49246"/>
+   <point lat="34.22121" lon="-118.49308"/>
+   <point lat="34.22101" lon="-118.49361"/>
+   <point lat="34.22079" lon="-118.49406"/>
+   <point lat="34.22067" lon="-118.49429"/>
+   <point lat="34.22044" lon="-118.49464"/>
+   <point lat="34.22036" lon="-118.49478"/>
+   <point lat="34.22031" lon="-118.49491"/>
+   <point lat="34.22018" lon="-118.4953"/>
+   <point lat="34.22016" lon="-118.49544"/>
+   <point lat="34.22014" lon="-118.49556"/>
+   <point lat="34.22013" lon="-118.49573"/>
+   <point lat="34.22014" lon="-118.49588"/>
+   <point lat="34.2201499" lon="-118.49609"/>
+   <point lat="34.22018" lon="-118.49631"/>
+   <point lat="34.2202399" lon="-118.49655"/>
+   <point lat="34.22078" lon="-118.49931"/>
+   <point lat="34.22082" lon="-118.49949"/>
+   <point lat="34.22086" lon="-118.4997"/>
+   <point lat="34.22102" lon="-118.50026"/>
+   <point lat="34.22116" lon="-118.5009"/>
+   <point lat="34.22134" lon="-118.50251"/>
+  </path>
+  <path>
+   <point lat="34.22152" lon="-118.39667"/>
+   <point lat="34.22073" lon="-118.3965"/>
+   <point lat="34.21575" lon="-118.3965"/>
+   <point lat="34.2157399" lon="-118.3878"/>
+   <point lat="34.21546" lon="-118.38795"/>
+   <point lat="34.21391" lon="-118.38778"/>
+   <point lat="34.21183" lon="-118.38793"/>
+   <point lat="34.2082" lon="-118.38793"/>
+   <point lat="34.2059" lon="-118.38793"/>
+   <point lat="34.20094" lon="-118.38793"/>
+  </path>
+  <path>
+   <point lat="34.16883" lon="-118.37529"/>
+   <point lat="34.16867" lon="-118.37453"/>
+   <point lat="34.16868" lon="-118.37448"/>
+   <point lat="34.16874" lon="-118.37441"/>
+   <point lat="34.16871" lon="-118.37423"/>
+   <point lat="34.16813" lon="-118.37423"/>
+   <point lat="34.16812" lon="-118.37501"/>
+   <point lat="34.16813" lon="-118.37654"/>
+   <point lat="34.1687299" lon="-118.37673"/>
+   <point lat="34.17001" lon="-118.37768"/>
+   <point lat="34.17198" lon="-118.37868"/>
+  </path>
+  <path>
+   <point lat="34.22067" lon="-118.54902"/>
+   <point lat="34.2206" lon="-118.5539"/>
+   <point lat="34.2205299" lon="-118.55827"/>
+   <point lat="34.22047" lon="-118.56212"/>
+   <point lat="34.2204" lon="-118.567"/>
+   <point lat="34.22033" lon="-118.57137"/>
+   <point lat="34.22028" lon="-118.57525"/>
+   <point lat="34.2202" lon="-118.58011"/>
+   <point lat="34.22014" lon="-118.58401"/>
+   <point lat="34.2200599" lon="-118.58884"/>
+   <point lat="34.22" lon="-118.59271"/>
+   <point lat="34.21992" lon="-118.59821"/>
+  </path>
+  <path>
+   <point lat="34.21979" lon="-118.60633"/>
+   <point lat="34.21973" lon="-118.61022"/>
+   <point lat="34.21966" lon="-118.61456"/>
+   <point lat="34.21958" lon="-118.61941"/>
+   <point lat="34.21939" lon="-118.62348"/>
+   <point lat="34.21911" lon="-118.62362"/>
+   <point lat="34.21564" lon="-118.6236"/>
+   <point lat="34.21161" lon="-118.62359"/>
+   <point lat="34.20837" lon="-118.62343"/>
+   <point lat="34.20799" lon="-118.62358"/>
+   <point lat="34.20474" lon="-118.62357"/>
+   <point lat="34.20099" lon="-118.62339"/>
+   <point lat="34.20112" lon="-118.62373"/>
+   <point lat="34.20099" lon="-118.62501"/>
+   <point lat="34.20103" lon="-118.62815"/>
+   <point lat="34.20068" lon="-118.62884"/>
+   <point lat="34.20056" lon="-118.62907"/>
+   <point lat="34.20069" lon="-118.62922"/>
+   <point lat="34.20075" lon="-118.62928"/>
+   <point lat="34.20091" lon="-118.62941"/>
+   <point lat="34.20107" lon="-118.62992"/>
+   <point lat="34.20096" lon="-118.63086"/>
+   <point lat="34.20095" lon="-118.63096"/>
+   <point lat="34.20099" lon="-118.63108"/>
+   <point lat="34.20105" lon="-118.63115"/>
+   <point lat="34.20108" lon="-118.63117"/>
+   <point lat="34.20141" lon="-118.63135"/>
+   <point lat="34.2015" lon="-118.63138"/>
+   <point lat="34.20162" lon="-118.63143"/>
+   <point lat="34.20174" lon="-118.63151"/>
+   <point lat="34.20184" lon="-118.6316"/>
+   <point lat="34.20209" lon="-118.63181"/>
+   <point lat="34.20216" lon="-118.63188"/>
+   <point lat="34.2022" lon="-118.63196"/>
+   <point lat="34.20223" lon="-118.63201"/>
+   <point lat="34.20227" lon="-118.63217"/>
+   <point lat="34.20239" lon="-118.63215"/>
+   <point lat="34.20259" lon="-118.63214"/>
+   <point lat="34.20296" lon="-118.63213"/>
+   <point lat="34.20337" lon="-118.63213"/>
+   <point lat="34.20373" lon="-118.63214"/>
+   <point lat="34.2037199" lon="-118.63183"/>
+   <point lat="34.20373" lon="-118.63103"/>
+   <point lat="34.2037199" lon="-118.6307"/>
+   <point lat="34.2037199" lon="-118.63035"/>
+   <point lat="34.20374" lon="-118.62998"/>
+   <point lat="34.20374" lon="-118.62979"/>
+   <point lat="34.2037199" lon="-118.62964"/>
+   <point lat="34.2037" lon="-118.62955"/>
+   <point lat="34.20368" lon="-118.62951"/>
+   <point lat="34.2036299" lon="-118.62946"/>
+   <point lat="34.20358" lon="-118.62944"/>
+   <point lat="34.20348" lon="-118.62942"/>
+   <point lat="34.20339" lon="-118.62941"/>
+   <point lat="34.20311" lon="-118.62944"/>
+   <point lat="34.2025099" lon="-118.62956"/>
+  </path>
+  <path>
+   <point lat="34.22154" lon="-118.40492"/>
+   <point lat="34.22154" lon="-118.40272"/>
+   <point lat="34.22153" lon="-118.39996"/>
+   <point lat="34.22152" lon="-118.39667"/>
+  </path>
+  <path>
+   <point lat="34.22178" lon="-118.39684"/>
+   <point lat="34.22178" lon="-118.39963"/>
+   <point lat="34.22179" lon="-118.40289"/>
+   <point lat="34.22179" lon="-118.40508"/>
+   <point lat="34.22168" lon="-118.41085"/>
+   <point lat="34.2218" lon="-118.41471"/>
+   <point lat="34.2218" lon="-118.41713"/>
+   <point lat="34.2218" lon="-118.42204"/>
+   <point lat="34.2218" lon="-118.42499"/>
+   <point lat="34.2218" lon="-118.42861"/>
+   <point lat="34.2218" lon="-118.43309"/>
+   <point lat="34.22177" lon="-118.43697"/>
+   <point lat="34.22176" lon="-118.44027"/>
+   <point lat="34.22175" lon="-118.44324"/>
+   <point lat="34.22158" lon="-118.44764"/>
+   <point lat="34.22167" lon="-118.44908"/>
+  </path>
+  <path>
+   <point lat="34.22142" lon="-118.44842"/>
+   <point lat="34.22158" lon="-118.44764"/>
+   <point lat="34.2215" lon="-118.44357"/>
+   <point lat="34.2215" lon="-118.4406"/>
+   <point lat="34.22152" lon="-118.43647"/>
+   <point lat="34.22155" lon="-118.43242"/>
+   <point lat="34.22155" lon="-118.429"/>
+   <point lat="34.22155" lon="-118.42533"/>
+   <point lat="34.22155" lon="-118.42237"/>
+   <point lat="34.22154" lon="-118.41746"/>
+   <point lat="34.22154" lon="-118.41458"/>
+   <point lat="34.22167" lon="-118.41097"/>
+   <point lat="34.22168" lon="-118.41085"/>
+   <point lat="34.22154" lon="-118.40492"/>
+   <point lat="34.22154" lon="-118.40272"/>
+   <point lat="34.22153" lon="-118.39996"/>
+   <point lat="34.22152" lon="-118.39667"/>
+  </path>
+  <path>
+   <point lat="34.2025099" lon="-118.62956"/>
+   <point lat="34.20189" lon="-118.62959"/>
+   <point lat="34.2014" lon="-118.62946"/>
+   <point lat="34.20112" lon="-118.62947"/>
+   <point lat="34.20099" lon="-118.62945"/>
+   <point lat="34.20091" lon="-118.62941"/>
+   <point lat="34.20075" lon="-118.62928"/>
+   <point lat="34.20069" lon="-118.62922"/>
+   <point lat="34.2005399" lon="-118.62909"/>
+   <point lat="34.20068" lon="-118.62884"/>
+   <point lat="34.20084" lon="-118.62836"/>
+   <point lat="34.20081" lon="-118.62793"/>
+   <point lat="34.20099" lon="-118.62339"/>
+   <point lat="34.20127" lon="-118.62325"/>
+   <point lat="34.20529" lon="-118.62327"/>
+   <point lat="34.20826" lon="-118.62342"/>
+   <point lat="34.20837" lon="-118.62343"/>
+   <point lat="34.20865" lon="-118.62328"/>
+   <point lat="34.21175" lon="-118.62328"/>
+   <point lat="34.2150899" lon="-118.62343"/>
+   <point lat="34.21578" lon="-118.62329"/>
+   <point lat="34.21926" lon="-118.62333"/>
+   <point lat="34.21933" lon="-118.61924"/>
+   <point lat="34.2194" lon="-118.61489"/>
+   <point lat="34.21947" lon="-118.61049"/>
+   <point lat="34.21954" lon="-118.60566"/>
+  </path>
+  <path>
+   <point lat="34.22179" lon="-118.40289"/>
+   <point lat="34.22179" lon="-118.40508"/>
+   <point lat="34.22168" lon="-118.41085"/>
+   <point lat="34.2218" lon="-118.41471"/>
+   <point lat="34.2218" lon="-118.41713"/>
+   <point lat="34.2218" lon="-118.42204"/>
+   <point lat="34.2218" lon="-118.42499"/>
+   <point lat="34.2218" lon="-118.42861"/>
+   <point lat="34.2218" lon="-118.43309"/>
+   <point lat="34.22177" lon="-118.43697"/>
+   <point lat="34.22176" lon="-118.44027"/>
+   <point lat="34.22175" lon="-118.44324"/>
+   <point lat="34.22158" lon="-118.44764"/>
+   <point lat="34.22167" lon="-118.44908"/>
+  </path>
+  <path>
+   <point lat="34.21992" lon="-118.59821"/>
+   <point lat="34.21986" lon="-118.60195"/>
+   <point lat="34.21979" lon="-118.60633"/>
+  </path>
+  <path>
+   <point lat="34.22061" lon="-118.53575"/>
+   <point lat="34.22067" lon="-118.53189"/>
+   <point lat="34.22075" lon="-118.52702"/>
+   <point lat="34.2207999" lon="-118.52315"/>
+   <point lat="34.22087" lon="-118.51878"/>
+   <point lat="34.22094" lon="-118.51392"/>
+   <point lat="34.2209999" lon="-118.50954"/>
+   <point lat="34.22105" lon="-118.50569"/>
+   <point lat="34.2210899" lon="-118.50233"/>
+  </path>
+  <path>
+   <point lat="34.22042" lon="-118.54884"/>
+   <point lat="34.22048" lon="-118.54499"/>
+   <point lat="34.22055" lon="-118.54061"/>
+   <point lat="34.22061" lon="-118.53575"/>
+  </path>
+  <path>
+   <point lat="34.2210899" lon="-118.50233"/>
+   <point lat="34.22116" lon="-118.5009"/>
+   <point lat="34.22102" lon="-118.50026"/>
+   <point lat="34.22086" lon="-118.4997"/>
+   <point lat="34.22082" lon="-118.49949"/>
+   <point lat="34.22078" lon="-118.49931"/>
+   <point lat="34.2202399" lon="-118.49655"/>
+   <point lat="34.22018" lon="-118.49631"/>
+   <point lat="34.2201499" lon="-118.49609"/>
+   <point lat="34.22014" lon="-118.49588"/>
+   <point lat="34.22013" lon="-118.49573"/>
+   <point lat="34.22014" lon="-118.49556"/>
+   <point lat="34.22016" lon="-118.49544"/>
+   <point lat="34.22018" lon="-118.4953"/>
+   <point lat="34.22031" lon="-118.49491"/>
+   <point lat="34.22036" lon="-118.49478"/>
+   <point lat="34.22044" lon="-118.49464"/>
+   <point lat="34.22067" lon="-118.49429"/>
+   <point lat="34.22079" lon="-118.49406"/>
+   <point lat="34.22101" lon="-118.49361"/>
+   <point lat="34.22121" lon="-118.49308"/>
+   <point lat="34.22116" lon="-118.49227"/>
+   <point lat="34.2211799" lon="-118.48923"/>
+   <point lat="34.22122" lon="-118.48334"/>
+   <point lat="34.22123" lon="-118.48046"/>
+   <point lat="34.22126" lon="-118.47662"/>
+   <point lat="34.2212699" lon="-118.47174"/>
+   <point lat="34.22129" lon="-118.46788"/>
+   <point lat="34.22134" lon="-118.46131"/>
+   <point lat="34.22138" lon="-118.45545"/>
+   <point lat="34.22139" lon="-118.45181"/>
+   <point lat="34.22142" lon="-118.44842"/>
+  </path>
+  <path>
+   <point lat="34.22134" lon="-118.50251"/>
+   <point lat="34.2213" lon="-118.50536"/>
+   <point lat="34.22124" lon="-118.51021"/>
+   <point lat="34.2211799" lon="-118.51459"/>
+   <point lat="34.22112" lon="-118.51895"/>
+   <point lat="34.22106" lon="-118.52283"/>
+   <point lat="34.2209999" lon="-118.52719"/>
+   <point lat="34.22093" lon="-118.53157"/>
+   <point lat="34.22085" lon="-118.53641"/>
+  </path>
+  <path>
+   <point lat="34.17198" lon="-118.37868"/>
+   <point lat="34.17573" lon="-118.38094"/>
+   <point lat="34.17754" lon="-118.38205"/>
+   <point lat="34.17968" lon="-118.38334"/>
+   <point lat="34.18287" lon="-118.38526"/>
+   <point lat="34.18644" lon="-118.38758"/>
+   <point lat="34.18696" lon="-118.3876"/>
+   <point lat="34.18856" lon="-118.38775"/>
+   <point lat="34.19019" lon="-118.38759"/>
+   <point lat="34.19422" lon="-118.38759"/>
+   <point lat="34.19776" lon="-118.3876"/>
+   <point lat="34.20108" lon="-118.38763"/>
+  </path>
+  <path>
+   <point lat="34.21954" lon="-118.60566"/>
+   <point lat="34.21961" lon="-118.60178"/>
+   <point lat="34.21967" lon="-118.59787"/>
+   <point lat="34.21974" lon="-118.59303"/>
+   <point lat="34.21981" lon="-118.58867"/>
+   <point lat="34.21988" lon="-118.58434"/>
+   <point lat="34.21995" lon="-118.57993"/>
+   <point lat="34.22001" lon="-118.57557"/>
+   <point lat="34.22009" lon="-118.5707"/>
+   <point lat="34.2201499" lon="-118.56683"/>
+   <point lat="34.22022" lon="-118.56244"/>
+   <point lat="34.22029" lon="-118.5576"/>
+   <point lat="34.22036" lon="-118.55323"/>
+   <point lat="34.22042" lon="-118.54884"/>
+  </path>
+  <path>
+   <point lat="34.21954" lon="-118.60566"/>
+   <point lat="34.21961" lon="-118.60178"/>
+   <point lat="34.21967" lon="-118.59787"/>
+  </path>
+  <path>
+   <point lat="34.21979" lon="-118.60633"/>
+   <point lat="34.21973" lon="-118.61022"/>
+   <point lat="34.21966" lon="-118.61456"/>
+   <point lat="34.21958" lon="-118.61941"/>
+   <point lat="34.21939" lon="-118.62348"/>
+   <point lat="34.21911" lon="-118.62362"/>
+   <point lat="34.21564" lon="-118.6236"/>
+   <point lat="34.2150899" lon="-118.62343"/>
+   <point lat="34.21161" lon="-118.62359"/>
+   <point lat="34.20837" lon="-118.62343"/>
+   <point lat="34.20826" lon="-118.62342"/>
+   <point lat="34.20799" lon="-118.62358"/>
+   <point lat="34.20474" lon="-118.62357"/>
+   <point lat="34.20099" lon="-118.62339"/>
+   <point lat="34.20112" lon="-118.62373"/>
+   <point lat="34.20099" lon="-118.62501"/>
+   <point lat="34.20103" lon="-118.62815"/>
+   <point lat="34.20068" lon="-118.62884"/>
+   <point lat="34.20056" lon="-118.62907"/>
+   <point lat="34.20069" lon="-118.62922"/>
+   <point lat="34.20075" lon="-118.62928"/>
+   <point lat="34.20091" lon="-118.62941"/>
+   <point lat="34.20107" lon="-118.62992"/>
+   <point lat="34.20096" lon="-118.63086"/>
+   <point lat="34.20095" lon="-118.63096"/>
+   <point lat="34.20099" lon="-118.63108"/>
+   <point lat="34.20105" lon="-118.63115"/>
+   <point lat="34.20108" lon="-118.63117"/>
+   <point lat="34.20141" lon="-118.63135"/>
+   <point lat="34.2015" lon="-118.63138"/>
+   <point lat="34.20162" lon="-118.63143"/>
+   <point lat="34.20174" lon="-118.63151"/>
+   <point lat="34.20184" lon="-118.6316"/>
+   <point lat="34.20209" lon="-118.63181"/>
+   <point lat="34.20216" lon="-118.63188"/>
+   <point lat="34.2022" lon="-118.63196"/>
+   <point lat="34.20223" lon="-118.63201"/>
+   <point lat="34.20227" lon="-118.63217"/>
+   <point lat="34.20239" lon="-118.63215"/>
+   <point lat="34.20259" lon="-118.63214"/>
+   <point lat="34.20296" lon="-118.63213"/>
+   <point lat="34.20337" lon="-118.63213"/>
+   <point lat="34.20373" lon="-118.63214"/>
+   <point lat="34.2037199" lon="-118.63183"/>
+   <point lat="34.20373" lon="-118.63103"/>
+   <point lat="34.2037199" lon="-118.6307"/>
+   <point lat="34.2037199" lon="-118.63035"/>
+   <point lat="34.20374" lon="-118.62998"/>
+   <point lat="34.20374" lon="-118.62979"/>
+   <point lat="34.2037199" lon="-118.62964"/>
+   <point lat="34.2037" lon="-118.62955"/>
+   <point lat="34.20368" lon="-118.62951"/>
+   <point lat="34.2036299" lon="-118.62946"/>
+   <point lat="34.20358" lon="-118.62944"/>
+   <point lat="34.20348" lon="-118.62942"/>
+   <point lat="34.20339" lon="-118.62941"/>
+   <point lat="34.20311" lon="-118.62944"/>
+   <point lat="34.2025099" lon="-118.62956"/>
+  </path>
+  <path>
+   <point lat="34.22154" lon="-118.40272"/>
+   <point lat="34.22153" lon="-118.39996"/>
+   <point lat="34.22152" lon="-118.39667"/>
+  </path>
+  <path>
+   <point lat="34.21967" lon="-118.59787"/>
+   <point lat="34.21974" lon="-118.59303"/>
+   <point lat="34.21981" lon="-118.58867"/>
+   <point lat="34.21988" lon="-118.58434"/>
+   <point lat="34.21995" lon="-118.57993"/>
+   <point lat="34.22001" lon="-118.57557"/>
+   <point lat="34.22009" lon="-118.5707"/>
+   <point lat="34.2201499" lon="-118.56683"/>
+   <point lat="34.22022" lon="-118.56244"/>
+   <point lat="34.22029" lon="-118.5576"/>
+   <point lat="34.22036" lon="-118.55323"/>
+   <point lat="34.22042" lon="-118.54884"/>
+   <point lat="34.22048" lon="-118.54499"/>
+   <point lat="34.22055" lon="-118.54061"/>
+   <point lat="34.22061" lon="-118.53575"/>
+  </path>
+  <path>
+   <point lat="34.20108" lon="-118.38763"/>
+   <point lat="34.20562" lon="-118.38762"/>
+   <point lat="34.20834" lon="-118.38763"/>
+   <point lat="34.21197" lon="-118.38763"/>
+   <point lat="34.2156" lon="-118.38764"/>
+   <point lat="34.22252" lon="-118.38777"/>
+   <point lat="34.22244" lon="-118.38812"/>
+   <point lat="34.22199" lon="-118.38852"/>
+   <point lat="34.22187" lon="-118.38874"/>
+   <point lat="34.22182" lon="-118.38887"/>
+   <point lat="34.22173" lon="-118.38912"/>
+   <point lat="34.22171" lon="-118.38921"/>
+   <point lat="34.22167" lon="-118.38937"/>
+   <point lat="34.2216499" lon="-118.38951"/>
+   <point lat="34.22162" lon="-118.38984"/>
+   <point lat="34.22176" lon="-118.39284"/>
+   <point lat="34.2216499" lon="-118.3948"/>
+   <point lat="34.22178" lon="-118.39684"/>
+  </path>
+ </route>
+</body>

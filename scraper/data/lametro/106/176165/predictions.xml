@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="176165" stopTitle="Town Center / Paramount">
+  <direction title="South to The Shops At Montebello">
+   <prediction block="1061000" dirTag="106_47_1" epochTime="1670559905197" isDeparture="false" minutes="23" seconds="1396" tripTag="54482917" vehicle="3940"/>
+   <prediction block="1060500" dirTag="106_47_1" epochTime="1670562622322" isDeparture="false" minutes="68" seconds="4113" tripTag="54482919" vehicle="4184"/>
+  </direction>
+ </predictions>
+</body>

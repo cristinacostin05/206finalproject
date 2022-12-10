@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="665" routeTitle="665 East LA-City Terrace-Cal State LA Tr" stopTag="9692" stopTitle="1st / Ditman">
+  <direction title="South to Indiana-Olympic">
+   <prediction block="6650100" dirTag="665_27_1" epochTime="1670559953467" isDeparture="false" minutes="5" seconds="353" tripTag="54683552" vehicle="1955"/>
+  </direction>
+ </predictions>
+</body>

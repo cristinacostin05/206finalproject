@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="2322" stopTitle="Harbor Transitway / Slauson">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_211_0" epochTime="1670560621855" isDeparture="false" isScheduleBased="true" minutes="12" seconds="723" tripTag="54545485" vehicle="virtualVehicle_9102202"/>
+   <prediction affectedByLayover="true" block="9102602" dirTag="910_211_0" epochTime="1670563749706" isDeparture="false" minutes="64" seconds="3851" tripTag="54545484" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_211_0" epochTime="1670564221855" isDeparture="false" isScheduleBased="true" minutes="72" seconds="4323" tripTag="54545505" vehicle="virtualVehicle_9101302"/>
+  </direction>
+ </predictions>
+</body>

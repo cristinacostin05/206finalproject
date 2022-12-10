@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="14618" stopTitle="Sherman Way / Vineland">
+  <direction title="West to Woodland Hills">
+   <prediction affectedByLayover="true" block="1625100" dirTag="162_1_1" epochTime="1670560906672" isDeparture="false" minutes="35" seconds="2135" tripTag="54421612" vehicle="3973"/>
+   <prediction affectedByLayover="true" block="1620400" dirTag="162_1_1" epochTime="1670563366672" isDeparture="false" minutes="76" seconds="4595" tripTag="54421614" vehicle="4109"/>
+  </direction>
+ </predictions>
+</body>

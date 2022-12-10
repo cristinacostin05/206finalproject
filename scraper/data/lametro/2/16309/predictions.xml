@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="2" routeTitle="2 Westwood - Exposition Park Via Sunse" stopTag="16309" stopTitle="Sunset / Hyperion">
+  <direction title="West to Westwood/U C L A">
+   <prediction affectedByLayover="true" block="0021400" dirTag="2_1124_1" epochTime="1670561434204" isDeparture="false" isScheduleBased="true" minutes="39" seconds="2370" tripTag="54528462" vehicle="virtualVehicle_0021400"/>
+   <prediction affectedByLayover="true" block="0029702" dirTag="2_1124_1" epochTime="1670562413673" isDeparture="false" minutes="55" seconds="3350" tripTag="54528463" vehicle="8523"/>
+   <prediction affectedByLayover="true" block="0022302" dirTag="2_1124_1" epochTime="1670564014204" isDeparture="false" isScheduleBased="true" minutes="82" seconds="4950" tripTag="54528464" vehicle="virtualVehicle_0022302"/>
+  </direction>
+ </predictions>
+</body>

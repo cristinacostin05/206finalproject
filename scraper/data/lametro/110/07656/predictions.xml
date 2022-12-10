@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="7656" stopTitle="Gage / Budlong">
+  <direction title="East to Bell Gardens">
+   <prediction affectedByLayover="true" block="1101500" dirTag="110_272_0" epochTime="1670558002208" isDeparture="false" isScheduleBased="true" minutes="2" seconds="162" tripTag="54518506" vehicle="virtualVehicle_1101500"/>
+   <prediction affectedByLayover="true" block="1100700" dirTag="110_272_0" epochTime="1670563619709" isDeparture="false" minutes="96" seconds="5779" tripTag="54518509" vehicle="5769"/>
+  </direction>
+ </predictions>
+</body>

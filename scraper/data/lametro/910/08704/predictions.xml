@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="8704" stopTitle="Arcadia / Los Angeles">
+  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
+   <prediction block="9102602" dirTag="910_210_1" epochTime="1670560709372" isDeparture="false" minutes="13" seconds="806" tripTag="54545613" vehicle="8388"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="10834" stopTitle="Griffin / Avenue 43">
+  <direction title="East to Huntington-Monterey">
+   <prediction block="1820200" dirTag="182_14_0" epochTime="1670560899983" isDeparture="false" minutes="9" seconds="569" tripTag="54677194" vehicle="1593"/>
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_14_0" epochTime="1670563574050" isDeparture="false" isScheduleBased="true" minutes="54" seconds="3243" tripTag="54677255" vehicle="virtualVehicle_1820600"/>
+  </direction>
+ </predictions>
+</body>

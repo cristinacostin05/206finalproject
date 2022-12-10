@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="603" routeTitle="603 Glendale-Grand Sta Via San Fernando-" stopTag="14242" stopTitle="San Fernando / Los Feliz">
+  <direction title="South to Grand Sta/LA Trade Tech">
+   <prediction affectedByLayover="true" block="6031000" dirTag="603_27_1" epochTime="1670561115819" isDeparture="false" minutes="29" seconds="1750" tripTag="54408545" vehicle="3113"/>
+  </direction>
+ </predictions>
+</body>

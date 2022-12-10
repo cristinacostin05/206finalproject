@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="3179" stopTitle="4th / Arizona">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0206302" dirTag="20_777_1" epochTime="1670559333369" isDeparture="false" isScheduleBased="true" minutes="16" seconds="972" tripTag="54485092" vehicle="virtualVehicle_0206302"/>
+   <prediction affectedByLayover="true" block="0205200" dirTag="20_777_1" epochTime="1670562560370" isDeparture="false" isScheduleBased="true" minutes="69" seconds="4199" tripTag="54485093" vehicle="4130"/>
+   <prediction affectedByLayover="true" block="0205100" dirTag="20_777_1" epochTime="1670562760330" isDeparture="false" isScheduleBased="true" minutes="73" seconds="4399" tripTag="54485134" vehicle="6039"/>
+   <prediction affectedByLayover="true" block="0201102" dirTag="20_777_1" epochTime="1670563773369" isDeparture="false" isScheduleBased="true" minutes="90" seconds="5412" tripTag="54485089" vehicle="virtualVehicle_0201102"/>
+  </direction>
+ </predictions>
+</body>

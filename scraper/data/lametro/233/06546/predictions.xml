@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="233" routeTitle="233 Lake View Terr - Sherman Oaks Via Va" stopTag="6546" stopTitle="Terra Bella / Fenton">
+  <direction title="North to Lake View Terrace">
+   <prediction block="2330500" dirTag="233_148_0" epochTime="1670560548991" isDeparture="false" minutes="7" seconds="453" tripTag="54441490" vehicle="8777"/>
+  </direction>
+ </predictions>
+</body>

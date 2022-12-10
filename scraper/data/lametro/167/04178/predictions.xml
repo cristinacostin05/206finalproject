@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="4178" stopTitle="Oxnard / Ethel">
+  <direction title="West to Chatsworth Station">
+   <prediction affectedByLayover="true" block="1670100" dirTag="167_95_1" epochTime="1670561041609" isDeparture="false" minutes="16" seconds="1007" tripTag="54429231" vehicle="4021"/>
+   <prediction affectedByLayover="true" block="1670200" dirTag="167_95_1" epochTime="1670563972372" isDeparture="false" minutes="65" seconds="3938" tripTag="54429232" vehicle="4023"/>
+  </direction>
+ </predictions>
+</body>

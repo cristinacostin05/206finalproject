@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="8508" stopTitle="Woodley / Mayall">
+  <direction title="East to N. Hollywood Station">
+   <prediction affectedByLayover="true" block="2370300" dirTag="237_24_0" epochTime="1670561598760" isDeparture="false" minutes="45" seconds="2736" tripTag="54420302" vehicle="5698"/>
+  </direction>
+ </predictions>
+</body>

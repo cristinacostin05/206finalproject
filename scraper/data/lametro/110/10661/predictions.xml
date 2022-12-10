@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="10661" stopTitle="Gage / Otis">
+  <direction title="West to Culver City Transit Ctr">
+   <prediction block="1101200" dirTag="110_274_1" epochTime="1670558305455" isDeparture="false" minutes="7" seconds="452" tripTag="54518538" vehicle="5917"/>
+   <prediction affectedByLayover="true" block="1101100" dirTag="110_274_1" epochTime="1670558579487" isDeparture="false" minutes="12" seconds="726" tripTag="54518536" vehicle="5753"/>
+  </direction>
+  <direction title="West to Playa Vista">
+   <prediction affectedByLayover="true" block="1101500" dirTag="110_273_1" epochTime="1670563150944" isDeparture="false" isScheduleBased="true" minutes="88" seconds="5298" tripTag="54518510" vehicle="virtualVehicle_1101500"/>
+  </direction>
+ </predictions>
+</body>

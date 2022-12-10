@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="4682" stopTitle="Atlantic / Brightwood">
+  <direction title="North to Fair Oaks-Colorado">
+   <prediction affectedByLayover="true" block="2601100" dirTag="260_260_0" epochTime="1670559954205" isDeparture="false" isScheduleBased="true" minutes="9" seconds="572" tripTag="54610115" vehicle="virtualVehicle_2601100"/>
+   <prediction affectedByLayover="true" block="2601600" dirTag="260_260_0" epochTime="1670563614205" isDeparture="false" isScheduleBased="true" minutes="70" seconds="4232" tripTag="54610113" vehicle="virtualVehicle_2601600"/>
+  </direction>
+ </predictions>
+</body>

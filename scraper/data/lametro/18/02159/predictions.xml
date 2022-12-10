@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="2159" stopTitle="Flotilla / Garfield">
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0182502" dirTag="18_280_0" epochTime="1670558063798" isDeparture="false" isScheduleBased="true" minutes="2" seconds="137" tripTag="54677615" vehicle="virtualVehicle_0182502"/>
+   <prediction affectedByLayover="true" block="0180500" dirTag="18_280_0" epochTime="1670559245345" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1319" tripTag="54677616" vehicle="virtualVehicle_0180500"/>
+   <prediction block="0180700" dirTag="18_280_0" epochTime="1670559479594" isDeparture="false" minutes="25" seconds="1553" tripTag="54677618" vehicle="1923"/>
+   <prediction block="0181100" dirTag="18_280_0" epochTime="1670560886712" isDeparture="false" minutes="49" seconds="2960" tripTag="54677611" vehicle="1708"/>
+   <prediction affectedByLayover="true" block="0182200" dirTag="18_286_0" epochTime="1670563077980" isDeparture="false" minutes="85" seconds="5151" tripTag="54677493" vehicle="1707"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="28" routeTitle="28 Century City-Dtw LA-Via Olympic" stopTag="16176" stopTitle="Olympic / Union">
+  <direction title="West to Century City">
+   <prediction affectedByLayover="true" block="0286000" dirTag="28_630_1" epochTime="1670561486178" isDeparture="false" minutes="25" seconds="1502" tripTag="54472828" vehicle="4114"/>
+  </direction>
+ </predictions>
+</body>

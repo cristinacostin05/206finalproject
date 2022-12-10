@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="76" routeTitle="76 Downtown LA - El Monte Via Valley Bl" stopTag="15086" stopTitle="Valley / Rowland">
+  <direction title="West to Downtown LA - Grand-Venice">
+   <prediction affectedByLayover="true" block="0764311" dirTag="76_187_1" epochTime="1670561231697" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1025" tripTag="54489203" vehicle="virtualVehicle_0764311"/>
+   <prediction affectedByLayover="true" block="0764211" dirTag="76_187_1" epochTime="1670564711697" isDeparture="false" minutes="75" seconds="4505" tripTag="54489205" vehicle="1817"/>
+  </direction>
+ </predictions>
+</body>

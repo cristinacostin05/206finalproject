@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="3079" stopTitle="Magnolia / Coldwater Canyon">
+  <direction title="North to North Hollywood Station">
+   <prediction block="1550200" dirTag="155_38_0" epochTime="1670562919357" isDeparture="false" minutes="53" seconds="3209" tripTag="54394964" vehicle="5956"/>
+   <prediction affectedByLayover="true" block="1550100" dirTag="155_38_0" epochTime="1670563534103" isDeparture="false" minutes="63" seconds="3823" tripTag="54394961" vehicle="6046"/>
+  </direction>
+ </predictions>
+</body>

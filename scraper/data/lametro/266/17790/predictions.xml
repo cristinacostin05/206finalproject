@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="17790" stopTitle="Lakewood / Michelson">
+  <direction title="South to Lakewood Center">
+   <prediction block="2661100" dirTag="266_26_1" epochTime="1670560547196" isDeparture="false" minutes="4" seconds="297" tripTag="54432258" vehicle="5735"/>
+   <prediction block="2660400" dirTag="266_26_1" epochTime="1670562022698" isDeparture="false" minutes="29" seconds="1773" tripTag="54432299" vehicle="5757"/>
+   <prediction block="2661200" dirTag="266_26_1" epochTime="1670563655654" isDeparture="false" minutes="56" seconds="3406" tripTag="54432261" vehicle="5635"/>
+  </direction>
+ </predictions>
+</body>

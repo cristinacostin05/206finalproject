@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="6773" stopTitle="Van Nuys / Blythe">
+  <direction title="North to Sepulveda E Line (expo) Station">
+   <prediction block="7611500" dirTag="761_71_0" epochTime="1670559276615" isDeparture="false" minutes="8" seconds="539" tripTag="54424806" vehicle="8792"/>
+   <prediction block="7610200" dirTag="761_71_0" epochTime="1670562039544" isDeparture="false" minutes="55" seconds="3302" tripTag="54424826" vehicle="8757"/>
+   <prediction affectedByLayover="true" block="7610400" dirTag="761_71_0" epochTime="1670563508779" isDeparture="false" minutes="79" seconds="4771" tripTag="54424843" vehicle="8748"/>
+  </direction>
+ </predictions>
+</body>

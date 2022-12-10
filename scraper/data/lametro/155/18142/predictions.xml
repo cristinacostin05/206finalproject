@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="18142" stopTitle="Riverside / Coldwater Canyon">
+  <direction title="North to North Hollywood Station">
+   <prediction block="1550200" dirTag="155_38_0" epochTime="1670561578945" isDeparture="false" minutes="30" seconds="1855" tripTag="54394964" vehicle="5956"/>
+   <prediction affectedByLayover="true" block="1550100" dirTag="155_38_0" epochTime="1670562193691" isDeparture="false" minutes="41" seconds="2470" tripTag="54394961" vehicle="6046"/>
+   <prediction affectedByLayover="true" block="1550400" dirTag="155_38_0" epochTime="1670565661691" isDeparture="false" minutes="98" seconds="5938" tripTag="54394970" vehicle="3987"/>
+  </direction>
+ </predictions>
+</body>

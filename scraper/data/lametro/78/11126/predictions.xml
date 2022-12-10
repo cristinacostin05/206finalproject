@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="11126" stopTitle="Huntington / Edloft">
+  <direction title="East to Alhambra - Main-Garfield">
+   <prediction block="0781000" dirTag="78_498_0" epochTime="1670559476982" isDeparture="false" minutes="28" seconds="1687" tripTag="54636533" vehicle="4094"/>
+   <prediction block="0780500" dirTag="78_498_0" epochTime="1670559600219" isDeparture="false" minutes="30" seconds="1810" tripTag="54636500" vehicle="2016"/>
+  </direction>
+  <direction title="East to Las Tunas-Live Oak">
+   <prediction block="0781200" dirTag="78_519_0" epochTime="1670558783662" isDeparture="false" minutes="16" seconds="993" tripTag="54636486" vehicle="5865"/>
+   <prediction affectedByLayover="true" block="0780900" dirTag="78_519_0" epochTime="1670559791931" isDeparture="false" minutes="33" seconds="2001" tripTag="54636477" vehicle="4065"/>
+   <prediction affectedByLayover="true" block="0780100" dirTag="78_519_0" epochTime="1670562262999" isDeparture="false" minutes="74" seconds="4473" tripTag="54636485" vehicle="1826"/>
+  </direction>
+ </predictions>
+</body>

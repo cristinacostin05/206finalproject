@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="577" routeTitle="577 El Monte Sta- Long Beach Va Med Ctr" stopTag="20500006" stopTitle="Cal State Long Beach">
+  <direction title="North to El Monte Station">
+   <prediction affectedByLayover="true" block="5770200" dirTag="577_39_0" epochTime="1670564341199" isDeparture="false" minutes="65" seconds="3914" tripTag="54433903" vehicle="5785"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="1292" stopTitle="Broadway / Jackson">
+  <direction title="East to Pasadena City College">
+   <prediction block="1800300" dirTag="180_227_0" epochTime="1670560538239" isDeparture="false" minutes="1" seconds="64" tripTag="54675283" vehicle="1887"/>
+   <prediction block="1800500" dirTag="180_227_0" epochTime="1670561275320" isDeparture="false" minutes="13" seconds="801" tripTag="54675224" vehicle="1586"/>
+   <prediction block="1800800" dirTag="180_227_0" epochTime="1670561935272" isDeparture="false" minutes="24" seconds="1461" tripTag="54675220" vehicle="6040"/>
+   <prediction affectedByLayover="true" block="1801700" dirTag="180_227_0" epochTime="1670565989086" isDeparture="false" minutes="91" seconds="5514" tripTag="54675213" vehicle="1919"/>
+  </direction>
+ </predictions>
+</body>

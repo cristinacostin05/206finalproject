@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="165" routeTitle="165 West Hills - Burbank Via Vanowen St" stopTag="6894" stopTitle="Vanowen / Woodlake">
+  <direction title="East to Burbank Station">
+   <prediction affectedByLayover="true" block="1640500" dirTag="165_199_0" epochTime="1670560099025" isDeparture="false" minutes="30" seconds="1813" tripTag="54422736" vehicle="1990"/>
+   <prediction affectedByLayover="true" block="1640600" dirTag="165_199_0" epochTime="1670563701528" isDeparture="false" minutes="90" seconds="5415" tripTag="54422660" vehicle="1988"/>
+  </direction>
+ </predictions>
+</body>

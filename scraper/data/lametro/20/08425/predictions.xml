@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="8425" stopTitle="Wilshire / Harvard">
+  <direction title="East to Downtown LA - 6th-Main">
+   <prediction block="0209811" dirTag="20_783_0" epochTime="1670559764130" isDeparture="false" isScheduleBased="true" minutes="23" seconds="1417" tripTag="54485028" vehicle="4165"/>
+   <prediction affectedByLayover="true" block="0209711" dirTag="20_783_0" epochTime="1670562808666" isDeparture="false" isScheduleBased="true" minutes="74" seconds="4461" tripTag="54485030" vehicle="virtualVehicle_0209711"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="15700" stopTitle="62nd / Van Ness">
+  <direction title="West to Culver City Transit Ctr">
+   <prediction block="1101200" dirTag="110_274_1" epochTime="1670560350410" isDeparture="false" minutes="41" seconds="2493" tripTag="54518538" vehicle="5917"/>
+   <prediction affectedByLayover="true" block="1101100" dirTag="110_274_1" epochTime="1670560624442" isDeparture="false" minutes="46" seconds="2767" tripTag="54518536" vehicle="5753"/>
+  </direction>
+  <direction title="West to Playa Vista">
+   <prediction block="1100700" dirTag="110_273_1" epochTime="1670558999139" isDeparture="false" minutes="19" seconds="1142" tripTag="54518535" vehicle="5769"/>
+  </direction>
+ </predictions>
+</body>

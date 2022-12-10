@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="2" routeTitle="2 Westwood - Exposition Park Via Sunse" stopTag="14786" stopTitle="Sunset / Bedford">
+  <direction title="West to Westwood/U C L A">
+   <prediction block="0020800" dirTag="2_1124_1" epochTime="1670559122306" isDeparture="false" minutes="1" seconds="62" tripTag="54528453" vehicle="4007"/>
+   <prediction block="0021000" dirTag="2_1124_1" epochTime="1670559781969" isDeparture="false" minutes="12" seconds="721" tripTag="54528455" vehicle="4035"/>
+   <prediction block="0029811" dirTag="2_1124_1" epochTime="1670560349686" isDeparture="false" minutes="21" seconds="1289" tripTag="54528456" vehicle="8404"/>
+   <prediction block="0020100" dirTag="2_1124_1" epochTime="1670561520742" isDeparture="false" minutes="41" seconds="2460" tripTag="54528457" vehicle="5988"/>
+   <prediction affectedByLayover="true" block="0021400" dirTag="2_1124_1" epochTime="1670563884066" isDeparture="false" isScheduleBased="true" minutes="80" seconds="4823" tripTag="54528462" vehicle="virtualVehicle_0021400"/>
+  </direction>
+ </predictions>
+</body>

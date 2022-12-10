@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="15411" stopTitle="Ventura / Woodman">
+  <direction title="West to Northridge">
+   <prediction block="2402002" dirTag="240_2_1" epochTime="1670558594116" isDeparture="false" isScheduleBased="true" minutes="2" seconds="156" tripTag="54418540" vehicle="8479"/>
+   <prediction affectedByLayover="true" block="2401700" dirTag="240_2_1" epochTime="1670561872950" isDeparture="false" isScheduleBased="true" minutes="57" seconds="3435" tripTag="54418530" vehicle="virtualVehicle_2401700"/>
+   <prediction affectedByLayover="true" block="2401000" dirTag="240_2_1" epochTime="1670562076992" isDeparture="false" minutes="60" seconds="3639" tripTag="54418528" vehicle="8450"/>
+  </direction>
+ </predictions>
+</body>

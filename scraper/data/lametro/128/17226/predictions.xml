@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="128" routeTitle="128 Compton Sta - Cerritos Towne Center" stopTag="17226" stopTitle="Alondra / Gridley">
+  <direction title="West to Compton Station">
+   <prediction affectedByLayover="true" block="1280300" dirTag="128_28_1" epochTime="1670560414138" isDeparture="false" minutes="29" seconds="1765" tripTag="54540253" vehicle="1522"/>
+  </direction>
+ </predictions>
+</body>

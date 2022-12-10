@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="12915" stopTitle="Reseda / Devonshire">
+  <direction title="East to Universal/Studio City Sta">
+   <prediction affectedByLayover="true" block="2400700" dirTag="240_1_0" epochTime="1670561280000" isDeparture="true" isScheduleBased="true" minutes="47" seconds="2858" tripTag="54418553" vehicle="8449"/>
+   <prediction affectedByLayover="true" block="2401800" dirTag="240_1_0" epochTime="1670561584247" isDeparture="true" minutes="52" seconds="3162" tripTag="54418552" vehicle="1756"/>
+  </direction>
+ </predictions>
+</body>

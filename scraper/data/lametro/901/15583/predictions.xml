@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15583" stopTitle="Woodman Station">
+  <direction title="West to G Line (orange) - Chatsworth Station">
+   <prediction affectedByLayover="true" block="9012102" dirTag="901_54_1" epochTime="1670559112814" isDeparture="false" minutes="16" seconds="994" tripTag="54425129" vehicle="19500"/>
+   <prediction affectedByLayover="true" block="9012202" dirTag="901_54_1" epochTime="1670559964683" isDeparture="false" minutes="30" seconds="1846" tripTag="54425159" vehicle="19501"/>
+   <prediction affectedByLayover="true" block="9012302" dirTag="901_54_1" epochTime="1670563106683" isDeparture="false" minutes="83" seconds="4988" tripTag="54425322" vehicle="19504"/>
+  </direction>
+ </predictions>
+</body>

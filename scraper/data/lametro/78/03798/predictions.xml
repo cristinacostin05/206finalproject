@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="3798" stopTitle="Mission / Baldwin">
+  <direction title="East to Alhambra - Main-Garfield">
+   <prediction block="0781000" dirTag="78_498_0" epochTime="1670558866431" isDeparture="false" minutes="18" seconds="1082" tripTag="54636533" vehicle="4094"/>
+   <prediction block="0780500" dirTag="78_498_0" epochTime="1670559368049" isDeparture="false" minutes="26" seconds="1584" tripTag="54636500" vehicle="2016"/>
+  </direction>
+  <direction title="East to Las Tunas-Live Oak">
+   <prediction block="0780400" dirTag="78_519_0" epochTime="1670557928487" isDeparture="false" minutes="2" seconds="144" tripTag="54636482" vehicle="1994"/>
+   <prediction block="0781200" dirTag="78_519_0" epochTime="1670558543186" isDeparture="false" minutes="12" seconds="759" tripTag="54636486" vehicle="5865"/>
+   <prediction affectedByLayover="true" block="0780900" dirTag="78_519_0" epochTime="1670559551432" isDeparture="false" minutes="29" seconds="1767" tripTag="54636477" vehicle="4065"/>
+   <prediction affectedByLayover="true" block="0780100" dirTag="78_519_0" epochTime="1670561999158" isDeparture="false" minutes="70" seconds="4215" tripTag="54636485" vehicle="1826"/>
+  </direction>
+ </predictions>
+</body>

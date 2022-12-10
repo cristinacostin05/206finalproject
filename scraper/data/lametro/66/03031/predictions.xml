@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="66" routeTitle="66 Wilshire Ctr-Dtwn LA-Montebello Via" stopTag="3031" stopTitle="8th / Spence">
+  <direction title="East to Commerce Center">
+   <prediction affectedByLayover="true" block="0660800" dirTag="66_409_0" epochTime="1670561409782" isDeparture="false" minutes="61" seconds="3687" tripTag="54630946" vehicle="8816"/>
+  </direction>
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0662702" dirTag="66_394_0" epochTime="1670557775173" isDeparture="false" isScheduleBased="true" minutes="0" seconds="53" tripTag="54630955" vehicle="virtualVehicle_0662702"/>
+  </direction>
+ </predictions>
+</body>

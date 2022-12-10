@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="30" routeTitle="30 Pico Rimpau - Dtwn LA - Indiana Sta" stopTag="3708" stopTitle="Division 13 Layover">
+  <direction title="West to Pico-Rimpau">
+   <prediction affectedByLayover="true" block="0309911" dirTag="30_803_1" epochTime="1670563020000" isDeparture="true" minutes="67" seconds="4028" tripTag="54511802" vehicle="3983"/>
+  </direction>
+ </predictions>
+</body>

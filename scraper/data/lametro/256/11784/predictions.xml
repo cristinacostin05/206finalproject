@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="11784" stopTitle="Monte Vista / Avenue 61">
+  <direction title="South to Csula Transit Center">
+   <prediction block="2560300" dirTag="256_104_1" epochTime="1670562124990" isDeparture="false" minutes="41" seconds="2484" tripTag="54664107" vehicle="3136"/>
+   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670565465496" isDeparture="false" minutes="97" seconds="5825" tripTag="54664089" vehicle="3145"/>
+  </direction>
+ </predictions>
+</body>

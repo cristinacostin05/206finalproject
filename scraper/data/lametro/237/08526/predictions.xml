@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="8526" stopTitle="Woodley / Vanowen">
+  <direction title="East to N. Hollywood Station">
+   <prediction affectedByLayover="true" block="2370300" dirTag="237_24_0" epochTime="1670562334772" isDeparture="false" minutes="57" seconds="3470" tripTag="54420302" vehicle="5698"/>
+  </direction>
+ </predictions>
+</body>

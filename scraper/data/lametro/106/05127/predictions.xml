@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="5127" stopTitle="Pomona / Beverly">
+  <direction title="South to The Shops At Montebello">
+   <prediction block="1061000" dirTag="106_47_1" epochTime="1670558752014" isDeparture="false" minutes="4" seconds="250" tripTag="54482917" vehicle="3940"/>
+   <prediction block="1060500" dirTag="106_47_1" epochTime="1670561469139" isDeparture="false" minutes="49" seconds="2967" tripTag="54482919" vehicle="4184"/>
+   <prediction affectedByLayover="true" block="1061102" dirTag="106_47_1" epochTime="1670564004764" isDeparture="false" isScheduleBased="true" minutes="91" seconds="5502" tripTag="54482920" vehicle="4123"/>
+  </direction>
+  <direction title="South to East LA College">
+   <prediction block="1060200" dirTag="106_46_1" epochTime="1670559827520" isDeparture="false" minutes="22" seconds="1325" tripTag="54482918" vehicle="3889"/>
+   <prediction affectedByLayover="true" block="1060700" dirTag="106_46_1" epochTime="1670563920881" isDeparture="false" minutes="90" seconds="5419" tripTag="54482921" vehicle="3964"/>
+  </direction>
+ </predictions>
+</body>

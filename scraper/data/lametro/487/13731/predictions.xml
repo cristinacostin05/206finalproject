@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="13731" stopTitle="Mission / Broadway">
+  <direction title="East to Sierra Madre Villa Station">
+   <prediction block="4870100" dirTag="487_117_0" epochTime="1670560672008" isDeparture="false" minutes="40" seconds="2409" tripTag="54489681" vehicle="4150"/>
+   <prediction affectedByLayover="true" block="4870502" dirTag="487_117_0" epochTime="1670562138045" isDeparture="false" minutes="64" seconds="3875" tripTag="54489683" vehicle="4081"/>
+  </direction>
+ </predictions>
+</body>

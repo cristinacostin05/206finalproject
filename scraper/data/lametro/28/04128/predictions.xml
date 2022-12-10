@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="28" routeTitle="28 Century City-Dtw LA-Via Olympic" stopTag="4128" stopTitle="Olympic / La Peer">
+  <direction title="East to Cesar Chavez &amp; Vignes">
+   <prediction block="0285100" dirTag="28_642_0" epochTime="1670560230979" isDeparture="false" minutes="4" seconds="267" tripTag="54472819" vehicle="4131"/>
+   <prediction affectedByLayover="true" block="0286000" dirTag="28_643_0" epochTime="1670565708114" isDeparture="false" minutes="95" seconds="5744" tripTag="54472821" vehicle="4114"/>
+  </direction>
+ </predictions>
+</body>

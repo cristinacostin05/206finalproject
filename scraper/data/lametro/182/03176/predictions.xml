@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="3176" stopTitle="Figueroa / Sycamore Grove Park">
+  <direction title="West to Vermont/Sunset Sta">
+   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670562807593" isDeparture="false" minutes="41" seconds="2467" tripTag="54677211" vehicle="1885"/>
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_15_1" epochTime="1670565730044" isDeparture="false" isScheduleBased="true" minutes="89" seconds="5389" tripTag="54677212" vehicle="virtualVehicle_1820600"/>
+  </direction>
+ </predictions>
+</body>

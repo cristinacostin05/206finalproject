@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="611" routeTitle="611 Huntington Park Shuttle" stopTag="1062" stopTitle="District / Produce Plaza">
+  <direction title="Xcounter to Vernon-Huntington Park-Cudahy">
+   <prediction affectedByLayover="true" block="6110100" dirTag="611_27_1" epochTime="1670563209343" isDeparture="false" minutes="46" seconds="2765" tripTag="54535745" vehicle="5781"/>
+  </direction>
+ </predictions>
+</body>

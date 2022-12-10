@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="5585" stopTitle="6th / Spring">
+  <direction title="East to Downtown LA - 6th-Los Angeles">
+   <prediction block="0169911" dirTag="16_417_0" epochTime="1670559273064" isDeparture="false" minutes="3" seconds="191" tripTag="54471174" vehicle="8509"/>
+   <prediction block="0165700" dirTag="16_416_0" epochTime="1670560728500" isDeparture="false" minutes="27" seconds="1646" tripTag="54471033" vehicle="8550"/>
+   <prediction affectedByLayover="true" block="0160500" dirTag="16_416_0" epochTime="1670561807301" isDeparture="false" isScheduleBased="true" minutes="45" seconds="2725" tripTag="54470969" vehicle="virtualVehicle_0160500"/>
+   <prediction block="0160602" dirTag="16_417_0" epochTime="1670562320337" isDeparture="false" minutes="53" seconds="3238" tripTag="54471079" vehicle="8543"/>
+   <prediction block="0160400" dirTag="16_416_0" epochTime="1670562401846" isDeparture="false" minutes="55" seconds="3320" tripTag="54471159" vehicle="8547"/>
+  </direction>
+ </predictions>
+</body>

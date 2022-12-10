@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="53" routeTitle="53 Downtown LA - Csu Domiguez Hills Via" stopTag="5138" stopTitle="6th / Hill">
+  <direction title="South to CAL State Dominguez Hls">
+   <prediction affectedByLayover="true" block="0531800" dirTag="53_232_1" epochTime="1670560608875" isDeparture="false" isScheduleBased="true" minutes="27" seconds="1675" tripTag="54679995" vehicle="virtualVehicle_0531800"/>
+   <prediction affectedByLayover="true" block="0532202" dirTag="53_234_1" epochTime="1670562317874" isDeparture="false" isScheduleBased="true" minutes="56" seconds="3384" tripTag="54679961" vehicle="virtualVehicle_0532202"/>
+   <prediction affectedByLayover="true" block="0531300" dirTag="53_232_1" epochTime="1670564448875" isDeparture="false" minutes="91" seconds="5515" tripTag="54680025" vehicle="3851"/>
+  </direction>
+ </predictions>
+</body>

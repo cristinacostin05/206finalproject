@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="53" routeTitle="53 Downtown LA - Csu Domiguez Hills Via" stopTag="140758" stopTitle="Wilmington / 118th">
+  <direction title="South to CAL State Dominguez Hls">
+   <prediction affectedByLayover="true" block="0531800" dirTag="53_232_1" epochTime="1670563679583" isDeparture="false" isScheduleBased="true" minutes="78" seconds="4735" tripTag="54679995" vehicle="virtualVehicle_0531800"/>
+   <prediction affectedByLayover="true" block="0531800" dirTag="53_232_1" epochTime="1670563935231" isDeparture="false" isScheduleBased="true" minutes="83" seconds="4991" tripTag="54679995" vehicle="virtualVehicle_0531800"/>
+  </direction>
+ </predictions>
+</body>

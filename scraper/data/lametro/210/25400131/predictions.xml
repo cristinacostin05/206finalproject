@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="25400131" stopTitle="Crenshaw / Wilshire">
+  <direction title="South to South Bay Galleria">
+   <prediction block="2100700" dirTag="210_303_1" epochTime="1670557955752" isDeparture="false" minutes="1" seconds="63" tripTag="54543057" vehicle="2060"/>
+   <prediction affectedByLayover="true" block="2101900" dirTag="210_303_1" epochTime="1670562457415" isDeparture="false" minutes="76" seconds="4564" tripTag="54543031" vehicle="1942"/>
+  </direction>
+ </predictions>
+</body>

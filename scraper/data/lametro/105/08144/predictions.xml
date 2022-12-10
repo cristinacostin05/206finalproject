@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="105" routeTitle="105 W Hollywood - Vernon Via La Cienega" stopTag="8144" stopTitle="Vernon / Vermont">
+  <direction title="South to Vernon-Santa Fe">
+   <prediction block="1051100" dirTag="105_258_1" epochTime="1670560494196" isDeparture="false" minutes="9" seconds="570" tripTag="54534707" vehicle="6144"/>
+   <prediction block="1054111" dirTag="105_259_1" epochTime="1670563057232" isDeparture="false" minutes="52" seconds="3133" tripTag="54534709" vehicle="4006"/>
+   <prediction block="1050800" dirTag="105_258_1" epochTime="1670563515947" isDeparture="false" minutes="59" seconds="3592" tripTag="54534801" vehicle="5790"/>
+  </direction>
+ </predictions>
+</body>

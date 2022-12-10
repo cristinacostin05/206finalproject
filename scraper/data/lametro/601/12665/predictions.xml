@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="601" routeTitle="601 Warner Center Circulator" stopTag="12665" stopTitle="Oxnard / Owensmouth">
+  <direction title="South to Warner Center Shuttle">
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_2_1" epochTime="1670558540557" isDeparture="false" minutes="12" seconds="730" tripTag="54408266" vehicle="2052"/>
+   <prediction affectedByLayover="true" block="6010402" dirTag="601_2_1" epochTime="1670560080330" isDeparture="false" minutes="37" seconds="2269" tripTag="54408263" vehicle="5823"/>
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_2_1" epochTime="1670561280330" isDeparture="false" minutes="57" seconds="3469" tripTag="54408267" vehicle="2052"/>
+   <prediction affectedByLayover="true" block="6010402" dirTag="601_2_1" epochTime="1670562480330" isDeparture="false" minutes="77" seconds="4669" tripTag="54408175" vehicle="5823"/>
+   <prediction affectedByLayover="true" block="6010302" dirTag="601_2_1" epochTime="1670563680330" isDeparture="false" minutes="97" seconds="5869" tripTag="54408157" vehicle="2052"/>
+  </direction>
+ </predictions>
+</body>

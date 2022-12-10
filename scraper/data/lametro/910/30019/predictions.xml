@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="30019" stopTitle="El Monte Station - Upper Level">
+  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_210_1" epochTime="1670564940000" isDeparture="true" isScheduleBased="true" minutes="83" seconds="5034" tripTag="54545496" vehicle="virtualVehicle_9102202"/>
+  </direction>
+ </predictions>
+</body>

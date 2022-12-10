@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="16765" stopTitle="Wilshire / Selby">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0206302" dirTag="20_777_1" epochTime="1670558417463" isDeparture="false" isScheduleBased="true" minutes="0" seconds="50" tripTag="54485092" vehicle="virtualVehicle_0206302"/>
+   <prediction affectedByLayover="true" block="0205200" dirTag="20_777_1" epochTime="1670561674463" isDeparture="false" isScheduleBased="true" minutes="55" seconds="3307" tripTag="54485093" vehicle="4130"/>
+   <prediction affectedByLayover="true" block="0205100" dirTag="20_777_1" epochTime="1670561844424" isDeparture="false" isScheduleBased="true" minutes="57" seconds="3476" tripTag="54485134" vehicle="6039"/>
+   <prediction affectedByLayover="true" block="0201102" dirTag="20_777_1" epochTime="1670562857463" isDeparture="false" isScheduleBased="true" minutes="74" seconds="4490" tripTag="54485089" vehicle="virtualVehicle_0201102"/>
+  </direction>
+ </predictions>
+</body>

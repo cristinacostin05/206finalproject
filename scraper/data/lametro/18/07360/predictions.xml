@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="7360" stopTitle="6th / Rampart">
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0182200" dirTag="18_286_0" epochTime="1670559819168" isDeparture="false" minutes="31" seconds="1889" tripTag="54677493" vehicle="1707"/>
+   <prediction affectedByLayover="true" block="0181000" dirTag="18_286_0" epochTime="1670560105544" isDeparture="false" minutes="36" seconds="2175" tripTag="54677462" vehicle="1866"/>
+  </direction>
+ </predictions>
+</body>

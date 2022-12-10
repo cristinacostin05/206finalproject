@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="117" routeTitle="117 LAX Cty Bus Ctr-Downey Via Century B" stopTag="36505" stopTitle="Imperial / Downey">
+  <direction title="East to Lakewood Bl Station">
+   <prediction block="1179811" dirTag="117_74_0" epochTime="1670559206858" isDeparture="false" minutes="0" seconds="16" tripTag="54541740" vehicle="1635"/>
+   <prediction block="1179911" dirTag="117_74_0" epochTime="1670561519630" isDeparture="false" minutes="38" seconds="2328" tripTag="54541737" vehicle="5804"/>
+  </direction>
+ </predictions>
+</body>

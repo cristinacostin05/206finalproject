@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="141079" stopTitle="Harbor Fwy / Pacific Coast">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9105702" dirTag="950_212_0" epochTime="1670561170564" isDeparture="false" minutes="52" seconds="3120" tripTag="54545467_950" vehicle="8371"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="6042" stopTitle="Sepulveda / Santa Monica">
+  <direction title="West to West LA - Sepulveda Bl">
+   <prediction block="0041000" dirTag="4_317_1" epochTime="1670559986471" isDeparture="false" minutes="37" seconds="2225" tripTag="54485802" vehicle="8810"/>
+  </direction>
+ </predictions>
+</body>

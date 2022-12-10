@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="62" routeTitle="62 Downtown LA - Hawaiian Gardens Via T" stopTag="10149" stopTitle="Olympic / Grande Vista">
+  <direction title="North to Downtown LA">
+   <prediction affectedByLayover="true" block="0620400" dirTag="62_333_0" epochTime="1670562809273" isDeparture="false" minutes="81" seconds="4909" tripTag="54678429" vehicle="5997"/>
+   <prediction affectedByLayover="true" block="0620500" dirTag="62_333_0" epochTime="1670563596525" isDeparture="false" minutes="94" seconds="5697" tripTag="54678455" vehicle="1855"/>
+  </direction>
+ </predictions>
+</body>

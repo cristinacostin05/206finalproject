@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="15721" stopTitle="6th / Park View">
+  <direction title="West to Wilshire/Vermont Sta">
+   <prediction affectedByLayover="true" block="0662202" dirTag="18_281_1" epochTime="1670558986590" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1042" tripTag="54677742" vehicle="virtualVehicle_0662202"/>
+  </direction>
+  <direction title="West to Wilshire / Western Station">
+   <prediction block="0182200" dirTag="18_283_1" epochTime="1670558213962" isDeparture="false" minutes="4" seconds="269" tripTag="54677739" vehicle="1707"/>
+   <prediction affectedByLayover="true" block="0182502" dirTag="18_287_1" epochTime="1670562785639" isDeparture="false" isScheduleBased="true" minutes="80" seconds="4841" tripTag="54677483" vehicle="virtualVehicle_0182502"/>
+  </direction>
+ </predictions>
+</body>

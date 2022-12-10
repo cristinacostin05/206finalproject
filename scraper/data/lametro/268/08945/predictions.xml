@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="268" routeTitle="268 Sierra Madre Villa Sta - El Monte St" stopTag="8945" stopTitle="Lower Azusa / Baldwin">
+  <direction title="South to El Monte Station">
+   <prediction affectedByLayover="true" block="2680402" dirTag="268_146_1" epochTime="1670561534956" isDeparture="false" isScheduleBased="true" minutes="45" seconds="2746" tripTag="54489391" vehicle="virtualVehicle_2680402"/>
+  </direction>
+ </predictions>
+</body>

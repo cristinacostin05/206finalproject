@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="16919" stopTitle="Acacia / Walnut">
+  <direction title="North to Fair Oaks-Colorado">
+   <prediction affectedByLayover="true" block="2601600" dirTag="260_260_0" epochTime="1670559733819" isDeparture="false" isScheduleBased="true" minutes="5" seconds="339" tripTag="54610113" vehicle="virtualVehicle_2601600"/>
+   <prediction affectedByLayover="true" block="2601400" dirTag="260_260_0" epochTime="1670561773819" isDeparture="false" minutes="39" seconds="2379" tripTag="54610117" vehicle="8349"/>
+   <prediction affectedByLayover="true" block="2601300" dirTag="260_260_0" epochTime="1670563975109" isDeparture="false" minutes="76" seconds="4580" tripTag="54610116" vehicle="8319"/>
+  </direction>
+ </predictions>
+</body>

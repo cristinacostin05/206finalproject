@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="14390" stopTitle="Santa Monica / Edgemont">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670558827327" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1054" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670560627327" isDeparture="false" isScheduleBased="true" minutes="47" seconds="2854" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+ </predictions>
+</body>

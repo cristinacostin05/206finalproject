@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="76" routeTitle="76 Downtown LA - El Monte Via Valley Bl" stopTag="10229" stopTitle="Valley / Garfield">
+  <direction title="West to Downtown LA - Grand-Venice">
+   <prediction affectedByLayover="true" block="0764311" dirTag="76_187_1" epochTime="1670562115956" isDeparture="false" isScheduleBased="true" minutes="32" seconds="1923" tripTag="54489203" vehicle="virtualVehicle_0764311"/>
+   <prediction affectedByLayover="true" block="0764211" dirTag="76_187_1" epochTime="1670565595956" isDeparture="false" minutes="90" seconds="5403" tripTag="54489205" vehicle="1817"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="154" routeTitle="154 Van Nuys - Burbank Sta Via Oxnard St" stopTag="6614" stopTitle="Ikea / Angeleno">
+  <direction title="West to Sepulveda Station">
+   <prediction affectedByLayover="true" block="1550500" dirTag="154_41_1" epochTime="1670560747374" isDeparture="false" minutes="5" seconds="327" tripTag="54426034" vehicle="1670"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="501" routeTitle="501 Pasadena - N. Hollywood Sta Via 134" stopTag="50100002" stopTitle="Olive / Hollywood">
+  <direction title="East to Pasadena - Via 134 Fwy - Metro Gold Line">
+   <prediction affectedByLayover="true" block="5010100" dirTag="501_13_0" epochTime="1670562171588" isDeparture="false" minutes="48" seconds="2925" tripTag="54428821" vehicle="8251"/>
+   <prediction affectedByLayover="true" block="5010602" dirTag="501_13_0" epochTime="1670563279246" isDeparture="false" minutes="67" seconds="4033" tripTag="54428818" vehicle="5786"/>
+   <prediction affectedByLayover="true" block="5010200" dirTag="501_13_0" epochTime="1670565079246" isDeparture="false" minutes="97" seconds="5833" tripTag="54428898" vehicle="5602"/>
+  </direction>
+ </predictions>
+</body>

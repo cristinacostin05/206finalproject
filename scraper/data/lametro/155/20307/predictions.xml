@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="20307" stopTitle="Magnolia / Hazeltine">
+  <direction title="South to Burbank Station">
+   <prediction affectedByLayover="true" block="0900800" dirTag="155_39_1" epochTime="1670560747239" isDeparture="false" minutes="16" seconds="1007" tripTag="54394958" vehicle="6079"/>
+   <prediction affectedByLayover="true" block="0901200" dirTag="155_39_1" epochTime="1670564647239" isDeparture="false" minutes="81" seconds="4907" tripTag="54394971" vehicle="4111"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="40" routeTitle="40 Downtown LA-Sbay Galleria Via King B" stopTag="9954" stopTitle="Florence / Hillcrest">
+  <direction title="South to South Bay Galleria">
+   <prediction block="0402300" dirTag="40_916_1" epochTime="1670559334879" isDeparture="false" minutes="10" seconds="633" tripTag="54535966" vehicle="8465"/>
+  </direction>
+ </predictions>
+</body>

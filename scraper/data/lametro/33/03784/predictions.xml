@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="3784" stopTitle="Main / Temple">
+  <direction title="East to Downtown LA - Union Sta">
+   <prediction block="0330400" dirTag="33_589_0" epochTime="1670560838688" isDeparture="false" minutes="7" seconds="472" tripTag="54470671" vehicle="8503"/>
+   <prediction block="0333502" dirTag="33_590_0" epochTime="1670561808194" isDeparture="false" minutes="24" seconds="1441" tripTag="54470666" vehicle="8580"/>
+   <prediction block="0331000" dirTag="33_589_0" epochTime="1670564043583" isDeparture="false" minutes="61" seconds="3676" tripTag="54470672" vehicle="8621"/>
+   <prediction block="0339702" dirTag="33_589_0" epochTime="1670564062485" isDeparture="false" minutes="61" seconds="3695" tripTag="54470680" vehicle="8624"/>
+  </direction>
+ </predictions>
+</body>

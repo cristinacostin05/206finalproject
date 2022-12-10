@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="4105" stopTitle="Olive / General Thaddeus Kosciuszko">
+  <direction title="East to Alhambra - Main-Garfield">
+   <prediction block="0781000" dirTag="78_498_0" epochTime="1670557827029" isDeparture="false" minutes="0" seconds="35" tripTag="54636533" vehicle="4094"/>
+   <prediction block="0780500" dirTag="78_498_0" epochTime="1670558458665" isDeparture="false" minutes="11" seconds="667" tripTag="54636500" vehicle="2016"/>
+  </direction>
+  <direction title="East to Las Tunas-Live Oak">
+   <prediction affectedByLayover="true" block="0780900" dirTag="78_519_0" epochTime="1670558676520" isDeparture="false" minutes="14" seconds="885" tripTag="54636477" vehicle="4065"/>
+   <prediction affectedByLayover="true" block="0780100" dirTag="78_519_0" epochTime="1670561124246" isDeparture="false" minutes="55" seconds="3332" tripTag="54636485" vehicle="1826"/>
+  </direction>
+ </predictions>
+</body>

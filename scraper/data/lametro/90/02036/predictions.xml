@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="90" routeTitle="90 Dtla - Noho Sta Via Vineland-Foothil" stopTag="2036" stopTitle="Foothill / Mt Gleason">
+  <direction title="North to North Hollywood Station">
+   <prediction block="0901200" dirTag="90_359_0" epochTime="1670558890568" isDeparture="false" minutes="6" seconds="378" tripTag="54422291" vehicle="4111"/>
+   <prediction affectedByLayover="true" block="0901400" dirTag="90_359_0" epochTime="1670562813799" isDeparture="false" isScheduleBased="true" minutes="71" seconds="4301" tripTag="54422210" vehicle="virtualVehicle_0901400"/>
+  </direction>
+ </predictions>
+</body>

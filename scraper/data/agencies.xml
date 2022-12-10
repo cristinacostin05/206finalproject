@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright agencies listed below and Umo IQ 2022.">
+ <agency regionTitle="Maryland" tag="jhu-apl" title="APL"/>
+ <agency regionTitle="Massachusetts" shortTitle="CCRTA" tag="ccrta" title="Cape Cod Regional Transit Authority"/>
+ <agency regionTitle="North Carolina" shortTitle="Chapel Hill" tag="chapel-hill" title="Chapel Hill Transit"/>
+ <agency regionTitle="Mississippi" tag="oxford-ms" title="City of Oxford"/>
+ <agency regionTitle="California-Southern" tag="west-hollywood" title="City of West Hollywood"/>
+ <agency regionTitle="Araucania" tag="ATM-BRU-JAC" title="Compañía JAC Transportes Limitada"/>
+ <agency regionTitle="New York" tag="da" title="Downtown Connection"/>
+ <agency regionTitle="California-Northern" shortTitle="Dumbarton Exp" tag="dumbarton" title="Dumbarton Express"/>
+ <agency regionTitle="Massachusetts" shortTitle="Charles River EZRide" tag="charles-river" title="EZRide - Charles River TMA"/>
+ <agency regionTitle="California-Northern" shortTitle="eTrans" tag="escalon" title="Escalon eTrans"/>
+ <agency regionTitle="California-Northern" tag="fast" title="FAST"/>
+ <agency regionTitle="Virginia" tag="fairfax" title="Fairfax (CUE)"/>
+ <agency regionTitle="California-Southern" tag="glendale" title="Glendale Beeline"/>
+ <agency regionTitle="California-Southern" tag="glendale-beeline" title="Glendale Beeline GTFS"/>
+ <agency regionTitle="California-Southern" tag="glendale-beeline-test" title="Glendale Beeline GTFS - Test"/>
+ <agency regionTitle="California-Southern" tag="south-coast" title="Gold Coast Transit"/>
+ <agency regionTitle="Indiana" tag="indianapolis-air" title="Indianapolis International Airport"/>
+ <agency regionTitle="New York" tag="jfk" title="JFK International Airport"/>
+ <agency regionTitle="Florida" shortTitle="Jacksonville" tag="jtafla" title="Jacksonville Transportation Authority"/>
+ <agency regionTitle="New York" tag="lga" title="LaGuardia Airport Shuttle"/>
+ <agency regionTitle="California-Southern" tag="lametro" title="Los Angeles Metro"/>
+ <agency regionTitle="California-Southern" tag="lametro-rail" title="Los Angeles Rail"/>
+ <agency regionTitle="Massachusetts" tag="lincolnlab" title="MIT Lincoln Lab Shuttle"/>
+ <agency regionTitle="California-Northern" tag="manteca-transit" title="Manteca Transit"/>
+ <agency regionTitle="Massachusetts" shortTitle="MIT" tag="mit" title="Massachusetts Institute of Technology"/>
+ <agency regionTitle="Mexico" tag="merida" title="Merida Transit"/>
+ <agency regionTitle="New Jersey" tag="ewr" title="Newark Liberty International Airport"/>
+ <agency regionTitle="Florida" shortTitle="Nova" tag="nova-se" title="Nova Southeastern University"/>
+ <agency regionTitle="California-Southern" tag="omnitrans" title="Omnitrans"/>
+ <agency regionTitle="California-Southern" tag="pvpta" title="Palos Verdes Transit"/>
+ <agency regionTitle="Florida" shortTitle="SRIA" tag="sria" title="Pensacola Beach (SRIA)"/>
+ <agency regionTitle="Oregon" tag="portland-sc" title="Portland Streetcar"/>
+ <agency regionTitle="Nevada" tag="reno" title="RTC RIDE, Reno"/>
+ <agency regionTitle="New York" tag="roosevelt" title="Roosevelt Island"/>
+ <agency regionTitle="California-Northern" shortTitle="SF Muni Test Sandbox" tag="sfmuni-sandbox" title="San Francisco Muni Sandbox"/>
+ <agency regionTitle="Washington" tag="seattle-sc" title="Seattle Streetcar"/>
+ <agency regionTitle="Araucania" tag="ATM-TCU-L024-TE" title="Sindicato de Trabajadores Independientes de Taxis Colectivos Caupolicán N°24"/>
+ <agency regionTitle="Quebec" shortTitle="Laval" tag="stl" title="Societe de transport de Laval"/>
+ <agency regionTitle="California-Northern" tag="solano-express" title="SolanoExpress"/>
+ <agency regionTitle="California-Northern" tag="sct" title="Sonoma County Transit"/>
+ <agency regionTitle="Washington" tag="geg" title="Spokane International Airport"/>
+ <agency regionTitle="California-Northern" tag="tahoe" title="Tahoe Truckee Area Regional Transit"/>
+ <agency regionTitle="Ontario" shortTitle="Toronto TTC" tag="ttc" title="Toronto Transit Commission"/>
+ <agency regionTitle="Araucania" tag="ATM-BUR-L03-TE" title="Transportes P. de Valdivia – P. Las Casas Ltda. (Línea N°3)"/>
+ <agency regionTitle="Texas" tag="ft-worth" title="Trinity Metro"/>
+ <agency regionTitle="California-Southern" tag="ucla" title="UCLA"/>
+ <agency regionTitle="California-Northern" shortTitle="Unitrans" tag="unitrans" title="Unitrans ASUCD/City of Davis"/>
+ <agency regionTitle="California-Northern" shortTitle="UC Berkeley" tag="ucb" title="University of California Berkeley"/>
+ <agency regionTitle="Maryland" tag="umd" title="University of Maryland"/>
+ <agency regionTitle="California-Northern" shortTitle="City Coach" tag="vacaville" title="Vacaville City Coach"/>
+ <agency regionTitle="Kentucky" tag="wku" title="Western Kentucky University"/>
+ <agency regionTitle="North Carolina" tag="winston-salem" title="Winston-Salem"/>
+</body>

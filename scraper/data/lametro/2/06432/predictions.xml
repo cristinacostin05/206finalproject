@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="2" routeTitle="2 Westwood - Exposition Park Via Sunse" stopTag="6432" stopTitle="Sunset / Beverly Glen">
+  <direction title="East to Expo Park/USC">
+   <prediction affectedByLayover="true" block="0026000" dirTag="2_1120_0" epochTime="1670559661054" isDeparture="false" isScheduleBased="true" minutes="10" seconds="626" tripTag="54528503" vehicle="virtualVehicle_0026000"/>
+   <prediction affectedByLayover="true" block="0027002" dirTag="2_1126_0" epochTime="1670559957049" isDeparture="false" minutes="15" seconds="922" tripTag="54528354" vehicle="8643"/>
+   <prediction affectedByLayover="true" block="0020500" dirTag="2_1120_0" epochTime="1670559970946" isDeparture="false" minutes="15" seconds="936" tripTag="54528470" vehicle="6112"/>
+   <prediction affectedByLayover="true" block="0020800" dirTag="2_1120_0" epochTime="1670560741054" isDeparture="false" minutes="28" seconds="1706" tripTag="54528357" vehicle="4007"/>
+   <prediction affectedByLayover="true" block="0029811" dirTag="2_1120_0" epochTime="1670562301054" isDeparture="false" minutes="54" seconds="3266" tripTag="54528250" vehicle="8404"/>
+  </direction>
+ </predictions>
+</body>

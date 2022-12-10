@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="501" routeTitle="501 Pasadena - N. Hollywood Sta Via 134" stopTag="1709" stopTitle="Walnut / Raymond">
+  <direction title="West to N. Hllywd- Via 134 Fwy-Red-Orange Line">
+   <prediction block="5010602" dirTag="501_14_1" epochTime="1670559269305" isDeparture="false" minutes="0" seconds="23" tripTag="54428840" vehicle="5786"/>
+   <prediction affectedByLayover="true" block="5010200" dirTag="501_14_1" epochTime="1670560190627" isDeparture="false" minutes="15" seconds="944" tripTag="54428853" vehicle="5602"/>
+   <prediction affectedByLayover="true" block="5010100" dirTag="501_14_1" epochTime="1670564332857" isDeparture="false" minutes="84" seconds="5086" tripTag="54428894" vehicle="8251"/>
+  </direction>
+ </predictions>
+</body>

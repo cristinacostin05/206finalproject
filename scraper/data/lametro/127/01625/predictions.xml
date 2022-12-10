@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="1625" stopTitle="Rosecrans / San Pedro">
+  <direction title="West to Harbor Fwy Station">
+   <prediction block="1270100" dirTag="127_35_1" epochTime="1670559362302" isDeparture="false" minutes="28" seconds="1706" tripTag="54542723" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270400" dirTag="127_34_1" epochTime="1670559640709" isDeparture="false" minutes="33" seconds="1984" tripTag="54542770" vehicle="2024"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_35_1" epochTime="1670560882165" isDeparture="false" minutes="53" seconds="3226" tripTag="54542726" vehicle="1682"/>
+   <prediction affectedByLayover="true" block="1270100" dirTag="127_34_1" epochTime="1670562453504" isDeparture="false" minutes="79" seconds="4797" tripTag="54542771" vehicle="1943"/>
+  </direction>
+ </predictions>
+</body>

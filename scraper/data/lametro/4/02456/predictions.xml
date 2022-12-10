@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="2456" stopTitle="Hill / 7th">
+  <direction title="East to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0042502" dirTag="4_314_0" epochTime="1670562151520" isDeparture="false" isScheduleBased="true" minutes="73" seconds="4410" tripTag="54485918" vehicle="virtualVehicle_0042502"/>
+   <prediction affectedByLayover="true" block="0041300" dirTag="4_316_0" epochTime="1670563640422" isDeparture="false" minutes="98" seconds="5899" tripTag="54486009" vehicle="9526"/>
+  </direction>
+ </predictions>
+</body>

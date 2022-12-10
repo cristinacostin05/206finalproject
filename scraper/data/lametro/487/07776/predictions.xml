@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="7776" stopTitle="Las Tunas / Santa Anita">
+  <direction title="East to Sierra Madre Villa Station">
+   <prediction block="4870300" dirTag="487_117_0" epochTime="1670558338845" isDeparture="false" minutes="1" seconds="77" tripTag="54489693" vehicle="4014"/>
+   <prediction block="4870100" dirTag="487_117_0" epochTime="1670560837195" isDeparture="false" minutes="42" seconds="2576" tripTag="54489681" vehicle="4150"/>
+   <prediction affectedByLayover="true" block="4870502" dirTag="487_117_0" epochTime="1670562303232" isDeparture="false" minutes="67" seconds="4042" tripTag="54489683" vehicle="4081"/>
+  </direction>
+ </predictions>
+</body>

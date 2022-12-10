@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="10" routeTitle="10 W Hollywood-Dtwn LA -Avalon Sta Via" stopTag="5142" stopTitle="Hill / 8th">
+  <direction title="East to Downtown LA - Main-Venice">
+   <prediction affectedByLayover="true" block="0105602" dirTag="10_734_0" epochTime="1670559200982" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1075" tripTag="54470126" vehicle="virtualVehicle_0105602"/>
+  </direction>
+ </predictions>
+</body>

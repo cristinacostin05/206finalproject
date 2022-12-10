@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="251" routeTitle="251 Eagle Rock-Long Bch Gl Sta Via Eagle" stopTag="11243" stopTitle="Imperial / Martin Luther King Jr">
+  <direction title="South to Long Beach Bl - Green Line Station">
+   <prediction block="2511100" dirTag="251_164_1" epochTime="1670558936828" isDeparture="false" minutes="5" seconds="359" tripTag="54644493" vehicle="8601"/>
+   <prediction affectedByLayover="true" block="2512802" dirTag="251_177_1" epochTime="1670560079710" isDeparture="false" isScheduleBased="true" minutes="25" seconds="1502" tripTag="54644624" vehicle="virtualVehicle_2512802"/>
+  </direction>
+ </predictions>
+</body>

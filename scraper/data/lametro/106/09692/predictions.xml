@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="9692" stopTitle="1st / Ditman">
+  <direction title="North to Garvey &amp; Atlantic">
+   <prediction affectedByLayover="true" block="1060300" dirTag="106_42_0" epochTime="1670560194711" isDeparture="false" minutes="28" seconds="1705" tripTag="54482975" vehicle="3890"/>
+   <prediction affectedByLayover="true" block="1061000" dirTag="106_42_0" epochTime="1670562534711" isDeparture="false" minutes="67" seconds="4045" tripTag="54482976" vehicle="3940"/>
+  </direction>
+ </predictions>
+</body>

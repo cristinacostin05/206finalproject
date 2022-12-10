@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="922" stopTitle="Compton / Willowbrook">
+  <direction title="West to Harbor Fwy Station">
+   <prediction block="1270100" dirTag="127_35_1" epochTime="1670558409358" isDeparture="false" minutes="12" seconds="764" tripTag="54542723" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270400" dirTag="127_34_1" epochTime="1670558883591" isDeparture="false" minutes="20" seconds="1238" tripTag="54542770" vehicle="2024"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_35_1" epochTime="1670559956448" isDeparture="false" minutes="38" seconds="2311" tripTag="54542726" vehicle="1682"/>
+   <prediction affectedByLayover="true" block="1270100" dirTag="127_34_1" epochTime="1670561669159" isDeparture="false" minutes="67" seconds="4024" tripTag="54542771" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_34_1" epochTime="1670563300619" isDeparture="false" minutes="94" seconds="5655" tripTag="54542791" vehicle="1682"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="205" routeTitle="205 Willowbrook Sta-San Pedro Via Wilmgt" stopTag="17639" stopTitle="Wilmington / 122nd">
+  <direction title="North to Willowbrook / Rosa Parks Station">
+   <prediction block="2051000" dirTag="205_87_0" epochTime="1670561299461" isDeparture="false" minutes="31" seconds="1868" tripTag="54636693" vehicle="1533"/>
+   <prediction block="2050400" dirTag="205_87_0" epochTime="1670564474992" isDeparture="false" minutes="84" seconds="5043" tripTag="54636694" vehicle="1535"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="209" routeTitle="209 Expo/Crenshaw Sta- Gardena Via Arln" stopTag="14006" stopTitle="Van Ness / Gage">
+  <direction title="South to Crenshaw-Rosecrans">
+   <prediction affectedByLayover="true" block="2090100" dirTag="209_52_1" epochTime="1670560794677" isDeparture="false" minutes="15" seconds="944" tripTag="54501947" vehicle="5720"/>
+  </direction>
+ </predictions>
+</body>

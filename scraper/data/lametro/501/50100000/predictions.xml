@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="501" routeTitle="501 Pasadena - N. Hollywood Sta Via 134" stopTag="50100000" stopTitle="Alameda / Buena Vista">
+  <direction title="West to N. Hllywd- Via 134 Fwy-Red-Orange Line">
+   <prediction affectedByLayover="true" block="5010100" dirTag="501_14_1" epochTime="1670560682547" isDeparture="false" minutes="23" seconds="1434" tripTag="54428882" vehicle="8251"/>
+   <prediction block="5010602" dirTag="501_14_1" epochTime="1670560715291" isDeparture="false" minutes="24" seconds="1467" tripTag="54428840" vehicle="5786"/>
+   <prediction affectedByLayover="true" block="5010200" dirTag="501_14_1" epochTime="1670561636613" isDeparture="false" minutes="39" seconds="2388" tripTag="54428853" vehicle="5602"/>
+  </direction>
+ </predictions>
+</body>

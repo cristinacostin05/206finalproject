@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="217" routeTitle="217 E Hollywood - La Cienega Sta Via Hol" stopTag="2491" stopTitle="Hollywood / Vermont">
+  <direction title="North to Vermont/Sunset Sta">
+   <prediction block="2175300" dirTag="217_315_0" epochTime="1670561696490" isDeparture="false" minutes="45" seconds="2729" tripTag="54542192" vehicle="6101"/>
+   <prediction affectedByLayover="true" block="2179711" dirTag="217_315_0" epochTime="1670563935780" isDeparture="false" minutes="82" seconds="4969" tripTag="54542144" vehicle="6016"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="5126" stopTitle="Venice / Hill">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0330400" dirTag="33_580_1" epochTime="1670562678232" isDeparture="false" minutes="38" seconds="2296" tripTag="54470544" vehicle="8503"/>
+   <prediction affectedByLayover="true" block="0339702" dirTag="33_575_1" epochTime="1670565824505" isDeparture="false" minutes="90" seconds="5443" tripTag="54470551" vehicle="8624"/>
+   <prediction affectedByLayover="true" block="0331000" dirTag="33_580_1" epochTime="1670566278232" isDeparture="false" minutes="98" seconds="5896" tripTag="54470542" vehicle="8621"/>
+  </direction>
+ </predictions>
+</body>

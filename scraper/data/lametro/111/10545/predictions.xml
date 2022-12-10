@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="10545" stopTitle="Florence / Wilcox">
+  <direction title="West to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="1151500" dirTag="111_380_1" epochTime="1670563480263" isDeparture="false" minutes="62" seconds="3778" tripTag="54533473" vehicle="6021"/>
+   <prediction affectedByLayover="true" block="1119911" dirTag="111_380_1" epochTime="1670564841332" isDeparture="false" minutes="85" seconds="5139" tripTag="54533476" vehicle="8471"/>
+  </direction>
+ </predictions>
+</body>

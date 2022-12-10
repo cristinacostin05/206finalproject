@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="16628" stopTitle="Whittier / Lorena">
+  <direction title="West to Wilshire / Western Station">
+   <prediction affectedByLayover="true" block="0182502" dirTag="18_287_1" epochTime="1670560987218" isDeparture="false" isScheduleBased="true" minutes="50" seconds="3036" tripTag="54677483" vehicle="virtualVehicle_0182502"/>
+   <prediction affectedByLayover="true" block="0180700" dirTag="18_282_1" epochTime="1670563452410" isDeparture="false" minutes="91" seconds="5502" tripTag="54677460" vehicle="1923"/>
+  </direction>
+ </predictions>
+</body>

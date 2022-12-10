@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="23200116" stopTitle="Sepulveda / 30th">
+  <direction title="North to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="2320900" dirTag="232_87_0" epochTime="1670560061390" isDeparture="false" isScheduleBased="true" minutes="13" seconds="835" tripTag="54637081" vehicle="virtualVehicle_2320900"/>
+  </direction>
+ </predictions>
+</body>

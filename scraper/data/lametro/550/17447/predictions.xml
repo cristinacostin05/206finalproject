@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="550" routeTitle="550 Jefferson Park - San Pedro Via Harbo" stopTag="17447" stopTitle="Vermont / 228th">
+  <direction title="South to San Pedro - 7th-Patton">
+   <prediction block="5500200" dirTag="550_129_1" epochTime="1670559491451" isDeparture="false" minutes="14" seconds="870" tripTag="54528689" vehicle="6128"/>
+   <prediction affectedByLayover="true" block="5500100" dirTag="550_124_1" epochTime="1670562810264" isDeparture="false" isScheduleBased="true" minutes="69" seconds="4188" tripTag="54528688" vehicle="1668"/>
+  </direction>
+ </predictions>
+</body>

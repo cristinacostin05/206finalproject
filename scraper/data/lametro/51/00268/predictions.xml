@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="268" stopTitle="Avalon / Alondra">
+  <direction title="North to Westlake/Macarthur Pk Station">
+   <prediction affectedByLayover="true" block="0513402" dirTag="51_325_0" epochTime="1670559449624" isDeparture="false" minutes="24" seconds="1472" tripTag="54614049" vehicle="4174"/>
+   <prediction affectedByLayover="true" block="0512902" dirTag="51_325_0" epochTime="1670561309624" isDeparture="false" minutes="55" seconds="3332" tripTag="54614173" vehicle="3882"/>
+  </direction>
+  <direction title="North to 7th Street / Metro Center Station">
+   <prediction affectedByLayover="true" block="0513302" dirTag="51_339_0" epochTime="1670561023932" isDeparture="false" minutes="50" seconds="3046" tripTag="54614039" vehicle="5834"/>
+  </direction>
+ </predictions>
+</body>

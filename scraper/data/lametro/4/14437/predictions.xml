@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="14437" stopTitle="Santa Monica / Westholme">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0041900" dirTag="4_315_1" epochTime="1670558672168" isDeparture="false" isScheduleBased="true" minutes="15" seconds="901" tripTag="54485811" vehicle="virtualVehicle_0041900"/>
+   <prediction affectedByLayover="true" block="0040600" dirTag="4_315_1" epochTime="1670560480033" isDeparture="false" isScheduleBased="true" minutes="45" seconds="2709" tripTag="54485808" vehicle="virtualVehicle_0040600"/>
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670561220186" isDeparture="false" isScheduleBased="true" minutes="57" seconds="3449" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670563020186" isDeparture="false" isScheduleBased="true" minutes="87" seconds="5249" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+  <direction title="West to West LA - Sepulveda Bl">
+   <prediction block="0041000" dirTag="4_317_1" epochTime="1670559715222" isDeparture="false" minutes="32" seconds="1944" tripTag="54485802" vehicle="8810"/>
+  </direction>
+ </predictions>
+</body>

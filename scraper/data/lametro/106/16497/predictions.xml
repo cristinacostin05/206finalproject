@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="16497" stopTitle="Soto / Wabash">
+  <direction title="South to The Shops At Montebello">
+   <prediction block="1060500" dirTag="106_47_1" epochTime="1670558962886" isDeparture="false" minutes="7" seconds="454" tripTag="54482919" vehicle="4184"/>
+   <prediction affectedByLayover="true" block="1061102" dirTag="106_47_1" epochTime="1670561498511" isDeparture="false" isScheduleBased="true" minutes="49" seconds="2990" tripTag="54482920" vehicle="4123"/>
+  </direction>
+  <direction title="South to East LA College">
+   <prediction affectedByLayover="true" block="1060700" dirTag="106_46_1" epochTime="1670562063796" isDeparture="false" minutes="59" seconds="3555" tripTag="54482921" vehicle="3964"/>
+   <prediction affectedByLayover="true" block="1060800" dirTag="106_46_1" epochTime="1670564043796" isDeparture="false" minutes="92" seconds="5535" tripTag="54482923" vehicle="4172"/>
+  </direction>
+ </predictions>
+</body>

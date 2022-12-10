@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="11917" stopTitle="Spring / 1st - City Hall">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_211_0" epochTime="1670562294165" isDeparture="false" isScheduleBased="true" minutes="39" seconds="2394" tripTag="54545485" vehicle="virtualVehicle_9102202"/>
+   <prediction affectedByLayover="true" block="9102602" dirTag="910_211_0" epochTime="1670565230339" isDeparture="false" minutes="88" seconds="5330" tripTag="54545484" vehicle="8388"/>
+  </direction>
+ </predictions>
+</body>

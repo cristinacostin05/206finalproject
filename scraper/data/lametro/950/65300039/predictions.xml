@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="65300039" stopTitle="Figueroa / 190th">
+  <direction title="South to Silver Line - San Pedro Via Downtown LA">
+   <prediction block="9105702" dirTag="950_209_1" epochTime="1670558928812" isDeparture="false" minutes="14" seconds="872" tripTag="54545489_950" vehicle="8371"/>
+   <prediction block="9105902" dirTag="950_209_1" epochTime="1670561375973" isDeparture="false" minutes="55" seconds="3319" tripTag="54545491_950" vehicle="5915"/>
+  </direction>
+ </predictions>
+</body>

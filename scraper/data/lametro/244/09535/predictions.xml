@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="244" routeTitle="244 Chatsworth Sta-Woodland Hills Via De" stopTag="9535" stopTitle="De Soto / Strathern">
+  <direction title="North to Chatsworth Station">
+   <prediction affectedByLayover="true" block="2440100" dirTag="244_1_0" epochTime="1670560680360" isDeparture="false" minutes="12" seconds="743" tripTag="54398452" vehicle="4112"/>
+   <prediction affectedByLayover="true" block="1500400" dirTag="244_1_0" epochTime="1670562480360" isDeparture="false" minutes="42" seconds="2543" tripTag="54398466" vehicle="6052"/>
+  </direction>
+ </predictions>
+</body>

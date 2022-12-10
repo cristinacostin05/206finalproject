@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="2" routeTitle="2 Westwood - Exposition Park Via Sunse" stopTag="8022" stopTitle="Sunset / Maltman">
+  <direction title="East to Expo Park/USC">
+   <prediction block="0029911" dirTag="2_1126_0" epochTime="1670559799949" isDeparture="false" minutes="12" seconds="758" tripTag="54528353" vehicle="8590"/>
+   <prediction affectedByLayover="true" block="0026000" dirTag="2_1120_0" epochTime="1670562397354" isDeparture="false" isScheduleBased="true" minutes="55" seconds="3355" tripTag="54528503" vehicle="virtualVehicle_0026000"/>
+   <prediction affectedByLayover="true" block="0020500" dirTag="2_1120_0" epochTime="1670562707246" isDeparture="false" minutes="61" seconds="3665" tripTag="54528470" vehicle="6112"/>
+   <prediction affectedByLayover="true" block="0020800" dirTag="2_1120_0" epochTime="1670563477354" isDeparture="false" minutes="73" seconds="4435" tripTag="54528357" vehicle="4007"/>
+   <prediction affectedByLayover="true" block="0027002" dirTag="2_1126_0" epochTime="1670563565610" isDeparture="false" minutes="75" seconds="4524" tripTag="54528354" vehicle="8643"/>
+  </direction>
+ </predictions>
+</body>

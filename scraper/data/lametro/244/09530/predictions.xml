@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="244" routeTitle="244 Chatsworth Sta-Woodland Hills Via De" stopTag="9530" stopTitle="De Soto / Parthenia">
+  <direction title="North to Chatsworth Station">
+   <prediction affectedByLayover="true" block="2440100" dirTag="244_1_0" epochTime="1670560857758" isDeparture="false" minutes="15" seconds="921" tripTag="54398452" vehicle="4112"/>
+   <prediction affectedByLayover="true" block="1500400" dirTag="244_1_0" epochTime="1670562657758" isDeparture="false" minutes="45" seconds="2721" tripTag="54398466" vehicle="6052"/>
+  </direction>
+ </predictions>
+</body>

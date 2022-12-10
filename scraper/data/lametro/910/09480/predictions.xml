@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="9480" stopTitle="Cal State La Busway Station">
+  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
+   <prediction block="9102602" dirTag="910_210_1" epochTime="1670560289537" isDeparture="false" minutes="6" seconds="386" tripTag="54545613" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_210_1" epochTime="1670565423709" isDeparture="false" isScheduleBased="true" minutes="92" seconds="5520" tripTag="54545496" vehicle="virtualVehicle_9102202"/>
+  </direction>
+ </predictions>
+</body>

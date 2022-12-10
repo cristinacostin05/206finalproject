@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="40" routeTitle="40 Downtown LA-Sbay Galleria Via King B" stopTag="4799" stopTitle="Broadway / 7th">
+  <direction title="North to Downtown LA - Union Sta">
+   <prediction affectedByLayover="true" block="0403402" dirTag="40_913_0" epochTime="1670558976868" isDeparture="false" isScheduleBased="true" minutes="4" seconds="277" tripTag="54535848" vehicle="virtualVehicle_0403402"/>
+   <prediction block="0402200" dirTag="40_913_0" epochTime="1670561780802" isDeparture="false" minutes="51" seconds="3081" tripTag="54535837" vehicle="6126"/>
+  </direction>
+ </predictions>
+</body>

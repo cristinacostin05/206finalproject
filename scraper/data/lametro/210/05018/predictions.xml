@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="5018" stopTitle="Redondo Beach / Freeman">
+  <direction title="South to South Bay Galleria">
+   <prediction block="2102402" dirTag="210_303_1" epochTime="1670558612346" isDeparture="false" minutes="12" seconds="734" tripTag="54543156" vehicle="1952"/>
+   <prediction block="2100700" dirTag="210_303_1" epochTime="1670561620820" isDeparture="false" minutes="62" seconds="3742" tripTag="54543057" vehicle="2060"/>
+  </direction>
+ </predictions>
+</body>

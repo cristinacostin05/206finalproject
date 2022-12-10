@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="17025" stopTitle="Lakewood / Artesia">
+  <direction title="South to Lakewood Center">
+   <prediction block="2660400" dirTag="266_26_1" epochTime="1670561697700" isDeparture="false" minutes="24" seconds="1448" tripTag="54432299" vehicle="5757"/>
+   <prediction block="2661200" dirTag="266_26_1" epochTime="1670563330656" isDeparture="false" minutes="51" seconds="3081" tripTag="54432261" vehicle="5635"/>
+  </direction>
+ </predictions>
+</body>

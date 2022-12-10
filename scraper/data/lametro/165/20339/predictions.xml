@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="165" routeTitle="165 West Hills - Burbank Via Vanowen St" stopTag="20339" stopTitle="Vanowen / G Line (Orange)">
+  <direction title="East to Burbank Station">
+   <prediction affectedByLayover="true" block="1640500" dirTag="165_199_0" epochTime="1670560554080" isDeparture="false" minutes="37" seconds="2264" tripTag="54422736" vehicle="1990"/>
+   <prediction affectedByLayover="true" block="1640600" dirTag="165_199_0" epochTime="1670564156583" isDeparture="false" minutes="97" seconds="5867" tripTag="54422660" vehicle="1988"/>
+  </direction>
+ </predictions>
+</body>

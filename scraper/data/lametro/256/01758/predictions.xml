@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="1758" stopTitle="Eastern / Navarro">
+  <direction title="North to Memorial Park Station">
+   <prediction affectedByLayover="true" block="2560100" dirTag="256_105_0" epochTime="1670561998470" isDeparture="false" minutes="39" seconds="2386" tripTag="54664087" vehicle="3130"/>
+   <prediction affectedByLayover="true" block="2560300" dirTag="256_105_0" epochTime="1670564938470" isDeparture="false" minutes="88" seconds="5326" tripTag="54664090" vehicle="3136"/>
+  </direction>
+ </predictions>
+</body>

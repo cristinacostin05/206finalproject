@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="14" routeTitle="14 Cedar Sinai-Dtwn LA-Wash/Fairfax Via" stopTag="8992" stopTitle="Beverly / Belmont">
+  <direction title="South to Washington/Fairfax Transit Hub">
+   <prediction block="0149911" dirTag="14_503_1" epochTime="1670561638907" isDeparture="false" minutes="27" seconds="1645" tripTag="54520455_14" vehicle="5653"/>
+  </direction>
+ </predictions>
+</body>

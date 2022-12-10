@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="13508" stopTitle="Fremont / Valley">
+  <direction title="South to Csula Transit Center">
+   <prediction affectedByLayover="true" block="2580100" dirTag="258_42_1" epochTime="1670562496054" isDeparture="false" minutes="36" seconds="2210" tripTag="54676274" vehicle="5858"/>
+   <prediction affectedByLayover="true" block="2580500" dirTag="258_42_1" epochTime="1670564956054" isDeparture="false" minutes="77" seconds="4670" tripTag="54676295" vehicle="5961"/>
+  </direction>
+  <direction title="South to Paramount">
+   <prediction block="2580200" dirTag="258_45_1" epochTime="1670560804476" isDeparture="false" minutes="8" seconds="518" tripTag="54676276" vehicle="1640"/>
+  </direction>
+ </predictions>
+</body>

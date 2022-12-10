@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="5387" stopTitle="Santa Monica / Normandie">
+  <direction title="East to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0042502" dirTag="4_314_0" epochTime="1670559792509" isDeparture="false" isScheduleBased="true" minutes="34" seconds="2049" tripTag="54485918" vehicle="virtualVehicle_0042502"/>
+   <prediction affectedByLayover="true" block="0041300" dirTag="4_316_0" epochTime="1670561927088" isDeparture="false" minutes="69" seconds="4184" tripTag="54486009" vehicle="9526"/>
+   <prediction affectedByLayover="true" block="0040700" dirTag="4_316_0" epochTime="1670562055304" isDeparture="false" minutes="71" seconds="4312" tripTag="54485917" vehicle="9523"/>
+  </direction>
+ </predictions>
+</body>

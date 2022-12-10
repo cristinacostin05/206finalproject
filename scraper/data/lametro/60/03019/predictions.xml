@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="3019" stopTitle="Long Beach / Imperial">
+  <direction title="North to Downtown LA - Sunset- Figueroa">
+   <prediction block="0604311" dirTag="60_161_0" epochTime="1670560288231" isDeparture="false" minutes="12" seconds="727" tripTag="54597649" vehicle="5675"/>
+   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670561197515" isDeparture="false" isScheduleBased="true" minutes="27" seconds="1636" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
+   <prediction affectedByLayover="true" block="0604211" dirTag="60_161_0" epochTime="1670565085514" isDeparture="false" minutes="92" seconds="5524" tripTag="54597697" vehicle="6103"/>
+  </direction>
+ </predictions>
+</body>

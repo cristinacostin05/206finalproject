@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="282" stopTitle="Avalon / Gardena">
+  <direction title="North to Westlake/Macarthur Pk Station">
+   <prediction affectedByLayover="true" block="0513402" dirTag="51_325_0" epochTime="1670559402244" isDeparture="false" minutes="23" seconds="1423" tripTag="54614049" vehicle="4174"/>
+   <prediction affectedByLayover="true" block="0512902" dirTag="51_325_0" epochTime="1670561262244" isDeparture="false" minutes="54" seconds="3283" tripTag="54614173" vehicle="3882"/>
+  </direction>
+  <direction title="North to 7th Street / Metro Center Station">
+   <prediction affectedByLayover="true" block="0513302" dirTag="51_339_0" epochTime="1670560978213" isDeparture="false" minutes="49" seconds="2999" tripTag="54614039" vehicle="5834"/>
+  </direction>
+ </predictions>
+</body>

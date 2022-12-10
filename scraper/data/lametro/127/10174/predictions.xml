@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="10174" stopTitle="Rosecrans / Avalon">
+  <direction title="East to Compton Station">
+   <prediction block="1270400" dirTag="127_40_0" epochTime="1670557937160" isDeparture="false" minutes="4" seconds="284" tripTag="54542749" vehicle="2024"/>
+   <prediction affectedByLayover="true" block="1270100" dirTag="127_40_0" epochTime="1670560740182" isDeparture="false" minutes="51" seconds="3087" tripTag="54542780" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_40_0" epochTime="1670562269818" isDeparture="false" minutes="76" seconds="4616" tripTag="54542782" vehicle="1682"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="5138" stopTitle="6th / Hill">
+  <direction title="East to Downtown LA - 6th-Main">
+   <prediction affectedByLayover="true" block="0201102" dirTag="20_781_0" epochTime="1670559008486" isDeparture="false" isScheduleBased="true" minutes="11" seconds="668" tripTag="54485026" vehicle="virtualVehicle_0201102"/>
+   <prediction block="0209811" dirTag="20_783_0" epochTime="1670560945181" isDeparture="false" minutes="43" seconds="2605" tripTag="54485028" vehicle="4165"/>
+   <prediction affectedByLayover="true" block="0209711" dirTag="20_783_0" epochTime="1670564098259" isDeparture="false" isScheduleBased="true" minutes="95" seconds="5758" tripTag="54485030" vehicle="virtualVehicle_0209711"/>
+  </direction>
+ </predictions>
+</body>

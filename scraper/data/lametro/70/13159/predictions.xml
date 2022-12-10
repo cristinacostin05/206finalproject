@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="13159" stopTitle="Atlantic / Floral">
+  <direction title="West to Downtown LA - Broadway-Venice">
+   <prediction block="0701700" dirTag="70_290_1" epochTime="1670560172312" isDeparture="false" minutes="14" seconds="859" tripTag="54592901" vehicle="1838"/>
+   <prediction affectedByLayover="true" block="0704211" dirTag="70_290_1" epochTime="1670561972883" isDeparture="false" isScheduleBased="true" minutes="44" seconds="2660" tripTag="54592920" vehicle="virtualVehicle_0704211"/>
+   <prediction affectedByLayover="true" block="0700100" dirTag="70_291_1" epochTime="1670564372121" isDeparture="false" minutes="84" seconds="5059" tripTag="54592919" vehicle="4116"/>
+  </direction>
+ </predictions>
+</body>

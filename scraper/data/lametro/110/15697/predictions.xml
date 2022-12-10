@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="15697" stopTitle="62nd / Gramercy">
+  <direction title="West to Culver City Transit Ctr">
+   <prediction block="1101200" dirTag="110_274_1" epochTime="1670560298812" isDeparture="false" minutes="40" seconds="2442" tripTag="54518538" vehicle="5917"/>
+   <prediction affectedByLayover="true" block="1101100" dirTag="110_274_1" epochTime="1670560572844" isDeparture="false" minutes="45" seconds="2716" tripTag="54518536" vehicle="5753"/>
+  </direction>
+  <direction title="West to Playa Vista">
+   <prediction block="1100700" dirTag="110_273_1" epochTime="1670558949461" isDeparture="false" minutes="18" seconds="1093" tripTag="54518535" vehicle="5769"/>
+  </direction>
+ </predictions>
+</body>

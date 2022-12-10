@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="19120" stopTitle="Avalon / Jefferson">
+  <direction title="South to CAL State Dominguez Hls">
+   <prediction block="0512902" dirTag="51_328_1" epochTime="1670558088833" isDeparture="false" minutes="1" seconds="80" tripTag="54614066" vehicle="3882"/>
+   <prediction affectedByLayover="true" block="0513502" dirTag="51_328_1" epochTime="1670562092825" isDeparture="false" isScheduleBased="true" minutes="68" seconds="4084" tripTag="54614186" vehicle="virtualVehicle_0513502"/>
+  </direction>
+  <direction title="South to Avalon Station">
+   <prediction block="0511500" dirTag="51_332_1" epochTime="1670558792251" isDeparture="false" minutes="13" seconds="784" tripTag="54614093" vehicle="6139"/>
+  </direction>
+ </predictions>
+</body>

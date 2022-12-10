@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="30" routeTitle="30 Pico Rimpau - Dtwn LA - Indiana Sta" stopTag="9704" stopTitle="1st / Mott">
+  <direction title="West to Pico-Rimpau">
+   <prediction block="0309811" dirTag="30_801_1" epochTime="1670559093038" isDeparture="false" minutes="1" seconds="99" tripTag="54511799" vehicle="3967"/>
+  </direction>
+ </predictions>
+</body>

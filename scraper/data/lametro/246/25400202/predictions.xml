@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="246" routeTitle="246 Harbor Gateway Trans Ctr - San Pedro" stopTag="25400202" stopTitle="Albertoni / Main">
+  <direction title="South to San Pedro - Pacific-21st">
+   <prediction affectedByLayover="true" block="2460300" dirTag="246_71_1" epochTime="1670559786317" isDeparture="false" isScheduleBased="true" minutes="22" seconds="1376" tripTag="54544776" vehicle="1789"/>
+  </direction>
+ </predictions>
+</body>

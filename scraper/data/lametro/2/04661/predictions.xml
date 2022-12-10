@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="2" routeTitle="2 Westwood - Exposition Park Via Sunse" stopTag="4661" stopTitle="Alvarado / James M Wood">
+  <direction title="West to Westwood/U C L A">
+   <prediction affectedByLayover="true" block="0021400" dirTag="2_1124_1" epochTime="1670559747886" isDeparture="false" isScheduleBased="true" minutes="11" seconds="695" tripTag="54528462" vehicle="virtualVehicle_0021400"/>
+   <prediction affectedByLayover="true" block="0029702" dirTag="2_1124_1" epochTime="1670560909966" isDeparture="false" minutes="30" seconds="1857" tripTag="54528463" vehicle="8523"/>
+   <prediction affectedByLayover="true" block="0022302" dirTag="2_1124_1" epochTime="1670562327886" isDeparture="false" isScheduleBased="true" minutes="54" seconds="3275" tripTag="54528464" vehicle="virtualVehicle_0022302"/>
+   <prediction affectedByLayover="true" block="0029911" dirTag="2_1124_1" epochTime="1670563669966" isDeparture="false" minutes="76" seconds="4617" tripTag="54528465" vehicle="8590"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="13918" stopTitle="Santa Fe / 25th">
+  <direction title="South to Artesia Station">
+   <prediction affectedByLayover="true" block="0600900" dirTag="60_163_1" epochTime="1670561449930" isDeparture="false" minutes="31" seconds="1860" tripTag="54597795" vehicle="4083"/>
+   <prediction affectedByLayover="true" block="0604111" dirTag="60_163_1" epochTime="1670563521548" isDeparture="false" minutes="65" seconds="3931" tripTag="54597755" vehicle="6114"/>
+  </direction>
+  <direction title="South to Downtown Long Beach">
+   <prediction affectedByLayover="true" block="0604311" dirTag="60_167_1" epochTime="1670565152499" isDeparture="false" minutes="92" seconds="5562" tripTag="54597756" vehicle="5675"/>
+  </direction>
+ </predictions>
+</body>

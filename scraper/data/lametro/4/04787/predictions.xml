@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="4787" stopTitle="Broadway / 5th">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670559052336" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1293" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+   <prediction affectedByLayover="true" block="0049411" dirTag="4_313_1" epochTime="1670562292336" isDeparture="false" isScheduleBased="true" minutes="75" seconds="4533" tripTag="54485785" vehicle="virtualVehicle_0049411"/>
+  </direction>
+ </predictions>
+</body>

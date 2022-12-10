@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="14401" stopTitle="Santa Monica / La Brea">
+  <direction title="West to West LA - Sepulveda Bl">
+   <prediction block="0041000" dirTag="4_317_1" epochTime="1670558102588" isDeparture="false" minutes="5" seconds="335" tripTag="54485802" vehicle="8810"/>
+  </direction>
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0040600" dirTag="4_315_1" epochTime="1670558705886" isDeparture="false" isScheduleBased="true" minutes="15" seconds="938" tripTag="54485808" vehicle="virtualVehicle_0040600"/>
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670559657440" isDeparture="false" isScheduleBased="true" minutes="31" seconds="1890" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670561457440" isDeparture="false" isScheduleBased="true" minutes="61" seconds="3690" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+ </predictions>
+</body>

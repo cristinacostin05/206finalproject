@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="16686" stopTitle="Wilshire / Alvarado">
+  <direction title="West to Westwood">
+   <prediction affectedByLayover="true" block="7203402" dirTag="720_1274_1" epochTime="1670560330854" isDeparture="false" minutes="28" seconds="1737" tripTag="54508049" vehicle="8738"/>
+   <prediction affectedByLayover="true" block="7203802" dirTag="720_1274_1" epochTime="1670562190854" isDeparture="false" minutes="59" seconds="3597" tripTag="54507809" vehicle="8785"/>
+  </direction>
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="7203502" dirTag="720_1273_1" epochTime="1670560387618" isDeparture="false" isScheduleBased="true" minutes="29" seconds="1793" tripTag="54507812" vehicle="virtualVehicle_7203502"/>
+   <prediction affectedByLayover="true" block="7200100" dirTag="720_1273_1" epochTime="1670562247618" isDeparture="false" minutes="60" seconds="3653" tripTag="54508050" vehicle="9587"/>
+  </direction>
+ </predictions>
+</body>

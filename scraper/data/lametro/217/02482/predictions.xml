@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="217" routeTitle="217 E Hollywood - La Cienega Sta Via Hol" stopTag="2482" stopTitle="Hollywood / Gardner">
+  <direction title="North to Vermont/Sunset Sta">
+   <prediction block="2175300" dirTag="217_315_0" epochTime="1670560478112" isDeparture="false" minutes="25" seconds="1512" tripTag="54542192" vehicle="6101"/>
+   <prediction affectedByLayover="true" block="2179711" dirTag="217_315_0" epochTime="1670562717402" isDeparture="false" minutes="62" seconds="3752" tripTag="54542144" vehicle="6016"/>
+  </direction>
+  <direction title="North to Vermont/Santa Monica Station">
+   <prediction affectedByLayover="true" block="2179811" dirTag="217_311_0" epochTime="1670563820611" isDeparture="false" minutes="80" seconds="4855" tripTag="54542142" vehicle="5969"/>
+  </direction>
+ </predictions>
+</body>

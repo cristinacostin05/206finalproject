@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="617" routeTitle="617 Beverly Hills-Culver City Via Burton" stopTag="15654" stopTitle="3rd / Sherbourne">
+  <direction title="East to Culver City Station">
+   <prediction affectedByLayover="true" block="6170200" dirTag="617_6_0" epochTime="1670564180278" isDeparture="false" minutes="71" seconds="4290" tripTag="54474006" vehicle="5656"/>
+  </direction>
+  <direction title="West to Beverly-Pico">
+   <prediction block="6170200" dirTag="617_4_1" epochTime="1670560861744" isDeparture="false" minutes="16" seconds="971" tripTag="54473993" vehicle="5656"/>
+  </direction>
+ </predictions>
+</body>

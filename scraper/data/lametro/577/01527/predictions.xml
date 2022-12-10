@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="577" routeTitle="577 El Monte Sta- Long Beach Va Med Ctr" stopTag="1527" stopTitle="Channel / 7th">
+  <direction title="South to Csulb / VA Medical Center">
+   <prediction block="5770200" dirTag="577_38_1" epochTime="1670562351571" isDeparture="false" minutes="32" seconds="1924" tripTag="54433910" vehicle="5785"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="5049" stopTitle="Figueroa / Washington">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_211_0" epochTime="1670561076113" isDeparture="false" isScheduleBased="true" minutes="19" seconds="1176" tripTag="54545485" vehicle="virtualVehicle_9102202"/>
+   <prediction affectedByLayover="true" block="9102602" dirTag="910_211_0" epochTime="1670564207755" isDeparture="false" minutes="71" seconds="4308" tripTag="54545484" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_211_0" epochTime="1670564676113" isDeparture="false" isScheduleBased="true" minutes="79" seconds="4776" tripTag="54545505" vehicle="virtualVehicle_9101302"/>
+  </direction>
+ </predictions>
+</body>

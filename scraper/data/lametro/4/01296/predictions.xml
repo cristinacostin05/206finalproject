@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="1296" stopTitle="Santa Monica / Canon">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0041900" dirTag="4_315_1" epochTime="1670558132923" isDeparture="false" isScheduleBased="true" minutes="6" seconds="374" tripTag="54485811" vehicle="virtualVehicle_0041900"/>
+   <prediction block="0045300" dirTag="4_315_1" epochTime="1670558727701" isDeparture="false" minutes="16" seconds="969" tripTag="54485793" vehicle="8742"/>
+   <prediction affectedByLayover="true" block="0040600" dirTag="4_315_1" epochTime="1670559940788" isDeparture="false" isScheduleBased="true" minutes="36" seconds="2182" tripTag="54485808" vehicle="virtualVehicle_0040600"/>
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670560762561" isDeparture="false" isScheduleBased="true" minutes="50" seconds="3004" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670562562561" isDeparture="false" isScheduleBased="true" minutes="80" seconds="4804" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+  <direction title="West to West LA - Sepulveda Bl">
+   <prediction block="0041000" dirTag="4_317_1" epochTime="1670559247637" isDeparture="false" minutes="24" seconds="1489" tripTag="54485802" vehicle="8810"/>
+  </direction>
+ </predictions>
+</body>

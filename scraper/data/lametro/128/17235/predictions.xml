@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="128" routeTitle="128 Compton Sta - Cerritos Towne Center" stopTag="17235" stopTitle="Alondra / Virginia">
+  <direction title="West to Compton Station">
+   <prediction affectedByLayover="true" block="1280300" dirTag="128_28_1" epochTime="1670561137503" isDeparture="false" minutes="41" seconds="2487" tripTag="54540253" vehicle="1522"/>
+  </direction>
+ </predictions>
+</body>

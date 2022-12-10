@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="212" routeTitle="212 Hllywd/Vine Sta - Hawthorne/Lennox S" stopTag="4162" stopTitle="Overhill / Northridge">
+  <direction title="South to Hawthorne/Lennox Sta">
+   <prediction affectedByLayover="true" block="2121500" dirTag="212_202_1" epochTime="1670565012368" isDeparture="false" minutes="80" seconds="4850" tripTag="54578856" vehicle="5738"/>
+  </direction>
+ </predictions>
+</body>

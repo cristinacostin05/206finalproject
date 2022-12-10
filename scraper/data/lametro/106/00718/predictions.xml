@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="106" routeTitle="106 Montebello - Monterey Park Via 1st-G" stopTag="718" stopTitle="City Terrace / Rowan">
+  <direction title="North to Garvey &amp; Atlantic">
+   <prediction block="1060700" dirTag="106_43_0" epochTime="1670558771895" isDeparture="false" minutes="4" seconds="289" tripTag="54482973" vehicle="3964"/>
+   <prediction block="1060800" dirTag="106_42_0" epochTime="1670559935667" isDeparture="false" minutes="24" seconds="1453" tripTag="54482974" vehicle="4172"/>
+   <prediction affectedByLayover="true" block="1060300" dirTag="106_42_0" epochTime="1670561944154" isDeparture="false" minutes="57" seconds="3462" tripTag="54482975" vehicle="3890"/>
+   <prediction affectedByLayover="true" block="1061000" dirTag="106_42_0" epochTime="1670564284154" isDeparture="false" minutes="96" seconds="5802" tripTag="54482976" vehicle="3940"/>
+  </direction>
+ </predictions>
+</body>

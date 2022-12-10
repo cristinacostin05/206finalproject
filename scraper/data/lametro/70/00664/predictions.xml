@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="664" stopTitle="Cesar E Chavez / Evergreen">
+  <direction title="East to El Monte Station">
+   <prediction block="0700200" dirTag="70_292_0" epochTime="1670559485069" isDeparture="false" minutes="3" seconds="198" tripTag="54592801" vehicle="1841"/>
+   <prediction affectedByLayover="true" block="0704111" dirTag="70_288_0" epochTime="1670563914124" isDeparture="false" minutes="77" seconds="4627" tripTag="54592910" vehicle="1996"/>
+   <prediction affectedByLayover="true" block="0701700" dirTag="70_292_0" epochTime="1670564401716" isDeparture="false" minutes="85" seconds="5114" tripTag="54592847" vehicle="1838"/>
+  </direction>
+ </predictions>
+</body>

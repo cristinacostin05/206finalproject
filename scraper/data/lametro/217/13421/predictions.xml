@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="217" routeTitle="217 E Hollywood - La Cienega Sta Via Hol" stopTag="13421" stopTitle="Fairfax / Wilshire">
+  <direction title="South to LA Cienega/Jefferson Sta">
+   <prediction block="2179711" dirTag="217_317_1" epochTime="1670559097949" isDeparture="false" minutes="1" seconds="117" tripTag="54542145" vehicle="6016"/>
+   <prediction block="2179811" dirTag="217_317_1" epochTime="1670559911623" isDeparture="false" minutes="15" seconds="931" tripTag="54542143" vehicle="5969"/>
+   <prediction affectedByLayover="true" block="2170502" dirTag="217_317_1" epochTime="1670560893695" isDeparture="false" isScheduleBased="true" minutes="31" seconds="1913" tripTag="54542147" vehicle="virtualVehicle_2170502"/>
+  </direction>
+ </predictions>
+</body>

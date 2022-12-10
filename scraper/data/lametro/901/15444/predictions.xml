@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15444" stopTitle="Canoga Station">
+  <direction title="West to G Line (orange) - Chatsworth Station">
+   <prediction block="9010700" dirTag="901_54_1" epochTime="1670558214165" isDeparture="false" minutes="1" seconds="96" tripTag="54425155" vehicle="19521"/>
+   <prediction block="9011502" dirTag="901_54_1" epochTime="1670559229573" isDeparture="false" minutes="18" seconds="1112" tripTag="54425143" vehicle="19526"/>
+   <prediction affectedByLayover="true" block="9012102" dirTag="901_54_1" epochTime="1670560706536" isDeparture="false" minutes="43" seconds="2589" tripTag="54425129" vehicle="19500"/>
+   <prediction affectedByLayover="true" block="9012202" dirTag="901_54_1" epochTime="1670561558405" isDeparture="false" minutes="57" seconds="3441" tripTag="54425159" vehicle="19501"/>
+  </direction>
+ </predictions>
+</body>

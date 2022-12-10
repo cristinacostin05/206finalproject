@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="28" routeTitle="28 Century City-Dtw LA-Via Olympic" stopTag="4137" stopTitle="Olympic / Crenshaw">
+  <direction title="East to Cesar Chavez &amp; Vignes">
+   <prediction block="0285100" dirTag="28_642_0" epochTime="1670561180430" isDeparture="false" minutes="20" seconds="1216" tripTag="54472819" vehicle="4131"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="12415" stopTitle="Aliso / Los Angeles">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction block="9102602" dirTag="950_212_0" epochTime="1670559435054" isDeparture="false" minutes="23" seconds="1386" tripTag="54545475_950" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9105702" dirTag="950_212_0" epochTime="1670563884058" isDeparture="false" minutes="97" seconds="5835" tripTag="54545467_950" vehicle="8371"/>
+  </direction>
+ </predictions>
+</body>

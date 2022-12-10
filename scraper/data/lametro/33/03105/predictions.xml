@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="3105" stopTitle="Main / Brooks">
+  <direction title="East to Downtown LA - Union Sta">
+   <prediction affectedByLayover="true" block="0339811" dirTag="33_589_0" epochTime="1670563503756" isDeparture="false" minutes="52" seconds="3145" tripTag="54470676" vehicle="8641"/>
+   <prediction affectedByLayover="true" block="0339911" dirTag="33_589_0" epochTime="1670565963756" isDeparture="false" minutes="93" seconds="5605" tripTag="54470664" vehicle="8633"/>
+  </direction>
+ </predictions>
+</body>

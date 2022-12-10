@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="1218" stopTitle="7th / Decatur">
+  <direction title="North to Downtown LA - Sunset- Figueroa">
+   <prediction block="0604111" dirTag="60_161_0" epochTime="1670560439451" isDeparture="false" minutes="14" seconds="881" tripTag="54597668" vehicle="6114"/>
+   <prediction block="0604311" dirTag="60_161_0" epochTime="1670562105998" isDeparture="false" minutes="42" seconds="2547" tripTag="54597649" vehicle="5675"/>
+   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670563101753" isDeparture="false" isScheduleBased="true" minutes="59" seconds="3543" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
+  </direction>
+ </predictions>
+</body>

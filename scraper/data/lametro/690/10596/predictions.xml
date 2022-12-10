@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="690" routeTitle="690 Sylmar Sta -Olive View Hosp.-Sunland" stopTag="10596" stopTitle="Foothill / Pierce">
+  <direction title="West to Sylmar Station">
+   <prediction affectedByLayover="true" block="6900200" dirTag="690_2_1" epochTime="1670561568177" isDeparture="false" minutes="19" seconds="1161" tripTag="54428449" vehicle="1780"/>
+   <prediction affectedByLayover="true" block="6900400" dirTag="690_2_1" epochTime="1670564364006" isDeparture="false" isScheduleBased="true" minutes="65" seconds="3957" tripTag="54428448" vehicle="virtualVehicle_6900400"/>
+   <prediction affectedByLayover="true" block="6900502" dirTag="690_2_1" epochTime="1670566176496" isDeparture="false" minutes="96" seconds="5770" tripTag="54428452" vehicle="6141"/>
+  </direction>
+ </predictions>
+</body>

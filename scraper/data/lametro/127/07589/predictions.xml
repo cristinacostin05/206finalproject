@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="127" routeTitle="127 Harbor Fwy Sta - Downey Via Compton" stopTag="7589" stopTitle="Compton / Dwight">
+  <direction title="East to Compton Station">
+   <prediction block="1270400" dirTag="127_40_0" epochTime="1670558267776" isDeparture="false" minutes="10" seconds="616" tripTag="54542749" vehicle="2024"/>
+   <prediction affectedByLayover="true" block="1270100" dirTag="127_40_0" epochTime="1670561070798" isDeparture="false" minutes="56" seconds="3419" tripTag="54542780" vehicle="1943"/>
+   <prediction affectedByLayover="true" block="1270200" dirTag="127_40_0" epochTime="1670562600434" isDeparture="false" minutes="82" seconds="4949" tripTag="54542782" vehicle="1682"/>
+  </direction>
+ </predictions>
+</body>

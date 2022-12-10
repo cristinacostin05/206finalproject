@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="4214" stopTitle="Pacific / Gage">
+  <direction title="North to Downtown LA - Sunset- Figueroa">
+   <prediction block="0604311" dirTag="60_161_0" epochTime="1670561149052" isDeparture="false" minutes="26" seconds="1580" tripTag="54597649" vehicle="5675"/>
+   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670562200603" isDeparture="false" isScheduleBased="true" minutes="43" seconds="2632" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
+  </direction>
+ </predictions>
+</body>

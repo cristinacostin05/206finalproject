@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="158" routeTitle="158 Chatsworth Sta-Sherman Oaks Via Devo" stopTag="140733" stopTitle="Devonshire / Filmore">
+  <direction title="West to Chatsworth Station">
+   <prediction block="1580402" dirTag="158_53_1" epochTime="1670560986490" isDeparture="false" minutes="27" seconds="1642" tripTag="54452536" vehicle="2049"/>
+   <prediction affectedByLayover="true" block="1500100" dirTag="158_53_1" epochTime="1670564263424" isDeparture="false" minutes="81" seconds="4919" tripTag="54452537" vehicle="5833"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="5859" stopTitle="San Fernando / Van Nuys">
+  <direction title="North to Sepulveda E Line (expo) Station">
+   <prediction block="7611500" dirTag="761_71_0" epochTime="1670560288239" isDeparture="false" minutes="25" seconds="1551" tripTag="54424806" vehicle="8792"/>
+   <prediction block="7610200" dirTag="761_71_0" epochTime="1670563051168" isDeparture="false" minutes="71" seconds="4314" tripTag="54424826" vehicle="8757"/>
+   <prediction affectedByLayover="true" block="7610400" dirTag="761_71_0" epochTime="1670564592243" isDeparture="false" minutes="97" seconds="5855" tripTag="54424843" vehicle="8748"/>
+  </direction>
+ </predictions>
+</body>

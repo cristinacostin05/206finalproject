@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="10716" stopTitle="Garvey / San Gabriel">
+  <direction title="West to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0704211" dirTag="70_290_1" epochTime="1670560961091" isDeparture="false" isScheduleBased="true" minutes="27" seconds="1650" tripTag="54592920" vehicle="virtualVehicle_0704211"/>
+   <prediction affectedByLayover="true" block="0700100" dirTag="70_291_1" epochTime="1670563326650" isDeparture="false" minutes="66" seconds="4016" tripTag="54592919" vehicle="4116"/>
+  </direction>
+ </predictions>
+</body>

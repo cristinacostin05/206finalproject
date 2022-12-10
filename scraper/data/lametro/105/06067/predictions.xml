@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="105" routeTitle="105 W Hollywood - Vernon Via La Cienega" stopTag="6067" stopTitle="Santa Rosalia / West">
+  <direction title="North to West Hollywood">
+   <prediction affectedByLayover="true" block="1051100" dirTag="105_264_0" epochTime="1670564517498" isDeparture="false" minutes="76" seconds="4604" tripTag="54534795" vehicle="6144"/>
+  </direction>
+ </predictions>
+</body>

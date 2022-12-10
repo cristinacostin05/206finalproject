@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="8171" stopTitle="Washington / Navarro">
+  <direction title="North to Sierra Madre Villa Station">
+   <prediction block="2560200" dirTag="256_103_0" epochTime="1670561725933" isDeparture="false" minutes="35" seconds="2108" tripTag="54664088" vehicle="3133"/>
+  </direction>
+ </predictions>
+</body>

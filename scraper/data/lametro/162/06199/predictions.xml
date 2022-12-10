@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="162" routeTitle="162 Woodland Hills - N Hollywood Sta Via" stopTag="6199" stopTitle="Sherman Way / Ethel">
+  <direction title="East to North Hollywood Station">
+   <prediction block="1620400" dirTag="162_7_0" epochTime="1670559463948" isDeparture="false" minutes="11" seconds="712" tripTag="54421576" vehicle="4109"/>
+  </direction>
+ </predictions>
+</body>

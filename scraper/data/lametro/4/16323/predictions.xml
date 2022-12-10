@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="16323" stopTitle="Sunset / Coronado">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670558226154" isDeparture="false" isScheduleBased="true" minutes="7" seconds="452" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670560026154" isDeparture="false" isScheduleBased="true" minutes="37" seconds="2252" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+   <prediction affectedByLayover="true" block="0049411" dirTag="4_313_1" epochTime="1670563266154" isDeparture="false" isScheduleBased="true" minutes="91" seconds="5492" tripTag="54485785" vehicle="virtualVehicle_0049411"/>
+  </direction>
+ </predictions>
+</body>

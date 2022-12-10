@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="115" routeTitle="115 Playa Del Rey - Norwalk Via Manchest" stopTag="10445" stopTitle="Firestone / Ryerson">
+  <direction title="West to Playa Del Rey">
+   <prediction block="1150800" dirTag="115_523_1" epochTime="1670558949834" isDeparture="false" minutes="1" seconds="106" tripTag="54540966" vehicle="1769"/>
+   <prediction affectedByLayover="true" block="1151600" dirTag="115_523_1" epochTime="1670560258589" isDeparture="false" isScheduleBased="true" minutes="23" seconds="1415" tripTag="54541024" vehicle="virtualVehicle_1151600"/>
+   <prediction affectedByLayover="true" block="1151100" dirTag="115_523_1" epochTime="1670561913318" isDeparture="false" minutes="51" seconds="3070" tripTag="54540963" vehicle="1634"/>
+  </direction>
+ </predictions>
+</body>

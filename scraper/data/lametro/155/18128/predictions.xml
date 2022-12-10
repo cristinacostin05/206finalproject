@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="18128" stopTitle="Olive / Alameda">
+  <direction title="North to North Hollywood Station">
+   <prediction block="1550200" dirTag="155_38_0" epochTime="1670560017652" isDeparture="false" minutes="4" seconds="297" tripTag="54394964" vehicle="5956"/>
+   <prediction affectedByLayover="true" block="1550100" dirTag="155_38_0" epochTime="1670560632398" isDeparture="false" minutes="15" seconds="912" tripTag="54394961" vehicle="6046"/>
+   <prediction affectedByLayover="true" block="1550400" dirTag="155_38_0" epochTime="1670564100398" isDeparture="false" minutes="73" seconds="4380" tripTag="54394970" vehicle="3987"/>
+  </direction>
+ </predictions>
+</body>

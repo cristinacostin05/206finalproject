@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="5443" stopTitle="Rosemead / Del Mar">
+  <direction title="North to Sierra Madre Villa Station">
+   <prediction block="2660500" dirTag="266_27_0" epochTime="1670560605816" isDeparture="false" minutes="6" seconds="373" tripTag="54432249" vehicle="5736"/>
+   <prediction block="2660600" dirTag="266_27_0" epochTime="1670562138544" isDeparture="false" minutes="31" seconds="1906" tripTag="54432253" vehicle="5636"/>
+   <prediction block="2661302" dirTag="266_27_0" epochTime="1670563498567" isDeparture="false" minutes="54" seconds="3266" tripTag="54432254" vehicle="5632"/>
+   <prediction block="2660800" dirTag="266_27_0" epochTime="1670564748187" isDeparture="false" minutes="75" seconds="4515" tripTag="54432210" vehicle="5726"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="854" routeTitle="854 All Bus Bridges Gold Line" stopTag="12544" stopTitle="Temple / Alameda">
+  <direction title="East to L-Gold Line Shtl Pico/Aliso Little Tokyo">
+   <prediction block="8540300" dirTag="854_35_0" epochTime="1670559638075" isDeparture="false" minutes="1" seconds="81" tripTag="54671122" vehicle="4189"/>
+   <prediction affectedByLayover="true" block="8540100" dirTag="854_35_0" epochTime="1670560570957" isDeparture="false" minutes="16" seconds="1014" tripTag="54671124" vehicle="4128"/>
+   <prediction affectedByLayover="true" block="8540200" dirTag="854_35_0" epochTime="1670561770957" isDeparture="false" minutes="36" seconds="2214" tripTag="54671125" vehicle="4126"/>
+   <prediction affectedByLayover="true" block="8540300" dirTag="854_35_0" epochTime="1670562970957" isDeparture="false" minutes="56" seconds="3414" tripTag="54671123" vehicle="4189"/>
+   <prediction affectedByLayover="true" block="8540100" dirTag="854_35_0" epochTime="1670564170957" isDeparture="false" minutes="76" seconds="4614" tripTag="54671126" vehicle="4128"/>
+  </direction>
+ </predictions>
+</body>

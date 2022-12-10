@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="15645" stopTitle="3rd / Martel">
+  <direction title="West to West Hollywood">
+   <prediction block="0165100" dirTag="16_412_1" epochTime="1670559226416" isDeparture="false" minutes="2" seconds="129" tripTag="54471156" vehicle="8432"/>
+   <prediction affectedByLayover="true" block="0169911" dirTag="16_412_1" epochTime="1670563527214" isDeparture="false" minutes="73" seconds="4430" tripTag="54471084" vehicle="8509"/>
+  </direction>
+ </predictions>
+</body>

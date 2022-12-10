@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15453" stopTitle="De Soto Station">
+  <direction title="East to G Line (orange) - North Hollywood Sta">
+   <prediction affectedByLayover="true" block="9012102" dirTag="901_55_0" epochTime="1670562857795" isDeparture="false" minutes="79" seconds="4743" tripTag="54425306" vehicle="19500"/>
+  </direction>
+ </predictions>
+</body>

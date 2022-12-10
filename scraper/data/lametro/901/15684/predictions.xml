@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15684" stopTitle="North Hollywood Station">
+  <direction title="West to G Line (orange) - Chatsworth Station">
+   <prediction affectedByLayover="true" block="9012202" dirTag="901_54_1" epochTime="1670558820000" isDeparture="true" minutes="11" seconds="700" tripTag="54425159" vehicle="19501"/>
+   <prediction affectedByLayover="true" block="9012302" dirTag="901_54_1" epochTime="1670562000000" isDeparture="true" minutes="64" seconds="3880" tripTag="54425322" vehicle="19504"/>
+  </direction>
+ </predictions>
+</body>

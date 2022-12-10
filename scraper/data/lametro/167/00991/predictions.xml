@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="991" stopTitle="De Soto / Superior">
+  <direction title="East to Coldwater Cyn-Ventura">
+   <prediction affectedByLayover="true" block="1670400" dirTag="167_99_0" epochTime="1670561227447" isDeparture="false" minutes="20" seconds="1212" tripTag="54429240" vehicle="4022"/>
+   <prediction affectedByLayover="true" block="1670100" dirTag="167_99_0" epochTime="1670565405797" isDeparture="false" minutes="89" seconds="5390" tripTag="54429241" vehicle="4021"/>
+  </direction>
+ </predictions>
+</body>

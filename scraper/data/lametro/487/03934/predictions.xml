@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="3934" stopTitle="Spring / Temple">
+  <direction title="West to Downtown LA - 5th-Beaudry">
+   <prediction block="4870502" dirTag="487_121_1" epochTime="1670559026933" isDeparture="false" minutes="12" seconds="762" tripTag="54489670" vehicle="4081"/>
+   <prediction affectedByLayover="true" block="4870200" dirTag="487_121_1" epochTime="1670561361943" isDeparture="false" minutes="51" seconds="3097" tripTag="54489671" vehicle="4142"/>
+   <prediction affectedByLayover="true" block="4870300" dirTag="487_121_1" epochTime="1670561949485" isDeparture="false" minutes="61" seconds="3685" tripTag="54489673" vehicle="4014"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="901" routeTitle="901 Metro Orange Line" stopTag="15415" stopTitle="Reseda Station">
+  <direction title="West to G Line (orange) - Chatsworth Station">
+   <prediction block="9011502" dirTag="901_54_1" epochTime="1670558616287" isDeparture="false" minutes="8" seconds="499" tripTag="54425143" vehicle="19526"/>
+   <prediction affectedByLayover="true" block="9012102" dirTag="901_54_1" epochTime="1670560093250" isDeparture="false" minutes="32" seconds="1976" tripTag="54425129" vehicle="19500"/>
+   <prediction affectedByLayover="true" block="9012202" dirTag="901_54_1" epochTime="1670560945119" isDeparture="false" minutes="47" seconds="2828" tripTag="54425159" vehicle="19501"/>
+   <prediction affectedByLayover="true" block="9012302" dirTag="901_54_1" epochTime="1670564047119" isDeparture="false" minutes="98" seconds="5930" tripTag="54425322" vehicle="19504"/>
+  </direction>
+ </predictions>
+</body>

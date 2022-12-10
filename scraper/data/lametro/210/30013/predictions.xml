@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="30013" stopTitle="South Bay Transit Center">
+  <direction title="North to Hollywood/Vine Sta">
+   <prediction affectedByLayover="true" block="2102402" dirTag="210_298_0" epochTime="1670558968273" isDeparture="true" minutes="18" seconds="1094" tripTag="54543052" vehicle="1952"/>
+   <prediction affectedByLayover="true" block="2102200" dirTag="210_298_0" epochTime="1670560380000" isDeparture="true" minutes="41" seconds="2506" tripTag="54543017" vehicle="8455"/>
+   <prediction affectedByLayover="true" block="2102302" dirTag="210_298_0" epochTime="1670562420000" isDeparture="true" minutes="75" seconds="4546" tripTag="54543013" vehicle="2026"/>
+  </direction>
+ </predictions>
+</body>

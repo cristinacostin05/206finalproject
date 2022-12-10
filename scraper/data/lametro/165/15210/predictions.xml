@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="165" routeTitle="165 West Hills - Burbank Via Vanowen St" stopTag="15210" stopTitle="Vanowen / Lederer">
+  <direction title="East to Burbank Station">
+   <prediction affectedByLayover="true" block="1640500" dirTag="165_199_0" epochTime="1670560049457" isDeparture="false" minutes="29" seconds="1760" tripTag="54422736" vehicle="1990"/>
+   <prediction affectedByLayover="true" block="1640600" dirTag="165_199_0" epochTime="1670563651960" isDeparture="false" minutes="89" seconds="5363" tripTag="54422660" vehicle="1988"/>
+  </direction>
+ </predictions>
+</body>

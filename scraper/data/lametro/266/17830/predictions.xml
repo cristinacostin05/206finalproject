@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="266" routeTitle="266 S Madre Villa Sta-Lakewood Ctr Mall" stopTag="17830" stopTitle="Lakewood / Alameda">
+  <direction title="North to Sierra Madre Villa Station">
+   <prediction block="2660800" dirTag="266_27_0" epochTime="1670561401609" isDeparture="false" minutes="19" seconds="1162" tripTag="54432210" vehicle="5726"/>
+   <prediction affectedByLayover="true" block="2661100" dirTag="266_27_0" epochTime="1670563168295" isDeparture="false" minutes="48" seconds="2929" tripTag="54432209" vehicle="5735"/>
+   <prediction affectedByLayover="true" block="2660400" dirTag="266_27_0" epochTime="1670565448295" isDeparture="false" minutes="86" seconds="5209" tripTag="54432208" vehicle="5757"/>
+  </direction>
+ </predictions>
+</body>

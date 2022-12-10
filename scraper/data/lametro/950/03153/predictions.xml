@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="3153" stopTitle="Beacon / 1st">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9105702" dirTag="950_212_0" epochTime="1670560821567" isDeparture="false" minutes="46" seconds="2775" tripTag="54545467_950" vehicle="8371"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="15629" stopTitle="3rd / Bonnie Brae">
+  <direction title="West to West Hollywood">
+   <prediction affectedByLayover="true" block="0169911" dirTag="16_412_1" epochTime="1670562089411" isDeparture="false" minutes="49" seconds="2995" tripTag="54471084" vehicle="8509"/>
+   <prediction affectedByLayover="true" block="0160602" dirTag="16_412_1" epochTime="1670563755930" isDeparture="false" minutes="77" seconds="4661" tripTag="54471155" vehicle="8543"/>
+  </direction>
+ </predictions>
+</body>

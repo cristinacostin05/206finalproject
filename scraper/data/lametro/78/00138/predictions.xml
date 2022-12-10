@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="138" stopTitle="Woodward / Garfield">
+  <direction title="West to Downtown LA - Grand-Venice">
+   <prediction affectedByLayover="true" block="0780500" dirTag="78_522_1" epochTime="1670560980000" isDeparture="true" minutes="53" seconds="3189" tripTag="54636648" vehicle="2016"/>
+  </direction>
+ </predictions>
+</body>

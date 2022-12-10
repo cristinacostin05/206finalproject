@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="217" routeTitle="217 E Hollywood - La Cienega Sta Via Hol" stopTag="11015" stopTitle="Hollywood / Fuller">
+  <direction title="South to LA Cienega/Jefferson Sta">
+   <prediction block="2179811" dirTag="217_317_1" epochTime="1670559057000" isDeparture="false" minutes="1" seconds="81" tripTag="54542143" vehicle="5969"/>
+   <prediction affectedByLayover="true" block="2170502" dirTag="217_317_1" epochTime="1670559820586" isDeparture="false" isScheduleBased="true" minutes="14" seconds="845" tripTag="54542147" vehicle="virtualVehicle_2170502"/>
+  </direction>
+ </predictions>
+</body>

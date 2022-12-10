@@ -202,14 +202,21 @@ def write_predictions(agency_tag, route_tag, stop_id, output_dir="data"):
         f.write(predictions_list.prettify())
 
 
-def propagate_database(database_name: str, agency_dict: dict, data_dir: str = 'data'):
+def propagate_database(database_name: str, agency_dict: dict, data_dir: str = 'data', limit=None):
     agency_dir = f"{data_dir}/{agency_dict['tag']}"
     conn = db.create_connection(database_name)
+    # Insert #1
     db.insert_agency_record(conn, agency_dict)
     cur = conn.cursor()
     result = cur.execute(f"SELECT * FROM Agencies WHERE tag = '{agency['tag']}'").fetchone()
+    count = 1
     for root, dirs, files in os.walk(agency_dir):
+        if count > limit:
+            break
         for filename in files:
+            if count > limit:
+                break
+            count += 1
             xml_file = os.path.join(root, filename)
             xml_object = xp.open_xml_file(xml_file)
             if 'route_list' in filename:
@@ -229,8 +236,9 @@ def propagate_database(database_name: str, agency_dict: dict, data_dir: str = 'd
             elif 'prediction' in filename:
                 logger.info(f"Reading Predictions: {filename}")
                 stop_id = xml_file.split('/')[-2]
-                stop_result = cur.execute(f"SELECT agency_id,  route_id, stop_id FROM Stops WHERE stop_id = '{stop_id}' "
-                                          f"and agency_id = '{result[0]}'").fetchone()
+                stop_result = cur.execute(
+                    f"SELECT agency_id,  route_id, stop_id FROM Stops WHERE stop_id = '{stop_id}' "
+                    f"and agency_id = '{result[0]}'").fetchone()
                 predictions = xp.get_prediction_tags(xml_object)
                 if predictions:
                     for prediction in predictions:
@@ -283,7 +291,7 @@ if __name__ == "__main__":
         agency_name = 'lametro'
         agencies = xp.get_agency_tags(xp.open_xml_file('data/agencies.xml'))
         agency = [a for a in agencies if a['tag'] == agency_name][0]
-        extract_agency(agency)
+        # extract_agency(agency)
         database_file = 'final_project.db'
         db.create_tables(db.create_connection(database_file))
-        propagate_database(database_file, agency)
+        propagate_database(database_file, agency, limit=25)

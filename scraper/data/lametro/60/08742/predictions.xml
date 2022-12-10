@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="8742" stopTitle="Artesia / Harbor">
+  <direction title="South to Artesia Station">
+   <prediction block="0550600" dirTag="60_163_1" epochTime="1670559630697" isDeparture="false" minutes="0" seconds="53" tripTag="54597806" vehicle="3873"/>
+   <prediction block="0604211" dirTag="60_163_1" epochTime="1670562450721" isDeparture="false" minutes="47" seconds="2874" tripTag="54597750" vehicle="6103"/>
+   <prediction affectedByLayover="true" block="0600900" dirTag="60_163_1" epochTime="1670564631909" isDeparture="false" minutes="84" seconds="5055" tripTag="54597795" vehicle="4083"/>
+  </direction>
+ </predictions>
+</body>

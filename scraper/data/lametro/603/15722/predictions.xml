@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="603" routeTitle="603 Glendale-Grand Sta Via San Fernando-" stopTag="15722" stopTitle="6th / Rampart">
+  <direction title="North to Glendale Galleria">
+   <prediction affectedByLayover="true" block="6030700" dirTag="603_26_0" epochTime="1670560856505" isDeparture="false" minutes="25" seconds="1501" tripTag="54408642" vehicle="5778"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="14411" stopTitle="Santa Monica / Sweetzer">
+  <direction title="West to West LA - Sepulveda Bl">
+   <prediction block="0041000" dirTag="4_317_1" epochTime="1670558594552" isDeparture="false" minutes="13" seconds="826" tripTag="54485802" vehicle="8810"/>
+  </direction>
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0040600" dirTag="4_315_1" epochTime="1670559229462" isDeparture="false" isScheduleBased="true" minutes="24" seconds="1461" tripTag="54485808" vehicle="virtualVehicle_0040600"/>
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670560121515" isDeparture="false" isScheduleBased="true" minutes="39" seconds="2353" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670561921515" isDeparture="false" isScheduleBased="true" minutes="69" seconds="4153" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+ </predictions>
+</body>

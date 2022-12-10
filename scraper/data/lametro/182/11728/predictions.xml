@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="11728" stopTitle="Mercury / Reynolds">
+  <direction title="West to Vermont/Sunset Sta">
+   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670562011066" isDeparture="false" minutes="27" seconds="1664" tripTag="54677211" vehicle="1885"/>
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_15_1" epochTime="1670564924226" isDeparture="false" isScheduleBased="true" minutes="76" seconds="4577" tripTag="54677212" vehicle="virtualVehicle_1820600"/>
+  </direction>
+ </predictions>
+</body>

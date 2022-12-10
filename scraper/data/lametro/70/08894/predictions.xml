@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="8894" stopTitle="Cesar E Chavez / Vancouver">
+  <direction title="West to Downtown LA - Broadway-Venice">
+   <prediction block="0701700" dirTag="70_290_1" epochTime="1670560415573" isDeparture="false" minutes="18" seconds="1113" tripTag="54592901" vehicle="1838"/>
+   <prediction affectedByLayover="true" block="0704211" dirTag="70_290_1" epochTime="1670562171730" isDeparture="false" isScheduleBased="true" minutes="47" seconds="2869" tripTag="54592920" vehicle="virtualVehicle_0704211"/>
+   <prediction affectedByLayover="true" block="0700100" dirTag="70_291_1" epochTime="1670564731998" isDeparture="false" minutes="90" seconds="5429" tripTag="54592919" vehicle="4116"/>
+  </direction>
+ </predictions>
+</body>

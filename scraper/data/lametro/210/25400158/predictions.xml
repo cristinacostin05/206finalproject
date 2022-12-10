@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="25400158" stopTitle="Crenshaw / Adams">
+  <direction title="North to Hollywood/Vine Sta">
+   <prediction block="2101800" dirTag="210_298_0" epochTime="1670559854328" isDeparture="false" minutes="32" seconds="1977" tripTag="54543060" vehicle="2044"/>
+   <prediction affectedByLayover="true" block="2102402" dirTag="210_298_0" epochTime="1670562216531" isDeparture="false" minutes="72" seconds="4339" tripTag="54543052" vehicle="1952"/>
+   <prediction affectedByLayover="true" block="2102200" dirTag="210_298_0" epochTime="1670563628258" isDeparture="false" minutes="95" seconds="5751" tripTag="54543017" vehicle="8455"/>
+  </direction>
+ </predictions>
+</body>

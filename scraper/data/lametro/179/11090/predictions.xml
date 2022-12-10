@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="179" routeTitle="179 Rose Hill Transit Ctr - Arcadia Via" stopTag="11090" stopTitle="Huntington / Granada">
+  <direction title="West to Huntington-Monterey">
+   <prediction affectedByLayover="true" block="1790500" dirTag="179_7_1" epochTime="1670559653764" isDeparture="false" isScheduleBased="true" minutes="20" seconds="1204" tripTag="54636841" vehicle="virtualVehicle_1790500"/>
+   <prediction affectedByLayover="true" block="1790200" dirTag="179_7_1" epochTime="1670562496691" isDeparture="false" minutes="67" seconds="4047" tripTag="54636842" vehicle="1993"/>
+  </direction>
+  <direction title="West to Huntington-Maycrest">
+   <prediction affectedByLayover="true" block="1790300" dirTag="179_11_1" epochTime="1670563045533" isDeparture="false" minutes="76" seconds="4596" tripTag="54636843" vehicle="1820"/>
+  </direction>
+ </predictions>
+</body>

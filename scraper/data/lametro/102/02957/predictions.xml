@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="102" routeTitle="102 LAX Cty Bus Ctr - S Gate Via LA Tije" stopTag="2957" stopTitle="Leimert / Stocker">
+  <direction title="East to Huntington Park - Palm-Seville">
+   <prediction affectedByLayover="true" block="1020200" dirTag="102_68_0" epochTime="1670560847237" isDeparture="false" minutes="26" seconds="1589" tripTag="54635525" vehicle="5751"/>
+   <prediction block="1020100" dirTag="102_67_0" epochTime="1670560916063" isDeparture="false" minutes="27" seconds="1658" tripTag="54635523" vehicle="6001"/>
+  </direction>
+ </predictions>
+</body>

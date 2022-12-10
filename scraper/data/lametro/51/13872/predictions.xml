@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="51" routeTitle="51 Westlake/McArthur Pk Sta-Dtwn LA-Csu" stopTag="13872" stopTitle="San Pedro / 14th">
+  <direction title="North to Westlake/Macarthur Pk Station">
+   <prediction affectedByLayover="true" block="0513502" dirTag="51_325_0" epochTime="1670558298883" isDeparture="false" isScheduleBased="true" minutes="5" seconds="310" tripTag="54614073" vehicle="virtualVehicle_0513502"/>
+   <prediction affectedByLayover="true" block="0513402" dirTag="51_325_0" epochTime="1670561787801" isDeparture="false" minutes="63" seconds="3799" tripTag="54614049" vehicle="4174"/>
+   <prediction affectedByLayover="true" block="0512902" dirTag="51_325_0" epochTime="1670563647801" isDeparture="false" minutes="94" seconds="5659" tripTag="54614173" vehicle="3882"/>
+  </direction>
+  <direction title="North to 7th Street / Metro Center Station">
+   <prediction affectedByLayover="true" block="0513302" dirTag="51_339_0" epochTime="1670563486293" isDeparture="false" minutes="91" seconds="5497" tripTag="54614039" vehicle="5834"/>
+  </direction>
+ </predictions>
+</body>

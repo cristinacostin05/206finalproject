@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="550" routeTitle="550 Jefferson Park - San Pedro Via Harbo" stopTag="5635" stopTitle="Vermont / Exposition">
+  <direction title="North to Expo Park/USC">
+   <prediction block="5500302" dirTag="550_132_0" epochTime="1670558737478" isDeparture="false" minutes="2" seconds="127" tripTag="54528663" vehicle="5974"/>
+  </direction>
+ </predictions>
+</body>

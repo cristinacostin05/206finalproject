@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="9946" stopTitle="Raymond / Holly">
+  <direction title="South to Csula Transit Center">
+   <prediction block="2560300" dirTag="256_104_1" epochTime="1670561100641" isDeparture="false" minutes="24" seconds="1471" tripTag="54664107" vehicle="3136"/>
+   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670564436786" isDeparture="false" minutes="80" seconds="4807" tripTag="54664089" vehicle="3145"/>
+  </direction>
+ </predictions>
+</body>

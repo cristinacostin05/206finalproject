@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="603" routeTitle="603 Glendale-Grand Sta Via San Fernando-" stopTag="17142" stopTitle="23rd / Oak">
+  <direction title="South to Grand Sta/LA Trade Tech">
+   <prediction block="6030300" dirTag="603_27_1" epochTime="1670559533693" isDeparture="false" minutes="2" seconds="163" tripTag="54408659" vehicle="4019"/>
+   <prediction block="6030600" dirTag="603_27_1" epochTime="1670561698109" isDeparture="false" minutes="38" seconds="2327" tripTag="54408663" vehicle="5628"/>
+   <prediction affectedByLayover="true" block="6031000" dirTag="603_27_1" epochTime="1670563995018" isDeparture="false" minutes="77" seconds="4624" tripTag="54408545" vehicle="3113"/>
+  </direction>
+ </predictions>
+</body>

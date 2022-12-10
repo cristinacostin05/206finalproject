@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="81" routeTitle="81 Eagle Rock- Dwntwn LA- Harbor Fwy St" stopTag="786" stopTitle="Colorado / Sierra Villa">
+  <direction title="North to Eagle Rock Plaza">
+   <prediction block="0811400" dirTag="81_321_0" epochTime="1670562333040" isDeparture="false" minutes="59" seconds="3545" tripTag="54674606" vehicle="1888"/>
+  </direction>
+ </predictions>
+</body>

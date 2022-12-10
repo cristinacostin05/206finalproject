@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="2753" stopTitle="Sepulveda / Pico">
+  <direction title="North to Sepulveda E Line (expo) Station">
+   <prediction affectedByLayover="true" block="7610400" dirTag="761_71_0" epochTime="1670559693800" isDeparture="false" minutes="15" seconds="954" tripTag="54424843" vehicle="8748"/>
+   <prediction affectedByLayover="true" block="7611300" dirTag="761_71_0" epochTime="1670561391400" isDeparture="false" minutes="44" seconds="2651" tripTag="54424844" vehicle="8468"/>
+   <prediction affectedByLayover="true" block="7610900" dirTag="761_71_0" epochTime="1670562891400" isDeparture="false" minutes="69" seconds="4151" tripTag="54424846" vehicle="8717"/>
+  </direction>
+ </predictions>
+</body>

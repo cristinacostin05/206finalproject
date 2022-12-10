@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="150" routeTitle="150 Chatsworth Sta - Encino Via Topanga" stopTag="6573" stopTitle="Topanga Canyon / Mayall">
+  <direction title="East to Encino">
+   <prediction block="1500200" dirTag="150_180_0" epochTime="1670560084581" isDeparture="false" minutes="4" seconds="268" tripTag="54420233" vehicle="5900"/>
+   <prediction affectedByLayover="true" block="1500200" dirTag="150_180_0" epochTime="1670565615609" isDeparture="false" minutes="96" seconds="5799" tripTag="54420226" vehicle="5900"/>
+  </direction>
+ </predictions>
+</body>

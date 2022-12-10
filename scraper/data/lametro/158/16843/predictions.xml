@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="158" routeTitle="158 Chatsworth Sta-Sherman Oaks Via Devo" stopTag="16843" stopTitle="Woodman / Magnolia">
+  <direction title="West to Chatsworth Station">
+   <prediction block="1580402" dirTag="158_53_1" epochTime="1670559393392" isDeparture="false" minutes="0" seconds="52" tripTag="54452536" vehicle="2049"/>
+   <prediction affectedByLayover="true" block="1500100" dirTag="158_53_1" epochTime="1670562690113" isDeparture="false" minutes="55" seconds="3349" tripTag="54452537" vehicle="5833"/>
+  </direction>
+ </predictions>
+</body>

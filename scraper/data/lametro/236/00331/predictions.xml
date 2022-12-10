@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="236" routeTitle="236 Sylmar Sta-Encino Via Balboa Bl Rina" stopTag="331" stopTitle="Balboa / Haynes">
+  <direction title="South to Encino">
+   <prediction block="2360200" dirTag="236_131_1" epochTime="1670558285043" isDeparture="false" minutes="9" seconds="579" tripTag="54420751" vehicle="1771"/>
+  </direction>
+ </predictions>
+</body>

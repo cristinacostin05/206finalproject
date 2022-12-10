@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="23200005" stopTitle="Mariposa Station - Discharge Only">
+  <direction title="North to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="2320900" dirTag="232_87_0" epochTime="1670560507566" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1291" tripTag="54637081" vehicle="virtualVehicle_2320900"/>
+  </direction>
+  <direction title="South to Downtown Long Beach">
+   <prediction affectedByLayover="true" block="2320500" dirTag="232_82_1" epochTime="1670561677974" isDeparture="false" minutes="41" seconds="2462" tripTag="54637092" vehicle="1544"/>
+  </direction>
+ </predictions>
+</body>

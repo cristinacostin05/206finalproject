@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="140842" stopTitle="Pacific / Gage">
+  <direction title="South to Artesia Station">
+   <prediction block="0604211" dirTag="60_163_1" epochTime="1670560038266" isDeparture="false" minutes="7" seconds="446" tripTag="54597750" vehicle="6103"/>
+   <prediction affectedByLayover="true" block="0600900" dirTag="60_163_1" epochTime="1670562222432" isDeparture="false" minutes="43" seconds="2631" tripTag="54597795" vehicle="4083"/>
+   <prediction affectedByLayover="true" block="0604111" dirTag="60_163_1" epochTime="1670564294050" isDeparture="false" minutes="78" seconds="4702" tripTag="54597755" vehicle="6114"/>
+  </direction>
+ </predictions>
+</body>

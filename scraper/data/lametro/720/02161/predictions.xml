@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="2161" stopTitle="Wilshire / Mc Carthy Vista">
+  <direction title="East to Downtown LA - 6th - Central">
+   <prediction affectedByLayover="true" block="7200400" dirTag="720_1271_0" epochTime="1670561307878" isDeparture="false" minutes="45" seconds="2721" tripTag="54507849" vehicle="8737"/>
+   <prediction affectedByLayover="true" block="7203302" dirTag="720_1271_0" epochTime="1670561907878" isDeparture="false" isScheduleBased="true" minutes="55" seconds="3321" tripTag="54507899" vehicle="virtualVehicle_7203302"/>
+   <prediction affectedByLayover="true" block="7203902" dirTag="720_1271_0" epochTime="1670564087793" isDeparture="false" minutes="91" seconds="5501" tripTag="54507850" vehicle="8793"/>
+  </direction>
+ </predictions>
+</body>

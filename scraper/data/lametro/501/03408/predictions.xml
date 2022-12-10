@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="501" routeTitle="501 Pasadena - N. Hollywood Sta Via 134" stopTag="3408" stopTitle="Brand / Milford">
+  <direction title="East to Pasadena - Via 134 Fwy - Metro Gold Line">
+   <prediction affectedByLayover="true" block="5010100" dirTag="501_13_0" epochTime="1670563524055" isDeparture="false" minutes="71" seconds="4280" tripTag="54428821" vehicle="8251"/>
+   <prediction affectedByLayover="true" block="5010602" dirTag="501_13_0" epochTime="1670564631713" isDeparture="false" minutes="89" seconds="5387" tripTag="54428818" vehicle="5786"/>
+  </direction>
+ </predictions>
+</body>

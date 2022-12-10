@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="179" routeTitle="179 Rose Hill Transit Ctr - Arcadia Via" stopTag="2567" stopTitle="Huntington / Primrose">
+  <direction title="East to Arcadia Gold Line Station">
+   <prediction affectedByLayover="true" block="1790200" dirTag="179_5_0" epochTime="1670559408482" isDeparture="false" minutes="16" seconds="966" tripTag="54636805" vehicle="1993"/>
+   <prediction affectedByLayover="true" block="1790300" dirTag="179_5_0" epochTime="1670559556294" isDeparture="false" minutes="18" seconds="1113" tripTag="54636807" vehicle="1820"/>
+   <prediction affectedByLayover="true" block="1790500" dirTag="179_5_0" epochTime="1670561341362" isDeparture="false" isScheduleBased="true" minutes="48" seconds="2898" tripTag="54636808" vehicle="virtualVehicle_1790500"/>
+   <prediction affectedByLayover="true" block="1790200" dirTag="179_5_0" epochTime="1670563974579" isDeparture="false" minutes="92" seconds="5532" tripTag="54636809" vehicle="1993"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="265" routeTitle="265 Pico Rivera - Lakewood Ctr Mall Via" stopTag="16575" stopTitle="Whittier / Columbia">
+  <direction title="South to Lakewood Center">
+   <prediction affectedByLayover="true" block="2650200" dirTag="265_13_1" epochTime="1670560534188" isDeparture="false" minutes="38" seconds="2287" tripTag="54437451" vehicle="1819"/>
+  </direction>
+ </predictions>
+</body>

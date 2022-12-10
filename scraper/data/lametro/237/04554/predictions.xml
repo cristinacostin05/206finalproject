@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="4554" stopTitle="Roscoe / Lindley">
+  <direction title="West to Encino">
+   <prediction block="2370200" dirTag="237_25_1" epochTime="1670559286398" isDeparture="false" minutes="6" seconds="406" tripTag="54420320" vehicle="1576"/>
+   <prediction affectedByLayover="true" block="2370400" dirTag="237_25_1" epochTime="1670562758371" isDeparture="false" minutes="64" seconds="3878" tripTag="54420305" vehicle="1580"/>
+  </direction>
+ </predictions>
+</body>

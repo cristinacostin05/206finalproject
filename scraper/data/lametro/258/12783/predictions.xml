@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="258" routeTitle="258 Highland Park - Paramount Via Fremon" stopTag="12783" stopTitle="Pasadena / Hawthorne">
+  <direction title="North to Figueroa-York">
+   <prediction block="2580500" dirTag="258_53_0" epochTime="1670562872383" isDeparture="false" minutes="43" seconds="2603" tripTag="54676262" vehicle="5961"/>
+   <prediction affectedByLayover="true" block="2580100" dirTag="258_51_0" epochTime="1670564890677" isDeparture="false" minutes="77" seconds="4621" tripTag="54676297" vehicle="5858"/>
+  </direction>
+ </predictions>
+</body>

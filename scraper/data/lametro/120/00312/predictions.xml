@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="120" routeTitle="120 Aviation/LAX Sta- Whittwood Ctr Via" stopTag="312" stopTitle="Imperial / Aviation">
+  <direction title="East to Norwalk Green Line Sta">
+   <prediction affectedByLayover="true" block="1200600" dirTag="120_90_0" epochTime="1670563498589" isDeparture="false" isScheduleBased="true" minutes="62" seconds="3721" tripTag="54542519" vehicle="virtualVehicle_1200600"/>
+  </direction>
+  <direction title="East to Whittwood Town Center">
+   <prediction affectedByLayover="true" block="1200700" dirTag="120_88_0" epochTime="1670560064346" isDeparture="false" isScheduleBased="true" minutes="4" seconds="286" tripTag="54542518" vehicle="virtualVehicle_1200700"/>
+  </direction>
+ </predictions>
+</body>

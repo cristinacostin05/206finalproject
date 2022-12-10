@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="460" routeTitle="460 Downtown LA - Disneyland Via Harbor" stopTag="8959" stopTitle="Beach / 10th">
+  <direction title="West to Downtown LA - 6th-Los Angeles">
+   <prediction block="4601202" dirTag="460_202_1" epochTime="1670558351886" isDeparture="false" minutes="4" seconds="279" tripTag="54529695" vehicle="1737"/>
+   <prediction affectedByLayover="true" block="4601002" dirTag="460_201_1" epochTime="1670562582752" isDeparture="false" minutes="75" seconds="4510" tripTag="54529720" vehicle="1661"/>
+  </direction>
+ </predictions>
+</body>

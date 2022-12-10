@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="207" routeTitle="207 Hollywood - Crenshaw Sta Via Western" stopTag="14118" stopTitle="Western / 54th">
+  <direction title="South to Western-Imperial Hwy">
+   <prediction block="2070500" dirTag="207_292_1" epochTime="1670559666301" isDeparture="false" minutes="12" seconds="755" tripTag="54653143" vehicle="5600"/>
+   <prediction block="2079811" dirTag="207_292_1" epochTime="1670560500273" isDeparture="false" minutes="26" seconds="1589" tripTag="54653033" vehicle="8712"/>
+   <prediction affectedByLayover="true" block="2076002" dirTag="207_292_1" epochTime="1670561397087" isDeparture="false" isScheduleBased="true" minutes="41" seconds="2486" tripTag="54653073" vehicle="virtualVehicle_2076002"/>
+   <prediction affectedByLayover="true" block="2075300" dirTag="207_292_1" epochTime="1670563901331" isDeparture="false" minutes="83" seconds="4990" tripTag="54653038" vehicle="8707"/>
+  </direction>
+  <direction title="South to Crenshaw Green Line Sta">
+   <prediction block="2070300" dirTag="207_293_1" epochTime="1670559824557" isDeparture="false" minutes="15" seconds="913" tripTag="54653039" vehicle="6135"/>
+  </direction>
+ </predictions>
+</body>

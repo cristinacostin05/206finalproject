@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="660" routeTitle="660 Del Mar Station - Altadena - Via Fai" stopTag="3482" stopTitle="Fair Oaks / Mountain">
+  <direction title="North to Fair Oaks-Loma Alta">
+   <prediction affectedByLayover="true" block="6600502" dirTag="660_6_0" epochTime="1670558729173" isDeparture="false" minutes="11" seconds="717" tripTag="54645300" vehicle="4141"/>
+   <prediction affectedByLayover="true" block="6600402" dirTag="660_6_0" epochTime="1670560529173" isDeparture="false" minutes="41" seconds="2517" tripTag="54645301" vehicle="4140"/>
+   <prediction affectedByLayover="true" block="6600502" dirTag="660_6_0" epochTime="1670562389173" isDeparture="false" minutes="72" seconds="4377" tripTag="54645302" vehicle="4141"/>
+  </direction>
+ </predictions>
+</body>

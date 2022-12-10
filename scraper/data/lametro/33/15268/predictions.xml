@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="33" routeTitle="33 Downtown LA - Santa Monica Via Venic" stopTag="15268" stopTitle="Venice / Cattaraugus">
+  <direction title="West to Santa Monica">
+   <prediction block="0339911" dirTag="33_578_1" epochTime="1670561122456" isDeparture="false" minutes="12" seconds="741" tripTag="54470785" vehicle="8633"/>
+   <prediction affectedByLayover="true" block="0330400" dirTag="33_580_1" epochTime="1670564398737" isDeparture="false" minutes="66" seconds="4017" tripTag="54470544" vehicle="8503"/>
+  </direction>
+ </predictions>
+</body>

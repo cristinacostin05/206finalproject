@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <route color="df4600" latMax="34.2573899" latMin="34.1709599" lonMax="-118.55471" lonMin="-118.57994" oppositeColor="ffffff" tag="243" title="243 Northridge - Tarzana Via Tampa - Win">
+  <stop lat="34.2357599" lon="-118.56218" stopId="00839" tag="839" title="Corbin / Nordhoff"/>
+  <stop lat="34.23898" lon="-118.56218" stopId="00842" tag="842" title="Corbin / Prairie"/>
+  <stop lat="34.2322699" lon="-118.56218" stopId="00843" tag="843" title="Corbin / Nordhoff Way"/>
+  <stop lat="34.2571499" lon="-118.56636" stopId="01033" tag="1033" title="Devonshire / Oakdale"/>
+  <stop lat="34.25714" lon="-118.57463" stopId="01034" tag="1034" title="Devonshire / Oso"/>
+  <stop lat="34.25715" lon="-118.5705699" stopId="01046" tag="1046" title="Devonshire / Winnetka"/>
+  <stop lat="34.1711899" lon="-118.57069" stopId="03096" tag="3096" title="Ventura / Winnetka"/>
+  <stop lat="34.2570799" lon="-118.5797" stopId="03186" tag="3186" title="Mason / Devonshire"/>
+  <stop lat="34.2497799" lon="-118.5796999" stopId="03187" tag="3187" title="Mason / Lassen"/>
+  <stop lat="34.2471399" lon="-118.57968" stopId="03188" tag="3188" title="Mason / Marilla"/>
+  <stop lat="34.2538399" lon="-118.57969" stopId="03189" tag="3189" title="Mason / Mayall"/>
+  <stop lat="34.2430099" lon="-118.57969" stopId="03190" tag="3190" title="Mason / Plummer"/>
+  <stop lat="34.1728299" lon="-118.55471" stopId="03863" tag="3863" title="Ventura / Aura"/>
+  <stop lat="34.23172" lon="-118.57071" stopId="04050" tag="4050" title="Nordhoff / Winnetka"/>
+  <stop lat="34.24287" lon="-118.5667199" stopId="04391" tag="4391" title="Plummer / Oakdale"/>
+  <stop lat="34.2428799" lon="-118.57522" stopId="04392" tag="4392" title="Plummer / Oso"/>
+  <stop lat="34.24287" lon="-118.5709699" stopId="04395" tag="4395" title="Plummer / Winnetka"/>
+  <stop lat="34.17216" lon="-118.57078" stopId="07056" tag="7056" title="Winnetka / Ventura Fwy"/>
+  <stop lat="34.18255" lon="-118.57078" stopId="08479" tag="8479" title="Winnetka / Calvert"/>
+  <stop lat="34.2121999" lon="-118.5708699" stopId="08480" tag="8480" title="Winnetka / Ingomar"/>
+  <stop lat="34.22445" lon="-118.57088" stopId="08481" tag="8481" title="Winnetka / Chase"/>
+  <stop lat="34.1900099" lon="-118.5708199" stopId="08482" tag="8482" title="Winnetka / Gilmore"/>
+  <stop lat="34.1977199" lon="-118.5708299" stopId="08483" tag="8483" title="Winnetka / Hart"/>
+  <stop lat="34.1761099" lon="-118.57084" stopId="08484" tag="8484" title="Winnetka / Hatteras"/>
+  <stop lat="34.1800999" lon="-118.57081" stopId="08485" tag="8485" title="Winnetka / Oxnard"/>
+  <stop lat="34.2284299" lon="-118.5708999" stopId="08486" tag="8486" title="Winnetka / Parthenia"/>
+  <stop lat="34.2200099" lon="-118.5708899" stopId="08487" tag="8487" title="Winnetka / Roscoe"/>
+  <stop lat="34.20815" lon="-118.57085" stopId="08488" tag="8488" title="Winnetka / Saticoy"/>
+  <stop lat="34.20143" lon="-118.57083" stopId="08489" tag="8489" title="Winnetka / Sherman Way"/>
+  <stop lat="34.2158699" lon="-118.5708799" stopId="08490" tag="8490" title="Winnetka / Strathern"/>
+  <stop lat="34.2045699" lon="-118.5708499" stopId="08491" tag="8491" title="Winnetka / Valerio"/>
+  <stop lat="34.1940899" lon="-118.57082" stopId="08492" tag="8492" title="Winnetka / Vanowen"/>
+  <stop lat="34.1859999" lon="-118.57078" stopId="08495" tag="8495" title="Winnetka / Victory"/>
+  <stop lat="34.24287" lon="-118.56266" stopId="09385" tag="9385" title="Plummer / Corbin"/>
+  <stop lat="34.23173" lon="-118.5668999" stopId="12523" tag="12523" title="Nordhoff / Oakdale"/>
+  <stop lat="34.1727099" lon="-118.56253" stopId="15355" tag="15355" title="Ventura / Corbin"/>
+  <stop lat="34.17243" lon="-118.5657399" stopId="15384" tag="15384" title="Ventura / Oakdale"/>
+  <stop lat="34.1729099" lon="-118.5576599" stopId="15395" tag="15395" title="Ventura / Shirley"/>
+  <stop lat="34.1709599" lon="-118.57057" stopId="00599" tag="599" title="Ventura / Winnetka"/>
+  <stop lat="34.2321299" lon="-118.56263" stopId="00840" tag="840" title="Nordhoff / Corbin"/>
+  <stop lat="34.1723399" lon="-118.56392" stopId="03872" tag="3872" title="Ventura / Jumilla"/>
+  <stop lat="34.2319799" lon="-118.5669" stopId="04037" tag="4037" title="Nordhoff / Oakdale"/>
+  <stop lat="34.24247" lon="-118.5624499" stopId="04390" tag="4390" title="Corbin / Plummer"/>
+  <stop lat="34.2567099" lon="-118.57994" stopId="04918" tag="4918" title="Mason / Devonshire"/>
+  <stop lat="34.20473" lon="-118.5711599" stopId="05139" tag="5139" title="Winnetka / Valerio"/>
+  <stop lat="34.1722" lon="-118.56555" stopId="07034" tag="7034" title="Ventura / Oakdale"/>
+  <stop lat="34.2356199" lon="-118.5624199" stopId="09384" tag="9384" title="Corbin / Nordhoff"/>
+  <stop lat="34.2388399" lon="-118.5624199" stopId="09386" tag="9386" title="Corbin / Prairie"/>
+  <stop lat="34.25738" lon="-118.5752899" stopId="09578" tag="9578" title="Devonshire / Oso"/>
+  <stop lat="34.2573899" lon="-118.57124" stopId="09590" tag="9590" title="Devonshire / Winnetka"/>
+  <stop lat="34.2497099" lon="-118.5799299" stopId="11676" tag="11676" title="Mason / Lassen"/>
+  <stop lat="34.2537699" lon="-118.5799299" stopId="11677" tag="11677" title="Mason / Mayall"/>
+  <stop lat="34.2464899" lon="-118.5799199" stopId="11679" tag="11679" title="Mason / Superior"/>
+  <stop lat="34.2314299" lon="-118.5712" stopId="12538" tag="12538" title="Winnetka / Nordhoff"/>
+  <stop lat="34.24261" lon="-118.5794699" stopId="12848" tag="12848" title="Plummer / Mason"/>
+  <stop lat="34.24262" lon="-118.5665599" stopId="12849" tag="12849" title="Plummer / Oakdale"/>
+  <stop lat="34.24262" lon="-118.5755499" stopId="12850" tag="12850" title="Plummer / Oso"/>
+  <stop lat="34.24262" lon="-118.57142" stopId="12853" tag="12853" title="Plummer / Winnetka"/>
+  <stop lat="34.2013299" lon="-118.5711399" stopId="14622" tag="14622" title="Winnetka / Sherman Way"/>
+  <stop lat="34.1820099" lon="-118.57111" stopId="16790" tag="16790" title="Winnetka / Calvert"/>
+  <stop lat="34.2128999" lon="-118.5711799" stopId="16791" tag="16791" title="Winnetka / Arminta"/>
+  <stop lat="34.22438" lon="-118.57116" stopId="16792" tag="16792" title="Winnetka / Chase"/>
+  <stop lat="34.18946" lon="-118.57112" stopId="16793" tag="16793" title="Winnetka / Gilmore"/>
+  <stop lat="34.1971599" lon="-118.5711299" stopId="16794" tag="16794" title="Winnetka / Hart"/>
+  <stop lat="34.1755399" lon="-118.5710899" stopId="16795" tag="16795" title="Winnetka / Hatteras"/>
+  <stop lat="34.18037" lon="-118.5711199" stopId="16797" tag="16797" title="Winnetka / Oxnard"/>
+  <stop lat="34.2279599" lon="-118.5712199" stopId="16798" tag="16798" title="Winnetka / Parthenia"/>
+  <stop lat="34.2198999" lon="-118.57119" stopId="16799" tag="16799" title="Winnetka / Roscoe"/>
+  <stop lat="34.20853" lon="-118.57115" stopId="16800" tag="16800" title="Winnetka / Saticoy"/>
+  <stop lat="34.2157399" lon="-118.5711899" stopId="16801" tag="16801" title="Winnetka / Strathern"/>
+  <stop lat="34.1935299" lon="-118.57112" stopId="16803" tag="16803" title="Winnetka / Vanowen"/>
+  <stop lat="34.18545" lon="-118.57108" stopId="16805" tag="16805" title="Winnetka / Victory"/>
+  <stop lat="34.1871" lon="-118.57112" stopId="142461" tag="142461" title="Winnetka / G Line (Orange)"/>
+  <direction name="North" tag="243_2_0" title="North to Chatsworth" useForUI="true">
+   <stop tag="3863"/>
+   <stop tag="15395"/>
+   <stop tag="15355"/>
+   <stop tag="15384"/>
+   <stop tag="3096"/>
+   <stop tag="7056"/>
+   <stop tag="8484"/>
+   <stop tag="8485"/>
+   <stop tag="8479"/>
+   <stop tag="8495"/>
+   <stop tag="8482"/>
+   <stop tag="8492"/>
+   <stop tag="8483"/>
+   <stop tag="8489"/>
+   <stop tag="8491"/>
+   <stop tag="8488"/>
+   <stop tag="8480"/>
+   <stop tag="8490"/>
+   <stop tag="8487"/>
+   <stop tag="8481"/>
+   <stop tag="8486"/>
+   <stop tag="4050"/>
+   <stop tag="12523"/>
+   <stop tag="843"/>
+   <stop tag="839"/>
+   <stop tag="842"/>
+   <stop tag="9385"/>
+   <stop tag="4391"/>
+   <stop tag="4395"/>
+   <stop tag="4392"/>
+   <stop tag="3190"/>
+   <stop tag="3188"/>
+   <stop tag="3187"/>
+   <stop tag="3189"/>
+   <stop tag="3186"/>
+   <stop tag="1034"/>
+   <stop tag="1046"/>
+   <stop tag="1033"/>
+  </direction>
+  <direction name="South" tag="243_3_1" title="South to Woodland Hills" useForUI="true">
+   <stop tag="9590"/>
+   <stop tag="9578"/>
+   <stop tag="4918"/>
+   <stop tag="11677"/>
+   <stop tag="11676"/>
+   <stop tag="11679"/>
+   <stop tag="12848"/>
+   <stop tag="12850"/>
+   <stop tag="12853"/>
+   <stop tag="12849"/>
+   <stop tag="4390"/>
+   <stop tag="9386"/>
+   <stop tag="9384"/>
+   <stop tag="840"/>
+   <stop tag="4037"/>
+   <stop tag="12538"/>
+   <stop tag="16798"/>
+   <stop tag="16792"/>
+   <stop tag="16799"/>
+   <stop tag="16801"/>
+   <stop tag="16791"/>
+   <stop tag="16800"/>
+   <stop tag="5139"/>
+   <stop tag="14622"/>
+   <stop tag="16794"/>
+   <stop tag="16803"/>
+   <stop tag="16793"/>
+   <stop tag="142461"/>
+   <stop tag="16805"/>
+   <stop tag="16790"/>
+   <stop tag="16797"/>
+   <stop tag="16795"/>
+   <stop tag="599"/>
+   <stop tag="7034"/>
+   <stop tag="3872"/>
+  </direction>
+  <path>
+   <point lat="34.17283" lon="-118.55471"/>
+   <point lat="34.17291" lon="-118.55766"/>
+   <point lat="34.17281" lon="-118.56007"/>
+   <point lat="34.17271" lon="-118.56253"/>
+   <point lat="34.17243" lon="-118.56574"/>
+   <point lat="34.17214" lon="-118.56732"/>
+   <point lat="34.17119" lon="-118.57069"/>
+  </path>
+  <path>
+   <point lat="34.25671" lon="-118.57994"/>
+   <point lat="34.25377" lon="-118.57993"/>
+   <point lat="34.2499899" lon="-118.57982"/>
+   <point lat="34.24971" lon="-118.57993"/>
+   <point lat="34.24649" lon="-118.57992"/>
+   <point lat="34.24274" lon="-118.57981"/>
+   <point lat="34.24261" lon="-118.57947"/>
+   <point lat="34.24262" lon="-118.57555"/>
+   <point lat="34.24262" lon="-118.57142"/>
+   <point lat="34.24262" lon="-118.56656"/>
+   <point lat="34.24275" lon="-118.56233"/>
+   <point lat="34.24247" lon="-118.56245"/>
+   <point lat="34.2412599" lon="-118.56234"/>
+   <point lat="34.23884" lon="-118.56242"/>
+   <point lat="34.23657" lon="-118.56234"/>
+   <point lat="34.23562" lon="-118.56242"/>
+   <point lat="34.232" lon="-118.5623"/>
+   <point lat="34.23213" lon="-118.56263"/>
+  </path>
+  <path>
+   <point lat="34.17096" lon="-118.57057"/>
+   <point lat="34.17169" lon="-118.56902"/>
+   <point lat="34.17183" lon="-118.56864"/>
+   <point lat="34.1719099" lon="-118.5684"/>
+   <point lat="34.17194" lon="-118.56829"/>
+   <point lat="34.172" lon="-118.56804"/>
+   <point lat="34.17214" lon="-118.56732"/>
+   <point lat="34.17218" lon="-118.56705"/>
+   <point lat="34.17222" lon="-118.56673"/>
+   <point lat="34.1723" lon="-118.56589"/>
+   <point lat="34.1721999" lon="-118.56555"/>
+   <point lat="34.17234" lon="-118.56392"/>
+  </path>
+  <path>
+   <point lat="34.25739" lon="-118.57124"/>
+   <point lat="34.25738" lon="-118.57529"/>
+   <point lat="34.25725" lon="-118.57853"/>
+   <point lat="34.25726" lon="-118.57982"/>
+   <point lat="34.25671" lon="-118.57994"/>
+  </path>
+  <path>
+   <point lat="34.25708" lon="-118.5797"/>
+   <point lat="34.25725" lon="-118.57853"/>
+   <point lat="34.25714" lon="-118.57463"/>
+   <point lat="34.25715" lon="-118.57057"/>
+   <point lat="34.25726" lon="-118.5667"/>
+   <point lat="34.25715" lon="-118.56636"/>
+  </path>
+  <path>
+   <point lat="34.17119" lon="-118.57069"/>
+   <point lat="34.1709699" lon="-118.57093"/>
+   <point lat="34.17169" lon="-118.57094"/>
+   <point lat="34.17216" lon="-118.57078"/>
+   <point lat="34.17546" lon="-118.57094"/>
+   <point lat="34.17611" lon="-118.57084"/>
+   <point lat="34.17657" lon="-118.57117"/>
+   <point lat="34.17677" lon="-118.57128"/>
+   <point lat="34.17699" lon="-118.57139"/>
+   <point lat="34.17714" lon="-118.57146"/>
+   <point lat="34.17724" lon="-118.57149"/>
+   <point lat="34.17731" lon="-118.5715"/>
+   <point lat="34.17757" lon="-118.57152"/>
+   <point lat="34.17769" lon="-118.57152"/>
+   <point lat="34.1780199" lon="-118.57144"/>
+   <point lat="34.17824" lon="-118.57135"/>
+   <point lat="34.17828" lon="-118.57133"/>
+   <point lat="34.17857" lon="-118.57121"/>
+   <point lat="34.17878" lon="-118.57115"/>
+   <point lat="34.17919" lon="-118.57106"/>
+   <point lat="34.1801" lon="-118.57081"/>
+   <point lat="34.18255" lon="-118.57078"/>
+   <point lat="34.18557" lon="-118.57092"/>
+   <point lat="34.186" lon="-118.57078"/>
+   <point lat="34.19001" lon="-118.57082"/>
+   <point lat="34.19409" lon="-118.57082"/>
+  </path>
+  <path>
+   <point lat="34.19409" lon="-118.57082"/>
+   <point lat="34.1977199" lon="-118.57083"/>
+   <point lat="34.20143" lon="-118.57083"/>
+   <point lat="34.2045699" lon="-118.57085"/>
+   <point lat="34.20815" lon="-118.57085"/>
+   <point lat="34.2122" lon="-118.57087"/>
+   <point lat="34.21587" lon="-118.57088"/>
+   <point lat="34.22001" lon="-118.57089"/>
+   <point lat="34.22445" lon="-118.57088"/>
+   <point lat="34.22843" lon="-118.5709"/>
+   <point lat="34.23184" lon="-118.57105"/>
+   <point lat="34.23172" lon="-118.57071"/>
+   <point lat="34.23186" lon="-118.56808"/>
+   <point lat="34.23173" lon="-118.5669"/>
+   <point lat="34.232" lon="-118.5623"/>
+   <point lat="34.23227" lon="-118.56218"/>
+  </path>
+  <path>
+   <point lat="34.23213" lon="-118.56263"/>
+   <point lat="34.23199" lon="-118.56294"/>
+   <point lat="34.23198" lon="-118.5669"/>
+   <point lat="34.23184" lon="-118.57053"/>
+   <point lat="34.23184" lon="-118.57105"/>
+   <point lat="34.23143" lon="-118.5712"/>
+   <point lat="34.22796" lon="-118.57122"/>
+   <point lat="34.2243799" lon="-118.57116"/>
+   <point lat="34.2199" lon="-118.57119"/>
+   <point lat="34.2157399" lon="-118.57119"/>
+   <point lat="34.2129" lon="-118.57118"/>
+   <point lat="34.20853" lon="-118.57115"/>
+   <point lat="34.20473" lon="-118.57116"/>
+   <point lat="34.20133" lon="-118.57114"/>
+   <point lat="34.1971599" lon="-118.57113"/>
+   <point lat="34.19353" lon="-118.57112"/>
+  </path>
+  <path>
+   <point lat="34.19353" lon="-118.57112"/>
+   <point lat="34.1894599" lon="-118.57112"/>
+   <point lat="34.1871" lon="-118.57112"/>
+   <point lat="34.18545" lon="-118.57108"/>
+   <point lat="34.18201" lon="-118.57111"/>
+   <point lat="34.18037" lon="-118.57112"/>
+   <point lat="34.17878" lon="-118.57115"/>
+   <point lat="34.1780199" lon="-118.57144"/>
+   <point lat="34.17769" lon="-118.57152"/>
+   <point lat="34.17757" lon="-118.57152"/>
+   <point lat="34.17731" lon="-118.5715"/>
+   <point lat="34.17724" lon="-118.57149"/>
+   <point lat="34.17714" lon="-118.57146"/>
+   <point lat="34.17699" lon="-118.57139"/>
+   <point lat="34.17554" lon="-118.57109"/>
+   <point lat="34.1727" lon="-118.57094"/>
+   <point lat="34.1709699" lon="-118.57093"/>
+   <point lat="34.17096" lon="-118.57057"/>
+  </path>
+  <path>
+   <point lat="34.23227" lon="-118.56218"/>
+   <point lat="34.23548" lon="-118.56229"/>
+   <point lat="34.23576" lon="-118.56218"/>
+   <point lat="34.23898" lon="-118.56218"/>
+   <point lat="34.24275" lon="-118.56233"/>
+   <point lat="34.24287" lon="-118.56266"/>
+   <point lat="34.24287" lon="-118.56672"/>
+   <point lat="34.24287" lon="-118.57097"/>
+   <point lat="34.24288" lon="-118.57522"/>
+   <point lat="34.24274" lon="-118.57981"/>
+   <point lat="34.24301" lon="-118.57969"/>
+   <point lat="34.24387" lon="-118.5798"/>
+   <point lat="34.24714" lon="-118.57968"/>
+   <point lat="34.24978" lon="-118.5797"/>
+   <point lat="34.2538399" lon="-118.57969"/>
+   <point lat="34.25708" lon="-118.5797"/>
+  </path>
+ </route>
+</body>

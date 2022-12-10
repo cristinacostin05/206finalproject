@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="18" routeTitle="18 Wilshire Western Sta-Montebello Via" stopTag="8336" stopTitle="Whittier / Saybrook">
+  <direction title="East to Montebello Station">
+   <prediction affectedByLayover="true" block="0180500" dirTag="18_280_0" epochTime="1670559022348" isDeparture="false" isScheduleBased="true" minutes="18" seconds="1086" tripTag="54677616" vehicle="virtualVehicle_0180500"/>
+   <prediction block="0180700" dirTag="18_280_0" epochTime="1670559254106" isDeparture="false" minutes="21" seconds="1318" tripTag="54677618" vehicle="1923"/>
+   <prediction block="0181100" dirTag="18_280_0" epochTime="1670560661224" isDeparture="false" minutes="45" seconds="2725" tripTag="54677611" vehicle="1708"/>
+   <prediction affectedByLayover="true" block="0182200" dirTag="18_286_0" epochTime="1670562850382" isDeparture="false" minutes="81" seconds="4914" tripTag="54677493" vehicle="1707"/>
+   <prediction affectedByLayover="true" block="0181000" dirTag="18_286_0" epochTime="1670563136758" isDeparture="false" minutes="86" seconds="5201" tripTag="54677462" vehicle="1866"/>
+  </direction>
+ </predictions>
+</body>

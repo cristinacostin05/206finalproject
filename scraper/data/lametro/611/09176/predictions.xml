@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="611" routeTitle="611 Huntington Park Shuttle" stopTag="9176" stopTitle="Cecelia / Atlantic">
+  <direction title="Xcounter to Vernon Station">
+   <prediction affectedByLayover="true" block="6110200" dirTag="611_20_1" epochTime="1670565622489" isDeparture="false" minutes="86" seconds="5182" tripTag="54535746" vehicle="6082"/>
+  </direction>
+  <direction title="Xcounter to Vernon-Huntington Park-Cudahy">
+   <prediction affectedByLayover="true" block="6110100" dirTag="611_27_1" epochTime="1670562017996" isDeparture="false" minutes="26" seconds="1577" tripTag="54535745" vehicle="5781"/>
+  </direction>
+  <direction title="Clockwis to Vernon Station">
+   <prediction affectedByLayover="true" block="6110300" dirTag="611_23_0" epochTime="1670563819999" isDeparture="false" minutes="56" seconds="3379" tripTag="54535761" vehicle="3878"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="256" routeTitle="256 Cal State LA - Sierra Madre Villa St" stopTag="11004" stopTitle="Avenue 64 / Church">
+  <direction title="South to Csula Transit Center">
+   <prediction block="2560300" dirTag="256_104_1" epochTime="1670561766035" isDeparture="false" minutes="35" seconds="2133" tripTag="54664107" vehicle="3136"/>
+   <prediction affectedByLayover="true" block="2560400" dirTag="256_104_1" epochTime="1670565102180" isDeparture="false" minutes="91" seconds="5469" tripTag="54664089" vehicle="3145"/>
+  </direction>
+ </predictions>
+</body>

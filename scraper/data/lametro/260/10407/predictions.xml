@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="10407" stopTitle="Fair Oaks / Raymond Hill">
+  <direction title="South to Artesia Station">
+   <prediction affectedByLayover="true" block="2601902" dirTag="260_286_1" epochTime="1670560824021" isDeparture="false" minutes="23" seconds="1425" tripTag="54610123" vehicle="1843"/>
+   <prediction affectedByLayover="true" block="2601000" dirTag="260_286_1" epochTime="1670562432132" isDeparture="false" minutes="50" seconds="3033" tripTag="54610124" vehicle="8324"/>
+   <prediction affectedByLayover="true" block="2601100" dirTag="260_286_1" epochTime="1670564696770" isDeparture="false" isScheduleBased="true" minutes="88" seconds="5297" tripTag="54610125" vehicle="virtualVehicle_2601100"/>
+  </direction>
+ </predictions>
+</body>

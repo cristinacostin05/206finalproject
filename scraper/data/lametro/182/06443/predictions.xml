@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="6443" stopTitle="Talmadge / Clayton">
+  <direction title="East to Huntington-Monterey">
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_14_0" epochTime="1670561115656" isDeparture="false" isScheduleBased="true" minutes="13" seconds="788" tripTag="54677255" vehicle="virtualVehicle_1820600"/>
+   <prediction affectedByLayover="true" block="1820400" dirTag="182_14_0" epochTime="1670564348066" isDeparture="false" minutes="67" seconds="4021" tripTag="54677195" vehicle="5951"/>
+  </direction>
+ </predictions>
+</body>

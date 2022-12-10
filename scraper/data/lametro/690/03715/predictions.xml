@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="690" routeTitle="690 Sylmar Sta -Olive View Hosp.-Sunland" stopTag="3715" stopTitle="Olive View Ucc">
+  <direction title="East to Sunland">
+   <prediction affectedByLayover="true" block="6900400" dirTag="690_1_0" epochTime="1670561183540" isDeparture="false" isScheduleBased="true" minutes="13" seconds="791" tripTag="54428414" vehicle="virtualVehicle_6900400"/>
+   <prediction affectedByLayover="true" block="6900502" dirTag="690_1_0" epochTime="1670562979260" isDeparture="false" minutes="43" seconds="2587" tripTag="54428415" vehicle="6141"/>
+  </direction>
+  <direction title="West to Sylmar Station">
+   <prediction affectedByLayover="true" block="6900200" dirTag="690_2_1" epochTime="1670562763105" isDeparture="false" minutes="39" seconds="2371" tripTag="54428449" vehicle="1780"/>
+   <prediction affectedByLayover="true" block="6900400" dirTag="690_2_1" epochTime="1670565323752" isDeparture="false" isScheduleBased="true" minutes="82" seconds="4931" tripTag="54428448" vehicle="virtualVehicle_6900400"/>
+  </direction>
+ </predictions>
+</body>

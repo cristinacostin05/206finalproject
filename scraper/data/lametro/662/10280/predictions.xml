@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="662" routeTitle="662 Altadena-Pasadena Via Lake - Los Rob" stopTag="10280" stopTitle="Washington / Marengo">
+  <direction title="South to Nb Lake - Sb Lincoln Via Del Mar Sta">
+   <prediction block="6620702" dirTag="662_8_1" epochTime="1670559086404" isDeparture="false" minutes="17" seconds="1047" tripTag="54676394" vehicle="1594"/>
+   <prediction affectedByLayover="true" block="6620702" dirTag="662_8_1" epochTime="1670562216278" isDeparture="false" minutes="69" seconds="4177" tripTag="54676391" vehicle="1594"/>
+  </direction>
+ </predictions>
+</body>

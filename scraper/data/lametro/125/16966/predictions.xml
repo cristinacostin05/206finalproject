@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="125" routeTitle="125 El Segundo - Norwalk Station Via Ros" stopTag="16966" stopTitle="Park / Douglas">
+  <direction title="West to El Segundo">
+   <prediction affectedByLayover="true" block="1251100" dirTag="125_150_1" epochTime="1670558537925" isDeparture="false" isScheduleBased="true" minutes="3" seconds="213" tripTag="54454552" vehicle="virtualVehicle_1251100"/>
+  </direction>
+ </predictions>
+</body>

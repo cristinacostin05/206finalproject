@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="4464" stopTitle="Reseda / Erwin">
+  <direction title="East to Universal/Studio City Sta">
+   <prediction block="2401300" dirTag="240_1_0" epochTime="1670558614421" isDeparture="false" isScheduleBased="true" minutes="3" seconds="203" tripTag="54418544" vehicle="2028"/>
+   <prediction affectedByLayover="true" block="2400700" dirTag="240_1_0" epochTime="1670563426305" isDeparture="false" isScheduleBased="true" minutes="83" seconds="5015" tripTag="54418553" vehicle="8449"/>
+   <prediction affectedByLayover="true" block="2401800" dirTag="240_1_0" epochTime="1670563774386" isDeparture="false" isScheduleBased="true" minutes="89" seconds="5363" tripTag="54418552" vehicle="1756"/>
+  </direction>
+ </predictions>
+</body>

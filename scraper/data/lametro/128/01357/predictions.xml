@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="128" routeTitle="128 Compton Sta - Cerritos Towne Center" stopTag="1357" stopTitle="Compton / Spring">
+  <direction title="West to Compton Station">
+   <prediction block="1280100" dirTag="128_28_1" epochTime="1670559428826" isDeparture="false" minutes="13" seconds="782" tripTag="54540252" vehicle="1532"/>
+   <prediction affectedByLayover="true" block="1280300" dirTag="128_28_1" epochTime="1670562397831" isDeparture="false" minutes="62" seconds="3751" tripTag="54540253" vehicle="1522"/>
+  </direction>
+ </predictions>
+</body>

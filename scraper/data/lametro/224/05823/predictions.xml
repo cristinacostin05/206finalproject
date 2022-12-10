@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="224" routeTitle="224 Sylmar-Universal Cty Via San Fernand" stopTag="5823" stopTitle="San Fernando / Branford">
+  <direction title="North to Sylmar Station">
+   <prediction affectedByLayover="true" block="2240200" dirTag="224_259_0" epochTime="1670564506593" isDeparture="false" minutes="91" seconds="5502" tripTag="54429143" vehicle="4010"/>
+  </direction>
+ </predictions>
+</body>

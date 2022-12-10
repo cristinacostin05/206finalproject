@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="20" routeTitle="20 Downtown LA - Santa Monica Via Wilsh" stopTag="928" stopTitle="Wilshire / Crenshaw">
+  <direction title="East to Downtown LA - 6th-Main">
+   <prediction block="0209811" dirTag="20_783_0" epochTime="1670559487533" isDeparture="false" minutes="19" seconds="1150" tripTag="54485028" vehicle="4165"/>
+   <prediction affectedByLayover="true" block="0209711" dirTag="20_783_0" epochTime="1670562640611" isDeparture="false" isScheduleBased="true" minutes="71" seconds="4303" tripTag="54485030" vehicle="virtualVehicle_0209711"/>
+   <prediction affectedByLayover="true" block="0206302" dirTag="20_779_0" epochTime="1670564111448" isDeparture="false" isScheduleBased="true" minutes="96" seconds="5774" tripTag="54485031" vehicle="virtualVehicle_0206302"/>
+  </direction>
+ </predictions>
+</body>

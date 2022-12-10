@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="2182" stopTitle="Garvey / Walnut Grove">
+  <direction title="East to El Monte Station">
+   <prediction block="0702600" dirTag="70_292_0" epochTime="1670559918451" isDeparture="false" minutes="10" seconds="625" tripTag="54593100" vehicle="4034"/>
+   <prediction block="0700100" dirTag="70_292_0" epochTime="1670560823595" isDeparture="false" minutes="25" seconds="1530" tripTag="54592944" vehicle="4116"/>
+   <prediction block="0700200" dirTag="70_292_0" epochTime="1670561068461" isDeparture="false" minutes="29" seconds="1775" tripTag="54592801" vehicle="1841"/>
+  </direction>
+ </predictions>
+</body>

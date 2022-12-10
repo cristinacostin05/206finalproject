@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="260" routeTitle="260 Artesia Station-Pasadena Via Atlanti" stopTag="4715" stopTitle="Atlantic / Whittier">
+  <direction title="North to Fair Oaks-Colorado">
+   <prediction affectedByLayover="true" block="2601600" dirTag="260_260_0" epochTime="1670562766609" isDeparture="false" isScheduleBased="true" minutes="56" seconds="3380" tripTag="54610113" vehicle="virtualVehicle_2601600"/>
+   <prediction affectedByLayover="true" block="2601400" dirTag="260_260_0" epochTime="1670564754289" isDeparture="false" minutes="89" seconds="5368" tripTag="54610117" vehicle="8349"/>
+  </direction>
+ </predictions>
+</body>

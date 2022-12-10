@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="16" routeTitle="16 Downtown LA - West Hollywood Via Wes" stopTag="15694" stopTitle="5th / Hill">
+  <direction title="West to West Hollywood">
+   <prediction affectedByLayover="true" block="0169911" dirTag="16_412_1" epochTime="1670561189429" isDeparture="false" minutes="34" seconds="2088" tripTag="54471084" vehicle="8509"/>
+   <prediction affectedByLayover="true" block="0160602" dirTag="16_412_1" epochTime="1670562855948" isDeparture="false" minutes="62" seconds="3755" tripTag="54471155" vehicle="8543"/>
+   <prediction affectedByLayover="true" block="0165100" dirTag="16_412_1" epochTime="1670564369429" isDeparture="false" minutes="87" seconds="5268" tripTag="54471035" vehicle="8432"/>
+  </direction>
+ </predictions>
+</body>

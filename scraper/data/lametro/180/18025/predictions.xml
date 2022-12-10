@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="18025" stopTitle="Los Feliz / San Fernando">
+  <direction title="East to Pasadena City College">
+   <prediction block="1800500" dirTag="180_227_0" epochTime="1670560537327" isDeparture="false" minutes="0" seconds="53" tripTag="54675224" vehicle="1586"/>
+   <prediction block="1800800" dirTag="180_227_0" epochTime="1670561197279" isDeparture="false" minutes="11" seconds="713" tripTag="54675220" vehicle="6040"/>
+   <prediction affectedByLayover="true" block="1801700" dirTag="180_227_0" epochTime="1670565258812" isDeparture="false" minutes="79" seconds="4775" tripTag="54675213" vehicle="1919"/>
+  </direction>
+ </predictions>
+</body>

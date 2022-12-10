@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="761" routeTitle="761 Sylmar Sta- West LA Via Van Nuys Bl" stopTag="968" stopTitle="Van Nuys / Huston">
+  <direction title="North to Sepulveda E Line (expo) Station">
+   <prediction block="7610200" dirTag="761_71_0" epochTime="1670561072162" isDeparture="false" minutes="38" seconds="2336" tripTag="54424826" vehicle="8757"/>
+   <prediction affectedByLayover="true" block="7610400" dirTag="761_71_0" epochTime="1670562507276" isDeparture="false" minutes="62" seconds="3771" tripTag="54424843" vehicle="8748"/>
+   <prediction affectedByLayover="true" block="7611300" dirTag="761_71_0" epochTime="1670564238116" isDeparture="false" minutes="91" seconds="5502" tripTag="54424844" vehicle="8468"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="13000144" stopTitle="Vine / Hollywood">
+  <direction title="North to Hollywood/Vine Sta">
+   <prediction block="2101800" dirTag="210_298_0" epochTime="1670561910589" isDeparture="false" minutes="67" seconds="4035" tripTag="54543060" vehicle="2044"/>
+  </direction>
+ </predictions>
+</body>

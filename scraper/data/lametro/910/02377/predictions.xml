@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="2377" stopTitle="Flower / Pico">
+  <direction title="South to Silver Ln-Harbor Gateway Tc Via Dwntwn">
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_210_1" epochTime="1670560561530" isDeparture="false" isScheduleBased="true" minutes="10" seconds="659" tripTag="54545504" vehicle="virtualVehicle_9101302"/>
+   <prediction block="9102602" dirTag="910_210_1" epochTime="1670561607358" isDeparture="false" minutes="28" seconds="1705" tripTag="54545613" vehicle="8388"/>
+  </direction>
+ </predictions>
+</body>

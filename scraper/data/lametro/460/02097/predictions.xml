@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="460" routeTitle="460 Downtown LA - Disneyland Via Harbor" stopTag="2097" stopTitle="Fullerton Park / Ride Dock 14">
+  <direction title="East to Disneyland">
+   <prediction block="4601002" dirTag="460_200_0" epochTime="1670559927468" isDeparture="false" minutes="31" seconds="1869" tripTag="54529717" vehicle="1661"/>
+  </direction>
+  <direction title="West to Downtown LA - 6th-Los Angeles">
+   <prediction affectedByLayover="true" block="4601002" dirTag="460_201_1" epochTime="1670561724799" isDeparture="false" minutes="61" seconds="3666" tripTag="54529720" vehicle="1661"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="180" routeTitle="180 Hollywood-Glendale-Pasadena Via Los" stopTag="9843" stopTitle="Colorado / Arroyo Pkwy">
+  <direction title="West to Hollywood/Vine Sta">
+   <prediction affectedByLayover="true" block="1801500" dirTag="180_228_1" epochTime="1670561989234" isDeparture="false" minutes="24" seconds="1499" tripTag="54675133" vehicle="5949"/>
+   <prediction affectedByLayover="true" block="1800500" dirTag="180_228_1" epochTime="1670564881443" isDeparture="false" minutes="73" seconds="4391" tripTag="54675134" vehicle="1586"/>
+  </direction>
+ </predictions>
+</body>

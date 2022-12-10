@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="950" routeTitle="950 Metro Silver Line" stopTag="13560" stopTitle="Grand / 3rd">
+  <direction title="South to Silver Line - San Pedro Via Downtown LA">
+   <prediction block="9105902" dirTag="950_209_1" epochTime="1670559307203" isDeparture="false" minutes="20" seconds="1252" tripTag="54545491_950" vehicle="5915"/>
+  </direction>
+ </predictions>
+</body>

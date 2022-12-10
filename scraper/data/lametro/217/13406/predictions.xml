@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="217" routeTitle="217 E Hollywood - La Cienega Sta Via Hol" stopTag="13406" stopTitle="Washington Fairfax Hub">
+  <direction title="North to Vermont/Sunset Sta">
+   <prediction affectedByLayover="true" block="2179711" dirTag="217_315_0" epochTime="1670560982427" isDeparture="false" minutes="33" seconds="2010" tripTag="54542144" vehicle="6016"/>
+  </direction>
+  <direction title="North to Vermont/Santa Monica Station">
+   <prediction affectedByLayover="true" block="2179811" dirTag="217_311_0" epochTime="1670562614537" isDeparture="false" minutes="60" seconds="3642" tripTag="54542142" vehicle="5969"/>
+  </direction>
+ </predictions>
+</body>

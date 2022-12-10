@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="110" routeTitle="110 Playa Vista- Bell Gardens Via Jeffer" stopTag="14660" stopTitle="Slauson / Sepulveda">
+  <direction title="West to Playa Vista">
+   <prediction block="1100700" dirTag="110_273_1" epochTime="1670560499121" isDeparture="false" minutes="44" seconds="2643" tripTag="54518535" vehicle="5769"/>
+  </direction>
+ </predictions>
+</body>

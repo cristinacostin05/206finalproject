@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="102" routeTitle="102 LAX Cty Bus Ctr - S Gate Via LA Tije" stopTag="142006" stopTitle="Seville / Grand">
+  <direction title="East to Huntington Park - Palm-Seville">
+   <prediction affectedByLayover="true" block="1020200" dirTag="102_68_0" epochTime="1670563518127" isDeparture="false" minutes="70" seconds="4252" tripTag="54635525" vehicle="5751"/>
+   <prediction block="1020100" dirTag="102_67_0" epochTime="1670563571291" isDeparture="false" minutes="71" seconds="4305" tripTag="54635523" vehicle="6001"/>
+  </direction>
+ </predictions>
+</body>

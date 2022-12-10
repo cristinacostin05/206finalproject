@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="182" routeTitle="182 Rose Hill Tc - E Hollywood Via Figue" stopTag="14632" stopTitle="Sierra / Borel">
+  <direction title="West to Vermont/Sunset Sta">
+   <prediction affectedByLayover="true" block="1820500" dirTag="182_15_1" epochTime="1670562066067" isDeparture="false" minutes="28" seconds="1719" tripTag="54677211" vehicle="1885"/>
+   <prediction affectedByLayover="true" block="1820600" dirTag="182_15_1" epochTime="1670564986087" isDeparture="false" isScheduleBased="true" minutes="77" seconds="4639" tripTag="54677212" vehicle="virtualVehicle_1820600"/>
+  </direction>
+ </predictions>
+</body>

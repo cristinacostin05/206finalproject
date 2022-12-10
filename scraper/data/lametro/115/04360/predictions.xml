@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="115" routeTitle="115 Playa Del Rey - Norwalk Via Manchest" stopTag="4360" stopTitle="Pershing / Rees">
+  <direction title="West to Playa Del Rey">
+   <prediction block="1150800" dirTag="115_523_1" epochTime="1670563173405" isDeparture="false" minutes="72" seconds="4332" tripTag="54540966" vehicle="1769"/>
+   <prediction affectedByLayover="true" block="1151600" dirTag="115_523_1" epochTime="1670564482160" isDeparture="false" isScheduleBased="true" minutes="94" seconds="5640" tripTag="54541024" vehicle="virtualVehicle_1151600"/>
+  </direction>
+ </predictions>
+</body>

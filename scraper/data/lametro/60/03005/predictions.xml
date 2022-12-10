@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="60" routeTitle="60 Downtown LA - Artesia Station Via Lo" stopTag="3005" stopTitle="Long Beach / Burton">
+  <direction title="North to Downtown LA - Sunset- Figueroa">
+   <prediction block="0604311" dirTag="60_161_0" epochTime="1670560012234" isDeparture="false" minutes="7" seconds="452" tripTag="54597649" vehicle="5675"/>
+   <prediction affectedByLayover="true" block="0604411" dirTag="60_161_0" epochTime="1670560944518" isDeparture="false" isScheduleBased="true" minutes="23" seconds="1384" tripTag="54597657" vehicle="virtualVehicle_0604411"/>
+   <prediction affectedByLayover="true" block="0604211" dirTag="60_161_0" epochTime="1670564809517" isDeparture="false" minutes="87" seconds="5249" tripTag="54597697" vehicle="6103"/>
+  </direction>
+ </predictions>
+</body>

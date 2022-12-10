@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="2" routeTitle="2 Westwood - Exposition Park Via Sunse" stopTag="15627" stopTitle="Alvarado / 3rd">
+  <direction title="East to Expo Park/USC">
+   <prediction block="0020300" dirTag="2_1126_0" epochTime="1670559263222" isDeparture="false" minutes="3" seconds="214" tripTag="54528350" vehicle="3946"/>
+   <prediction block="0029911" dirTag="2_1126_0" epochTime="1670560496212" isDeparture="false" minutes="24" seconds="1447" tripTag="54528353" vehicle="8590"/>
+   <prediction affectedByLayover="true" block="0026000" dirTag="2_1120_0" epochTime="1670563042997" isDeparture="false" isScheduleBased="true" minutes="66" seconds="3993" tripTag="54528503" vehicle="virtualVehicle_0026000"/>
+   <prediction affectedByLayover="true" block="0020500" dirTag="2_1120_0" epochTime="1670563352889" isDeparture="false" minutes="71" seconds="4303" tripTag="54528470" vehicle="6112"/>
+   <prediction affectedByLayover="true" block="0020800" dirTag="2_1120_0" epochTime="1670564122997" isDeparture="false" minutes="84" seconds="5073" tripTag="54528357" vehicle="4007"/>
+  </direction>
+ </predictions>
+</body>

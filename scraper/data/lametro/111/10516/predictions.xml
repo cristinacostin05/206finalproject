@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="10516" stopTitle="Florence / Salt Lake">
+  <direction title="West to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="1151500" dirTag="111_380_1" epochTime="1670563862040" isDeparture="false" minutes="69" seconds="4163" tripTag="54533473" vehicle="6021"/>
+   <prediction affectedByLayover="true" block="1119911" dirTag="111_380_1" epochTime="1670565283109" isDeparture="false" minutes="93" seconds="5584" tripTag="54533476" vehicle="8471"/>
+  </direction>
+ </predictions>
+</body>

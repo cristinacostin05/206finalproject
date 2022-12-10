@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="78" routeTitle="78 Downtown LA - South Arcadia Via Main" stopTag="2851" stopTitle="Las Tunas / Rosemead">
+  <direction title="East to Las Tunas-Live Oak">
+   <prediction block="0781400" dirTag="78_519_0" epochTime="1670558235840" isDeparture="false" minutes="7" seconds="453" tripTag="54636487" vehicle="1997"/>
+   <prediction block="0780400" dirTag="78_519_0" epochTime="1670560002830" isDeparture="false" minutes="37" seconds="2220" tripTag="54636482" vehicle="1994"/>
+   <prediction block="0781200" dirTag="78_519_0" epochTime="1670560617529" isDeparture="false" minutes="47" seconds="2835" tripTag="54636486" vehicle="5865"/>
+   <prediction affectedByLayover="true" block="0780900" dirTag="78_519_0" epochTime="1670561625775" isDeparture="false" minutes="64" seconds="3843" tripTag="54636477" vehicle="4065"/>
+  </direction>
+ </predictions>
+</body>

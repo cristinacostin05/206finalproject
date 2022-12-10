@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="18063" stopTitle="Tujunga / Dilling">
+  <direction title="South to Burbank Station">
+   <prediction affectedByLayover="true" block="0900800" dirTag="155_39_1" epochTime="1670562970864" isDeparture="false" minutes="53" seconds="3235" tripTag="54394958" vehicle="6079"/>
+  </direction>
+ </predictions>
+</body>

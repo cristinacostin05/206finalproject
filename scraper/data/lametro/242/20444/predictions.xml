@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="242" routeTitle="242 Northridge - Tarzana Via Tampa - Win" stopTag="20444" stopTitle="Tampa / Lassen">
+  <direction title="South to Tarzana">
+   <prediction affectedByLayover="true" block="2420200" dirTag="242_1_1" epochTime="1670560261698" isDeparture="false" minutes="27" seconds="1654" tripTag="54423950" vehicle="1577"/>
+  </direction>
+ </predictions>
+</body>

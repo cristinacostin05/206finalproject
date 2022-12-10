@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="287" routeTitle="287 Montebello- El Monte- Arcadia Via Ru" stopTag="4633" stopTitle="Rush / Rosemead">
+  <direction title="North to Arcadia Gold Line Station">
+   <prediction block="2870100" dirTag="287_72_0" epochTime="1670558937943" isDeparture="false" minutes="14" seconds="843" tripTag="54489522" vehicle="4063"/>
+  </direction>
+ </predictions>
+</body>

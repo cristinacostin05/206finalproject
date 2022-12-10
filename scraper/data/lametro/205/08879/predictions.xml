@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="205" routeTitle="205 Willowbrook Sta-San Pedro Via Wilmgt" stopTag="8879" stopTitle="Avalon / Elsmere">
+  <direction title="North to Willowbrook / Rosa Parks Station">
+   <prediction block="2051000" dirTag="205_87_0" epochTime="1670559486629" isDeparture="false" minutes="1" seconds="71" tripTag="54636693" vehicle="1533"/>
+   <prediction block="2050400" dirTag="205_87_0" epochTime="1670562706020" isDeparture="false" minutes="54" seconds="3291" tripTag="54636694" vehicle="1535"/>
+  </direction>
+ </predictions>
+</body>

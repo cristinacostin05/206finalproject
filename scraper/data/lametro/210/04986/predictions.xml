@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="210" routeTitle="210 Hllywd Vine Sta - So Bay Galeria Via" stopTag="4986" stopTitle="Redondo Beach / Hawthorne">
+  <direction title="North to Hollywood/Vine Sta">
+   <prediction affectedByLayover="true" block="2102402" dirTag="210_298_0" epochTime="1670559225972" isDeparture="false" minutes="22" seconds="1355" tripTag="54543052" vehicle="1952"/>
+   <prediction affectedByLayover="true" block="2102200" dirTag="210_298_0" epochTime="1670560642699" isDeparture="false" minutes="46" seconds="2772" tripTag="54543017" vehicle="8455"/>
+   <prediction affectedByLayover="true" block="2102302" dirTag="210_298_0" epochTime="1670562682699" isDeparture="false" minutes="80" seconds="4812" tripTag="54543013" vehicle="2026"/>
+  </direction>
+ </predictions>
+</body>

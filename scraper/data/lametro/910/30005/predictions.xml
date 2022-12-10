@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="30005" stopTitle="Harbor Gateway Transit Center">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9102602" dirTag="910_211_0" epochTime="1670562967851" isDeparture="true" minutes="51" seconds="3066" tripTag="54545484" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_211_0" epochTime="1670563440000" isDeparture="true" isScheduleBased="true" minutes="58" seconds="3539" tripTag="54545505" vehicle="virtualVehicle_9101302"/>
+  </direction>
+ </predictions>
+</body>

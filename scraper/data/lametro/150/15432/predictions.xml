@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="150" routeTitle="150 Chatsworth Sta - Encino Via Topanga" stopTag="15432" stopTitle="Canoga Station">
+  <direction title="East to Encino">
+   <prediction block="1500200" dirTag="150_180_0" epochTime="1670561073961" isDeparture="false" minutes="20" seconds="1250" tripTag="54420233" vehicle="5900"/>
+  </direction>
+ </predictions>
+</body>

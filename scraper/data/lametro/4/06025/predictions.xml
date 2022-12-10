@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="6025" stopTitle="Santa Monica / Las Palmas">
+  <direction title="East to Downtown LA - Broadway-Venice">
+   <prediction affectedByLayover="true" block="0042502" dirTag="4_314_0" epochTime="1670558821066" isDeparture="false" isScheduleBased="true" minutes="17" seconds="1073" tripTag="54485918" vehicle="virtualVehicle_0042502"/>
+   <prediction affectedByLayover="true" block="0041300" dirTag="4_316_0" epochTime="1670561247793" isDeparture="false" minutes="58" seconds="3499" tripTag="54486009" vehicle="9526"/>
+   <prediction affectedByLayover="true" block="0040700" dirTag="4_316_0" epochTime="1670561376009" isDeparture="false" minutes="60" seconds="3628" tripTag="54485917" vehicle="9523"/>
+  </direction>
+ </predictions>
+</body>

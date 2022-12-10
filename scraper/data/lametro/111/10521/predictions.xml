@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="111" routeTitle="111 LAX City Bus Ctr - Norwalk Sta Via F" stopTag="10521" stopTitle="Florence / Emil">
+  <direction title="West to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="1151500" dirTag="111_380_1" epochTime="1670563031448" isDeparture="false" minutes="55" seconds="3331" tripTag="54533473" vehicle="6021"/>
+   <prediction affectedByLayover="true" block="1119911" dirTag="111_380_1" epochTime="1670564392517" isDeparture="false" minutes="78" seconds="4692" tripTag="54533476" vehicle="8471"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="155" routeTitle="155 N. Hollywood Sta- Burbank Sta Via Ri" stopTag="18123" stopTitle="Olive / Virginia">
+  <direction title="North to North Hollywood Station">
+   <prediction affectedByLayover="true" block="1550100" dirTag="155_38_0" epochTime="1670560271724" isDeparture="false" minutes="9" seconds="552" tripTag="54394961" vehicle="6046"/>
+   <prediction affectedByLayover="true" block="1550400" dirTag="155_38_0" epochTime="1670563739724" isDeparture="false" minutes="67" seconds="4020" tripTag="54394970" vehicle="3987"/>
+  </direction>
+ </predictions>
+</body>

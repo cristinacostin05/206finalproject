@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="37" routeTitle="37 Cedar Sinai-Dtwn LA-Wash/Fairfax Via" stopTag="15817" stopTitle="Adams / Dunsmuir">
+  <direction title="South to Washington/Fairfax Transit Hub">
+   <prediction block="0149811" dirTag="37_501_1" epochTime="1670558900608" isDeparture="false" minutes="12" seconds="721" tripTag="54520473_37" vehicle="5816"/>
+  </direction>
+ </predictions>
+</body>

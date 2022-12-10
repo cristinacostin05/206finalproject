@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="2321" stopTitle="Harbor Transitway / Rosecrans">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_211_0" epochTime="1670560072398" isDeparture="false" isScheduleBased="true" minutes="2" seconds="174" tripTag="54545485" vehicle="virtualVehicle_9102202"/>
+   <prediction affectedByLayover="true" block="9102602" dirTag="910_211_0" epochTime="1670563200249" isDeparture="false" minutes="55" seconds="3302" tripTag="54545484" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_211_0" epochTime="1670563672398" isDeparture="false" isScheduleBased="true" minutes="62" seconds="3774" tripTag="54545505" vehicle="virtualVehicle_9101302"/>
+  </direction>
+ </predictions>
+</body>

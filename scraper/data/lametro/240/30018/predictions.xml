@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="240" routeTitle="240 Northridge-Universal City Via Ventur" stopTag="30018" stopTitle="Csun Transit Center">
+  <direction title="East to Universal/Studio City Sta">
+   <prediction affectedByLayover="true" block="2400700" dirTag="240_1_0" epochTime="1670562357766" isDeparture="false" isScheduleBased="true" minutes="65" seconds="3934" tripTag="54418553" vehicle="8449"/>
+   <prediction affectedByLayover="true" block="2401800" dirTag="240_1_0" epochTime="1670562662013" isDeparture="false" minutes="70" seconds="4238" tripTag="54418552" vehicle="1756"/>
+  </direction>
+  <direction title="West to Northridge">
+   <prediction block="2400700" dirTag="240_2_1" epochTime="1670559641529" isDeparture="false" isScheduleBased="true" minutes="20" seconds="1218" tripTag="54418565" vehicle="8449"/>
+   <prediction block="2401800" dirTag="240_2_1" epochTime="1670561015164" isDeparture="false" minutes="43" seconds="2591" tripTag="54418574" vehicle="1756"/>
+   <prediction block="2402002" dirTag="240_2_1" epochTime="1670561683586" isDeparture="false" isScheduleBased="true" minutes="54" seconds="3260" tripTag="54418540" vehicle="8479"/>
+  </direction>
+ </predictions>
+</body>

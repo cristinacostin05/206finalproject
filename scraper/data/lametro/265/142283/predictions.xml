@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="265" routeTitle="265 Pico Rivera - Lakewood Ctr Mall Via" stopTag="142283" stopTitle="Paramount / Madison">
+  <direction title="South to Lakewood Center">
+   <prediction block="2650300" dirTag="265_13_1" epochTime="1670559467282" isDeparture="false" minutes="20" seconds="1214" tripTag="54437475" vehicle="2034"/>
+   <prediction affectedByLayover="true" block="2650200" dirTag="265_13_1" epochTime="1670562935772" isDeparture="false" minutes="78" seconds="4683" tripTag="54437451" vehicle="1819"/>
+  </direction>
+ </predictions>
+</body>

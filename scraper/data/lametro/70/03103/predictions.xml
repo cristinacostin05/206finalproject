@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="70" routeTitle="70 Downtown LA - El Monte Via Cesar Cha" stopTag="3103" stopTitle="Cesar E Chavez / Vignes">
+  <direction title="East to El Monte Station">
+   <prediction affectedByLayover="true" block="0704111" dirTag="70_288_0" epochTime="1670563457500" isDeparture="false" minutes="69" seconds="4164" tripTag="54592910" vehicle="1996"/>
+   <prediction affectedByLayover="true" block="0701700" dirTag="70_292_0" epochTime="1670563847030" isDeparture="false" minutes="75" seconds="4553" tripTag="54592847" vehicle="1838"/>
+  </direction>
+ </predictions>
+</body>

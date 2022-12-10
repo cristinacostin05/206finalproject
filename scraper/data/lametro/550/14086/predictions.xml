@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="550" routeTitle="550 Jefferson Park - San Pedro Via Harbo" stopTag="14086" stopTitle="Vermont / Torrance">
+  <direction title="South to San Pedro - 7th-Patton">
+   <prediction block="5500200" dirTag="550_129_1" epochTime="1670559210193" isDeparture="false" minutes="9" seconds="590" tripTag="54528689" vehicle="6128"/>
+   <prediction affectedByLayover="true" block="5500100" dirTag="550_124_1" epochTime="1670562566886" isDeparture="false" isScheduleBased="true" minutes="65" seconds="3946" tripTag="54528688" vehicle="1668"/>
+  </direction>
+ </predictions>
+</body>

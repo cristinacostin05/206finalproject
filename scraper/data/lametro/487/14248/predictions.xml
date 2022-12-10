@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="487" routeTitle="487 Downtown LA - Sierra Madre Villa Sta" stopTag="14248" stopTitle="San Gabriel / Canterbury">
+  <direction title="West to Downtown LA - 5th-Beaudry">
+   <prediction affectedByLayover="true" block="4870200" dirTag="487_121_1" epochTime="1670559288554" isDeparture="false" minutes="16" seconds="1017" tripTag="54489671" vehicle="4142"/>
+   <prediction affectedByLayover="true" block="4870300" dirTag="487_121_1" epochTime="1670559876096" isDeparture="false" minutes="26" seconds="1604" tripTag="54489673" vehicle="4014"/>
+   <prediction affectedByLayover="true" block="4870100" dirTag="487_121_1" epochTime="1670562374446" isDeparture="false" minutes="68" seconds="4103" tripTag="54489690" vehicle="4150"/>
+  </direction>
+ </predictions>
+</body>

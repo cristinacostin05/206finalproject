@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="167" routeTitle="167 Chatsworth Sta-Studio Cty-Csun Via P" stopTag="4579" stopTitle="Roscoe / Wakefield">
+  <direction title="East to Coldwater Cyn-Ventura">
+   <prediction block="1670200" dirTag="167_99_0" epochTime="1670560590672" isDeparture="false" minutes="9" seconds="572" tripTag="54429238" vehicle="4023"/>
+   <prediction affectedByLayover="true" block="1670400" dirTag="167_99_0" epochTime="1670563994103" isDeparture="false" minutes="66" seconds="3976" tripTag="54429240" vehicle="4022"/>
+  </direction>
+ </predictions>
+</body>

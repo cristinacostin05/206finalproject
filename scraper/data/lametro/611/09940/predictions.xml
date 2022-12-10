@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="611" routeTitle="611 Huntington Park Shuttle" stopTag="9940" stopTitle="Florence / Compton">
+  <direction title="Clockwis to Vernon Station">
+   <prediction affectedByLayover="true" block="6110300" dirTag="611_23_0" epochTime="1670565090693" isDeparture="false" minutes="77" seconds="4655" tripTag="54535761" vehicle="3878"/>
+  </direction>
+  <direction title="Clockwis to Huntington Park-Vernon-Cudahy">
+   <prediction block="6110200" dirTag="611_22_0" epochTime="1670561550607" isDeparture="false" minutes="18" seconds="1115" tripTag="54535762" vehicle="6082"/>
+  </direction>
+ </predictions>
+</body>

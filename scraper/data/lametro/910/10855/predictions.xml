@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="910" routeTitle="910 Metro Silver Line" stopTag="10855" stopTitle="Harbor Transitway / Harbor Fwy Station">
+  <direction title="North to J-Silver Line El Monte Sta Via Downtown">
+   <prediction affectedByLayover="true" block="9102202" dirTag="910_211_0" epochTime="1670560255268" isDeparture="false" isScheduleBased="true" minutes="5" seconds="355" tripTag="54545485" vehicle="virtualVehicle_9102202"/>
+   <prediction affectedByLayover="true" block="9102602" dirTag="910_211_0" epochTime="1670563383119" isDeparture="false" minutes="58" seconds="3483" tripTag="54545484" vehicle="8388"/>
+   <prediction affectedByLayover="true" block="9101302" dirTag="910_211_0" epochTime="1670563855268" isDeparture="false" isScheduleBased="true" minutes="65" seconds="3955" tripTag="54545505" vehicle="virtualVehicle_9101302"/>
+  </direction>
+ </predictions>
+</body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="4" routeTitle="4 Downtown LA - Santa Monica Via Santa" stopTag="14421" stopTitle="Santa Monica / Barrington">
+  <direction title="West to Santa Monica">
+   <prediction affectedByLayover="true" block="0041900" dirTag="4_315_1" epochTime="1670559202144" isDeparture="false" isScheduleBased="true" minutes="23" seconds="1433" tripTag="54485811" vehicle="virtualVehicle_0041900"/>
+   <prediction affectedByLayover="true" block="0040600" dirTag="4_315_1" epochTime="1670561010009" isDeparture="false" isScheduleBased="true" minutes="54" seconds="3240" tripTag="54485808" vehicle="virtualVehicle_0040600"/>
+   <prediction affectedByLayover="true" block="0049211" dirTag="4_313_1" epochTime="1670561664962" isDeparture="false" isScheduleBased="true" minutes="64" seconds="3895" tripTag="54485787" vehicle="virtualVehicle_0049211"/>
+   <prediction affectedByLayover="true" block="0049811" dirTag="4_313_1" epochTime="1670563464962" isDeparture="false" isScheduleBased="true" minutes="94" seconds="5695" tripTag="54485810" vehicle="virtualVehicle_0049811"/>
+  </direction>
+ </predictions>
+</body>

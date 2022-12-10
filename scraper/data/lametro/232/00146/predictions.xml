@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="232" routeTitle="232 LAX City Bus Ctr-Long Beach-Via Sepu" stopTag="146" stopTitle="Nash / Mariposa Station">
+  <direction title="North to Lax City Bus Ctr">
+   <prediction affectedByLayover="true" block="2320900" dirTag="232_87_0" epochTime="1670560523116" isDeparture="false" isScheduleBased="true" minutes="21" seconds="1315" tripTag="54637081" vehicle="virtualVehicle_2320900"/>
+  </direction>
+  <direction title="South to Downtown Long Beach">
+   <prediction affectedByLayover="true" block="2320500" dirTag="232_82_1" epochTime="1670561689964" isDeparture="false" minutes="41" seconds="2482" tripTag="54637092" vehicle="1544"/>
+  </direction>
+ </predictions>
+</body>

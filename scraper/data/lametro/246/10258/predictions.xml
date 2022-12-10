@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="246" routeTitle="246 Harbor Gateway Trans Ctr - San Pedro" stopTag="10258" stopTitle="Avalon / Victoria">
+  <direction title="North to Harbor Gateway Transit Ctr">
+   <prediction block="2460300" dirTag="246_79_0" epochTime="1670559046916" isDeparture="false" isScheduleBased="true" minutes="10" seconds="650" tripTag="54544773" vehicle="1789"/>
+   <prediction affectedByLayover="true" block="3440100" dirTag="246_78_0" epochTime="1670561219961" isDeparture="false" isScheduleBased="true" minutes="47" seconds="2823" tripTag="54544735" vehicle="6149"/>
+   <prediction affectedByLayover="true" block="2460300" dirTag="246_78_0" epochTime="1670564306770" isDeparture="false" isScheduleBased="true" minutes="98" seconds="5910" tripTag="54544736" vehicle="1789"/>
+  </direction>
+ </predictions>
+</body>

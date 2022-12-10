@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="265" routeTitle="265 Pico Rivera - Lakewood Ctr Mall Via" stopTag="17827" stopTitle="Lakewood / Gardendale">
+  <direction title="South to Lakewood Center">
+   <prediction block="2650300" dirTag="265_13_1" epochTime="1670558832399" isDeparture="false" minutes="9" seconds="584" tripTag="54437475" vehicle="2034"/>
+   <prediction affectedByLayover="true" block="2650200" dirTag="265_13_1" epochTime="1670562300889" isDeparture="false" minutes="67" seconds="4053" tripTag="54437451" vehicle="1819"/>
+  </direction>
+ </predictions>
+</body>

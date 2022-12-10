@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="720" routeTitle="720 Santa Monica-Downtown LA Via Wilshir" stopTag="16746" stopTitle="Wilshire / Robertson">
+  <direction title="West to Westwood">
+   <prediction affectedByLayover="true" block="7203402" dirTag="720_1274_1" epochTime="1670562170188" isDeparture="false" minutes="59" seconds="3575" tripTag="54508049" vehicle="8738"/>
+   <prediction affectedByLayover="true" block="7203802" dirTag="720_1274_1" epochTime="1670564030188" isDeparture="false" minutes="90" seconds="5435" tripTag="54507809" vehicle="8785"/>
+  </direction>
+  <direction title="West to Santa Monica">
+   <prediction block="7203902" dirTag="720_1273_1" epochTime="1670559641694" isDeparture="false" minutes="17" seconds="1047" tripTag="54507861" vehicle="8793"/>
+   <prediction block="7201200" dirTag="720_1273_1" epochTime="1670560417571" isDeparture="false" minutes="30" seconds="1822" tripTag="54508040" vehicle="9571"/>
+   <prediction affectedByLayover="true" block="7203502" dirTag="720_1273_1" epochTime="1670562241932" isDeparture="false" isScheduleBased="true" minutes="60" seconds="3647" tripTag="54507812" vehicle="virtualVehicle_7203502"/>
+   <prediction affectedByLayover="true" block="7200100" dirTag="720_1273_1" epochTime="1670564101932" isDeparture="false" minutes="91" seconds="5507" tripTag="54508050" vehicle="9587"/>
+  </direction>
+ </predictions>
+</body>

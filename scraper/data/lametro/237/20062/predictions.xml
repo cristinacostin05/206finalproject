@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body copyright="All data copyright Los Angeles Metro 2022.">
+ <predictions agencyTitle="Los Angeles Metro" routeTag="237" routeTitle="237 Encino-N. Holywd Via Woodley-White O" stopTag="20062" stopTitle="White Oak / Margate">
+  <direction title="West to Encino">
+   <prediction block="2370200" dirTag="237_25_1" epochTime="1670559961895" isDeparture="false" minutes="17" seconds="1068" tripTag="54420320" vehicle="1576"/>
+   <prediction affectedByLayover="true" block="2370400" dirTag="237_25_1" epochTime="1670563433868" isDeparture="false" minutes="75" seconds="4540" tripTag="54420305" vehicle="1580"/>
+  </direction>
+ </predictions>
+</body>
