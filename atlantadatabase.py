@@ -46,12 +46,26 @@ def make_atlanta_table(data, cur, conn, index):
         current_delay = list(l[i].values())[12]
     
         cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
-        cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations) VALUES (?, ?)', (current_train_id, current_destinations))
+        cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations, direction) VALUES (?, ?, ?)', (current_train_id, current_destinations, current_directions))
 
    
     
 
     conn.commit()
+    amount_of_locations(cur, conn)
+
+
+def amount_of_locations(cur, conn):
+    cur.execute("SELECT train_id, destinations, direction FROM Atlanta_Destinations")
+    l1 = cur.fetchall()
+    lengthofl1 = len(l1)
+    l2 = []
+    for i in l1:
+        print(i[1])
+        if i[1] not in l2:
+            l2.append(i[1])
+    print(len(l2))
+    return len(l2)
 
 
      
@@ -68,7 +82,7 @@ def main():
     count = count[0]
     if count <= 100:
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (train_id INTEGER, destinations TEXT)')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (train_id INTEGER, destinations TEXT, direction TEXT)')
 
         index = 0
         if count== 25:
@@ -85,7 +99,7 @@ def main():
         cur.execute('DROP TABLE IF EXISTS Atlanta')
         cur.execute('DROP TABLE IF EXISTS Atlanta_Destinations')
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (destinations TEXT, train_id INTEGER)')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (destinations TEXT, train_id INTEGER, direction TEXT)')
 
     conn.close()
 
