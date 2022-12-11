@@ -52,8 +52,7 @@ def make_atlanta_table(data, cur, conn, index):
     
 
     conn.commit()
-    amount_of_locations(cur, conn)
-
+ 
 
 def amount_of_locations(cur, conn):
     cur.execute("SELECT train_id, destinations, direction FROM Atlanta_Destinations")
@@ -64,11 +63,49 @@ def amount_of_locations(cur, conn):
         print(i[1])
         if i[1] not in l2:
             l2.append(i[1])
-    print(len(l2))
-    return len(l2)
+  
+    print(l2)
+    return l2
 
+def percentages(cur,conn):
+    pass
+#['AIRPORT', 'NORTH SPRINGS', 'DORAVILLE', 'BANKHEAD', 'HE HOLMES', 'INDIAN CREEK']
+    cur.execute("SELECT destinations FROM Atlanta_Destinations")
+    airport = 0
+    north_springs = 0
+    doraville = 0
+    bankhead = 0
+    he_holmes = 0
+    indian_creek = 0
 
+    x = cur.fetchall()
+    for i in x: 
+        a = i[0]
+        
+        if a == 'AIRPORT':
+            airport += 1
+        elif a == 'NORTH SPRINGS':
+            north_springs+=1
+        elif a == 'DORAVILLE':
+            doraville += 1
+        elif a == 'BANKHEAD':
+            bankhead += 1
+        elif a == 'HE HOLMES':
+            he_holmes += 1
+        elif a == "indian_creek":
+            indian_creek += 1
      
+    l3 = []
+    print(indian_creek)
+    l3.append(airport/100)
+    l3.append(north_springs/100)
+    l3.append(doraville/100)
+    l3.append(bankhead/100)
+    l3.append(he_holmes/100)
+    l3.append(indian_creek/100)
+    print(l3)
+    return l3
+
     # could count how many times going to the airport
     # percentages of where people went. 25% to airport. 10% to mall. etc. 
     # Could say that since it's not varied, transportation isnt varied. like, since not many options
@@ -91,6 +128,8 @@ def main():
             index = 50
         elif count == 75:
             index = 75
+            amount_of_locations(cur, conn)
+            percentages(cur,conn)  
         else:
             x = 0
         make_atlanta_table(json_data, cur, conn, index)
