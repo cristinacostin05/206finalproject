@@ -40,15 +40,17 @@ def make_atlanta_table(data, cur, conn, index):
         current_station = list(l[i].values())[6]
         current_train_id= list(l[i].values())[7]
         current_waiting_seconds = list(l[i].values())[8]
-        current_responsetimestamp = list(l[i].values())[9]
-        current_vehiclelongitude = list(l[i].values())[10]
-        current_vehiclelatitude = list(l[i].values())[11]
-        current_delay = list(l[i].values())[12]
+        current_waiting_time= list(l[i].values())[9]
+        current_responsetimestamp = list(l[i].values())[10]
+        current_vehiclelongitude = list(l[i].values())[11]
+        current_vehiclelatitude = list(l[i].values())[12]
+        current_delay = list(l[i].values())[13]
     
-        cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
-        cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations, direction) VALUES (?, ?, ?)', (current_train_id, current_destinations, current_directions))
+        cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?,?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
 
-   
+        cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations, direction) VALUES (?, ?, ?)', (current_train_id, current_destinations, current_directions))
+        
+
     
 
     conn.commit()
@@ -118,7 +120,8 @@ def main():
     count = (count[0])
     count = count[0]
     if count <= 100:
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (train_id INTEGER, destinations TEXT, direction TEXT)')
 
         index = 0
@@ -128,17 +131,25 @@ def main():
             index = 50
         elif count == 75:
             index = 75
-            amount_of_locations(cur, conn)
-            percentages(cur,conn)  
+            
         else:
             x = 0
         make_atlanta_table(json_data, cur, conn, index)
 
+    if count == 100:
+        amount_of_locations(cur, conn)
+        percentages(cur,conn)  
+
     if count >= 100:
         cur.execute('DROP TABLE IF EXISTS Atlanta')
         cur.execute('DROP TABLE IF EXISTS Atlanta_Destinations')
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (destinations TEXT, train_id INTEGER, direction TEXT)')
+
+
+
+
+
 
     conn.close()
 
