@@ -334,10 +334,14 @@ def main():
     count = (count[0])[0]
 
     index = count
-    
-    if index < 325:
-        make_philadelphia_table(json_data2, cur, conn, index)
+    bool1 = False 
+    bool2 = False 
 
+    if index < 150:
+        make_philadelphia_table(json_data2, cur, conn, index)
+    else:
+        bool1 = True
+        
     
     #Phoenix Table
     cur.execute('CREATE TABLE IF NOT EXISTS Phoenix (rttu INT, trip_id INT, schedule_relationship TEXT, routeid INT, stop_sequence TEXT, delay TEXT, time TEXT, uncertainity TEXT, vehicle_id INT, timestamp INT)')
@@ -349,12 +353,14 @@ def main():
 
     index = count
     
-    if index < 300:
+    if index < 150:
         make_phoenix_table(json_data3, cur, conn, index)
+    else:
+        bool2 = True
 
-
-    get_average_delay(conn)
-    delay_visualization(conn)
+    if bool1 == True and bool2 == True:
+        get_average_delay(conn)
+        delay_visualization(conn)
     #close database
     conn.close()
 
