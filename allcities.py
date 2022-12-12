@@ -1,6 +1,7 @@
 import unittest
 import sqlite3
 import json
+import plotly.graph_objects as go
 import os
 
 
@@ -59,13 +60,27 @@ def get_average_delay(conn):
         f.write("\n")
         f.write(f"Average Atlanta delay = {avg_atlanta_delay}")
 
-
-    return avg_philly_delay, avg_phoenix_delay
+    return_l = []
+    return_l.append(avg_philly_delay)
+    return_l.append(avg_phoenix_delay)
+    return_l.append(avg_atlanta_delay)
+    return return_l
 
     # TODO: Use this return statement
     # return avg_philly_delay, avg_phoenix_delay, avg_atlanta_delay
 
-def make_philadelphia_table(data, cur, conn, index):
+def delay_visualization(conn): 
+    x = get_average_delay(conn)
+    avg_philly_delay = x[0]
+    print(avg_philly_delay)
+    avg_phoenix_delay = x[1]
+    avg_atlanta_delay = x[2]
+    fig = go.Figure(data = [go.Bar(name = "Philly", x = ["Average Philadelphia Delay", "Average Pheonix Delay", "Average Atlanta Delay"], y = [ avg_phoenix_delay, avg_phoenix_delay, avg_atlanta_delay], marker_color = 'rgb(15, 30, 70)')])
+    fig.show()
+
+
+
+def make_philadelphia_table(data, cur, conn, index):\
 
     
     routes = data['routes'][0]
@@ -339,7 +354,7 @@ def main():
 
 
     get_average_delay(conn)
-
+    delay_visualization(conn)
     #close database
     conn.close()
 

@@ -67,11 +67,15 @@ def amount_of_locations(cur, conn):
             l2.append(i[1])
   
     print(l2)
+
+    with open('atlantacalculations.txt', 'w') as f:
+        f.write("There are " + str(len(l2))+ " different locations accessible by train in Atlanta.")
+        f.write("\n")
+
     return l2
 
 def percentages(cur,conn):
-    # pass
-#['AIRPORT', 'NORTH SPRINGS', 'DORAVILLE', 'BANKHEAD', 'HE HOLMES', 'INDIAN CREEK']
+    # ['AIRPORT', 'NORTH SPRINGS', 'DORAVILLE', 'BANKHEAD', 'HE HOLMES', 'INDIAN CREEK']
     cur.execute("SELECT destinations FROM Atlanta_Destinations")
     airport = 0
     north_springs = 0
@@ -79,6 +83,7 @@ def percentages(cur,conn):
     bankhead = 0
     he_holmes = 0
     indian_creek = 0
+    candler_park = 0
 
     x = cur.fetchall()
     for i in x: 
@@ -94,8 +99,10 @@ def percentages(cur,conn):
             bankhead += 1
         elif a == 'HE HOLMES':
             he_holmes += 1
-        elif a == "indian_creek":
+        elif a == "INDIAN CREEK":
             indian_creek += 1
+        elif a == "CANDLER PARK":
+            candler_park += 1
      
     l3 = []
     print(indian_creek)
@@ -105,7 +112,25 @@ def percentages(cur,conn):
     l3.append(bankhead/100)
     l3.append(he_holmes/100)
     l3.append(indian_creek/100)
+    l3.append(candler_park/100)
     print(l3)
+
+
+    with open('atlantacalculations.txt', 'w') as f:
+        f.write(str(l3[0]) + " of train transportation in Atlanta went to the Airport.")
+        f.write("\n")
+        f.write(str(l3[1]) + " of train transportation in Atlanta went to North Springs.")
+        f.write("\n")
+        f.write(str(l3[2]) + " of train transportation in Atlanta went to Doraville.")
+        f.write("\n")
+        f.write(str(l3[3]) + " of train transportation in Atlanta went to Bankhead.")
+        f.write("\n")
+        f.write(str(l3[4]) + " of train transportation in Atlanta went to He Holmes.")
+        f.write("\n")
+        f.write(str(l3[5]) + " of train transportation in Atlanta went to Indian Creek.")
+        f.write("\n")
+        f.write(str(l3[6]) + " of train transportation in Atlanta went to Candler Park.")
+
     return l3
 
     # could count how many times going to the airport
