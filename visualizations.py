@@ -21,6 +21,12 @@ def print_calculations(cur, conn, filename):
 
     atlanta_locations_amount = atlanta_amount_of_locations(cur)[1]
 
+    seat_names = philadelphia_seat_availability(cur)[0]
+    seat_availaility = philadelphia_seat_availability(cur)[1]
+
+    philly_names = philly_amount_of_locations(cur)[0]
+    philly_locations_amount = philly_amount_of_locations(cur)[1]
+
     with open(filename, 'w') as f:
         f.write(f"Average Train Delay Calculations\n")
         f.write("----------------------------------\n")
@@ -64,6 +70,21 @@ def print_calculations(cur, conn, filename):
         f.write(str(percentage[5]) + " of train transportation in Atlanta went to He Holmes.")
         f.write("\n")
         f.write(str(percentage[6]) + " of train transportation in Atlanta went to Indian Creek.")
+
+        f.write("\n")
+
+        f.write("\nPhiladelphia Train Seat Availability Calculations\n")
+        f.write("-----------------------------------------------------\n")
+        for i in range(0, len(seat_names)):
+            f.write(f"Availability Type: {seat_names[i]}, Availability Amount: {seat_availaility[i]}, ")
+            f.write(f"Availability Percentage: {seat_availaility[i]/sum(seat_availaility)}\n")
+
+
+        f.write("\nPhiladelphia Locations Visited Calculations\n")
+        f.write("-----------------------------------------------------\n")
+        
+        for i in range(0, len(philly_locations_amount)):
+            f.write(f"Location Name: {philly_names[i]}, Number of Times Visited: {philly_locations_amount[i]}\n")
 
 
 
