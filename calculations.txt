@@ -1,0 +1,3 @@
+Average Philly delay = 137.6949152542373
+Average Phoenix delay = 167.03
+Average Atlanta delay = 106.29

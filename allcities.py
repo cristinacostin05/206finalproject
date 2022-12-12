@@ -29,8 +29,9 @@ def get_average_delay(conn):
     # print(f"Phoenix Delays: {phoenix_delays}")
 
     atlanta_delays = cur.execute('SELECT delay FROM Atlanta').fetchall()
-    atlanta_delays = [int(atl_delay.replace('T', '').replace('S', '')) for atl_delay in atlanta_delays]
-    print(f"Atlanta Delays: {atlanta_delays}")
+
+    atlanta_delays = [int(atl_delay[0].replace('T', '').replace('S', '')) for atl_delay in atlanta_delays]
+    #print(f"Atlanta Delays: {atlanta_delays}")
 
     delay_sum = 0
     for pd in philly_delays:
@@ -39,7 +40,6 @@ def get_average_delay(conn):
 
     # Calculate average philly delay
     avg_philly_delay = delay_sum/len(philly_delays)
-    print(f"Average Philly delay = {avg_philly_delay}")
 
     delay_sum = 0
     for pd in phoenix_delays:
@@ -47,15 +47,18 @@ def get_average_delay(conn):
             delay_sum += int(pd[0])
     # Calculate average phoenix delay
     avg_phoenix_delay = delay_sum/len(phoenix_delays)
-    print(f"Average Phoenix delay = {avg_phoenix_delay}")
+
+        # Calculate average atlanta delay
+    avg_atlanta_delay = sum(atlanta_delays)/len(atlanta_delays)
+
 
     with open('calculations.txt', 'w') as f:
         f.write(f"Average Philly delay = {avg_philly_delay}")
+        f.write("\n")
         f.write(f"Average Phoenix delay = {avg_phoenix_delay}")
+        f.write("\n")
+        f.write(f"Average Atlanta delay = {avg_atlanta_delay}")
 
-    # Calculate average atlanta delay
-    # avg_atlanta_delay = sum(atlanta_delays)/len(atlanta_delays)
-    # print(f"Average Atlanta delay = {avg_atlanta_delay}")
 
     return avg_philly_delay, avg_phoenix_delay
 
@@ -279,7 +282,7 @@ def main():
     count = cur.fetchall()
     count = (count[0])
     count = count[0]
-    if count <= 100:
+    if count < 100:
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (train_id INTEGER, destinations TEXT, direction TEXT)')
@@ -300,11 +303,11 @@ def main():
         amount_of_locations(cur, conn)
         percentages(cur,conn)  
 
-    if count >= 100:
-        cur.execute('DROP TABLE IF EXISTS Atlanta')
-        cur.execute('DROP TABLE IF EXISTS Atlanta_Destinations')
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (destinations TEXT, train_id INTEGER, direction TEXT)')
+    # if count >= 100:
+    #     cur.execute('DROP TABLE IF EXISTS Atlanta')
+    #     cur.execute('DROP TABLE IF EXISTS Atlanta_Destinations')
+    #     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+    #     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (destinations TEXT, train_id INTEGER, direction TEXT)')
 
 
 
@@ -331,7 +334,7 @@ def main():
 
     index = count
     
-    if index < 322:
+    if index < 300:
         make_phoenix_table(json_data3, cur, conn, index)
 
 
