@@ -109,8 +109,16 @@ def make_philadelphia_table(data, cur, conn, index):
 
         conn.commit()
     
+def make_atlanta_destinations_table(cur, conn):
+    destinations = ["AIRPORT", "DORAVILLE", "NORTH SPRINGS", "BANKHEAD", "CANDLER PARK", "HE HOLMES", "INDIAN CREEK"]
+    for destination in destinations:
+        cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (id, destination) VALUES (?, ?)', (destinations.index(destination), destination))
+        
+    conn.commit()
 
 def make_atlanta_table(data, cur, conn, index):
+    # cur.execute('DROP TABLE IF EXISTS Atlanta')
+    # cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
     x = dict(data)
     x = x['RailArrivals']
@@ -118,7 +126,12 @@ def make_atlanta_table(data, cur, conn, index):
     for i in x:
         l.append(i)
 
-
+    cur.execute("SELECT destination FROM Atlanta_Destinations")
+    types = cur.fetchall()
+    destination_list = []
+    for type in types:
+        destination_list.append(type[0])
+    
     
     for i in range(index, index+25):
         
@@ -136,12 +149,11 @@ def make_atlanta_table(data, cur, conn, index):
         current_vehiclelongitude = list(l[i].values())[11]
         current_vehiclelatitude = list(l[i].values())[12]
         current_delay = list(l[i].values())[13]
-    
-        cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
 
-        cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations, direction) VALUES (?, ?, ?)', (current_train_id, current_destinations, current_directions))
+        destination_id = destination_list.index(current_destinations)
+        
     
-    
+        cur.execute('INSERT OR IGNORE INTO Atlanta (destination_id, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (destination_id, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))        
 
     conn.commit()
 
@@ -209,52 +221,56 @@ def make_phoenix_table(data, cur, conn, index):
         conn.commit()
     
 def amount_of_locations(cur, conn):
-    cur.execute("SELECT train_id, destinations, direction FROM Atlanta_Destinations")
-    l1 = cur.fetchall()
-    lengthofl1 = len(l1)
-    l2 = []
-    for i in l1:
-        print(i[1])
-        if i[1] not in l2:
-            l2.append(i[1])
+    cur.execute("SELECT destination FROM Atlanta_Destinations JOIN Atlanta ON destination_id = id")
+
+    all_destinations = cur.fetchall()
+    destinations_dict = {}
+    for destination in all_destinations:
+        destinations_dict[destination[0]] = destinations_dict.get(destination[0], 0) + 1
   
-    print(l2)
-    return l2
+    print(destinations_dict)
+    return(destinations_dict)
+    # returns dict with destinations names and amount of destinations
 
 def percentages(cur,conn):
-    pass
+    # pass
 #['AIRPORT', 'NORTH SPRINGS', 'DORAVILLE', 'BANKHEAD', 'HE HOLMES', 'INDIAN CREEK']
-    cur.execute("SELECT destinations FROM Atlanta_Destinations")
+    cur.execute("SELECT destination_id FROM Atlanta")
     airport = 0
-    north_springs = 0
     doraville = 0
+    north_springs = 0
     bankhead = 0
+    candler_park = 0
     he_holmes = 0
     indian_creek = 0
 
+    
     x = cur.fetchall()
+    
     for i in x: 
         a = i[0]
-        
-        if a == 'AIRPORT':
+   
+        if a == 0:
             airport += 1
-        elif a == 'NORTH SPRINGS':
-            north_springs+=1
-        elif a == 'DORAVILLE':
-            doraville += 1
-        elif a == 'BANKHEAD':
+        elif a == 1:
+            doraville+=1
+        elif a == 2:
+            north_springs += 1
+        elif a == 3:
             bankhead += 1
-        elif a == 'HE HOLMES':
+        elif a == 4:
+            candler_park += 1
+        elif a == 5:
             he_holmes += 1
-        elif a == "indian_creek":
+        elif a == 6:
             indian_creek += 1
      
     l3 = []
-    print(indian_creek)
     l3.append(airport/100)
-    l3.append(north_springs/100)
     l3.append(doraville/100)
+    l3.append(north_springs/100)
     l3.append(bankhead/100)
+    l3.append(candler_park/100)
     l3.append(he_holmes/100)
     l3.append(indian_creek/100)
     print(l3)
@@ -275,17 +291,26 @@ def main():
     cur, conn = open_database('allcities.db')
 
     # Atlanta Table
-    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id INTEGER, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (id INTEGER, destination TEXT)')
 
-    cur.execute("SELECT COUNT('destinations') FROM Atlanta ")
+    cur.execute("SELECT COUNT('destination') FROM Atlanta_Destinations ")
+    d_count = cur.fetchall()
+    d_count = (d_count[0])
+    d_count = d_count[0]
+    if d_count == 0:
+        make_atlanta_destinations_table(cur, conn)
+
+    cur.execute("SELECT COUNT('destination_id') FROM Atlanta ")
     count = cur.fetchall()
     count = (count[0])
     count = count[0]
     if count < 100:
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (train_id INTEGER, destinations TEXT, direction TEXT)')
+       
+
 
         index = 0
         if count== 25:
@@ -302,6 +327,8 @@ def main():
     if count == 100:
         amount_of_locations(cur, conn)
         percentages(cur,conn)  
+
+
 
     # if count >= 100:
     #     cur.execute('DROP TABLE IF EXISTS Atlanta')
@@ -320,7 +347,7 @@ def main():
 
     index = count
     
-    if index < 325:
+    if index < 150:
         make_philadelphia_table(json_data2, cur, conn, index)
 
     
@@ -334,7 +361,7 @@ def main():
 
     index = count
     
-    if index < 300:
+    if index < 150:
         make_phoenix_table(json_data3, cur, conn, index)
 
 
