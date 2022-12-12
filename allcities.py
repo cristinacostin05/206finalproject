@@ -18,6 +18,50 @@ def open_database(db_name):
     cur = conn.cursor()
     return cur, conn
 
+
+def get_average_delay(conn):
+    cur = conn.cursor()
+
+    philly_delays = cur.execute('SELECT late*60 FROM Philadelphia WHERE late < 900').fetchall()
+    # print(f"Philly Delays: {philly_delays}")
+
+    phoenix_delays = cur.execute('SELECT delay FROM Phoenix').fetchall()
+    # print(f"Phoenix Delays: {phoenix_delays}")
+
+    atlanta_delays = cur.execute('SELECT delay FROM Atlanta').fetchall()
+    atlanta_delays = [int(atl_delay.replace('T', '').replace('S', '')) for atl_delay in atlanta_delays]
+    print(f"Atlanta Delays: {atlanta_delays}")
+
+    delay_sum = 0
+    for pd in philly_delays:
+        if pd[0] != 'null':
+            delay_sum += int(pd[0])
+
+    # Calculate average philly delay
+    avg_philly_delay = delay_sum/len(philly_delays)
+    print(f"Average Philly delay = {avg_philly_delay}")
+
+    delay_sum = 0
+    for pd in phoenix_delays:
+        if pd[0] != 'null':
+            delay_sum += int(pd[0])
+    # Calculate average phoenix delay
+    avg_phoenix_delay = delay_sum/len(phoenix_delays)
+    print(f"Average Phoenix delay = {avg_phoenix_delay}")
+
+    with open('calculations.txt', 'w') as f:
+        f.write(f"Average Philly delay = {avg_philly_delay}")
+        f.write(f"Average Phoenix delay = {avg_phoenix_delay}")
+
+    # Calculate average atlanta delay
+    # avg_atlanta_delay = sum(atlanta_delays)/len(atlanta_delays)
+    # print(f"Average Atlanta delay = {avg_atlanta_delay}")
+
+    return avg_philly_delay, avg_phoenix_delay
+
+    # TODO: Use this return statement
+    # return avg_philly_delay, avg_phoenix_delay, avg_atlanta_delay
+
 def make_philadelphia_table(data, cur, conn, index):
 
     
@@ -287,9 +331,11 @@ def main():
 
     index = count
     
-    if index < 323:
+    if index < 322:
         make_phoenix_table(json_data3, cur, conn, index)
 
+
+    get_average_delay(conn)
 
     #close database
     conn.close()
