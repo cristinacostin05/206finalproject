@@ -3,7 +3,7 @@ import unittest
 import os
 import requests
 
-API_KEY = 'cdaf41f252ec436396bbd760c8bda897'
+API_KEY = '4f22263f69671d7f49726c3011333e527368211f'
 
 def write_json(cache_filename, dict):
     with open(cache_filename, 'w') as file:
@@ -21,23 +21,17 @@ def get_data_using_cache(url, filename):
 
 def main():
     #general info
-    url = f'https://mna.mecatran.com/utw/ws/gtfsfeed/realtime/valleymetro?apiKey=4f22263f69671d7f49726c3011333e527368211f&asJson=true'
-    url2 = f'https://mna.mecatran.com/utw/ws/gtfsfeed/vehicles/valleymetro?apiKey=4f22263f69671d7f49726c3011333e527368211f&asJson=true'
+    url = f'https://mna.mecatran.com/utw/ws/gtfsfeed/realtime/valleymetro?apiKey={API_KEY}&asJson=true'
 
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    filename = "phoenix_trips.json"
-    filename2 = "phoenix2_vehicles.json"
+    filename = "phoenix.json"
 
     cache_filename = dir_path + '/' + filename
-    cache_filename2 = dir_path + '/' + filename2
 
     #first cachefile
     dict = get_data_using_cache(url, filename)
     write_json(cache_filename, dict)
 
-    #first cachefile
-    dict = get_data_using_cache(url2, filename2)
-    write_json(cache_filename2, dict)
 
  
 if __name__ == "__main__":
