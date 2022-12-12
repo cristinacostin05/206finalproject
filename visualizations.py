@@ -17,9 +17,9 @@ def print_calculations(cur, conn, filename):
     avg_phoenix_delay = delays[1]
     avg_atlanta_delay = delays[2]
 
-    percentage = percentages(cur, conn)[1]
+    percentage = percentages(cur)[1]
 
-    atlanta_locations_amount = atlanta_amount_of_locations(cur, conn)[1]
+    atlanta_locations_amount = atlanta_amount_of_locations(cur)[1]
 
     with open(filename, 'w') as f:
         f.write(f"Average Train Delay Calculations\n")
@@ -74,9 +74,15 @@ def get_average_delay(conn):
 
     phoenix_delays = cur.execute('SELECT delay FROM Phoenix').fetchall()
 
-    atlanta_delays = cur.execute('SELECT delay FROM Atlanta').fetchall()
+    atlanta_delay = cur.execute('SELECT delay FROM Atlanta').fetchall()
 
-    atlanta_delays = [int(atl_delay[0].replace('T', '').replace('S', '')) for atl_delay in atlanta_delays]
+    atlanta_delay = [int(atl_delay[0].replace('T', '').replace('S', '')) for atl_delay in atlanta_delay]
+    
+    atlanta_delays = []
+    for atl_delay in atlanta_delay:
+        if atl_delay > 0:
+            atlanta_delays.append(atl_delay)
+
 
     delay_sum = 0
     for pd in philly_delays:
@@ -128,7 +134,7 @@ def delay_visualization(conn):
     fig.show()
 
 
-def philadelphia_seat_availability(cur, conn):
+def philadelphia_seat_availability(cur):
     cur.execute("SELECT estimated_seat_availability FROM Philadelphia")
 
     seats_availbility = cur.fetchall()
@@ -148,9 +154,9 @@ def philadelphia_seat_availability(cur, conn):
     return(seats, amounts)
 
 
-def seat_availability_graph(cur, conn):
-    seats = philadelphia_seat_availability(cur, conn)[0]
-    amounts = philadelphia_seat_availability(cur, conn)[1]
+def seat_availability_graph(cur):
+    seats = philadelphia_seat_availability(cur)[0]
+    amounts = philadelphia_seat_availability(cur)[1]
     fig = go.Figure(data=[go.Pie(labels=seats, values = amounts)])
 
     
@@ -163,7 +169,7 @@ def seat_availability_graph(cur, conn):
     )
     fig.show()
 
-def philly_amount_of_locations(cur, conn):
+def philly_amount_of_locations(cur):
     cur.execute("SELECT destination FROM Philadelphia")
 
     all_destinations = cur.fetchall()
@@ -182,9 +188,9 @@ def philly_amount_of_locations(cur, conn):
 
     return(locations, amounts)
 
-def philly_amount_pie_chart(cur, conn):
-    locations = philly_amount_of_locations(cur, conn)[0]
-    amounts = philly_amount_of_locations(cur, conn)[1]
+def philly_amount_pie_chart(cur):
+    locations = philly_amount_of_locations(cur)[0]
+    amounts = philly_amount_of_locations(cur)[1]
     fig = go.Figure(data = [go.Bar(name = "Philadelphia", x = locations, y= amounts, marker_color = 'rgb(0, 0, 0)')])
 
     fig.update_layout(
@@ -198,7 +204,7 @@ def philly_amount_pie_chart(cur, conn):
     
     fig.show()
 
-def atlanta_amount_of_locations(cur, conn):
+def atlanta_amount_of_locations(cur):
     cur.execute("SELECT destination FROM Atlanta_Destinations JOIN Atlanta ON destination_id = id")
 
     all_destinations = cur.fetchall()
@@ -218,9 +224,9 @@ def atlanta_amount_of_locations(cur, conn):
     return(locations, amounts)
 
 
-def visualization_atlanta(cur, conn):
-    locations = atlanta_amount_of_locations(cur, conn)[0]
-    percents = atlanta_amount_of_locations(cur,conn)[1]
+def visualization_atlanta(cur):
+    locations = atlanta_amount_of_locations(cur)[0]
+    percents = atlanta_amount_of_locations(cur)[1]
     fig = go.Figure(data = [go.Bar(name = "Atlanta", x = locations, y= percents, marker_color = 'rgb(76, 0, 153)')])
 
     fig.update_layout(
@@ -235,7 +241,7 @@ def visualization_atlanta(cur, conn):
     fig.show()
 
 
-def percentages(cur,conn):
+def percentages(cur):
     # pass
 #['AIRPORT', 'NORTH SPRINGS', 'DORAVILLE', 'BANKHEAD', 'HE HOLMES', 'INDIAN CREEK']
     cur.execute("SELECT destination_id FROM Atlanta")
@@ -277,7 +283,7 @@ def percentages(cur,conn):
     percentage.append(he_holmes/100)
     percentage.append(indian_creek/100)
 
-    locations = atlanta_amount_of_locations(cur, conn)[0]
+    locations = atlanta_amount_of_locations(cur)[0]
 
     return (locations, percentage)
 
@@ -289,9 +295,9 @@ def main():
 
     cur, conn = open_database('allcities.db')
 
-    seat_availability_graph(cur, conn)
-    philly_amount_pie_chart(cur, conn)
-    visualization_atlanta(cur, conn)
+    seat_availability_graph(cur)
+    philly_amount_pie_chart(cur)
+    visualization_atlanta(cur)
     delay_visualization(conn)
 
     print_calculations(cur, conn, 'calculations.txt')
