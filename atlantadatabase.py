@@ -1,6 +1,7 @@
 import unittest
 import sqlite3
 import json
+import plotly.graph_objects as go
 import os
 
 
@@ -20,6 +21,8 @@ def open_database(db_name):
 
 
 def make_atlanta_table(data, cur, conn, index):
+    # cur.execute('DROP TABLE IF EXISTS Atlanta')
+    # cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
     x = dict(data)
     x = x['RailArrivals']
@@ -47,11 +50,8 @@ def make_atlanta_table(data, cur, conn, index):
         current_delay = list(l[i].values())[13]
     
         cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
-
         cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations, direction) VALUES (?, ?, ?)', (current_train_id, current_destinations, current_directions))
         
-
-    
 
     conn.commit()
  
@@ -70,7 +70,7 @@ def amount_of_locations(cur, conn):
     return l2
 
 def percentages(cur,conn):
-    pass
+    # pass
 #['AIRPORT', 'NORTH SPRINGS', 'DORAVILLE', 'BANKHEAD', 'HE HOLMES', 'INDIAN CREEK']
     cur.execute("SELECT destinations FROM Atlanta_Destinations")
     airport = 0
@@ -112,10 +112,16 @@ def percentages(cur,conn):
     # percentages of where people went. 25% to airport. 10% to mall. etc. 
     # Could say that since it's not varied, transportation isnt varied. like, since not many options
 
+def visualizataion_atlanta(cur, conn):
+    loc = amount_of_locations(cur, conn)
+    percents = percentages(cur,conn)  
+    fig = go.Figure(data = [go.Bar(name = "Atlanta", x = loc, y= percents, marker_color = 'rgb(0, 0, 0)')])
+    fig.show()
+
 def main():
     json_data = read_data('atlanta.json')
     cur, conn = open_database('atlanta_db.db')
-
+    # cur.execute('DROP TABLE IF EXISTS Atlanta')
     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
 
@@ -140,11 +146,14 @@ def main():
             x = 0
         make_atlanta_table(json_data, cur, conn, index)
 
-    if count == 100:
-        amount_of_locations(cur, conn)
-        percentages(cur,conn)  
+    # if count == 100:
+    #     amount_of_locations(cur, conn)
+    #     percentages(cur,conn)  
 
     if count >= 100:
+        amount_of_locations(cur, conn)
+        percentages(cur,conn)  
+        visualizataion_atlanta(cur,conn)
         cur.execute('DROP TABLE IF EXISTS Atlanta')
         cur.execute('DROP TABLE IF EXISTS Atlanta_Destinations')
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
@@ -154,8 +163,9 @@ def main():
 
 
 
-
+    
     conn.close()
+    
 
 
 if __name__ == "__main__":
