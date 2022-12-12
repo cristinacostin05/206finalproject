@@ -46,7 +46,7 @@ def make_atlanta_table(data, cur, conn, index):
         current_vehiclelatitude = list(l[i].values())[12]
         current_delay = list(l[i].values())[13]
     
-        cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?,?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
+        cur.execute('INSERT OR IGNORE INTO Atlanta (destinations, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (current_destinations, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))
 
         cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (train_id, destinations, direction) VALUES (?, ?, ?)', (current_train_id, current_destinations, current_directions))
         
@@ -115,6 +115,10 @@ def percentages(cur,conn):
 def main():
     json_data = read_data('atlanta.json')
     cur, conn = open_database('atlanta_db.db')
+
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+
+
     cur.execute("SELECT COUNT('destinations') FROM Atlanta ")
     count = cur.fetchall()
     count = (count[0])
