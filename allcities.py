@@ -1,6 +1,7 @@
 import unittest
 import sqlite3
 import json
+import plotly.graph_objects as go
 import os
 
 
@@ -18,52 +19,6 @@ def open_database(db_name):
     cur = conn.cursor()
     return cur, conn
 
-
-def get_average_delay(conn):
-    cur = conn.cursor()
-
-    philly_delays = cur.execute('SELECT late*60 FROM Philadelphia WHERE late < 900').fetchall()
-    # print(f"Philly Delays: {philly_delays}")
-
-    phoenix_delays = cur.execute('SELECT delay FROM Phoenix').fetchall()
-    # print(f"Phoenix Delays: {phoenix_delays}")
-
-    atlanta_delays = cur.execute('SELECT delay FROM Atlanta').fetchall()
-
-    atlanta_delays = [int(atl_delay[0].replace('T', '').replace('S', '')) for atl_delay in atlanta_delays]
-    #print(f"Atlanta Delays: {atlanta_delays}")
-
-    delay_sum = 0
-    for pd in philly_delays:
-        if pd[0] != 'null':
-            delay_sum += int(pd[0])
-
-    # Calculate average philly delay
-    avg_philly_delay = delay_sum/len(philly_delays)
-
-    delay_sum = 0
-    for pd in phoenix_delays:
-        if pd[0] != 'null':
-            delay_sum += int(pd[0])
-    # Calculate average phoenix delay
-    avg_phoenix_delay = delay_sum/len(phoenix_delays)
-
-        # Calculate average atlanta delay
-    avg_atlanta_delay = sum(atlanta_delays)/len(atlanta_delays)
-
-
-    with open('calculations.txt', 'w') as f:
-        f.write(f"Average Philly delay = {avg_philly_delay}")
-        f.write("\n")
-        f.write(f"Average Phoenix delay = {avg_phoenix_delay}")
-        f.write("\n")
-        f.write(f"Average Atlanta delay = {avg_atlanta_delay}")
-
-
-    return avg_philly_delay, avg_phoenix_delay
-
-    # TODO: Use this return statement
-    # return avg_philly_delay, avg_phoenix_delay, avg_atlanta_delay
 
 def make_philadelphia_table(data, cur, conn, index):
 
@@ -220,72 +175,11 @@ def make_phoenix_table(data, cur, conn, index):
 
         conn.commit()
     
-def amount_of_locations(cur, conn):
-    cur.execute("SELECT destination FROM Atlanta_Destinations JOIN Atlanta ON destination_id = id")
-
-    all_destinations = cur.fetchall()
-    destinations_dict = {}
-    for destination in all_destinations:
-        destinations_dict[destination[0]] = destinations_dict.get(destination[0], 0) + 1
-  
-    print(destinations_dict)
-    return(destinations_dict)
-    # returns dict with destinations names and amount of destinations
-
-def percentages(cur,conn):
-    # pass
-#['AIRPORT', 'NORTH SPRINGS', 'DORAVILLE', 'BANKHEAD', 'HE HOLMES', 'INDIAN CREEK']
-    cur.execute("SELECT destination_id FROM Atlanta")
-    airport = 0
-    doraville = 0
-    north_springs = 0
-    bankhead = 0
-    candler_park = 0
-    he_holmes = 0
-    indian_creek = 0
-
-    
-    x = cur.fetchall()
-    
-    for i in x: 
-        a = i[0]
-   
-        if a == 0:
-            airport += 1
-        elif a == 1:
-            doraville+=1
-        elif a == 2:
-            north_springs += 1
-        elif a == 3:
-            bankhead += 1
-        elif a == 4:
-            candler_park += 1
-        elif a == 5:
-            he_holmes += 1
-        elif a == 6:
-            indian_creek += 1
-     
-    l3 = []
-    l3.append(airport/100)
-    l3.append(doraville/100)
-    l3.append(north_springs/100)
-    l3.append(bankhead/100)
-    l3.append(candler_park/100)
-    l3.append(he_holmes/100)
-    l3.append(indian_creek/100)
-    print(l3)
-    return l3
-
-    # could count how many times going to the airport
-    # percentages of where people went. 25% to airport. 10% to mall. etc. 
-    # Could say that since it's not varied, transportation isnt varied. like, since not many options
-
-
 
 def main():
     json_data = read_data('atlanta.json')
-    json_data2 = read_data('septa.json')
-    json_data3 = read_data('phoenix_trips.json')
+    json_data2 = read_data('philadelphia.json')
+    json_data3 = read_data('phoenix.json')
 
     
     cur, conn = open_database('allcities.db')
@@ -324,10 +218,6 @@ def main():
             x = 0
         make_atlanta_table(json_data, cur, conn, index)
 
-    if count == 100:
-        amount_of_locations(cur, conn)
-        percentages(cur,conn)  
-
 
 
     # if count >= 100:
@@ -364,8 +254,6 @@ def main():
     if index < 150:
         make_phoenix_table(json_data3, cur, conn, index)
 
-
-    get_average_delay(conn)
 
     #close database
     conn.close()
