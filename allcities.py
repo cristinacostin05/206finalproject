@@ -247,7 +247,7 @@ def main():
     count = cur.fetchall()
     count = (count[0])
     count = count[0]
-    print(count)
+
     if count < 100:
         cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id TEXT, directions TEXT, event_times TEXT, headsign_id INT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 

@@ -1,4 +1,3 @@
-import unittest
 import sqlite3
 import json
 import plotly.graph_objects as go
@@ -310,4 +309,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    unittest.main(verbosity = 2)
