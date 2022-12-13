@@ -1,4 +1,3 @@
-import unittest
 import sqlite3
 import json
 import plotly.graph_objects as go
@@ -61,7 +60,7 @@ def make_philadelphia_table(cur, conn, index):
 
         conn.commit()
     
-def make_atlanta_id_tables(cur, conn):
+def make_atlanta_id_table(cur, conn):
     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (id INTEGER, destination TEXT)')
 
     destinations = ["AIRPORT", "DORAVILLE", "NORTH SPRINGS", "BANKHEAD", "CANDLER PARK", "HE HOLMES", "INDIAN CREEK"]
@@ -197,7 +196,7 @@ def main():
     d_count = (d_count[0])
     d_count = d_count[0]
     if d_count == 0:
-        make_atlanta_id_tables(cur, conn)
+        make_atlanta_id_table(cur, conn)
 
     cur.execute("SELECT COUNT('destination_id') FROM Atlanta ")
     count = cur.fetchall()
@@ -260,4 +259,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    unittest.main(verbosity = 2)
