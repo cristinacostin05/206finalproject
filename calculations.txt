@@ -1,77 +1,75 @@
 Average Train Delay Calculations
 ----------------------------------
-Average Philly delay = 60.42857142857143 seconds
-Average Phoenix delay = 77.08 seconds
-Average Atlanta delay = 73.22222222222223 seconds
+Average Philly delay = 217.94117647058823 seconds
+Average Phoenix delay = 124.74666666666667 seconds
+Average Atlanta delay = 81.91836734693878 seconds
 
 
 Locations Visited in Atlanta Calculations
 -----------------------------------------------------
-39 of train transports in Atlanta went to Doraville.
-20 of train transports in Atlanta went to Doraville.
-8 of train transports in Atlanta went to North Springs.
-3 of train transports in Atlanta went to Bankhead.
-7 of train transports in Atlanta went to Candler Park.
-16 of train transports in Atlanta went to He Holmes.
-7 of train transports in Atlanta went to Indian Creek.
+33 of train transports in Atlanta went to Doraville.
+17 of train transports in Atlanta went to Doraville.
+13 of train transports in Atlanta went to North Springs.
+6 of train transports in Atlanta went to Bankhead.
+6 of train transports in Atlanta went to Candler Park.
+13 of train transports in Atlanta went to He Holmes.
+12 of train transports in Atlanta went to Indian Creek.
 
 
 Percentages of locations visited by train in Atlanta Calculations
 -----------------------------------------------------
-0.39 of train transportation in Atlanta went to the Airport.
-0.2 of train transportation in Atlanta went to Doraville.
-0.08 of train transportation in Atlanta went to North Springs.
-0.03 of train transportation in Atlanta went to Bankhead.
-0.07 of train transportation in Atlanta went to Candler Park.
-0.16 of train transportation in Atlanta went to He Holmes.
-0.07 of train transportation in Atlanta went to Indian Creek.
+0.33 of train transportation in Atlanta went to the Airport.
+0.17 of train transportation in Atlanta went to Doraville.
+0.13 of train transportation in Atlanta went to North Springs.
+0.06 of train transportation in Atlanta went to Bankhead.
+0.06 of train transportation in Atlanta went to Candler Park.
+0.13 of train transportation in Atlanta went to He Holmes.
+0.12 of train transportation in Atlanta went to Indian Creek.
 
 Philadelphia Train Seat Availability Calculations
 -----------------------------------------------------
-Availability Type: MANY_SEATS_AVAILABLE, Availability Amount: 91, Availability Percentage: 0.6066666666666667
-Availability Type: NOT_AVAILABLE, Availability Amount: 58, Availability Percentage: 0.38666666666666666
-Availability Type: FEW_SEATS_AVAILABLE, Availability Amount: 1, Availability Percentage: 0.006666666666666667
+Availability Type: FEW_SEATS_AVAILABLE, Availability Amount: 20, Availability Percentage: 0.13333333333333333
+Availability Type: NOT_AVAILABLE, Availability Amount: 51, Availability Percentage: 0.34
+Availability Type: MANY_SEATS_AVAILABLE, Availability Amount: 78, Availability Percentage: 0.52
+Availability Type: STANDING_ROOM_ONLY, Availability Amount: 1, Availability Percentage: 0.006666666666666667
 
 Philadelphia Locations Visited Calculations
 -----------------------------------------------------
-Location Name: Frankford Transportation Center, Number of Times Visited: 46
-Location Name: Oxford Valley Mall via Neshaminy Mall, Number of Times Visited: 2
-Location Name: Neshaminy Mall, Number of Times Visited: 9
-Location Name: Torresdale-Cottman, Number of Times Visited: 4
-Location Name: Fern Rock Transportation Center, Number of Times Visited: 5
-Location Name: Frankford-Gregg, Number of Times Visited: 3
-Location Name: Frankford Transportation Center via Dungan, Number of Times Visited: 1
-Location Name: Krewstown-Gregg via Dungan, Number of Times Visited: 1
-Location Name: Torresdale Station via Algon-Grant, Number of Times Visited: 1
-Location Name: Gloria Dei Bethayres, Number of Times Visited: 2
-Location Name: Bustleton-County Line, Number of Times Visited: 4
-Location Name: Frankford Transportation Center via Haldeman, Number of Times Visited: 1
+Location Name: Parx Casino, Number of Times Visited: 2
+Location Name: 54th-City, Number of Times Visited: 3
+Location Name: 54th-City via Drummond-Decatur, Number of Times Visited: 1
+Location Name: Decatur-Drummond, Number of Times Visited: 1
+Location Name: Frankford Transportation Center, Number of Times Visited: 50
+Location Name: Parx Casino via Philadelphia Mills, Number of Times Visited: 2
+Location Name: Byberry Industrial Park, Number of Times Visited: 2
+Location Name: Oxford Valley Mall via Neshaminy Mall, Number of Times Visited: 3
+Location Name: Roosevelt-Byberry, Number of Times Visited: 1
+Location Name: Street Rd Industrial Park, Number of Times Visited: 1
+Location Name: Neshaminy Mall, Number of Times Visited: 8
+Location Name: Fern Rock Transportation Center, Number of Times Visited: 8
+Location Name: Torresdale-Cottman, Number of Times Visited: 6
+Location Name: Frankford-Gregg, Number of Times Visited: 4
+Location Name: Southampton, Number of Times Visited: 2
+Location Name: Gloria Dei Bethayres, Number of Times Visited: 1
+Location Name: Fox Chase, Number of Times Visited: 1
+Location Name: Frankford Transportation Center via Haldeman, Number of Times Visited: 2
+Location Name: Bustleton-Tomlinson Rd via Haldeman, Number of Times Visited: 1
+Location Name: Bustleton-County Line, Number of Times Visited: 5
 Location Name: Bustleton-Rennard St via Haldeman, Number of Times Visited: 1
-Location Name: Philadelphia Mills, Number of Times Visited: 1
-Location Name: Parx Casino via Philadelphia Mills, Number of Times Visited: 1
+Location Name: Frankford Transportation Center via Dungan, Number of Times Visited: 1
+Location Name: Torresdale Station via Dungan-Grant, Number of Times Visited: 1
+Location Name: Torresdale Station via Algon-Grant, Number of Times Visited: 2
+Location Name: Bustleton-Northeast Ave, Number of Times Visited: 2
+Location Name: Philadelphia Mills, Number of Times Visited: 4
+Location Name: Philadelphia Mills via Keswick, Number of Times Visited: 2
 Location Name: Frankford Transportation Center via Keswick, Number of Times Visited: 2
-Location Name: Philadelphia Mills via Keswick, Number of Times Visited: 3
-Location Name: Roosevelt-Pratt, Number of Times Visited: 1
-Location Name: Holy Redeemer Hospital, Number of Times Visited: 2
-Location Name: Castor-Bustleton, Number of Times Visited: 2
-Location Name: Arrott Transportation Center, Number of Times Visited: 8
-Location Name: Frankford-Knights, Number of Times Visited: 5
-Location Name: Wayne Junction, Number of Times Visited: 1
-Location Name: Columbus Commons, Number of Times Visited: 1
-Location Name: 33rd-Cecil B. Moore, Number of Times Visited: 3
+Location Name: Philadelphia Mills , Number of Times Visited: 2
+Location Name: Arrott Transportation Center, Number of Times Visited: 5
+Location Name: Castor-Bustleton, Number of Times Visited: 3
+Location Name: Frankford-Knights, Number of Times Visited: 4
+Location Name: Frankford-Cottman, Number of Times Visited: 1
+Location Name: Wayne Junction, Number of Times Visited: 2
+Location Name: Columbus Commons, Number of Times Visited: 3
+Location Name: Front-Spring Garden, Number of Times Visited: 3
+Location Name: 33rd-Cecil B. Moore, Number of Times Visited: 6
 Location Name: Front-Market, Number of Times Visited: 2
-Location Name: Express Frankford Transportation Center, Number of Times Visited: 2
-Location Name: Express Olney Transportation Center, Number of Times Visited: 1
-Location Name: Richmond-Westmoreland, Number of Times Visited: 1
-Location Name: Chelten-Wissahickon, Number of Times Visited: 3
-Location Name: Richmond-Orthodox, Number of Times Visited: 1
-Location Name: Ridge-Midvale, Number of Times Visited: 5
-Location Name: Henry-Midvale, Number of Times Visited: 1
-Location Name: Wissahickon Transportation Center, Number of Times Visited: 2
-Location Name: Cedarbrook Plaza, Number of Times Visited: 5
-Location Name: Fox Chase, Number of Times Visited: 6
-Location Name: Frankford Transportation Center via Frankford Ave, Number of Times Visited: 2
-Location Name: Pulaski-Rittenhouse, Number of Times Visited: 2
-Location Name: Frankford Transportation Center via Torresdale, Number of Times Visited: 1
-Location Name: One-Olney Square Shopping Center, Number of Times Visited: 1
-Location Name: Chestnut Hill, Number of Times Visited: 5
