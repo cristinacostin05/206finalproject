@@ -60,13 +60,41 @@ def make_philadelphia_table(cur, conn, index):
 
         conn.commit()
     
-def make_atlanta_id_table(cur, conn):
-    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (id INTEGER, destination TEXT)')
+def make_atlanta_id_tables(cur, conn):
+    API_KEY = "da120556-3e37-4b74-9483-63d328069285"
+    url = f'https://developerservices.itsmarta.com:18096/railrealtimearrivals?apiKey={API_KEY}'
+    data = requests.get(url)
+    dict_atlanta = json.loads(data.text)
 
-    destinations = ["AIRPORT", "DORAVILLE", "NORTH SPRINGS", "BANKHEAD", "CANDLER PARK", "HE HOLMES", "INDIAN CREEK"]
+    
+    destinations = []
+    head_signs = []
+    stations = []
+    for i in range(0, len(dict_atlanta['RailArrivals'])):
+        head_sign = dict_atlanta['RailArrivals'][i]['HEAD_SIGN']
+        if head_sign not in head_signs:
+            head_signs.append(head_sign)
+        destination = dict_atlanta['RailArrivals'][i]['DESTINATION']
+        if destination not in destinations:
+            destinations.append(destination)
+        station = dict_atlanta['RailArrivals'][i]['STATION']
+        if station not in stations:
+            stations.append(station)
+
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (id INTEGER, destination TEXT)')
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Head_Signs (id INTEGER, head_sign TEXT)')
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Stations (id INTEGER, station TEXT)')
+
+
+    for headsign in head_signs:
+        cur.execute('INSERT OR IGNORE INTO Atlanta_Head_Signs (id, head_sign) VALUES (?, ?)', (head_signs.index(headsign), headsign))
+
     for destination in destinations:
         cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (id, destination) VALUES (?, ?)', (destinations.index(destination), destination))
-        
+
+    for station in stations:
+        cur.execute('INSERT OR IGNORE INTO Atlanta_Stations (id, station) VALUES (?, ?)', (stations.index(station), station))
+          
     conn.commit()
 
 
@@ -82,12 +110,24 @@ def make_atlanta_table(cur, conn, index):
     l = []
     for i in x:
         l.append(i)
-
+    
     cur.execute("SELECT destination FROM Atlanta_Destinations")
     types = cur.fetchall()
     destination_list = []
     for type in types:
         destination_list.append(type[0])
+
+    cur.execute("SELECT head_sign FROM Atlanta_Head_Signs")
+    types = cur.fetchall()
+    headsign_list = []
+    for type in types:
+        headsign_list.append(type[0])
+
+    cur.execute("SELECT station FROM Atlanta_Stations")
+    types = cur.fetchall()
+    stations_list = []
+    for type in types:
+        stations_list.append(type[0])
     
     
     for i in range(index, index+25):
@@ -108,9 +148,11 @@ def make_atlanta_table(cur, conn, index):
         current_delay = list(l[i].values())[13]
 
         destination_id = destination_list.index(current_destinations)
+        headsign_id = headsign_list.index(current_head_sign)
+        station_id = stations_list.index(current_station)
+
         
-    
-        cur.execute('INSERT OR IGNORE INTO Atlanta (destination_id, directions, event_times, head_sign, line, next_arr,station, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (destination_id, current_directions, current_event_times, current_head_sign, current_line, current_next_arr, current_station, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))        
+        cur.execute('INSERT OR IGNORE INTO Atlanta (destination_id, directions, event_times, headsign_id, line, next_arr, station_id, train_id, waiting_second, waiting_time, responsetimestamp, vehiclelongitude, vehiclelatitude, delay) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', (destination_id, current_directions, current_event_times, headsign_id, current_line, current_next_arr, station_id, current_train_id, current_waiting_seconds, current_waiting_time, current_responsetimestamp, current_vehiclelongitude, current_vehiclelatitude, current_delay))        
 
     conn.commit()
 
@@ -188,26 +230,28 @@ def main():
     cur, conn = open_database('allcities.db')
 
     # Atlanta Table
-    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id INTEGER, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id INTEGER, directions TEXT, event_times TEXT, headsign_id INT, line TEXT, next_arr TEXT, station_id INT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (id INTEGER, destination TEXT)')
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Head_Signs (id INTEGER, head_sign TEXT)')
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Stations (id INTEGER, station TEXT)')
+
 
     cur.execute("SELECT COUNT('destination') FROM Atlanta_Destinations ")
     d_count = cur.fetchall()
     d_count = (d_count[0])
     d_count = d_count[0]
     if d_count == 0:
-        make_atlanta_id_table(cur, conn)
+        make_atlanta_id_tables(cur, conn)
 
     cur.execute("SELECT COUNT('destination_id') FROM Atlanta ")
     count = cur.fetchall()
     count = (count[0])
     count = count[0]
+    print(count)
     if count < 100:
-        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
+        cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id TEXT, directions TEXT, event_times TEXT, headsign_id INT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
        
-
-
         index = 0
         if count== 25:
             index= 25
@@ -230,7 +274,7 @@ def main():
     cur.execute("SELECT COUNT('route') FROM Philadelphia ")
     count = cur.fetchall()
     count = (count[0])[0]
-
+    
     index = count
     
     if index < 150:

@@ -17,8 +17,10 @@ def print_calculations(cur, conn, filename):
     avg_phoenix_delay = delays[1]
     avg_atlanta_delay = delays[2]
 
+    
     percentage = percentages(cur)[1]
 
+    atlanta_locations = atlanta_amount_of_locations(cur)[0]
     atlanta_locations_amount = atlanta_amount_of_locations(cur)[1]
 
     seat_names = philadelphia_seat_availability(cur)[0]
@@ -37,40 +39,18 @@ def print_calculations(cur, conn, filename):
         f.write("\n")
 
         f.write("\nLocations Visited in Atlanta Calculations\n")
-        f.write("-----------------------------------------------------\n")
-        f.write(str(atlanta_locations_amount[0]) + " of train transports in Atlanta went to Doraville.")
-        f.write("\n")
-        f.write(str(atlanta_locations_amount[1]) + " of train transports in Atlanta went to Doraville.")
-        f.write("\n")
-        f.write(str(atlanta_locations_amount[2]) + " of train transports in Atlanta went to North Springs.")
-        f.write("\n")
-        f.write(str(atlanta_locations_amount[3]) + " of train transports in Atlanta went to Bankhead.")
-        f.write("\n")
-        f.write(str(atlanta_locations_amount[4]) + " of train transports in Atlanta went to Candler Park.")
-        f.write("\n")
-        f.write(str(atlanta_locations_amount[5]) + " of train transports in Atlanta went to He Holmes.")
-        f.write("\n")
-        f.write(str(atlanta_locations_amount[6]) + " of train transports in Atlanta went to Indian Creek.\n")
+        f.write("---------------------------------------------\n")
+        for i in range(0, len(atlanta_locations)):
+            f.write(f"{atlanta_locations_amount[i]} of train transports in Atlanta went to {atlanta_locations[i]}\n")
 
         f.write("\n")
 
 
         f.write("\nPercentages of locations visited by train in Atlanta Calculations\n")
-        f.write("-----------------------------------------------------\n")
-        f.write(str(percentage[0]) + " of train transportation in Atlanta went to the Airport.")
-        f.write("\n")
-        f.write(str(percentage[1]) + " of train transportation in Atlanta went to Doraville.")
-        f.write("\n")
-        f.write(str(percentage[2]) + " of train transportation in Atlanta went to North Springs.")
-        f.write("\n")
-        f.write(str(percentage[3]) + " of train transportation in Atlanta went to Bankhead.")
-        f.write("\n")
-        f.write(str(percentage[4]) + " of train transportation in Atlanta went to Candler Park.")
-        f.write("\n")
-        f.write(str(percentage[5]) + " of train transportation in Atlanta went to He Holmes.")
-        f.write("\n")
-        f.write(str(percentage[6]) + " of train transportation in Atlanta went to Indian Creek.")
-
+        f.write("---------------------------------------------------------------------\n")
+        for i in range(0, len(percentage)):
+            f.write(f"{percentage[i]} of train transports in Atlanta went to {atlanta_locations[i]}\n")
+       
         f.write("\n")
 
         f.write("\nPhiladelphia Train Seat Availability Calculations\n")
@@ -81,7 +61,7 @@ def print_calculations(cur, conn, filename):
 
 
         f.write("\nPhiladelphia Locations Visited Calculations\n")
-        f.write("-----------------------------------------------------\n")
+        f.write("-----------------------------------------------\n")
         
         for i in range(0, len(philly_locations_amount)):
             f.write(f"Location Name: {philly_names[i]}, Number of Times Visited: {philly_locations_amount[i]}\n")
