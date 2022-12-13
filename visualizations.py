@@ -175,7 +175,7 @@ def philadelphia_seat_availability(cur):
     return(seats, amounts)
 
 
-def seat_availability_graph(cur):
+def seat_availability_pie_chart(cur):
     seats = philadelphia_seat_availability(cur)[0]
     amounts = philadelphia_seat_availability(cur)[1]
     fig = go.Figure(data=[go.Pie(labels=seats, values = amounts)])
@@ -209,7 +209,7 @@ def philly_amount_of_locations(cur):
 
     return(locations, amounts)
 
-def philly_amount_pie_chart(cur):
+def philly_amount_bar_chart(cur):
     locations = philly_amount_of_locations(cur)[0]
     amounts = philly_amount_of_locations(cur)[1]
     fig = go.Figure(data = [go.Bar(name = "Philadelphia", x = locations, y= amounts, marker_color = 'rgb(0, 0, 0)')])
@@ -316,8 +316,8 @@ def main():
 
     cur, conn = open_database('allcities.db')
 
-    seat_availability_graph(cur)
-    philly_amount_pie_chart(cur)
+    seat_availability_pie_chart(cur)
+    philly_amount_bar_chart(cur)
     visualization_atlanta(cur)
     delay_visualization(conn)
 

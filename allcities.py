@@ -2,16 +2,10 @@ import unittest
 import sqlite3
 import json
 import plotly.graph_objects as go
+import requests
 import os
 
 
-def read_data(filename):
-    full_path = os.path.join(os.path.dirname(__file__), filename)
-    f = open(full_path)
-    file_data = f.read()
-    f.close()
-    json_data = json.loads(file_data)
-    return json_data
 
 def open_database(db_name):
     path = os.path.dirname(os.path.abspath(__file__))
@@ -20,11 +14,14 @@ def open_database(db_name):
     return cur, conn
 
 
-def make_philadelphia_table(data, cur, conn, index):
-
+def make_philadelphia_table(cur, conn, index):
+    url = 'http://www3.septa.org/hackathon/TransitViewAll/'
+    data = requests.get(url)
+    dict_philly = json.loads(data.text)
     
-    routes = data['routes'][0]
-    route_names  = list(data['routes'][0].keys())
+    
+    routes = dict_philly['routes'][0]
+    route_names  = list(dict_philly['routes'][0].keys())
 
     new_list = []
 
@@ -64,18 +61,24 @@ def make_philadelphia_table(data, cur, conn, index):
 
         conn.commit()
     
-def make_atlanta_destinations_table(cur, conn):
+def make_atlanta_id_tables(cur, conn):
+    cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (id INTEGER, destination TEXT)')
+
     destinations = ["AIRPORT", "DORAVILLE", "NORTH SPRINGS", "BANKHEAD", "CANDLER PARK", "HE HOLMES", "INDIAN CREEK"]
     for destination in destinations:
         cur.execute('INSERT OR IGNORE INTO Atlanta_Destinations (id, destination) VALUES (?, ?)', (destinations.index(destination), destination))
         
     conn.commit()
 
-def make_atlanta_table(data, cur, conn, index):
-    # cur.execute('DROP TABLE IF EXISTS Atlanta')
-    # cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
 
-    x = dict(data)
+def make_atlanta_table(cur, conn, index):
+    API_KEY = "da120556-3e37-4b74-9483-63d328069285"
+    url = f'https://developerservices.itsmarta.com:18096/railrealtimearrivals?apiKey={API_KEY}'
+    data = requests.get(url)
+    dict_atlanta = json.loads(data.text)
+
+
+    x = dict(dict_atlanta)
     x = x['RailArrivals']
     l = []
     for i in x:
@@ -114,9 +117,14 @@ def make_atlanta_table(data, cur, conn, index):
 
     
 
-def make_phoenix_table(data, cur, conn, index):
+def make_phoenix_table(cur, conn, index):
+    API_KEY = '4f22263f69671d7f49726c3011333e527368211f'
+    url = f'https://mna.mecatran.com/utw/ws/gtfsfeed/realtime/valleymetro?apiKey={API_KEY}&asJson=true'
+    data = requests.get(url)
+    dict_phoenix = json.loads(data.text)
 
-    routes = data['entity']
+
+    routes = dict_phoenix['entity']
 
     new_list = []
 
@@ -177,16 +185,11 @@ def make_phoenix_table(data, cur, conn, index):
     
 
 def main():
-    json_data = read_data('atlanta.json')
-    json_data2 = read_data('philadelphia.json')
-    json_data3 = read_data('phoenix.json')
-
     
     cur, conn = open_database('allcities.db')
 
     # Atlanta Table
     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destination_id INTEGER, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
-
     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (id INTEGER, destination TEXT)')
 
     cur.execute("SELECT COUNT('destination') FROM Atlanta_Destinations ")
@@ -194,7 +197,7 @@ def main():
     d_count = (d_count[0])
     d_count = d_count[0]
     if d_count == 0:
-        make_atlanta_destinations_table(cur, conn)
+        make_atlanta_id_tables(cur, conn)
 
     cur.execute("SELECT COUNT('destination_id') FROM Atlanta ")
     count = cur.fetchall()
@@ -216,20 +219,14 @@ def main():
             
         else:
             x = 0
-        make_atlanta_table(json_data, cur, conn, index)
+        make_atlanta_table(cur, conn, index)
 
-
-
-    # if count >= 100:
-    #     cur.execute('DROP TABLE IF EXISTS Atlanta')
-    #     cur.execute('DROP TABLE IF EXISTS Atlanta_Destinations')
-    #     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta (destinations TEXT, directions TEXT, event_times TEXT, head_sign TEXT, line TEXT, next_arr TEXT, station TEXT, train_id INTEGER, waiting_second INTEGER, waiting_time TEXT, responsetimestamp DOUBLE, vehiclelongitude DOUBLE, vehiclelatitude DOUBLE, delay TEXT)')
-    #     cur.execute('CREATE TABLE IF NOT EXISTS Atlanta_Destinations (destinations TEXT, train_id INTEGER, direction TEXT)')
 
 
 
     # Philadelphia Table
     cur.execute('CREATE TABLE IF NOT EXISTS Philadelphia (route TEXT, latitude INT, longitude INT, label INT, vehicle_id INT, block_id INT, direction TEXT, destination TEXT, offset INT, heading,late INT, original_late INT, offset_sec,trip INT, nextstop_id INT, nextstop_name TEXT, nextstop_sequence, estimated_seat_availability TEXT, timestamp INT)')
+    
 
     cur.execute("SELECT COUNT('route') FROM Philadelphia ")
     count = cur.fetchall()
@@ -238,7 +235,7 @@ def main():
     index = count
     
     if index < 150:
-        make_philadelphia_table(json_data2, cur, conn, index)
+        make_philadelphia_table(cur, conn, index)
 
     
     #Phoenix Table
@@ -252,7 +249,8 @@ def main():
     index = count
     
     if index < 150:
-        make_phoenix_table(json_data3, cur, conn, index)
+        make_phoenix_table(cur, conn, index)
+
 
 
     #close database
